@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100MA2MXDNB20",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100MA2MXDNB20",
+    "enterprise_name": "安徽鹏跃建设工程有限公司",
+    "legal_representative": "梁玉鹏",
+    "entity_type": "有限责任公司(自然人独资)",
+    "established_date": "8/7/2016 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "45000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市庐阳区四里河街道四里河畔小区8幢商103室",
+    "business_scope": "房屋建筑工程施工；市政道路工程施工；建筑装修装饰工程施工；园林绿化工程施工；钢结构工程施工；机电安装；消防工程施工；电力工程施工；公路工程施工；水利水电工程施工；河道清理；农田整治；管道疏通；地基与基础工程施工；体育场地设施工程施工；古建筑工程施工；城市及道路照明；环保工程；特种门窗及金属门窗安装；土石方工程；房屋拆除工程施工；房屋维修；光伏电站安装施工；建筑智能化工程施工；装配式建筑工程施工；建材销售；劳务分包（除劳务派遣）；物业管理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023ALLFZ00122",
+      "2023ANNZN00079",
+      "2023BFFGZ00367",
+      "2023BFNGZ01097"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽鹏跃建设工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "梁玉鹏",
+    "registered_capital": "45000000",
+    "paid_in_capital": "1000000",
+    "establishment_date": "8/7/2016 00:00:00",
+    "approval_date": "17/6/2024 00:00:00",
+    "business_term": "2016-07-08 至 2046-07-07",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐阳区",
+    "phone": "13739234963",
+    "additional_phones": "13395514618,0555-2389781,18705696554,18155108081,0555-2357596",
+    "email": "1224679903@qq.com",
+    "additional_emails": "184599275@qq.com,184595275@qq.com,100790707@qq.com",
+    "unified_social_credit_code": "91340100MA2MXDNB20",
+    "taxpayer_identification_number": "91340100MA2MXDNB20",
+    "business_registration_number": "340100001680118",
+    "organization_code": "MA2MXDNB-2",
+    "insured_personnel_count": "32",
+    "company_type": "有限责任公司(自然人独资)",
+    "industry": "土木工程建筑业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市庐阳区四里河街道四里河畔小区8幢商103室",
+    "latest_annual_report_address": "安徽省合肥市庐阳区四里河畔B区商8栋103",
+    "website": "www.ahpengyue.com",
+    "business_scope": "房屋建筑工程施工；市政道路工程施工；建筑装修装饰工程施工；园林绿化工程施工；钢结构工程施工；机电安装；消防工程施工；电力工程施工；公路工程施工；水利水电工程施工；河道清理；农田整治；管道疏通；地基与基础工程施工；体育场地设施工程施工；古建筑工程施工；城市及道路照明；环保工程；特种门窗及金属门窗安装；土石方工程；房屋拆除工程施工；房屋维修；光伏电站安装施工；建筑智能化工程施工；装配式建筑工程施工；建材销售；劳务分包（除劳务派遣）；物业管理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

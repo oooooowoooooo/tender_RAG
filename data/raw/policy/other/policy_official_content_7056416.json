@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7056416",
+  "normalized_projection": {
+    "title": "自然资源部 民政部 国家卫生健康委印发《关于深化自然资源要素保障 支持养老服务改革发展的若干措施》的通知",
+    "issuer": "自然资源部 民政部 国家卫生健康委",
+    "index_no": "未标注",
+    "subject_category": "国土资源、能源\\其他",
+    "doc_no": "自然资发〔2025〕216号",
+    "publish_date": "2026-01-28",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7056416.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "国土资源",
+      "能源",
+      "其他"
+    ],
+    "effective_date": "2025-12-12",
+    "abolish_date": "",
+    "summary": "为深入贯彻落实《中共中央 国务院关于深化养老服务改革发展的意见》，自然资源部、民政部、国家卫生健康委共同研究制定了《关于深化自然资源要素保障 支持养老服务改革发展的若干措施》，现予印发，请结合实际认真抓好落实。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7056416",
+    "title": "自然资源部 民政部 国家卫生健康委印发《关于深化自然资源要素保障 支持养老服务改革发展的若干措施》的通知",
+    "content": "自然资源部 民政部 国家卫生健康委印发《关于深化自然资源要素保障 支持养老服务改革发展的若干措施》的通知\n自然资发〔2025〕216号\n各省、自治区、直辖市自然资源主管部门、民政厅（局）、卫生健康委，新疆生产建设兵团自然资源局、民政局、卫生健康委：\n为深入贯彻落实《中共中央 国务院关于深化养老服务改革发展的意见》，自然资源部、民政部、国家卫生健康委共同研究制定了《关于深化自然资源要素保障 支持养老服务改革发展的若干措施》，现予印发，请结合实际认真抓好落实。\n自然资源部\n民政部\n国家卫生健康委\n2025年12月12日\n附件：关于深化自然资源要素保障支持养老服务改革发展的若干措施",
+    "source": "自然资源部网站",
+    "publish_time": "2026-01-28",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7056416.htm",
+    "category": "国土资源、能源\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "291"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7056416",
+    "title": "自然资源部 民政部 国家卫生健康委印发《关于深化自然资源要素保障 支持养老服务改革发展的若干措施》的通知",
+    "source_name": "自然资源部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-01-28",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7056416.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7056416.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "自然资源部 民政部 国家卫生健康委印发《关于深化自然资源要素保障 支持养老服务改革发展的若干措施》的通知",
+      "发文机关": "自然资源部 民政部 国家卫生健康委",
+      "发文字号": "自然资发〔2025〕216号",
+      "来源": "自然资源部网站",
+      "主题分类": "国土资源、能源\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年12月12日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7056416.html"
+  },
+  "raw_legal_doc": {}
+}

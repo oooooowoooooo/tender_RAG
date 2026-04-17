@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100MA2RUWGU3Q",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100MA2RUWGU3Q",
+    "enterprise_name": "合肥东湖高新科技园发展有限公司",
+    "legal_representative": "熊双全",
+    "entity_type": "有限责任公司(自然人投资或控股的法人独资)",
+    "established_date": "5/7/2018 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "125000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市新站区卧龙湖路与魏武路交叉口合肥国际企业中心28#楼",
+    "business_scope": "科技园区开发管理及配套服务；房地产开发及销售；房屋租赁；高科技产业项目投资、管理、开发及技术的服务；工程项目的建设管理及代理咨询服务；企业管理咨询、营销策划及物业服务服务；孵化器项目投资及运营管理服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 7,
+    "selected_project_ids": [
+      "2023AFWBZ02531",
+      "2023AFWGZ02592"
+    ],
+    "all_linked_project_ids": [
+      "2023AFWBZ02531",
+      "2023AFWGZ02592"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥东湖高新科技园发展有限公司",
+    "business_status": "开业",
+    "legal_representative": "熊双全",
+    "registered_capital": "125000000",
+    "paid_in_capital": "125000000",
+    "establishment_date": "5/7/2018 00:00:00",
+    "approval_date": "10/10/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "瑶海区",
+    "phone": "13607110469",
+    "additional_phones": "13521550389,0551-62805688,15055167933",
+    "email": "84698552@qq.com",
+    "additional_emails": "59989487@qq.com",
+    "unified_social_credit_code": "91340100MA2RUWGU3Q",
+    "taxpayer_identification_number": "91340100MA2RUWGU3Q",
+    "business_registration_number": "340108000211996",
+    "organization_code": "MA2RUWGU-3",
+    "insured_personnel_count": "9",
+    "company_type": "有限责任公司(自然人投资或控股的法人独资)",
+    "industry": "房地产业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市新站区卧龙湖路与魏武路交叉口合肥国际企业中心28#楼",
+    "latest_annual_report_address": "合肥市新站区卧龙湖路与双凤路交口28＃楼",
+    "website": "-",
+    "business_scope": "科技园区开发管理及配套服务；房地产开发及销售；房屋租赁；高科技产业项目投资、管理、开发及技术的服务；工程项目的建设管理及代理咨询服务；企业管理咨询、营销策划及物业服务服务；孵化器项目投资及运营管理服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

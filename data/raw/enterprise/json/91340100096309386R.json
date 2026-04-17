@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100096309386R",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100096309386R",
+    "enterprise_name": "安徽中汇众科建设有限公司",
+    "legal_representative": "卢光银",
+    "entity_type": "其他有限责任公司",
+    "established_date": "20/3/2014 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "110000000",
+    "business_status": "开业",
+    "registered_address": "合肥市政务区南二环路1550号水墨兰庭36幢及9幢地下机动车库商204",
+    "business_scope": "房屋建筑工程；装饰装修设计、施工；幕墙工程设计、施工；机电设备安装工程；建筑金属结构工程；金属门窗工程；古建园林工程；园林绿化工程；市政公用工程；公路工程施工；水利水电工程；亮化工程；消防工程设计、施工、技术服务；计算机系统集成、销售；建筑智能设计、施工；安全技术防范工程设计、施工、技术服务；空调工程的设计、施工、技术服务；外墙保温工程；防水防腐工程；土石方施工；地基与基础工程；环保设备、水处理设备施工、技术服务及销售；新型建筑材料研制、开发与销售；设备租赁、技术咨询服务；物业管理；建筑材料、装饰材料、沙子、石子、水泥、钢筋、市政材料、铁路材料的销售；体育场地设施设计、施工。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023ACCZN00510"
+    ],
+    "all_linked_project_ids": [
+      "2023ACCZN00510"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽中汇众科建设有限公司",
+    "business_status": "开业",
+    "legal_representative": "卢光银",
+    "registered_capital": "110000000",
+    "paid_in_capital": "29986000",
+    "establishment_date": "20/3/2014 00:00:00",
+    "approval_date": "7/7/2022 00:00:00",
+    "business_term": "2014-03-20 至 2054-03-20",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "0551-63632899",
+    "additional_phones": "18919611741,13966766995,18130025200,0551-62692291,13359013126",
+    "email": "18919611741@qq.com",
+    "additional_emails": "825248084@qq.com,28478878@qq.com,1223514773@qq.com,zswx5@126.com",
+    "unified_social_credit_code": "91340100096309386R",
+    "taxpayer_identification_number": "91340100096309386R",
+    "business_registration_number": "340191000030426",
+    "organization_code": "09630938-6",
+    "insured_personnel_count": "38",
+    "company_type": "其他有限责任公司",
+    "industry": "建筑安装业",
+    "former_name": "-",
+    "registered_address": "合肥市政务区南二环路1550号水墨兰庭36幢及9幢地下机动车库商204",
+    "latest_annual_report_address": "： 合肥市政务区南二环路1550号水墨兰庭北区商36幢三层",
+    "website": "-",
+    "business_scope": "房屋建筑工程；装饰装修设计、施工；幕墙工程设计、施工；机电设备安装工程；建筑金属结构工程；金属门窗工程；古建园林工程；园林绿化工程；市政公用工程；公路工程施工；水利水电工程；亮化工程；消防工程设计、施工、技术服务；计算机系统集成、销售；建筑智能设计、施工；安全技术防范工程设计、施工、技术服务；空调工程的设计、施工、技术服务；外墙保温工程；防水防腐工程；土石方施工；地基与基础工程；环保设备、水处理设备施工、技术服务及销售；新型建筑材料研制、开发与销售；设备租赁、技术咨询服务；物业管理；建筑材料、装饰材料、沙子、石子、水泥、钢筋、市政材料、铁路材料的销售；体育场地设施设计、施工。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

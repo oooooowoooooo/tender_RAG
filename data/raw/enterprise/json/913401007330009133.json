@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913401007330009133",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913401007330009133",
+    "enterprise_name": "合肥庐阳国有资产投资控股集团有限公司",
+    "legal_representative": "解光熙",
+    "entity_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "established_date": "7/8/2000 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "500000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市庐阳区百花井恢复楼五层14－20轴",
+    "business_scope": "区政府授权对国有资产经营的投资与管理，城市基础设施和基础产业及公益性项目融资投资，房屋租赁。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 34,
+    "selected_project_ids": [
+      "2023AFLBZ02648"
+    ],
+    "all_linked_project_ids": [
+      "2023AFLBZ02141",
+      "2023AFLBZ02648"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥庐阳国有资产投资控股集团有限公司",
+    "business_status": "开业",
+    "legal_representative": "解光熙",
+    "registered_capital": "500000000",
+    "paid_in_capital": "1400000",
+    "establishment_date": "7/8/2000 00:00:00",
+    "approval_date": "14/6/2024 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐阳区",
+    "phone": "15256550206",
+    "additional_phones": "0551-62662098,15055700956,18256995071,18010868700,0551-6246573",
+    "email": "805703548@qq.com",
+    "additional_emails": "345310126@qq.com,345310626@qq.com,luyangguotou@163.com,499815125@qq.com",
+    "unified_social_credit_code": "913401007330009133",
+    "taxpayer_identification_number": "913401007330009133",
+    "business_registration_number": "340100000036518",
+    "organization_code": "73300091-3",
+    "insured_personnel_count": "41",
+    "company_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "industry": "商务服务业",
+    "former_name": "合肥市庐阳区国有资产经营有限责任公司",
+    "registered_address": "安徽省合肥市庐阳区百花井恢复楼五层14－20轴",
+    "latest_annual_report_address": "安徽省合肥市庐阳区百花井恢复楼五层14-20轴",
+    "website": "www.lygtjt.com",
+    "business_scope": "区政府授权对国有资产经营的投资与管理，城市基础设施和基础产业及公益性项目融资投资，房屋租赁。",
+    "match_status": "成功"
+  }
+}

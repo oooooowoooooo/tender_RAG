@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9134000055019716XU",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9134000055019716XU",
+    "enterprise_name": "安徽演艺集团有限责任公司",
+    "legal_representative": "张健",
+    "entity_type": "有限责任公司(国有独资)",
+    "established_date": "12/2/2010 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "100000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市包河区宣城路16号",
+    "business_scope": "许可经营项目：文艺表演。   一般经营项目：为文艺演出提供策划、营销服务，剧场经营，组织艺术创作、生产，舞台美术设计、制作，演艺文化衍生产品开发、生产、销售。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023BFFGZ02571"
+    ],
+    "all_linked_project_ids": [
+      "2023BFFGZ02571"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽演艺集团有限责任公司",
+    "business_status": "开业",
+    "legal_representative": "张健",
+    "registered_capital": "100000000",
+    "paid_in_capital": "100000000",
+    "establishment_date": "12/2/2010 00:00:00",
+    "approval_date": "17/8/2022 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "phone": "0551-62777032",
+    "additional_phones": "0551-64661071,64657513,0551-64674621,0551-64665859,13355593567",
+    "email": "ahyyjt@126.com",
+    "additional_emails": "ahyycwb@163.com,18214627@163.com",
+    "unified_social_credit_code": "9134000055019716XU",
+    "taxpayer_identification_number": "9134000055019716XU",
+    "business_registration_number": "340000000048158",
+    "organization_code": "55019716-X",
+    "insured_personnel_count": "37",
+    "company_type": "有限责任公司(国有独资)",
+    "industry": "文化艺术业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市包河区宣城路16号",
+    "latest_annual_report_address": "合肥市屯溪路528号",
+    "website": "www.ahyanyi.cn",
+    "business_scope": "许可经营项目：文艺表演。   一般经营项目：为文艺演出提供策划、营销服务，剧场经营，组织艺术创作、生产，舞台美术设计、制作，演艺文化衍生产品开发、生产、销售。",
+    "match_status": "成功"
+  }
+}

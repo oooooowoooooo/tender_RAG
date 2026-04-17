@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7033979",
+  "normalized_projection": {
+    "title": "关于调整超豪华小汽车消费税政策的公告",
+    "issuer": "财政部 税务总局",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\税务",
+    "doc_no": "财政部 税务总局公告2025年第3号",
+    "publish_date": "2025-07-18",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7033979.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "税务"
+    ],
+    "effective_date": "2025-07-17",
+    "abolish_date": "",
+    "summary": "为进一步引导合理消费，经国务院批准，现就超豪华小汽车消费税政策有关事项公告如下。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7033979",
+    "title": "关于调整超豪华小汽车消费税政策的公告",
+    "content": "关于调整超豪华小汽车消费税政策的公告\n财政部 税务总局公告2025年第3号\n为进一步引导合理消费，经国务院批准，现就超豪华小汽车消费税政策有关事项公告如下：\n一、《财政部 国家税务总局关于对超豪华小汽车加征消费税有关事项的通知》（财税〔2016〕129号）第一条中超豪华小汽车征收范围调整为“每辆零售价格90万元（不含增值税）及以上的各种动力类型（含纯电动、燃料电池等动力类型）的乘用车和中轻型商用客车”。《财政部 国家税务总局关于调整小汽车进口环节消费税的通知》（财关税〔2016〕63号）规定的超豪华小汽车进口环节消费税的征收范围相应调整。\n对纯电动、燃料电池等没有气缸容量（排气量）的超豪华小汽车仅在零售环节征收消费税。\n二、对纳税人销售二手超豪华小汽车，不征收消费税。本公告所称二手车，是指从办理完注册登记手续至达到国家强制报废标准之前进行交易并转移所有权的车辆。\n三、《财政部 国家税务总局关于对超豪华小汽车加征消费税有关事项的通知》（财税〔2016〕129号）第三条中的零售环节销售额，是指纳税人向购买方收取的与购车行为相关的全部价款和价外费用，包括以精品、配饰和服务等名义收取的价款。\n四、上述第一条和第二条规定自2025年7月20日起执行。\n特此公告。\n财政部 税务总局\n2025年7月17日",
+    "source": "财政部网站",
+    "publish_time": "2025-07-18",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7033979.htm",
+    "category": "财政、金融、审计\\税务",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "554"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7033979",
+    "title": "关于调整超豪华小汽车消费税政策的公告",
+    "source_name": "财政部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-07-18",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7033979.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7033979.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于调整超豪华小汽车消费税政策的公告",
+      "发文机关": "财政部 税务总局",
+      "发文字号": "财政部 税务总局公告2025年第3号",
+      "来源": "财政部网站",
+      "主题分类": "财政、金融、审计\\税务",
+      "公文种类": "公告",
+      "成文日期": "2025年07月17日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7033979.html"
+  },
+  "raw_legal_doc": {}
+}

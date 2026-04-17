@@ -1,0 +1,74 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "11340124003272132R",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "11340124003272132R",
+    "enterprise_name": "庐江县郭河镇人民政府",
+    "legal_representative": "张涛",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "庐江县郭河镇郭河街道",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 184,
+    "selected_project_ids": [
+      "2023ANNZN00478"
+    ],
+    "all_linked_project_ids": [
+      "2023ANNFJ00022",
+      "2023ANNGZ00479",
+      "2023ANNHX00009",
+      "2023ANNHZ00391",
+      "2023ANNZJ00144",
+      "2023ANNZN00478"
+    ],
+    "roles": [
+      "agency",
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "庐江县郭河镇人民政府",
+    "business_status": "开业",
+    "legal_representative": "张涛",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐江县",
+    "phone": "15956520179",
+    "additional_phones": "15855139349,0551-87388111,17730232762,17856510720,13605651740",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "11340124003272132R",
+    "taxpayer_identification_number": "11340124003272132R",
+    "business_registration_number": "-",
+    "organization_code": "00327213-2",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "庐江县郭河镇郭河街道",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

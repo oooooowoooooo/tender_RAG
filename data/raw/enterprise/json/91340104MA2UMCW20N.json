@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340104MA2UMCW20N",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340104MA2UMCW20N",
+    "enterprise_name": "安徽景弘工程咨询有限公司",
+    "legal_representative": "韩莎莎",
+    "entity_type": "有限责任公司(自然人独资)",
+    "established_date": "9/4/2020 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "5000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市庐江县庐城镇越城花园27栋102室",
+    "business_scope": "工程管理服务；工程监理服务；工程造价专业咨询服务；工程建设项目招标代理服务；工程项目综合服务；工程技术咨询服务；施工阶段项目管理服务；消防工程；建筑劳务分包；水电工程；水源及供水设施工程建筑；公路工程；室内外装饰装修工程；土石方工程；防水防腐保温工程；城市道路工程；灯光照明工程；钢结构工程；建筑幕墙工程；市政道路公用工程；体育场地设施工程施工；建筑智能化工程；节能工程施工；环保工程施工；水电安装工程；铁路工程建筑；港口及航运设施工程建筑；拆除工程服务；园林绿化工程施工；森林经营和管护；工程勘察；工程设计活动；工程计划安排服务；策划阶段项目管理服务；专业保洁服务；物业服务；商务信息咨询；建筑材料、装饰材料（除危险品）、五金交电、电线电缆、机电设备销售(含互联网销售)（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [
+      "2023ANNGZ00560"
+    ],
+    "all_linked_project_ids": [
+      "2023ANNBZ00252",
+      "2023ANNFN00287",
+      "2023ANNGZ00560"
+    ],
+    "roles": [
+      "agency"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽景弘工程咨询有限公司",
+    "business_status": "开业",
+    "legal_representative": "韩莎莎",
+    "registered_capital": "5000000",
+    "paid_in_capital": "0",
+    "establishment_date": "9/4/2020 00:00:00",
+    "approval_date": "10/5/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐江县",
+    "phone": "18605655857",
+    "additional_phones": "13053053023,13637061647,18225849794,18715369737,18654128793",
+    "email": "1799403722@qq.com",
+    "additional_emails": "2986675822@qq.com,837213677@qq.com",
+    "unified_social_credit_code": "91340104MA2UMCW20N",
+    "taxpayer_identification_number": "91340104MA2UMCW20N",
+    "business_registration_number": "340104000557050",
+    "organization_code": "MA2UMCW2-0",
+    "insured_personnel_count": "0",
+    "company_type": "有限责任公司(自然人独资)",
+    "industry": "专业技术服务业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市庐江县庐城镇越城花园27栋102室",
+    "latest_annual_report_address": "安徽省合肥市庐江县庐城镇越城花园27栋102室",
+    "website": "-",
+    "business_scope": "工程管理服务；工程监理服务；工程造价专业咨询服务；工程建设项目招标代理服务；工程项目综合服务；工程技术咨询服务；施工阶段项目管理服务；消防工程；建筑劳务分包；水电工程；水源及供水设施工程建筑；公路工程；室内外装饰装修工程；土石方工程；防水防腐保温工程；城市道路工程；灯光照明工程；钢结构工程；建筑幕墙工程；市政道路公用工程；体育场地设施工程施工；建筑智能化工程；节能工程施工；环保工程施工；水电安装工程；铁路工程建筑；港口及航运设施工程建筑；拆除工程服务；园林绿化工程施工；森林经营和管护；工程勘察；工程设计活动；工程计划安排服务；策划阶段项目管理服务；专业保洁服务；物业服务；商务信息咨询；建筑材料、装饰材料（除危险品）、五金交电、电线电缆、机电设备销售(含互联网销售)（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

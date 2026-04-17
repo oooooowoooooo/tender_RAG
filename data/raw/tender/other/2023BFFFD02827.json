@@ -1,0 +1,83 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023BFFFD02827",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "中标"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023BFFFD02827",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "中标"
+    ],
+    "publish_time": "2023-12-21 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 合肥"
+    ],
+    "tenderer_or_purchaser": [
+      "合肥市公共就业人才服务管理中心"
+    ],
+    "agency": [
+      "合肥市政府采购中心"
+    ],
+    "budget_or_bid_amount": [
+      "667966.0",
+      "665086.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231222/f3b73d81-74a0-4501-9eb0-bdca23f0b0cb.html?ztbtab=002002004&biaoduanguid=a2ab1f05-cc6d-408d-bb65-02194bb50c4a",
+    "attachment_paths": [],
+    "candidate_company_names": [
+      "绿城物业服务集团有限公司安徽分公司"
+    ],
+    "winner_company_name": [
+      "绿城物业服务集团有限公司安徽分公司"
+    ],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:164",
+      "project_id": "2023BFFFD02827",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231222/f3b73d81-74a0-4501-9eb0-bdca23f0b0cb.html?ztbtab=002002004&biaoduanguid=a2ab1f05-cc6d-408d-bb65-02194bb50c4a",
+      "type": "政府采购",
+      "stage": "中标",
+      "event_time": "2023-12-21",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "合肥",
+      "category": "政府",
+      "sub_category": "服务",
+      "budget_amount": "667966.0",
+      "purchaser": "合肥市公共就业人才服务管理中心",
+      "agency": "合肥市政府采购中心",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "绿城物业服务集团有限公司安徽分公司",
+      "bid_amount": "665086.0",
+      "bid_date": "2023-12-28",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"要素市场C区公共区域物业管理服务中标（成交）结果公告\", \"content\": \"一、项目编号:2023BFFFD02827\n二、项目名称:要素市场C区公共区域物业管理服务\n三、中标（成交）信息\n\n四、主要标的信息\n{\"table_style\": 1}\n\n五、评审专家（单一来源采购人员）名单\n李晓薇,孟凡萍,汪刚义\n六、代理服务收费标准及金额\n免费\n\n七、公告期限\n自本公告发布之日起1个工作日。\n八、其他补充事宜\n若供应商对上述结果有异议，可在中标（成交）公告发布之日起七个工作日内以电子交易系统或书面形式在工作时间（周一至周五，上午9:00-12:00，下午13:30-17:30，节假日休息）向合肥市政府采购中心提出质疑（异议），质疑材料递交地址：合肥市滨湖新区南京路2588号（徽州大道与南京路交口）A区六楼678室，联系电话：0551-66223642。\n若供应商对质疑处理意见有异议，可在规定时间内通过网上投诉系统或以书面形式向合肥市公共资源交易监督管理局提出投诉。\n质疑提起的条件及不予受理的情形\n根据《中华人民共和国政府采购法》、《中华人民共和国政府采购法实施条例》、《安徽省政府采购供应商质疑处理办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n（一）质疑应以电子交易系统或书面形式实名提出，电子交易系统或书面质疑材料应当包括以下内容：\n1、质疑人的名称、地址、邮编、联系人及联系电话；\n2、采购人名称、项目名称、项目编号、包别号（如有）；\n3、被质疑人名称；\n4、具体的质疑事项、基本事实及必要的证明材料；\n5、明确的请求及主张；\n6、必要的法律依据；\n7、提起质疑的日期。\n质疑人为自然人的，应当由本人签字；质疑人为法人或者其他组织的，应当由法定代表人、主要负责人，或者其授权代表签字或者盖章，并加盖公章。\n（二）有下列情形之一的，不予受理：\n1、提起质疑的主体不是参与该政府采购项目活动的供应商；\n2、提起质疑的时间超过规定时限的；\n3、质疑材料不完整的；\n4、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n5、对其他投标人（供应商）的投标文件详细内容质疑，无法提供合法来源渠道的；\n6、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n要素市场C区公共区域物业管理服务项目中标通知书已发出，请中标（成交）供应商委派专人凭介绍信或公司授权书（须携带身份证）到合肥市政府采购中心领取中标（成交）通知书。\n九、凡对本次公告内容提出询问，请按以下方式联系\n1.采购人信息\n名称：合肥市公共就业人才服务管理中心\n地址：合肥市滨湖新区南京路2588号\n联系方式：0551-62729916\n2.采购代理机构信息\n名称：合肥市政府采购中心\n地址：合肥市滨湖新区南京路2588号（徽州大道与南京路交口）六楼\n联系方法：0551-66223645、66223646\n3.项目联系方式\n项目联系人：陈雨轩\n电话：0551-66223235\n\", \"attachments\": [{\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=1de7263f-bbad-43e4-ac80-07de6e632846&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"主要中标（成交）标的承诺函.docx\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=351192c4-1f61-4dc9-96b8-4a1b0c629611&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"安徽合肥公共资源交易中心网上投诉操作手册-投标人.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=76f89195-84db-4b44-ba81-62225114838b&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"公示附件.docx\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=d396a9dc-d1cc-41b1-ba54-948fd1a9ce63&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "2293",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

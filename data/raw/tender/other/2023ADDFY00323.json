@@ -1,0 +1,78 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023ADDFY00323",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "终止"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023ADDFY00323",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "终止"
+    ],
+    "publish_time": "2023-11-22 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 肥东"
+    ],
+    "tenderer_or_purchaser": [
+      "肥东县公安局"
+    ],
+    "agency": [
+      "肥东县公共资源交易有限公司"
+    ],
+    "budget_or_bid_amount": [
+      "1000000.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231122/bd5f2e87-3f00-4123-91e5-ff4108c88ba8.html?ztbtab=002002004&biaoduanguid=8c7a5da1-4a9a-441f-94ae-76ccf3a5a530",
+    "attachment_paths": [],
+    "candidate_company_names": [],
+    "winner_company_name": [],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:419",
+      "project_id": "2023ADDFY00323",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231122/bd5f2e87-3f00-4123-91e5-ff4108c88ba8.html?ztbtab=002002004&biaoduanguid=8c7a5da1-4a9a-441f-94ae-76ccf3a5a530",
+      "type": "政府采购",
+      "stage": "终止",
+      "event_time": "2023-11-22",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "肥东",
+      "category": "政府",
+      "sub_category": "服务",
+      "budget_amount": "1000000.0",
+      "purchaser": "肥东县公安局",
+      "agency": "肥东县公共资源交易有限公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "",
+      "bid_amount": "",
+      "bid_date": "",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"肥东县公安局在职辅警及工勤人员体检服务终止公告\", \"content\": \"\n\n肥东县公安局在职辅警及工勤人员体检服务终止公告\n\n一、项目基本情况\n\n采购项目编号：2023ADDFY00323\n\n采购项目名称：肥东县公安局在职辅警及工勤人员体检服务\n\n二、项目终止的原因\n\n终止原因：有效供应商不足规定数量，本次采购终止\n\n三、其他补充事宜\n\n无\n\n四、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：肥东县公安局\n\n地址：合肥市肥东县撮镇路87号\n\n联系方式：13956921635\n\n2.采购代理机构信息\n\n名称：肥东县公共资源交易有限公司\n\n地址：合肥市肥东县店埠镇深秀路2号肥东政务服务中心四楼\n\n联系方式：0551-67758792\n\n3.项目联系方式\n\n项目联系人：黄丽\n\n电话：0551-67758792\n\n累计办理时间：\n0天0小时5分40秒\n\n招标代理机构提交\n\n提交节点：\n\n2023-12-12\n\n交易中心见证\n\n办理状态：\n\n通过\n\n办理时间：\n\n2023-12-12\n\n办理用时：\n\n0天0小时5分\n\n\", \"attachments\": [{\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=e1381180-4a1a-4a72-8782-ee6d882f9fa3&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "764",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340181MA2WN4LR02",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340181MA2WN4LR02",
+    "enterprise_name": "巢湖市旭瑞联科技有限公司",
+    "legal_representative": "张勇",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "2021-02-01",
+    "registration_authority": "",
+    "registered_capital": "200万人民币",
+    "business_status": "存续",
+    "registered_address": "安徽省合肥市巢湖市巢湖中路与龟山路交界处湖畔名郡28号楼",
+    "business_scope": "计算机软件开发；系统集成；计算机及办公自动化等高科技产品销售与技术支持；电子产品、多媒体设备、网络监控设备、办公器材、日用百货、家用电器、教学仪器及设备、体育用品及器材销售、通讯终端产品及配件、电教产品销售；通信设备及器材、不间断电源、防雷产品、发电机、空调及配件、仪器仪表、机电设备、办公耗材销售；广播电视设备、机械设备、办公自动化设备的维修及安装；机房、多媒体中心、会议中心等软硬件设备配套设计装修装饰；综合布线。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023AMMHX00174"
+    ],
+    "all_linked_project_ids": [
+      "2022AMMHX00214",
+      "2023AMMHX00174"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "2651",
+    "title": "巢湖市旭瑞联科技有限公司",
+    "corporation": "张勇",
+    "amount_raw": "200万人民币",
+    "event_time": "2021-02-01",
+    "manage_date": "2021-02-01 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "巢湖市",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "软件和信息技术服务业",
+    "USCC": "91340181MA2WN4LR02",
+    "TIN": "91340181MA2WN4LR02",
+    "registed_num": "340181000144470",
+    "insured_persons": "0",
+    "location": "安徽省合肥市巢湖市巢湖中路与龟山路交界处湖畔名郡28号楼",
+    "source_url": "-",
+    "content": "计算机软件开发；系统集成；计算机及办公自动化等高科技产品销售与技术支持；电子产品、多媒体设备、网络监控设备、办公器材、日用百货、家用电器、教学仪器及设备、体育用品及器材销售、通讯终端产品及配件、电教产品销售；通信设备及器材、不间断电源、防雷产品、发电机、空调及配件、仪器仪表、机电设备、办公耗材销售；广播电视设备、机械设备、办公自动化设备的维修及安装；机房、多媒体中心、会议中心等软硬件设备配套设计装修装饰；综合布线。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "2000000"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7053266",
+  "normalized_projection": {
+    "title": "关于个人销售住房增值税政策的公告",
+    "issuer": "财政部 税务总局",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\财政",
+    "doc_no": "财政部 税务总局公告2025年第17号",
+    "publish_date": "2025-12-30",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053266.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计"
+    ],
+    "effective_date": "2025-12-29",
+    "abolish_date": "",
+    "summary": "本公告自2026年1月1日起施行。《财政部 国家税务总局关于全面推开营业税改征增值税试点的通知》（财税〔2016〕36号）附件3《营业税改征增值税试点过渡政策的规定》第五条第一款同步停止执行。2026年1月1日前，个人销售住房涉及的增值税尚未申报缴纳的，符合本公告规定的可按本公告执行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7053266",
+    "title": "关于个人销售住房增值税政策的公告",
+    "content": "关于个人销售住房增值税政策的公告\n财政部 税务总局公告2025年第17号\n现将个人销售住房增值税政策公告如下：\n个人（不含个体工商户中的一般纳税人，下同）将购买不足2年的住房对外销售的，按照3%的征收率全额缴纳增值税；个人将购买2年以上（含2年）的住房对外销售的，免征增值税。\n本公告自2026年1月1日起施行。《财政部 国家税务总局关于全面推开营业税改征增值税试点的通知》（财税〔2016〕36号）附件3《营业税改征增值税试点过渡政策的规定》第五条第一款同步停止执行。2026年1月1日前，个人销售住房涉及的增值税尚未申报缴纳的，符合本公告规定的可按本公告执行。\n特此公告。\n财政部 税务总局\n2025年12月29日",
+    "source": "财政部网站",
+    "publish_time": "2025-12-30",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053266.htm",
+    "category": "财政、金融、审计\\财政",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "309"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7053266",
+    "title": "关于个人销售住房增值税政策的公告",
+    "source_name": "财政部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-12-30",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053266.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053266.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于个人销售住房增值税政策的公告",
+      "发文机关": "财政部 税务总局",
+      "发文字号": "财政部 税务总局公告2025年第17号",
+      "来源": "财政部网站",
+      "主题分类": "财政、金融、审计\\财政",
+      "公文种类": "公告",
+      "成文日期": "2025年12月29日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7053266.html"
+  },
+  "raw_legal_doc": {}
+}

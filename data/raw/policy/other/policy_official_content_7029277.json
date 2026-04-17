@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7029277",
+  "normalized_projection": {
+    "title": "国家医疗保障局办公室关于优化医疗服务价格管理流程的通知",
+    "issuer": "国家医保局办公室",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "医保办函〔2025〕51号",
+    "publish_date": "2025-06-24",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7029277.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2025-06-20",
+    "abolish_date": "",
+    "summary": "医疗服务价格是人民群众最关心最直接最现实的利益问题，也关系医疗机构健康发展。为进一步强化医疗服务价格管理责任，提升管理效能，现就优化医疗服务价格管理流程有关事项通知如下。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7029277",
+    "title": "国家医疗保障局办公室关于优化医疗服务价格管理流程的通知",
+    "content": "医疗服务价格是人民群众最关心最直接最现实的利益问题，也关系医疗机构健康发展。为进一步强化医疗服务价格管理责任，提升管理效能，现就优化医疗服务价格管理流程有关事项通知如下。",
+    "source": "国家医保局网站",
+    "publish_time": "2025-06-24",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7029277.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "85"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7029277",
+    "title": "国家医疗保障局办公室关于优化医疗服务价格管理流程的通知",
+    "source_name": "国家医保局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-06-24",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7029277.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7029277.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家医疗保障局办公室关于优化医疗服务价格管理流程的通知",
+      "发文机关": "国家医保局办公室",
+      "发文字号": "医保办函〔2025〕51号",
+      "来源": "国家医保局网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "通知",
+      "成文日期": "2025年06月20日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7029277.html"
+  },
+  "raw_legal_doc": {}
+}

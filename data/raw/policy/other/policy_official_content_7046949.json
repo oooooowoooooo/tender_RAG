@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7046949",
+  "normalized_projection": {
+    "title": "关于印发《节水装备高质量发展实施方案（2025—2030年）》的通知",
+    "issuer": "工业和信息化部 水利部",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\机械制造与重工业",
+    "doc_no": "工信部联节〔2025〕234号",
+    "publish_date": "2025-11-03",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7046949.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251103762569015408.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "机械制造与重工业"
+    ],
+    "effective_date": "2025-10-22",
+    "abolish_date": "",
+    "summary": "关于印发《节水装备高质量发展实施方案（2025—2030年）》的通知\n工信部联节〔2025〕234号\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化主管部门、水利（水务）厅（局）：\n现将《节水装备高质量发展实施方案（2025—2030年）》印发给你们，请结合实际认真抓好落实。\n工业和信息化部\n水利部\n2025年10月22日\n \n    附件：关于印发《节水装备高质量发展实施方案（2025—2030年）》的通知"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7046949",
+    "title": "关于印发《节水装备高质量发展实施方案（2025—2030年）》的通知",
+    "content": "关于印发《节水装备高质量发展实施方案（2025—2030年）》的通知\n工信部联节〔2025〕234号\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化主管部门、水利（水务）厅（局）：\n现将《节水装备高质量发展实施方案（2025—2030年）》印发给你们，请结合实际认真抓好落实。\n工业和信息化部\n水利部\n2025年10月22日\n \n    附件：关于印发《节水装备高质量发展实施方案（2025—2030年）》的通知",
+    "source": "工业和信息化部网站",
+    "publish_time": "2025-11-03",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7046949.htm",
+    "category": "工业、交通\\机械制造与重工业",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "214"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7046949",
+    "title": "关于印发《节水装备高质量发展实施方案（2025—2030年）》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-11-03",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7046949.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7046949.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《节水装备高质量发展实施方案（2025—2030年）》的通知",
+      "发文机关": "工业和信息化部 水利部",
+      "发文字号": "工信部联节〔2025〕234号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\机械制造与重工业",
+      "公文种类": "通知",
+      "成文日期": "2025年10月22日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251103762569015408.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7046949.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913611006984663466",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913611006984663466",
+    "enterprise_name": "江西牧鑫建设工程有限公司",
+    "legal_representative": "杨爱琴",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "18/12/2009 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "120000000",
+    "business_status": "开业",
+    "registered_address": "江西省上饶市高铁经济试验区站前二路松山安置小区管委会一楼143室",
+    "business_scope": "许可项目：建设工程施工，文物保护工程施工，地质灾害治理工程施工，住宅室内装饰装修，输电、供电、受电电力设施的安装、维修和试验，施工专业作业，建筑物拆除作业（爆破作业除外），建设工程勘察，建设工程设计，建设工程监理，建设工程质量检测，建筑劳务分包，道路货物运输（不含危险货物）（依法须经批准的项目，经相关部门批准后方可开展经营活动）\n一般项目：体育场地设施工程施工，园林绿化工程施工，土石方工程施工，金属门窗工程施工，房屋拆迁服务，建筑物清洁服务，劳务服务（不含劳务派遣），招投标代理服务，政府采购代理服务，环保咨询服务，工程造价咨询业务，工程管理服务，机械设备租赁（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023IFAGZ02486"
+    ],
+    "all_linked_project_ids": [
+      "2023IFAGZ02486"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "江西牧鑫建设工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "杨爱琴",
+    "registered_capital": "120000000",
+    "paid_in_capital": "26160000",
+    "establishment_date": "18/12/2009 00:00:00",
+    "approval_date": "10/9/2021 00:00:00",
+    "business_term": "2009-12-18 至 2029-12-17",
+    "province": "江西省",
+    "city": "上饶市",
+    "district": "信州区",
+    "phone": "13367033986",
+    "additional_phones": "0793-2652547,0313-4066660,19168385955,17879553630,0311-80872177",
+    "email": "549684978@qq.com",
+    "additional_emails": "476895891@qq.com,845794378@qq.com",
+    "unified_social_credit_code": "913611006984663466",
+    "taxpayer_identification_number": "913611006984663466",
+    "business_registration_number": "361100210019000",
+    "organization_code": "69846634-6",
+    "insured_personnel_count": "48",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "房屋建筑业",
+    "former_name": "-",
+    "registered_address": "江西省上饶市高铁经济试验区站前二路松山安置小区管委会一楼143室",
+    "latest_annual_report_address": "江西省上饶市信州区站前二路松山安置小区管委会一楼143室",
+    "website": "-",
+    "business_scope": "许可项目：建设工程施工，文物保护工程施工，地质灾害治理工程施工，住宅室内装饰装修，输电、供电、受电电力设施的安装、维修和试验，施工专业作业，建筑物拆除作业（爆破作业除外），建设工程勘察，建设工程设计，建设工程监理，建设工程质量检测，建筑劳务分包，道路货物运输（不含危险货物）（依法须经批准的项目，经相关部门批准后方可开展经营活动）\n一般项目：体育场地设施工程施工，园林绿化工程施工，土石方工程施工，金属门窗工程施工，房屋拆迁服务，建筑物清洁服务，劳务服务（不含劳务派遣），招投标代理服务，政府采购代理服务，环保咨询服务，工程造价咨询业务，工程管理服务，机械设备租赁（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）",
+    "match_status": "成功"
+  }
+}

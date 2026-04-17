@@ -1,0 +1,68 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7058001",
+  "normalized_projection": {
+    "title": "关于“十五五”期间进口科学研究、科技开发和教学用品免税清单的通知",
+    "issuer": "财政部 海关总署 税务总局",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\税务",
+    "doc_no": "财关税〔2026〕9号",
+    "publish_date": "2026-02-14",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7058001.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260214500902767072.pdf"
+    ],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "税务"
+    ],
+    "effective_date": "2026-02-13",
+    "abolish_date": "",
+    "summary": "根据《财政部 海关总署 税务总局关于“十五五”期间支持科技创新进口税收优惠政策的通知》（财关税〔2026〕7号）和《财政部 中央宣传部 国家发展改革委 教育部 科技部 工业和信息化部 民政部 商务部 文化和旅游部 国家卫生健康委 海关总署 税务总局关于“十五五”期间支持科技创新进口税收优惠政策管理办法的通知》（财关税〔2026〕8号）有关规定，现将“十五五”期间进口科学研究、科技开发和教学用品免税清单予以公布，自2026年1月1日起实施。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7058001",
+    "title": "关于“十五五”期间进口科学研究、科技开发和教学用品免税清单的通知",
+    "content": "关于“十五五”期间进口科学研究、科技开发和教学用品免税清单的通知\n财关税〔2026〕9号\n各省、自治区、直辖市、计划单列市财政厅（局），新疆生产建设兵团财政局，海关总署广东分署、各直属海关，国家税务总局各省、自治区、直辖市、计划单列市税务局：\n根据《财政部 海关总署 税务总局关于“十五五”期间支持科技创新进口税收优惠政策的通知》（财关税〔2026〕7号）和《财政部 中央宣传部 国家发展改革委 教育部 科技部 工业和信息化部 民政部 商务部 文化和旅游部 国家卫生健康委 海关总署 税务总局关于“十五五”期间支持科技创新进口税收优惠政策管理办法的通知》（财关税〔2026〕8号）有关规定，现将“十五五”期间进口科学研究、科技开发和教学用品免税清单（见附件）予以公布，自2026年1月1日起实施。\n一、科学研究机构、技术开发机构、学校、党校（行政学院）、图书馆的免税进口商品清单，按照附件第一至十五条执行。\n二、出版物进口单位的免税进口商品清单，按照附件第五条执行。\n附件：“十五五”期间进口科学研究、科技开发和教学用品免税清单\n财政部\n海关总署\n税务总局\n2026年2月13日",
+    "source": "财政部网站",
+    "publish_time": "2026-02-14",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7058001.htm",
+    "category": "财政、金融、审计\\税务",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "489"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7058001",
+    "title": "关于“十五五”期间进口科学研究、科技开发和教学用品免税清单的通知",
+    "source_name": "财政部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-02-14",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7058001.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7058001.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于“十五五”期间进口科学研究、科技开发和教学用品免税清单的通知",
+      "发文机关": "财政部 海关总署 税务总局",
+      "发文字号": "财关税〔2026〕9号",
+      "来源": "财政部网站",
+      "主题分类": "财政、金融、审计\\税务",
+      "公文种类": "通知",
+      "成文日期": "2026年02月13日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260214500902767072.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7058001.html"
+  },
+  "raw_legal_doc": {}
+}

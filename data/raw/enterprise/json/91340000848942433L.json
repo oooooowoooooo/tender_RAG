@@ -1,0 +1,66 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340000848942433L",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340000848942433L",
+    "enterprise_name": "中国银行股份有限公司安徽省分行",
+    "legal_representative": "王才先",
+    "entity_type": "股份有限公司分公司(非上市、外商投资企业投资)",
+    "established_date": "27/11/1990 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "合肥市滨湖新区云谷路1688号",
+    "business_scope": "许可经营项目：办理人民币存款、贷款、结算；办理票据贴现；代理发行金融债券；代理发行、代理兑付、销售政府债券；提供信用证服务及担保；代理收付款项及代理保险业务；保管箱业务；外汇存款；外汇贷款；外汇汇款；外币兑换；国际结算；外汇票据的承兑和贴现；总行授权的外汇借款；总行授权的外汇担保；结汇、售汇；总行授权的代客外汇买卖；外汇信用卡的发行；代理国外信用卡的发行及付款；总行授权的发行、代理发行股票以外的外币有价证券；资信调查、咨询、见证业务；经中国银行业监督管理委员会等监管部门批准的其他业务；个人黄金买卖业务。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 11,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023DFWGZ02238"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "中国银行股份有限公司安徽省分行",
+    "business_status": "开业",
+    "legal_representative": "王才先",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "27/11/1990 00:00:00",
+    "approval_date": "25/4/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "phone": "0551-62926114",
+    "additional_phones": "0551-65805019,13584060515,0551-2926995,62220261,0551-62926626",
+    "email": "ah-boc@163.com",
+    "additional_emails": "ah_boc@163.com",
+    "unified_social_credit_code": "91340000848942433L",
+    "taxpayer_identification_number": "91340000848942433L",
+    "business_registration_number": "340000000013518",
+    "organization_code": "84894243-3",
+    "insured_personnel_count": "772",
+    "company_type": "股份有限公司分公司(非上市、外商投资企业投资)",
+    "industry": "货币金融服务",
+    "former_name": "中国银行安徽省分行",
+    "registered_address": "合肥市滨湖新区云谷路1688号",
+    "latest_annual_report_address": "合肥市滨湖新区云谷路1688号",
+    "website": "-",
+    "business_scope": "许可经营项目：办理人民币存款、贷款、结算；办理票据贴现；代理发行金融债券；代理发行、代理兑付、销售政府债券；提供信用证服务及担保；代理收付款项及代理保险业务；保管箱业务；外汇存款；外汇贷款；外汇汇款；外币兑换；国际结算；外汇票据的承兑和贴现；总行授权的外汇借款；总行授权的外汇担保；结汇、售汇；总行授权的代客外汇买卖；外汇信用卡的发行；代理国外信用卡的发行及付款；总行授权的发行、代理发行股票以外的外币有价证券；资信调查、咨询、见证业务；经中国银行业监督管理委员会等监管部门批准的其他业务；个人黄金买卖业务。",
+    "match_status": "成功"
+  }
+}

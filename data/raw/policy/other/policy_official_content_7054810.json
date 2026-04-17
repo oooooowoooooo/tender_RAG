@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7054810",
+  "normalized_projection": {
+    "title": "财政部 税务总局 住房城乡建设部关于延续实施支持居民换购住房有关个人所得税政策的公告",
+    "issuer": "财政部 税务总局 住房城乡建设部",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\税务",
+    "doc_no": "财政部 税务总局 住房城乡建设部公告2026年第3号",
+    "publish_date": "2026-01-15",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054810.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "税务"
+    ],
+    "effective_date": "2026-01-12",
+    "abolish_date": "",
+    "summary": "一、自2026年1月1日至2027年12月31日，对出售自有住房并在现住房出售后1年内在市场重新购买住房的纳税人，对其出售现住房已缴纳的个人所得税予以退税优惠。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7054810",
+    "title": "财政部 税务总局 住房城乡建设部关于延续实施支持居民换购住房有关个人所得税政策的公告",
+    "content": "财政部 税务总局 住房城乡建设部关于延续实施支持居民换购住房有关个人所得税政策的公告\n财政部 税务总局 住房城乡建设部公告2026年第3号\n为继续支持居民改善住房条件，现就有关个人所得税政策公告如下：\n一、自2026年1月1日至2027年12月31日，对出售自有住房并在现住房出售后1年内在市场重新购买住房的纳税人，对其出售现住房已缴纳的个人所得税予以退税优惠。其中，新购住房金额大于或等于现住房转让金额的，全部退还已缴纳的个人所得税；新购住房金额小于现住房转让金额的，按新购住房金额占现住房转让金额的比例退还出售现住房已缴纳的个人所得税。\n二、本公告所称现住房转让金额为该房屋转让的市场成交价格。新购住房为新房的，购房金额为纳税人在住房城乡建设部门网签备案的购房合同中注明的成交价格；新购住房为二手房的，购房金额为房屋的成交价格。\n三、享受本公告规定优惠政策的纳税人须同时满足以下条件：\n1.纳税人出售和重新购买的住房应在同一城市范围内。同一城市范围是指同一直辖市、副省级城市、地级市（地区、州、盟）所辖全部行政区划范围。\n2.出售自有住房的纳税人与新购住房之间须直接相关，应为新购住房产权人或产权人之一。\n四、符合退税优惠政策条件的纳税人应向主管税务机关提供合法、有效的售房、购房合同和主管税务机关要求提供的其他有关材料，经主管税务机关审核后办理退税。\n五、各级住房城乡建设部门应与税务部门建立信息共享机制，将本地区房屋交易合同网签备案等信息（含撤销备案信息）实时共享至当地税务部门；暂未实现信息实时共享的地区，要建立健全工作机制，确保税务部门及时获取审核退税所需的房屋交易合同备案信息。\n特此公告。    \n财政部\n税务总局\n住房城乡建设部\n2026年1月12日",
+    "source": "税务总局网站",
+    "publish_time": "2026-01-15",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054810.htm",
+    "category": "财政、金融、审计\\税务",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "734"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7054810",
+    "title": "财政部 税务总局 住房城乡建设部关于延续实施支持居民换购住房有关个人所得税政策的公告",
+    "source_name": "税务总局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-01-15",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054810.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054810.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "财政部 税务总局 住房城乡建设部关于延续实施支持居民换购住房有关个人所得税政策的公告",
+      "发文机关": "财政部 税务总局 住房城乡建设部",
+      "发文字号": "财政部 税务总局 住房城乡建设部公告2026年第3号",
+      "来源": "税务总局网站",
+      "主题分类": "财政、金融、审计\\税务",
+      "公文种类": "公告",
+      "成文日期": "2026年01月12日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7054810.html"
+  },
+  "raw_legal_doc": {}
+}

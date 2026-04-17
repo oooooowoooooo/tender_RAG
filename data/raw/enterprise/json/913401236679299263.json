@@ -1,0 +1,72 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913401236679299263",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913401236679299263",
+    "enterprise_name": "安徽海兴生态科技有限公司",
+    "legal_representative": "张安斌",
+    "entity_type": "其他有限责任公司",
+    "established_date": "5/11/2007 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "121980000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥西县官亭镇丰祥路与支一路交口（海兴园林科技园）",
+    "business_scope": "苗木、花卉、种苗、农产品和水产品的研发、种植、养殖、销售、养护和病虫害防治；风景园林、造林、水土保持、生态修复、建筑和旅游规划设计；园艺用品、园林机具与园林辅助材料销售；市政公用、水利水电、公路、园林绿化、房屋建筑、机电设备、装饰装修、体育场地设施、地基与基础、园林古建筑、生态环境治理与土壤修复、地质灾害防治工程的施工和养护；物业服务；城市保洁；市政、水利、公路、园林和公共建筑工程养护服务；动植物生产技术和商务信息咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 8,
+    "selected_project_ids": [
+      "2023ANNGZ00529"
+    ],
+    "all_linked_project_ids": [
+      "2023ACCGZ00203",
+      "2023AFEGZ01700",
+      "2023AFEGZ01781",
+      "2023ANNGZ00529",
+      "2023BFFGZ01276"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽海兴生态科技有限公司",
+    "business_status": "开业",
+    "legal_representative": "张安斌",
+    "registered_capital": "121980000",
+    "paid_in_capital": "29560000",
+    "establishment_date": "5/11/2007 00:00:00",
+    "approval_date": "30/4/2024 00:00:00",
+    "business_term": "2007-11-05 至 2037-11-05",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "phone": "0551-68825087",
+    "additional_phones": "0556-4967802,0551-62551069,0551-8768178,15256096590,13120192020",
+    "email": "258693179@qq.com",
+    "additional_emails": "-",
+    "unified_social_credit_code": "913401236679299263",
+    "taxpayer_identification_number": "913401236679299263",
+    "business_registration_number": "340123000003806",
+    "organization_code": "66792992-6",
+    "insured_personnel_count": "151",
+    "company_type": "其他有限责任公司",
+    "industry": "商务服务业",
+    "former_name": "合肥海兴精致农业发展有限公司",
+    "registered_address": "安徽省合肥市肥西县官亭镇丰祥路与支一路交口（海兴园林科技园）",
+    "latest_annual_report_address": "安徽省合肥市肥西县官亭镇丰祥路与支一路交口",
+    "website": "www.anhuihaixing.com",
+    "business_scope": "苗木、花卉、种苗、农产品和水产品的研发、种植、养殖、销售、养护和病虫害防治；风景园林、造林、水土保持、生态修复、建筑和旅游规划设计；园艺用品、园林机具与园林辅助材料销售；市政公用、水利水电、公路、园林绿化、房屋建筑、机电设备、装饰装修、体育场地设施、地基与基础、园林古建筑、生态环境治理与土壤修复、地质灾害防治工程的施工和养护；物业服务；城市保洁；市政、水利、公路、园林和公共建筑工程养护服务；动植物生产技术和商务信息咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

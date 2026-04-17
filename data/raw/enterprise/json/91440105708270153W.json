@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91440105708270153W",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91440105708270153W",
+    "enterprise_name": "广州市泰昌消防工程有限公司",
+    "legal_representative": "毛西汉",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "16/3/1998 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "10500000",
+    "business_status": "开业",
+    "registered_address": "广州市海珠区滨江东路90号203商铺",
+    "business_scope": "信息咨询服务（不含许可类信息咨询服务）;物联网设备销售;普通机械设备安装服务;五金产品批发;消防器材销售;建筑装饰材料销售;紧固件销售;防火封堵材料销售;建筑用金属配件销售;物联网技术服务;信息系统运行维护服务;信息技术咨询服务;电气设备修理;专用设备修理;通用设备修理;工程和技术研究和试验发展;消防技术服务;工程管理服务;工程技术服务（规划管理、勘察、设计、监理除外）;专业设计服务;安全技术防范系统设计施工服务;技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广;安全咨询服务;各类工程建设活动;建筑智能化工程施工;电气安装服务;特种设备检验检测服务;建设工程质量检测;消防设施工程施工;建设工程设计",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023BFFAZ02502"
+    ],
+    "all_linked_project_ids": [
+      "2023BFFAZ02502"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "广州市泰昌消防工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "毛西汉",
+    "registered_capital": "10500000",
+    "paid_in_capital": "10500000",
+    "establishment_date": "16/3/1998 00:00:00",
+    "approval_date": "7/4/2022 00:00:00",
+    "business_term": "-",
+    "province": "广东省",
+    "city": "广州市",
+    "district": "海珠区",
+    "phone": "13610014419",
+    "additional_phones": "18620000626,13668970665,15907713316,020-87916877,13707871533",
+    "email": "taichang_xiaofang@163.com",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91440105708270153W",
+    "taxpayer_identification_number": "91440105708270153W",
+    "business_registration_number": "440105000030589",
+    "organization_code": "70827015-3",
+    "insured_personnel_count": "130",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "建筑安装业",
+    "former_name": "-",
+    "registered_address": "广州市海珠区滨江东路90号203商铺",
+    "latest_annual_report_address": "广州市海珠区滨江东路90号203商铺",
+    "website": "www.taichang.net",
+    "business_scope": "信息咨询服务（不含许可类信息咨询服务）;物联网设备销售;普通机械设备安装服务;五金产品批发;消防器材销售;建筑装饰材料销售;紧固件销售;防火封堵材料销售;建筑用金属配件销售;物联网技术服务;信息系统运行维护服务;信息技术咨询服务;电气设备修理;专用设备修理;通用设备修理;工程和技术研究和试验发展;消防技术服务;工程管理服务;工程技术服务（规划管理、勘察、设计、监理除外）;专业设计服务;安全技术防范系统设计施工服务;技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广;安全咨询服务;各类工程建设活动;建筑智能化工程施工;电气安装服务;特种设备检验检测服务;建设工程质量检测;消防设施工程施工;建设工程设计",
+    "match_status": "成功"
+  }
+}

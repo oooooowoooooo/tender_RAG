@@ -1,0 +1,72 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913401235770895130",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913401235770895130",
+    "enterprise_name": "合肥国鑫建筑工程有限公司",
+    "legal_representative": "张正好",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "27/6/2011 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "8000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥西县上派镇金宇天地城1号楼1414室",
+    "business_scope": "房屋建筑工程；市政工程；装饰装修工程，园林绿化施工；水利水电工程；公路交通工程；公路路基工程；建筑智能设计及施工；桥梁工程；体育场地工程；钢结构工程；门窗工程；消防设施安装工程；防腐、防水、保温工程；园林古建筑工程；建筑幕墙工程；环保工程；城市及道路照明、亮化工程；通讯工程；音视频智能系统集成工程；安全技术防范工程；照明音响灯光工程；工程设计；工程造价；广告制作、发布；雕塑设计与制作施工；布展、展览工程设计与施工；清扫保洁；道路保洁；房屋拆除；交通标志标识工程；标识标牌设计与制作；建材五金销售及批发；管道非开挖修复；园林花卉种植、销售；公路工程；苗木培育与销售；河道堤防维修养护；机电设备、废有色金属、生产线回收及销售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [
+      "2023ACCFN00495",
+      "2023AEEZN00443"
+    ],
+    "all_linked_project_ids": [
+      "2023ACCFN00495",
+      "2023AEEZN00385",
+      "2023AEEZN00386",
+      "2023AEEZN00443"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥国鑫建筑工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "张正好",
+    "registered_capital": "8000000",
+    "paid_in_capital": "8000000",
+    "establishment_date": "27/6/2011 00:00:00",
+    "approval_date": "30/4/2024 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "phone": "0551-68850035",
+    "additional_phones": "17705654816,13856929388,13801758931,15255883099,0551-68835971",
+    "email": "929718608@qq.com",
+    "additional_emails": "970798193@qq.com,474351847@qq.com,2497005673@qq.com,249700567@qq.com",
+    "unified_social_credit_code": "913401235770895130",
+    "taxpayer_identification_number": "913401235770895130",
+    "business_registration_number": "340123000063254",
+    "organization_code": "57708951-3",
+    "insured_personnel_count": "16",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "房屋建筑业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市肥西县上派镇金宇天地城1号楼1414室",
+    "latest_annual_report_address": "合肥市肥西县上派镇金宇天地城1号楼1414室",
+    "website": "-",
+    "business_scope": "房屋建筑工程；市政工程；装饰装修工程，园林绿化施工；水利水电工程；公路交通工程；公路路基工程；建筑智能设计及施工；桥梁工程；体育场地工程；钢结构工程；门窗工程；消防设施安装工程；防腐、防水、保温工程；园林古建筑工程；建筑幕墙工程；环保工程；城市及道路照明、亮化工程；通讯工程；音视频智能系统集成工程；安全技术防范工程；照明音响灯光工程；工程设计；工程造价；广告制作、发布；雕塑设计与制作施工；布展、展览工程设计与施工；清扫保洁；道路保洁；房屋拆除；交通标志标识工程；标识标牌设计与制作；建材五金销售及批发；管道非开挖修复；园林花卉种植、销售；公路工程；苗木培育与销售；河道堤防维修养护；机电设备、废有色金属、生产线回收及销售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

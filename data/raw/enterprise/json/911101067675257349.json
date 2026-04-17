@@ -1,0 +1,66 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "911101067675257349",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "911101067675257349",
+    "enterprise_name": "北京建友工程造价咨询有限公司",
+    "legal_representative": "贺亚平",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "24/9/2004 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "10000000",
+    "business_status": "开业",
+    "registered_address": "北京市丰台区丰台北路17号院1号楼14层1401内14F-XZL-1405",
+    "business_scope": "工程造价咨询；工程招标代理；工程项目管理。（市场主体依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 72,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023AFFGZ00567"
+    ],
+    "roles": [
+      "agency"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "北京建友工程造价咨询有限公司",
+    "business_status": "开业",
+    "legal_representative": "贺亚平",
+    "registered_capital": "10000000",
+    "paid_in_capital": "10000000",
+    "establishment_date": "24/9/2004 00:00:00",
+    "approval_date": "25/7/2023 00:00:00",
+    "business_term": "-",
+    "province": "北京市",
+    "city": "市辖区",
+    "district": "丰台区",
+    "phone": "13392759853",
+    "additional_phones": "13985270707,15641658768,13855929717,15338555560,18674477059",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "911101067675257349",
+    "taxpayer_identification_number": "911101067675257349",
+    "business_registration_number": "110105007518205",
+    "organization_code": "76752573-4",
+    "insured_personnel_count": "67",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "former_name": "-",
+    "registered_address": "北京市丰台区丰台北路17号院1号楼14层1401内14F-XZL-1405",
+    "latest_annual_report_address": "北京市丰台区丰台街道丰台北路17号院14层1405",
+    "website": "-",
+    "business_scope": "工程造价咨询；工程招标代理；工程项目管理。（市场主体依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "match_status": "成功"
+  }
+}

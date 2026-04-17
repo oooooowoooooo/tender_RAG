@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9134180015330091XU",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9134180015330091XU",
+    "enterprise_name": "宣城市皖江水利建筑工程有限公司",
+    "legal_representative": "张爱平",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "18/3/1997 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "108880000",
+    "business_status": "开业",
+    "registered_address": "安徽省宣城市宣州区狸桥镇宣州经开区南漪湖大道58号",
+    "business_scope": "许可项目：建设工程施工（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）一般项目：砼结构构件制造；砼结构构件销售；建筑砌块制造；建筑砌块销售（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 6,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023ACCGZ00177",
+      "2023ADDGZ00130",
+      "2023AFDGZ01589",
+      "2023ANNGZ00264",
+      "2023ANNGZ00296"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "宣城市皖江水利建筑工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "张爱平",
+    "registered_capital": "108880000",
+    "paid_in_capital": "20080000",
+    "establishment_date": "18/3/1997 00:00:00",
+    "approval_date": "21/6/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "宣城市",
+    "district": "宣州区",
+    "phone": "17756377005",
+    "additional_phones": "0563-2060128,0563-3022155,51119808,20220816,0563-2025899",
+    "email": "wjsl666888@163.com",
+    "additional_emails": "2540535756@qq.com,wjsl888@163.com",
+    "unified_social_credit_code": "9134180015330091XU",
+    "taxpayer_identification_number": "9134180015330091XU",
+    "business_registration_number": "342500000028214",
+    "organization_code": "15330091-X",
+    "insured_personnel_count": "116",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "土木工程建筑业",
+    "former_name": "宣城市皖江水利电力建设安装公司",
+    "registered_address": "安徽省宣城市宣州区狸桥镇宣州经开区南漪湖大道58号",
+    "latest_annual_report_address": "宣城市宝城路289号4楼",
+    "website": "www.xcwjsl.com",
+    "business_scope": "许可项目：建设工程施工（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）一般项目：砼结构构件制造；砼结构构件销售；建筑砌块制造；建筑砌块销售（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": "v1",
+  "required_fields": [
+    "run_id",
+    "dataset",
+    "entity_id",
+    "source_id",
+    "asset_role",
+    "source_url",
+    "resolved_url",
+    "fetch_method",
+    "status",
+    "content_type",
+    "retrieved_at",
+    "storage_path",
+    "sha256"
+  ],
+  "status_codes": [
+    "success",
+    "http_403",
+    "http_404",
+    "rate_limited",
+    "timeout",
+    "empty_body",
+    "anti_bot_interstitial",
+    "parse_link_fail",
+    "content_type_mismatch",
+    "write_fail",
+    "manual_review_required",
+    "network_error",
+    "fetch_error"
+  ]
+}

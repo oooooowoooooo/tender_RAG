@@ -1,0 +1,74 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "11340122003006440A",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "11340122003006440A",
+    "enterprise_name": "肥东县众兴乡人民政府",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "肥东县众兴乡花灯社区",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 33,
+    "selected_project_ids": [
+      "2023ADDGZ00276",
+      "2023ADDZJ00309"
+    ],
+    "all_linked_project_ids": [
+      "2023ADDFN00157",
+      "2023ADDFN00287",
+      "2023ADDGZ00276",
+      "2023ADDHN00051",
+      "2023ADDZJ00309",
+      "2023ADDZN00012"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "肥东县众兴乡人民政府",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥东县",
+    "phone": "13956071690",
+    "additional_phones": "0551-67621135,0551-67621115,0551-67625215,18226606863,13856508731",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "11340122003006440A",
+    "taxpayer_identification_number": "11340122003006440A",
+    "business_registration_number": "-",
+    "organization_code": "00300644-0",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "肥东县众兴乡花灯社区",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

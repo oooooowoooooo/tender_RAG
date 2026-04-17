@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7052725",
+  "normalized_projection": {
+    "title": "国家药监局关于适用《E6（R3）：药物临床试验质量管理规范技术指导原则》国际人用药品注册技术协调会指导原则的公告",
+    "issuer": "国家药监局",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "​2025年第125号",
+    "publish_date": "2025-12-25",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7052725.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2025-12-22",
+    "abolish_date": "",
+    "summary": "为持续推动药品注册技术标准与国际接轨，经研究，国家药品监督管理局决定适用《E6（R3）：药物临床试验质量管理规范技术指导原则》国际人用药品注册技术协调会指导原则（以下简称E6（R3）指导原则）。现就有关事项公告如下。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7052725",
+    "title": "国家药监局关于适用《E6（R3）：药物临床试验质量管理规范技术指导原则》国际人用药品注册技术协调会指导原则的公告",
+    "content": "国家药监局关于适用《E6（R3）：药物临床试验质量管理规范技术指导原则》国际人用药品注册技术协调会指导原则的公告\n2025年第125号\n为持续推动药品注册技术标准与国际接轨，经研究，国家药品监督管理局决定适用《E6（R3）：药物临床试验质量管理规范技术指导原则》国际人用药品注册技术协调会指导原则（以下简称E6（R3）指导原则）。现就有关事项公告如下：\n一、自2026年3月31日后实施的药物临床试验，均适用E6（R3）指导原则。\n二、相关技术指导原则可在国家药品监督管理局药品审评中心网站查询。国家药品监督管理局药品审评中心负责做好本公告实施过程中的相关技术指导工作。\n特此公告。\n国家药监局\n2025年12月22日",
+    "source": "国家药监局网站",
+    "publish_time": "2025-12-25",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7052725.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "309"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7052725",
+    "title": "国家药监局关于适用《E6（R3）：药物临床试验质量管理规范技术指导原则》国际人用药品注册技术协调会指导原则的公告",
+    "source_name": "国家药监局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-12-25",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7052725.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7052725.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家药监局关于适用《E6（R3）：药物临床试验质量管理规范技术指导原则》国际人用药品注册技术协调会指导原则的公告",
+      "发文机关": "国家药监局",
+      "发文字号": "​2025年第125号",
+      "来源": "国家药监局网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "公告",
+      "成文日期": "2025年12月22日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7052725.html"
+  },
+  "raw_legal_doc": {}
+}

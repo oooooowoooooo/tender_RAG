@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "914300007808508659",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "914300007808508659",
+    "enterprise_name": "株洲中车时代电气股份有限公司",
+    "legal_representative": "李东林",
+    "entity_type": "股份有限公司(台港澳与境内合资、上市)",
+    "established_date": "26/9/2005 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "1416236912",
+    "business_status": "开业",
+    "registered_address": "株洲市石峰区时代路",
+    "business_scope": "研发、生产、销售、检修轨道交通牵引变流装置、列车网络通讯产品、自动化设备、安全监控装置、通信信号系统、供电系统、制动系统、屏蔽门、城市智能交通、工业变流、光伏发电、汽车电驱动等相关技术设备及其系统集成，以及工程车辆、大型养路机械电气系统、海洋装备、专用/通用测试系统、测控技术及产品、大功率电力电子器件、复合母排、光伏逆变器、集便器、环保设备、油压减振器及相关电力电子类产品；机电系统集成及工程总承包；计算机网络无线电设备；销售自营和代理商品、技术的进出口业务（国家法律法规禁止和限制的除外）；相关技术开发、服务、培训；计算机网络系统集成、软件开发服务；新能源技术、工程、项目开发；安全技术防范系统设计、施工、维修；普通货运；租赁等。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023BFFAZ02468"
+    ],
+    "all_linked_project_ids": [
+      "2023BFFAZ02468"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "株洲中车时代电气股份有限公司",
+    "business_status": "开业",
+    "legal_representative": "李东林",
+    "registered_capital": "1416236912",
+    "paid_in_capital": "1416236912",
+    "establishment_date": "26/9/2005 00:00:00",
+    "approval_date": "1/11/2021 00:00:00",
+    "business_term": "-",
+    "province": "湖南省",
+    "city": "株洲市",
+    "district": "石峰区",
+    "phone": "22081002",
+    "additional_phones": "0731-28498996,025-83324257,22081502,0731-28493511,010-64954189",
+    "email": "liulin1@csrzic.com",
+    "additional_emails": "-",
+    "unified_social_credit_code": "914300007808508659",
+    "taxpayer_identification_number": "914300007808508659",
+    "business_registration_number": "430000000009725",
+    "organization_code": "78085086-5",
+    "insured_personnel_count": "5585",
+    "company_type": "股份有限公司(台港澳与境内合资、上市)",
+    "industry": "专用设备制造业",
+    "former_name": "-",
+    "registered_address": "株洲市石峰区时代路",
+    "latest_annual_report_address": "湖南省株洲市石峰区时代路",
+    "website": "http://el.teg.cn",
+    "business_scope": "研发、生产、销售、检修轨道交通牵引变流装置、列车网络通讯产品、自动化设备、安全监控装置、通信信号系统、供电系统、制动系统、屏蔽门、城市智能交通、工业变流、光伏发电、汽车电驱动等相关技术设备及其系统集成，以及工程车辆、大型养路机械电气系统、海洋装备、专用/通用测试系统、测控技术及产品、大功率电力电子器件、复合母排、光伏逆变器、集便器、环保设备、油压减振器及相关电力电子类产品；机电系统集成及工程总承包；计算机网络无线电设备；销售自营和代理商品、技术的进出口业务（国家法律法规禁止和限制的除外）；相关技术开发、服务、培训；计算机网络系统集成、软件开发服务；新能源技术、工程、项目开发；安全技术防范系统设计、施工、维修；普通货运；租赁等。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

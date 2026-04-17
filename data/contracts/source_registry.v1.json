@@ -1,0 +1,86 @@
+[
+  {
+    "source_id": "hefei_ggzy_detail_page",
+    "dataset": "tender",
+    "authority_level": "official",
+    "canonicality": "primary",
+    "entity_key": "project_id",
+    "asset_roles": ["detail_html", "attachment_link_index"],
+    "allowed_fetch_methods": ["requests", "browser_rendered"],
+    "content_types": ["text/html"],
+    "risk_level": "high_403",
+    "status": "active"
+  },
+  {
+    "source_id": "hefei_ggzy_attachment",
+    "dataset": "tender",
+    "authority_level": "official",
+    "canonicality": "primary",
+    "entity_key": "project_id",
+    "asset_roles": ["attachment_pdf", "attachment_other"],
+    "allowed_fetch_methods": ["direct_file", "browser_network_capture"],
+    "content_types": ["application/pdf", "application/octet-stream"],
+    "risk_level": "high_403",
+    "status": "active"
+  },
+  {
+    "source_id": "national_history_api",
+    "dataset": "tender",
+    "authority_level": "official",
+    "canonicality": "supplemental",
+    "entity_key": "project_id",
+    "asset_roles": ["history_api_page_json"],
+    "allowed_fetch_methods": ["requests"],
+    "content_types": ["application/json"],
+    "risk_level": "rate_limited",
+    "status": "active"
+  },
+  {
+    "source_id": "gov_cn_policy_html",
+    "dataset": "policy",
+    "authority_level": "official",
+    "canonicality": "primary",
+    "entity_key": "doc_id",
+    "asset_roles": ["document_html"],
+    "allowed_fetch_methods": ["requests"],
+    "content_types": ["text/html"],
+    "risk_level": "low",
+    "status": "frozen"
+  },
+  {
+    "source_id": "policy_existing_curated_row",
+    "dataset": "policy",
+    "authority_level": "mixed",
+    "canonicality": "supplemental",
+    "entity_key": "doc_id",
+    "asset_roles": ["document_bundle_json"],
+    "allowed_fetch_methods": ["copy_existing_row"],
+    "content_types": ["application/json"],
+    "risk_level": "low",
+    "status": "frozen"
+  },
+  {
+    "source_id": "gcis_anhui_profile_page",
+    "dataset": "enterprise",
+    "authority_level": "official",
+    "canonicality": "primary",
+    "entity_key": "entity_id",
+    "asset_roles": ["profile_html"],
+    "allowed_fetch_methods": ["requests", "browser_rendered"],
+    "content_types": ["text/html"],
+    "risk_level": "anti_bot_possible",
+    "status": "active"
+  },
+  {
+    "source_id": "enterprise_existing_profile_row",
+    "dataset": "enterprise",
+    "authority_level": "mixed",
+    "canonicality": "supplemental",
+    "entity_key": "entity_id",
+    "asset_roles": ["source_raw_json"],
+    "allowed_fetch_methods": ["copy_existing_row"],
+    "content_types": ["application/json"],
+    "risk_level": "low",
+    "status": "active"
+  }
+]

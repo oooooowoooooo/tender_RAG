@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340000MA2NKAX24Y",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340000MA2NKAX24Y",
+    "enterprise_name": "安徽省引江济淮集团有限公司",
+    "legal_representative": "王庆武",
+    "entity_type": "其他有限责任公司",
+    "established_date": "28/4/2017 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "40000000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市包河区滨湖云谷路2588淮河科研中心16-20楼",
+    "business_scope": "投资、建设、管理、运营引江济淮工程，主体工程沿线土地、岸线、水资源、生态旅游综合开发和经营。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 161,
+    "selected_project_ids": [
+      "2023DFAAZ02544"
+    ],
+    "all_linked_project_ids": [
+      "2023DFAAZ02544",
+      "2023DFABZ01883",
+      "2023DFAGZ02033"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽省引江济淮集团有限公司",
+    "business_status": "开业",
+    "legal_representative": "王庆武",
+    "registered_capital": "40000000000",
+    "paid_in_capital": "25827820000",
+    "establishment_date": "28/4/2017 00:00:00",
+    "approval_date": "18/6/2024 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "phone": "0551-65722522",
+    "additional_phones": "0551-68110066,0551-65722509,0551-66572254,0551-65722543,19826553812",
+    "email": "yjjh@ahyjjh.com.cn",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91340000MA2NKAX24Y",
+    "taxpayer_identification_number": "91340000MA2NKAX24Y",
+    "business_registration_number": "340000000060661",
+    "organization_code": "MA2NKAX2-4",
+    "insured_personnel_count": "336",
+    "company_type": "其他有限责任公司",
+    "industry": "商务服务业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市包河区滨湖云谷路2588淮河科研中心16-20楼",
+    "latest_annual_report_address": "安徽省合肥市滨湖新区云谷路2588号",
+    "website": "www.ahyjjh.com.cn",
+    "business_scope": "投资、建设、管理、运营引江济淮工程，主体工程沿线土地、岸线、水资源、生态旅游综合开发和经营。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

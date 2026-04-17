@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "913400006709283261",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "中国电信股份有限公司安徽分公司",
+  "raw_profile": {
+    "record_id": "2996",
+    "title": "中国电信股份有限公司安徽分公司",
+    "corporation": "刘颖",
+    "amount_raw": "-",
+    "event_time": "2008-01-24",
+    "manage_date": "2008-01-24 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "合肥新站高新技术产业开发区",
+    "type": "股份有限公司分公司(上市)",
+    "industry": "电信、广播电视和卫星传输服务",
+    "USCC": "913400006709283261",
+    "TIN": "913400006709283261",
+    "registed_num": "340000000009976",
+    "insured_persons": "12714",
+    "location": "安徽省合肥市高新区望江西路800号创新产业园一期D8－2083",
+    "source_url": "http://ah163.com",
+    "content": "许可项目：基础电信业务；第一类增值电信业务；第二类增值电信业务；信息网络传播视听节目（依法须经批准的项目，经相关部门批准后方可开展经营活动）一般项目：凭总公司授权开展经营活动（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）",
+    "search_text": "",
+    "capital_value": "0"
+  }
+}

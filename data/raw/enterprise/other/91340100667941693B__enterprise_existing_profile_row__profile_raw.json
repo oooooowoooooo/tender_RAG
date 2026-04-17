@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "91340100667941693B",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "安徽波动体育文化科技有限公司",
+  "raw_profile": {
+    "record_id": "2337",
+    "title": "安徽波动体育文化科技有限公司",
+    "corporation": "程本宇",
+    "amount_raw": "2000万人民币",
+    "event_time": "2007-11-09",
+    "manage_date": "2007-11-09 至 2027-11-08",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "type": "其他有限责任公司",
+    "industry": "体育",
+    "USCC": "91340100667941693B",
+    "TIN": "91340100667941693B",
+    "registed_num": "340100000030141",
+    "insured_persons": "34",
+    "location": "合肥市包河区桐城南路355号安徽广电文创园502室",
+    "source_url": "http://www.bodensports.cn",
+    "content": "体育经纪、咨询、策划和承办体育赛事；体育赛事活动、文艺演出、会议、文化交流大型活动策划执行；马拉松赛事承办；舞台灯光音响工作设计；体育场馆、设施的经营及管理；企业孵化服务；企业管理咨询服务、体育娱乐设备设计及技术开发；软件开发、计算机系统服务、应用软件服务、基础软件服务；体育文化用品销售、展览服务；设计、制作、代理发布国内广告；广播电视节目制作。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "20000000"
+  }
+}

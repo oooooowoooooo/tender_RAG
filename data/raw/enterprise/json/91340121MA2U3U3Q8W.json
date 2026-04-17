@@ -1,0 +1,63 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340121MA2U3U3Q8W",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340121MA2U3U3Q8W",
+    "enterprise_name": "合肥晨尚医疗科技有限公司",
+    "legal_representative": "周武强",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "2019-09-12",
+    "registration_authority": "",
+    "registered_capital": "100万人民币",
+    "business_status": "存续",
+    "registered_address": "安徽长丰双凤经济开发区谷水路5号501-503、505、518",
+    "business_scope": "医疗器械领域内的技术研发、技术推广、技术咨询、技术服务；一、二、三类医疗器械的租赁、销售、安装、售后服务、维修服务、维护保养服务；计算机软硬件及辅助设备、机电设备、机械设备、电气设备、摄影摄像器材、仪器仪表及设备、通信设备、办公设备、电子产品、家具的租赁、销售、安装及售后服务；自营和代理各类商品及技术的进出口业务（国家限定企业经营或禁止进出口的商品及技术除外）；医疗数据集成和分析；医院管理服务；企业管理咨询；商务信息咨询；建筑装潢装饰工程设计及施工；工程设计及技术咨询；图文设计、制作；建筑材料、装饰材料、五金交电、日用百货、水暖器材、机电产品、金属材料批发兼零售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 3,
+    "selected_project_ids": [
+      "2023BFAHZ02571"
+    ],
+    "all_linked_project_ids": [
+      "2023BFAHZ02069",
+      "2023BFAHZ02437",
+      "2023BFAHZ02571"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "1222",
+    "title": "合肥晨尚医疗科技有限公司",
+    "corporation": "周武强",
+    "amount_raw": "100万人民币",
+    "event_time": "2019-09-12",
+    "manage_date": "2019-09-12 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "长丰县",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "科技推广和应用服务业",
+    "USCC": "91340121MA2U3U3Q8W",
+    "TIN": "91340121MA2U3U3Q8W",
+    "registed_num": "340121000209880",
+    "insured_persons": "10",
+    "location": "安徽长丰双凤经济开发区谷水路5号501-503、505、518",
+    "source_url": "-",
+    "content": "医疗器械领域内的技术研发、技术推广、技术咨询、技术服务；一、二、三类医疗器械的租赁、销售、安装、售后服务、维修服务、维护保养服务；计算机软硬件及辅助设备、机电设备、机械设备、电气设备、摄影摄像器材、仪器仪表及设备、通信设备、办公设备、电子产品、家具的租赁、销售、安装及售后服务；自营和代理各类商品及技术的进出口业务（国家限定企业经营或禁止进出口的商品及技术除外）；医疗数据集成和分析；医院管理服务；企业管理咨询；商务信息咨询；建筑装潢装饰工程设计及施工；工程设计及技术咨询；图文设计、制作；建筑材料、装饰材料、五金交电、日用百货、水暖器材、机电产品、金属材料批发兼零售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "1000000"
+  }
+}

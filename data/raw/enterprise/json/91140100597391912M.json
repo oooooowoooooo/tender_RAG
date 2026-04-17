@@ -1,0 +1,62 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91140100597391912M",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91140100597391912M",
+    "enterprise_name": "山西同方知网数字出版技术有限公司",
+    "legal_representative": "王宏昭",
+    "entity_type": "有限责任公司（非自然人投资或控股的法人独资）",
+    "established_date": "2012-06-18",
+    "registration_authority": "",
+    "registered_capital": "20000万人民币",
+    "business_status": "存续",
+    "registered_address": "山西转型综合改革示范区学府产业园龙城大街58号中国知网数字出版产业基地C座931室",
+    "business_scope": "许可项目：出版物批发；互联网信息服务；互联网直播技术服务；专利代理；出版物互联网销售；信息网络传播视听节目。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）一般项目：大数据服务；信息系统集成服务；软件开发；互联网销售（除销售需要许可的商品）；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；非居住房地产租赁；知识产权服务（专利代理服务除外）；商标代理；版权代理；物联网技术研发；物联网应用服务；物联网技术服务；舆情信息服务；人工智能应用软件开发；数字内容制作服务（不含出版发行）；数字技术服务；数据处理服务；数据处理和存储支持服务；人工智能基础软件开发；互联网数据服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）",
+    "source_url": "http://218.26.30.66",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 5,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023BFAFD01536",
+      "2023BFAFD02096",
+      "2023BFAHJ02340",
+      "2023BFFFJ01650"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "26160",
+    "title": "山西同方知网数字出版技术有限公司",
+    "corporation": "王宏昭",
+    "amount_raw": "20000万人民币",
+    "event_time": "2012-06-18",
+    "manage_date": "2012-06-18 至 2032-06-18",
+    "status": "存续",
+    "province": "山西省",
+    "city": "太原市",
+    "district": "山西转型综合改革示范区",
+    "type": "有限责任公司（非自然人投资或控股的法人独资）",
+    "industry": "新闻和出版业",
+    "USCC": "91140100597391912M",
+    "TIN": "91140100597391912M",
+    "registed_num": "140191205039184",
+    "insured_persons": "689",
+    "location": "山西转型综合改革示范区学府产业园龙城大街58号中国知网数字出版产业基地C座931室",
+    "source_url": "http://218.26.30.66",
+    "content": "许可项目：出版物批发；互联网信息服务；互联网直播技术服务；专利代理；出版物互联网销售；信息网络传播视听节目。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）一般项目：大数据服务；信息系统集成服务；软件开发；互联网销售（除销售需要许可的商品）；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；非居住房地产租赁；知识产权服务（专利代理服务除外）；商标代理；版权代理；物联网技术研发；物联网应用服务；物联网技术服务；舆情信息服务；人工智能应用软件开发；数字内容制作服务（不含出版发行）；数字技术服务；数据处理服务；数据处理和存储支持服务；人工智能基础软件开发；互联网数据服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）",
+    "search_text": "",
+    "capital_value": "200000000"
+  }
+}

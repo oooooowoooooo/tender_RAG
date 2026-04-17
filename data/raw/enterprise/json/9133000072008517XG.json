@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9133000072008517XG",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9133000072008517XG",
+    "enterprise_name": "浙江江南工程管理股份有限公司",
+    "legal_representative": "钱池进",
+    "entity_type": "股份有限公司(非上市、自然人投资或控股)",
+    "established_date": "12/6/2000 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "113000000",
+    "business_status": "开业",
+    "registered_address": "浙江省杭州市求是路8号公元大厦北楼11楼",
+    "business_scope": "许可项目：建设工程监理；水利工程建设监理；建设工程设计；建设工程质量检测；水运工程监理；公路工程监理；文物保护工程监理；水利工程质量检测；安全评价业务；房地产开发经营；建设工程施工(依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准)。一般项目：工程管理服务；招投标代理服务；政府采购代理服务；采购代理服务；规划设计管理；专业设计服务；建筑信息模型技术开发、技术咨询、技术服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；环境保护监测；对外承包工程；计量技术服务；标准化服务；社会经济咨询服务；工程造价咨询业务；软件开发；消防技术服务(除依法须经批准的项目外，凭营业执照依法自主开展经营活动)。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 5,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022BFFBZ02727",
+      "2023AFWBZ01692",
+      "2023BFFBZ01230",
+      "2023BFFBZ01699",
+      "2023BFFBZ02358"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "浙江江南工程管理股份有限公司",
+    "business_status": "开业",
+    "legal_representative": "钱池进",
+    "registered_capital": "113000000",
+    "paid_in_capital": "51000000",
+    "establishment_date": "12/6/2000 00:00:00",
+    "approval_date": "18/3/2024 00:00:00",
+    "business_term": "-",
+    "province": "浙江省",
+    "city": "杭州市",
+    "district": "西湖区",
+    "phone": "33010433",
+    "additional_phones": "0573-84778580,18767567415,0579-82191586,0575-82399793,0571-87636327",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "9133000072008517XG",
+    "taxpayer_identification_number": "9133000072008517XG",
+    "business_registration_number": "330000000005288",
+    "organization_code": "72008517-X",
+    "insured_personnel_count": "3386",
+    "company_type": "股份有限公司(非上市、自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "former_name": "-",
+    "registered_address": "浙江省杭州市求是路8号公元大厦北楼11楼",
+    "latest_annual_report_address": "浙江省杭州市西湖区灵隐街道求是路8号公元大厦北楼十一楼",
+    "website": "www.jnpm.cn",
+    "business_scope": "许可项目：建设工程监理；水利工程建设监理；建设工程设计；建设工程质量检测；水运工程监理；公路工程监理；文物保护工程监理；水利工程质量检测；安全评价业务；房地产开发经营；建设工程施工(依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准)。一般项目：工程管理服务；招投标代理服务；政府采购代理服务；采购代理服务；规划设计管理；专业设计服务；建筑信息模型技术开发、技术咨询、技术服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；环境保护监测；对外承包工程；计量技术服务；标准化服务；社会经济咨询服务；工程造价咨询业务；软件开发；消防技术服务(除依法须经批准的项目外，凭营业执照依法自主开展经营活动)。",
+    "match_status": "成功"
+  }
+}

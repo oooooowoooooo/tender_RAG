@@ -1,0 +1,83 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023AMMZN00183",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "中标"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023AMMZN00183",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "中标"
+    ],
+    "publish_time": "2023-12-04 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 巢湖"
+    ],
+    "tenderer_or_purchaser": [
+      "巢湖市黄麓镇人民政府"
+    ],
+    "agency": [
+      "巢湖市清诚工程咨询有限公司"
+    ],
+    "budget_or_bid_amount": [
+      "1800000.0",
+      "1148809.52"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231204/5662f27d-2c00-4391-9e8d-8685e1506a77.html?ztbtab=002002004&biaoduanguid=3f73d51e-5a18-4882-b6ac-cbf5dc150d68",
+    "attachment_paths": [],
+    "candidate_company_names": [
+      "安徽环旭科技有限公司"
+    ],
+    "winner_company_name": [
+      "安徽环旭科技有限公司"
+    ],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:350",
+      "project_id": "2023AMMZN00183",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231204/5662f27d-2c00-4391-9e8d-8685e1506a77.html?ztbtab=002002004&biaoduanguid=3f73d51e-5a18-4882-b6ac-cbf5dc150d68",
+      "type": "政府采购",
+      "stage": "中标",
+      "event_time": "2023-12-04",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "巢湖",
+      "category": "政府",
+      "sub_category": "工程",
+      "budget_amount": "1800000.0",
+      "purchaser": "巢湖市黄麓镇人民政府",
+      "agency": "巢湖市清诚工程咨询有限公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "安徽环旭科技有限公司",
+      "bid_amount": "1148809.52",
+      "bid_date": "2023-12-15",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"巢湖市黄麓镇人民政府2023年跃进村集体光伏电站建设工程成交结果公告\", \"content\": \"\n\n巢湖市黄麓镇人民政府2023年跃进村集体光伏电站建设工程成交结果公告\n\n一、项目编号:\n2023AMMZN00183\n\n二、项目名称:\n巢湖市黄麓镇人民政府2023年跃进村集体光伏电站建设工程\n\n三、中标（成交）信息\n\n供应商名称：安徽环旭科技有限公司\n\n供应商地址：安徽省合肥市经济技术开发区习友路东，慈光路南清华启迪科技城创客空间D幢办304室\n\n中标（成交）金额：壹佰壹拾肆万捌仟捌佰零玖元伍角贰分(￥1148809.52元)\n\n四、主要标的信息\n{\"table_style\": 1}\n\n名称\n\n巢湖市黄麓镇人民政府\n2023年跃进村集体光伏电站建设工程\n\n施工范围\n\n巢湖市黄麓镇人民政府\n2023年跃进村集体光伏电站建设工程全部工程量清单内容\n\n施工工期\n\n90日历天\n\n项目经理\n\n杨震斌\n\n执业证书信息\n\n皖\n234171708341\n\n五、评审专家（单一来源采购人员）名单\n\n刘西安,李峰,郑浩宇\n\n六、代理服务收费标准及金额\n\n合肥公共资源交易管理协会下发的关于印发《招标（采购）代理行业服务收费指导意见》的通知（合公协【2023】03）规定收取；收费金额：人民币壹万壹仟零肆拾贰元整\n\n七、公告期限\n\n自本公告发布之日起1个工作日。\n\n八、其他补充事宜\n\n（一）若供应商对上述结果有异议\n,可在成交结果公告发布之日起七个工作日内通过电子交易系统提交或以书面形式在工作时间(周一至周五,上午8:00-11:30,下午14:30-17:30,节假日休息)向巢湖市清诚工程咨询有限公司提出质疑,质疑材料递交地址:巢湖市太湖山路7号原老党校（巢湖市公共资源交易中心院内）,联系人：孙工，联系电话:15156055977。\n\n若供应商对质疑处理意见有异议，可以通过网上投诉系统提交或书面形式向巢湖市财政局提出投诉，投诉函中应明确提出自身权益受到损害的事实与理由；联系电话：\n0551-82367013。\n\n（二）质疑提起的条件及不予受理的情形\n\n根据《中华人民共和国政府采购法》、《中华人民共和国政府采购法实施条例》、财政部《政府采购质疑和投诉办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n\n（\n1）质疑应通过电子交易系统提交或以书面形式实名提出，质疑材料应当包括以下内容：\n\n1、质疑人的名称、地址、邮编、联系人及联系电话；\n\n2、采购人名称、项目名称、项目编号、包别号（如有）；\n\n3、被质疑人名称；\n\n4、具体的质疑事项、基本事实及必要的证明材料；\n\n5、明确的请求及主张；\n\n6、必要的法律依据；\n\n7、提起质疑的日期。\n\n质疑人为法人或者其他组织的，应当由法定代表人或其委托代理人（需有委托授权书）签字并加盖公章。\n\n（\n2）有下列情形之一的，不予受理：\n\n1、提起质疑的主体不是参与该政府采购项目活动的供应商；\n\n2、提起质疑的时间超过规定时限的；\n\n3、质疑材料不完整的；\n\n4、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n\n5、对其他供应商的投标文件详细内容质疑，无法提供合法来源渠道的。\n\n6、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n\n巢湖市黄麓镇人民政府\n2023年跃进村集体光伏电站建设工程中标通知书已发出，请中标（成交）供应商登录电子交易系统自行下载电子中标（成交）通知书。\n\n九、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：巢湖市黄麓镇人民政府\n\n地址：合肥市巢湖市黄麓镇新街1号\n\n联系方式：15755116650\n\n2.采购代理机构信息\n\n名称：巢湖市清诚工程咨询有限公司\n\n地址：巢湖市公共资源交易中心1楼[巢湖市太湖山路7号原老党校（阳光花园小区大门对面）]\n\n联系方式：15156055977\n\n3.项目联系方式\n\n项目联系人：孙工\n\n电话：15156055977\n\n累计办理时间：\n0天0小时6分14秒\n\n招标代理机构提交\n\n提交节点：\n\n2023-12-15\n\n交易中心见证\n\n办理状态：\n\n通过\n\n办理时间：\n\n2023-12-15\n\n办理用时：\n\n0天0小时6分\n\n\", \"attachments\": [{\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=04a52507-646a-4c39-844b-4d27dc757133&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"磋商业绩承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=4ed2d47c-c093-49e4-9f4e-4b5ecad6b138&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"中小企业声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=7d4d753a-4eaa-41cb-acda-5311068d1938&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"主要成交标的承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=b573716b-e398-4a7d-a8d6-16547e4fa6d6&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"无重大违法记录声明函、无不良信用记录声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=eda8c413-0a83-40eb-be33-122db78f8d31&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"安徽合肥公共资源交易中心网上投诉操作手册-投标人.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=ff71d1ef-2c45-4bb7-9ac7-979f9d5b82c1&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "3308",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

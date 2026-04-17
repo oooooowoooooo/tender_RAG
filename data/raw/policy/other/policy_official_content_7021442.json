@@ -1,0 +1,68 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7021442",
+  "normalized_projection": {
+    "title": "关于印发《会计奖惩信息归集管理办法（试行）》的通知",
+    "issuer": "财政部",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\其他",
+    "doc_no": "财会〔2025〕3号",
+    "publish_date": "2025-04-28",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7021442.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250428432002584179.pdf"
+    ],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "其他"
+    ],
+    "effective_date": "2025-03-21",
+    "abolish_date": "",
+    "summary": "各地财政部门应认真把握《管理办法》提出的要求，结合本地实际，明确内部职责分工，压实工作责任，确保在全国会计人员统一服务管理平台准确记录会计奖惩信息。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7021442",
+    "title": "关于印发《会计奖惩信息归集管理办法（试行）》的通知",
+    "content": "关于印发《会计奖惩信息归集管理办法（试行）》的通知\n财会〔2025〕3号\n各省、自治区、直辖市、计划单列市财政厅（局），新疆生产建设兵团财政局，有关单位：\n为贯彻落实《中华人民共和国会计法》有关规定，做好会计奖惩信息记录归集，财政部制定了《会计奖惩信息归集管理办法（试行）》（以下简称《管理办法》），现予印发，自2025年7月1日起施行。\n各地财政部门应认真把握《管理办法》提出的要求，结合本地实际，明确内部职责分工，压实工作责任，确保在全国会计人员统一服务管理平台准确记录会计奖惩信息。\n附件：会计奖惩信息归集管理办法（试行）\n财政部\n2025年3月21日\n附件下载：\n会计奖惩信息归集管理办法（试行）.pdf",
+    "source": "财政部网站",
+    "publish_time": "2025-04-28",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7021442.htm",
+    "category": "财政、金融、审计\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "306"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7021442",
+    "title": "关于印发《会计奖惩信息归集管理办法（试行）》的通知",
+    "source_name": "财政部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-04-28",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7021442.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7021442.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《会计奖惩信息归集管理办法（试行）》的通知",
+      "发文机关": "财政部",
+      "发文字号": "财会〔2025〕3号",
+      "来源": "财政部网站",
+      "主题分类": "财政、金融、审计\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年03月21日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250428432002584179.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7021442.html"
+  },
+  "raw_legal_doc": {}
+}

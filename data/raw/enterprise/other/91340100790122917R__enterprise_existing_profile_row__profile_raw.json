@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "91340100790122917R",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "合肥市建设投资控股（集团）有限公司",
+  "raw_profile": {
+    "record_id": "6261",
+    "title": "合肥市建设投资控股（集团）有限公司",
+    "corporation": "李宏卓",
+    "amount_raw": "1329800万人民币",
+    "event_time": "2006-06-16",
+    "manage_date": "2006-06-16 至 2056-05-12",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "-",
+    "type": "有限责任公司(国有独资)",
+    "industry": "建筑安装业",
+    "USCC": "91340100790122917R",
+    "TIN": "91340100790122917R",
+    "registed_num": "340100000298849",
+    "insured_persons": "81",
+    "location": "合肥市滨湖新区武汉路229号",
+    "source_url": "https://www.hfjtjt.com/",
+    "content": "承担城市基础设施、基础产业、能源、交通及市政公用事业项目投资、融资、建设、运营和管理任务；从事授权范围内的国有资产经营管理和资本运作，实施项目投资管理、资产收益管理、产权监督管理、资产重组和经营；参与土地的储备、整理和熟化工作；整合城市资源，实现政府收益最大化 ；对全资、控股、参股企业行使出资者权利；承担市政府授权的其他工作；房屋租赁。（涉及许可证项目凭许可证经营）",
+    "search_text": "",
+    "capital_value": "13298000000"
+  }
+}

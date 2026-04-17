@@ -1,0 +1,71 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7026660",
+  "normalized_projection": {
+    "title": "国家医疗保障局办公室关于进一步完善医药价格和招采信用评价制度的通知",
+    "issuer": "国家医保局办公室",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "医保办发〔2025〕10号",
+    "publish_date": "2025-06-06",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7026660.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202506/P020250606355152366416.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202506/P020250606355153627397.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202506/P020250606355154337524.pdf"
+    ],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2025-05-20",
+    "abolish_date": "",
+    "summary": "近期，国家医疗保障局印发了《关于进一步完善医药价格和招采信用评价制度的通知》，对价格招采信用评价制度进行修订。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7026660",
+    "title": "国家医疗保障局办公室关于进一步完善医药价格和招采信用评价制度的通知",
+    "content": "附件下载：\n  1.医药价格和招采失信事项目录清单（2025版）.pdf\n  2.医药价格和招采信用评价的操作规范（2025版）.pdf\n  3.医药价格和招采信用评价的裁量基准（2025版）.pdf",
+    "source": "国家医保局网站",
+    "publish_time": "2025-06-06",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7026660.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "100"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7026660",
+    "title": "国家医疗保障局办公室关于进一步完善医药价格和招采信用评价制度的通知",
+    "source_name": "国家医保局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-06-06",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7026660.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7026660.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家医疗保障局办公室关于进一步完善医药价格和招采信用评价制度的通知",
+      "发文机关": "国家医保局办公室",
+      "发文字号": "医保办发〔2025〕10号",
+      "来源": "国家医保局网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "通知",
+      "成文日期": "2025年05月20日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202506/P020250606355152366416.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202506/P020250606355153627397.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202506/P020250606355154337524.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7026660.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7030363",
+  "normalized_projection": {
+    "title": "关于印发《人民防空行业标准管理办法》的通知",
+    "issuer": "国家发展改革委办公厅",
+    "index_no": "未标注",
+    "subject_category": "国民经济管理、国有资产监管\\其他",
+    "doc_no": "发改办国防〔2025〕640号",
+    "publish_date": "2025-07-02",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7030363.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250702445214363023.pdf"
+    ],
+    "keywords": [
+      "国民经济管理",
+      "国有资产监管",
+      "其他"
+    ],
+    "effective_date": "2025-06-18",
+    "abolish_date": "",
+    "summary": "为加强人民防空行业标准管理，提高标准工作质量，促进人民防空行业科学技术进步，根据《中华人民共和国标准化法》《中华人民共和国人民防空法》《行业标准管理办法》等规定，国家发展改革委办公厅制定了《人民防空行业标准管理办法》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7030363",
+    "title": "关于印发《人民防空行业标准管理办法》的通知",
+    "content": "国家发展改革委办公厅关于印发《人民防空行业标准管理办法》的通知\n发改办国防〔2025〕640号\n各省、自治区、直辖市及新疆生产建设兵团国防动员（人民防空）办公室、发展改革委，中央直属机关、中央国家机关人民防空办公室，国家人防工程质量监督站、国家人防工程标准定额站：\n为加强人民防空行业标准管理，提高标准工作质量，促进人民防空行业科学技术进步，根据《中华人民共和国标准化法》《中华人民共和国人民防空法》《行业标准管理办法》等规定，我们制定了《人民防空行业标准管理办法》，现印发给你们，请遵照执行。\n国家发展改革委办公厅\n2025年6月18日\n附件：人民防空行业标准管理办法",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-07-02",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7030363.htm",
+    "category": "国民经济管理、国有资产监管\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "285"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7030363",
+    "title": "关于印发《人民防空行业标准管理办法》的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-07-02",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7030363.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7030363.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《人民防空行业标准管理办法》的通知",
+      "发文机关": "国家发展改革委办公厅",
+      "发文字号": "发改办国防〔2025〕640号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "国民经济管理、国有资产监管\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年06月18日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250702445214363023.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7030363.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340400MA2RB3K27B",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340400MA2RB3K27B",
+    "enterprise_name": "安徽展坤建设工程有限公司",
+    "legal_representative": "徐承志",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "7/12/2017 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "50000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市包河区祁门路与机场路吉瑞泰盛国际生活广场C区10层3-1004",
+    "business_scope": "建筑工程、公路工程、市政工程、铁路工程、水利水电工程、通信工程、电力工程、机电工程、矿山工程、钢结构工程、土石方工程、地基与基础工程、消防工程、安防工程、室内外装饰工程、防水防腐保温工程、幕墙工程、园林绿化工程、管道工程、照明工程、桥梁工程、隧道工程、输变电工程施工，塑胶场地铺设，大棚搭设，房屋维修，建筑工程咨询及管理，起重设备安装，国内广告设计、制作、代理及发布，标牌、灯箱设计、制作、安装，城市生活垃圾清运，污水处理，保洁服务，物业管理，施工劳务（不含劳务派遣），工程机械设备租赁、销售、安装，混凝土预制构件设计、加工、销售，石材加工及销售，陶瓷制品设计、制作及销售，门窗制作、销售及安装，建材、装饰材料销售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023BFFGZ02762"
+    ],
+    "all_linked_project_ids": [
+      "2023ACCGZ00117",
+      "2023BFFGZ02762"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽展坤建设工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "徐承志",
+    "registered_capital": "50000000",
+    "paid_in_capital": "0",
+    "establishment_date": "7/12/2017 00:00:00",
+    "approval_date": "27/3/2020 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "phone": "0551-63660861",
+    "additional_phones": "15385579332,0551-63668762,17354152991,18756982362",
+    "email": "2278924553@qq.com",
+    "additional_emails": "742990187@qq.com,984052806@qq.com,602569460@qq.com",
+    "unified_social_credit_code": "91340400MA2RB3K27B",
+    "taxpayer_identification_number": "91340400MA2RB3K27B",
+    "business_registration_number": "340400000276935",
+    "organization_code": "MA2RB3K2-7",
+    "insured_personnel_count": "23",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "房屋建筑业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市包河区祁门路与机场路吉瑞泰盛国际生活广场C区10层3-1004",
+    "latest_annual_report_address": "安徽省合肥市包河区宿松路与阊水路交口国贸智谷大厦1202",
+    "website": "-",
+    "business_scope": "建筑工程、公路工程、市政工程、铁路工程、水利水电工程、通信工程、电力工程、机电工程、矿山工程、钢结构工程、土石方工程、地基与基础工程、消防工程、安防工程、室内外装饰工程、防水防腐保温工程、幕墙工程、园林绿化工程、管道工程、照明工程、桥梁工程、隧道工程、输变电工程施工，塑胶场地铺设，大棚搭设，房屋维修，建筑工程咨询及管理，起重设备安装，国内广告设计、制作、代理及发布，标牌、灯箱设计、制作、安装，城市生活垃圾清运，污水处理，保洁服务，物业管理，施工劳务（不含劳务派遣），工程机械设备租赁、销售、安装，混凝土预制构件设计、加工、销售，石材加工及销售，陶瓷制品设计、制作及销售，门窗制作、销售及安装，建材、装饰材料销售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

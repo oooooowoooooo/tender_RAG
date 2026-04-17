@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913401007627859326",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913401007627859326",
+    "enterprise_name": "安徽中信工程咨询有限责任公司",
+    "legal_representative": "程顺霞",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "11/6/2004 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "5000000",
+    "business_status": "开业",
+    "registered_address": "合肥市蜀山区潜山路525号方大郢综合楼10-11层整层",
+    "business_scope": "工程造价咨询；项目管理及咨询；招标代理；政府采购代理；项目建议书、项目可行性报告编制；工程造价司法鉴定咨询。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023ANNFZ00493"
+    ],
+    "all_linked_project_ids": [
+      "2023ANNFZ00493",
+      "2023ANNZN00314"
+    ],
+    "roles": [
+      "agency"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽中信工程咨询有限责任公司",
+    "business_status": "开业",
+    "legal_representative": "程顺霞",
+    "registered_capital": "5000000",
+    "paid_in_capital": "5000000",
+    "establishment_date": "11/6/2004 00:00:00",
+    "approval_date": "24/5/2021 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "0566-2318290",
+    "additional_phones": "19956629433,19156446381,15855710085,18656607539,17330746675",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "913401007627859326",
+    "taxpayer_identification_number": "913401007627859326",
+    "business_registration_number": "340000000009482",
+    "organization_code": "76278593-2",
+    "insured_personnel_count": "40",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "former_name": "-",
+    "registered_address": "合肥市蜀山区潜山路525号方大郢综合楼10-11层整层",
+    "latest_annual_report_address": "合肥市蜀山区潜山路525号方大郢综合楼10-11层整层",
+    "website": "-",
+    "business_scope": "工程造价咨询；项目管理及咨询；招标代理；政府采购代理；项目建议书、项目可行性报告编制；工程造价司法鉴定咨询。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7054201",
+  "normalized_projection": {
+    "title": "八部门关于印发《“人工智能+制造”专项行动实施意见》的通知",
+    "issuer": "工业和信息化部 中央网信办 国家发展改革委 教育部 商务部 国务院国资委 市场监管总局 国家数据局",
+    "index_no": "未标注",
+    "subject_category": "科技、教育\\科技",
+    "doc_no": "工信部联科〔2025〕279号",
+    "publish_date": "2026-01-07",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054201.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260107769494633586.pdf"
+    ],
+    "keywords": [
+      "科技",
+      "教育"
+    ],
+    "effective_date": "2025-12-25",
+    "abolish_date": "",
+    "summary": "为贯彻落实《关于深入实施“人工智能+”行动的意见》，加快推进人工智能技术在制造业融合应用，打造新质生产力，全方位、深层次、高水平赋能新型工业化，制定本实施意见。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7054201",
+    "title": "八部门关于印发《“人工智能+制造”专项行动实施意见》的通知",
+    "content": "工业和信息化部 中央网信办 国家发展改革委 教育部 商务部 国务院国资委 市场监管总局 国家数据局关于印发《“人工智能+制造”专项行动实施意见》的通知\n工信部联科〔2025〕279号\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化主管部门、党委网信办、发展改革主管部门、教育厅（教委）、商务主管部门、国资主管部门、市场监管局（厅、委）、数据管理部门，各有关单位：\n现将《“人工智能+制造”专项行动实施意见》印发给你们，请结合实际认真抓好落实。\n工业和信息化部\n中央网信办\n国家发展改革委\n教育部\n商务部\n国务院国资委\n市场监管总局\n国家数据局\n2025年12月25日\n“人工智能+制造”专项行动实施意见",
+    "source": "工业和信息化部网站",
+    "publish_time": "2026-01-07",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054201.htm",
+    "category": "科技、教育\\科技",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "309"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7054201",
+    "title": "八部门关于印发《“人工智能+制造”专项行动实施意见》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-01-07",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054201.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054201.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "八部门关于印发《“人工智能+制造”专项行动实施意见》的通知",
+      "发文机关": "工业和信息化部 中央网信办 国家发展改革委 教育部 商务部 国务院国资委 市场监管总局 国家数据局",
+      "发文字号": "工信部联科〔2025〕279号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "科技、教育\\科技",
+      "公文种类": "通知",
+      "成文日期": "2025年12月25日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260107769494633586.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7054201.html"
+  },
+  "raw_legal_doc": {}
+}

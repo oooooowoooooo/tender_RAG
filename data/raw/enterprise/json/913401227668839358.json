@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913401227668839358",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913401227668839358",
+    "enterprise_name": "合肥东部新城水务工程建设有限公司",
+    "legal_representative": "刘长铸",
+    "entity_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "established_date": "4/6/2002 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "6000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥东县深秀路2号肥东县政务服务中心四楼东南角",
+    "business_scope": "水务工程建设；制水、供水、中水、污水处理设施设备的投资、设计、开发、建设、运营、管理、维护；水利市政工程施工；水务投资、水电开发、水系景观、水体环保、水系治理、水土保持、污泥处置、生态修复、园林绿化。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 14,
+    "selected_project_ids": [
+      "2023ADDGZ00273"
+    ],
+    "all_linked_project_ids": [
+      "2023ADDGZ00273"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥东部新城水务工程建设有限公司",
+    "business_status": "开业",
+    "legal_representative": "刘长铸",
+    "registered_capital": "6000000",
+    "paid_in_capital": "6000000",
+    "establishment_date": "4/6/2002 00:00:00",
+    "approval_date": "4/2/2021 00:00:00",
+    "business_term": "2002-06-04 至 2032-06-04",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥东县",
+    "phone": "67737095",
+    "additional_phones": "0551-67721625,0551-67709204,15255137216,13966711880,0551-67732010",
+    "email": "1160750169@qq.com",
+    "additional_emails": "-",
+    "unified_social_credit_code": "913401227668839358",
+    "taxpayer_identification_number": "913401227668839358",
+    "business_registration_number": "340122000007504",
+    "organization_code": "76688393-5",
+    "insured_personnel_count": "214",
+    "company_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "industry": "房地产业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市肥东县深秀路2号肥东县政务服务中心四楼东南角",
+    "latest_annual_report_address": "安徽省合肥市肥东县深秀路2号肥东县政务服务中心四楼东南角",
+    "website": "-",
+    "business_scope": "水务工程建设；制水、供水、中水、污水处理设施设备的投资、设计、开发、建设、运营、管理、维护；水利市政工程施工；水务投资、水电开发、水系景观、水体环保、水系治理、水土保持、污泥处置、生态修复、园林绿化。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

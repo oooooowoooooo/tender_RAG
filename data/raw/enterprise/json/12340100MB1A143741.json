@@ -1,0 +1,78 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "12340100MB1A143741",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "12340100MB1A143741",
+    "enterprise_name": "合肥经济技术开发区重点工程建设管理中心",
+    "legal_representative": "余启宁",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "409000",
+    "business_status": "开业",
+    "registered_address": "合肥经济技术开发区翠微路1710号",
+    "business_scope": "宗旨：负责合肥经济技术开发区财政性投资项目建设的组织、管理和监督工作。 业务范围：负责财政性投资项目的施工、监理、第三方检测等单位的招标工作；负责财政性投资项目建设过程中的现场管理协调、工程质量、安全生产、技术档案管理、按项目进度申报工程款等工作；负责项目竣工验收、移交、备案等工作；负责项目决算初审及终审申报工作；负责质量保修、回访等工作；承办工委、管委会和上级部门交办的其他事项。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 4,
+    "all_tender_frequency": 167,
+    "selected_project_ids": [
+      "2023AEEGZ00363",
+      "2023AJJBZ00162",
+      "2023AJJBZ00179",
+      "2023AJJFN00086"
+    ],
+    "all_linked_project_ids": [
+      "2023AEEGZ00363",
+      "2023AJJBZ00130",
+      "2023AJJBZ00162",
+      "2023AJJBZ00179",
+      "2023AJJFN00086",
+      "2023BFJBZ02299",
+      "2023BFJGZ02147",
+      "2023BFJGZ02356"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥经济技术开发区重点工程建设管理中心",
+    "business_status": "开业",
+    "legal_representative": "余启宁",
+    "registered_capital": "409000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "2020-01-13 至 2025-01-13",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "合肥市",
+    "phone": "13965040430",
+    "additional_phones": "13956079692,15156689068,0551-63879060,0551-66223831,0551-63878909",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "12340100MB1A143741",
+    "taxpayer_identification_number": "12340100MB1A143741",
+    "business_registration_number": "-",
+    "organization_code": "MB1A1437-4",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "合肥经济技术开发区翠微路1710号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "宗旨：负责合肥经济技术开发区财政性投资项目建设的组织、管理和监督工作。 业务范围：负责财政性投资项目的施工、监理、第三方检测等单位的招标工作；负责财政性投资项目建设过程中的现场管理协调、工程质量、安全生产、技术档案管理、按项目进度申报工程款等工作；负责项目竣工验收、移交、备案等工作；负责项目决算初审及终审申报工作；负责质量保修、回访等工作；承办工委、管委会和上级部门交办的其他事项。",
+    "match_status": "成功"
+  }
+}

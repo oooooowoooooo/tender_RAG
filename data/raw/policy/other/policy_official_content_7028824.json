@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7028824",
+  "normalized_projection": {
+    "title": "国家中医药局综合司 国家卫生健康委办公厅 中央军委后勤保障部卫生局关于印发《重大疑难疾病中西医临床协作项目建设管理办法》的通知",
+    "issuer": "国家中医药局综合司 国家卫生健康委办公厅 中央军委后勤保障部卫生局",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "国中医药综结合函〔2025〕112号",
+    "publish_date": "2025-06-20",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7028824.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202506/P020250620525469924290.pdf"
+    ],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2025-05-30",
+    "abolish_date": "",
+    "summary": "2024年12月，国家中医药局综合司、国家卫生健康委办公厅、中央军委后勤保障部卫生局联合公布了重大疑难疾病中西医临床协作项目名单，正式启动了重大疑难疾病中西医临床协作项目建设。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7028824",
+    "title": "国家中医药局综合司 国家卫生健康委办公厅 中央军委后勤保障部卫生局关于印发《重大疑难疾病中西医临床协作项目建设管理办法》的通知",
+    "content": "国家中医药局综合司 国家卫生健康委办公厅 中央军委后勤保障部卫生局关于印发《重大疑难疾病中西医临床协作项目建设管理办法》的通知\n国中医药综结合函〔2025〕112号\n各省、自治区、直辖市卫生健康委、中医药管理局，新疆生产建设兵团卫生健康委，军队各有关单位：\n2024年12月，国家中医药局综合司、国家卫生健康委办公厅、中央军委后勤保障部卫生局联合公布了重大疑难疾病中西医临床协作项目名单，正式启动了重大疑难疾病中西医临床协作项目建设。为加强项目管理，推进项目建设，提高实施效率和效果，国家中医药局、国家卫生健康委、中央军委后勤保障部卫生局联合制定了《重大疑难疾病中西医临床协作项目建设管理办法》。现印发给你们，请遵照执行。\n国家中医药局综合司 国家卫生健康委办公厅\n中央军委后勤保障部卫生局\n2025年5月30日\n(信息公开形式：主动公开)\n附件：重大疑难疾病中西医临床协作项目建设管理办法.pdf",
+    "source": "国家中医药局网站",
+    "publish_time": "2025-06-20",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7028824.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "399"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7028824",
+    "title": "国家中医药局综合司 国家卫生健康委办公厅 中央军委后勤保障部卫生局关于印发《重大疑难疾病中西医临床协作项目建设管理办法》的通知",
+    "source_name": "国家中医药局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-06-20",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7028824.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7028824.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家中医药局综合司 国家卫生健康委办公厅 中央军委后勤保障部卫生局关于印发《重大疑难疾病中西医临床协作项目建设管理办法》的通知",
+      "发文机关": "国家中医药局综合司 国家卫生健康委办公厅 中央军委后勤保障部卫生局",
+      "发文字号": "国中医药综结合函〔2025〕112号",
+      "来源": "国家中医药局网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "通知",
+      "成文日期": "2025年05月30日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202506/P020250620525469924290.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7028824.html"
+  },
+  "raw_legal_doc": {}
+}

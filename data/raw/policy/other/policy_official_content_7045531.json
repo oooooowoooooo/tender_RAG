@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7045531",
+  "normalized_projection": {
+    "title": "住房城乡建设部办公厅关于印发住房城乡建设领域公共信用信息目录（2025年版）的通知",
+    "issuer": "住房城乡建设部办公厅",
+    "index_no": "未标注",
+    "subject_category": "城乡建设、环境保护\\城乡建设（含住房）",
+    "doc_no": "建办厅〔2025〕56号",
+    "publish_date": "2025-10-24",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045531.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251024505764079471.xlsx"
+    ],
+    "keywords": [
+      "城乡建设",
+      "环境保护",
+      "城乡建设（含住房）"
+    ],
+    "effective_date": "2025-10-20",
+    "abolish_date": "",
+    "summary": "为贯彻落实党中央、国务院关于推进社会信用体系建设高质量发展的决策部署，规范住房城乡建设领域公共信用信息归集范围，根据《全国公共信用信息基础目录（2025年版）》，结合住房城乡建设工作实际，我部编制了《住房城乡建设领域公共信用信息目录（2025年版）》，现予以印发。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7045531",
+    "title": "住房城乡建设部办公厅关于印发住房城乡建设领域公共信用信息目录（2025年版）的通知",
+    "content": "住房城乡建设部办公厅\n关于印发住房城乡建设领域公共信用信息目录（2025年版）的通知\n建办厅〔2025〕56号\n各省、自治区住房城乡建设厅，直辖市住房城乡建设（管）委及有关部门，新疆生产建设兵团住房城乡建设局,部机关各单位、直属有关单位：\n为贯彻落实党中央、国务院关于推进社会信用体系建设高质量发展的决策部署，规范住房城乡建设领域公共信用信息归集范围，根据《全国公共信用信息基础目录（2025年版）》，结合住房城乡建设工作实际，我部编制了《住房城乡建设领域公共信用信息目录（2025年版）》，现予以印发。本通知自印发之日起实施，上一版同时废止。\n住房城乡建设部办公厅\n2025年10月20日\n（此件主动公开）\n附件：住房城乡建设领域公共信用信息目录（2025年版）",
+    "source": "住房城乡建设部网站",
+    "publish_time": "2025-10-24",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045531.htm",
+    "category": "城乡建设、环境保护\\城乡建设（含住房）",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "332"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7045531",
+    "title": "住房城乡建设部办公厅关于印发住房城乡建设领域公共信用信息目录（2025年版）的通知",
+    "source_name": "住房城乡建设部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-10-24",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045531.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045531.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "住房城乡建设部办公厅关于印发住房城乡建设领域公共信用信息目录（2025年版）的通知",
+      "发文机关": "住房城乡建设部办公厅",
+      "发文字号": "建办厅〔2025〕56号",
+      "来源": "住房城乡建设部网站",
+      "主题分类": "城乡建设、环境保护\\城乡建设（含住房）",
+      "公文种类": "通知",
+      "成文日期": "2025年10月20日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251024505764079471.xlsx"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7045531.html"
+  },
+  "raw_legal_doc": {}
+}

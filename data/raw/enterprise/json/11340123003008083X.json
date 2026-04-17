@@ -1,0 +1,74 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "11340123003008083X",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "11340123003008083X",
+    "enterprise_name": "肥西县民政局",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "肥西县上派镇三河路30号",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 22,
+    "selected_project_ids": [
+      "2023AEEFN00471",
+      "2023AEEHX00421"
+    ],
+    "all_linked_project_ids": [
+      "2023AEEBZ00325",
+      "2023AEEFN00257",
+      "2023AEEFN00471",
+      "2023AEEGZ00326",
+      "2023AEEHX00059",
+      "2023AEEHX00421"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "肥西县民政局",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "phone": "13956074778",
+    "additional_phones": "18956036025,18326656156,13966734603,0551-63751518,13856025578",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "11340123003008083X",
+    "taxpayer_identification_number": "11340123003008083X",
+    "business_registration_number": "-",
+    "organization_code": "00300808-3",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "肥西县上派镇三河路30号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

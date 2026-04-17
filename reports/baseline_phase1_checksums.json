@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-04-16 14:20:46",
+  "deliverables": [
+    {
+      "path": "data/raw",
+      "type": "directory",
+      "baseline_manifest_file_count": 3917
+    },
+    {
+      "path": "data/manifests/raw_manifest.baseline_phase1.jsonl",
+      "type": "file",
+      "sha256": "828395b6e44097ae1d82bf73dd231c3a1c9c7261da27b2a6dc87606357ba3f89",
+      "line_count": 3917
+    },
+    {
+      "path": "data/contracts/data_targets.json",
+      "type": "file",
+      "sha256": "80205f2806867f328078d274af41fa0b7040f973b8487ecec9ad3ec23bb6f77a"
+    },
+    {
+      "path": "docs/retrieval_strategy.md",
+      "type": "file",
+      "sha256": "757f87a4542aa07b2b1c925700996643e1838ff4eb3709f827a514e2ab8a37ca"
+    },
+    {
+      "path": "reports/coverage_report.md",
+      "type": "file",
+      "sha256": "c202e4e0daf3402d8cf9390aba0b68c9cd90862c9de7d670104c7a0bea9062dc"
+    }
+  ]
+}

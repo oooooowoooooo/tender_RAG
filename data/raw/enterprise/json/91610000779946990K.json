@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91610000779946990K",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91610000779946990K",
+    "enterprise_name": "华睿诚项目管理有限公司",
+    "legal_representative": "李逸春",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "9/12/2005 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "10000000",
+    "business_status": "开业",
+    "registered_address": "陕西省西安市曲江新区雁翔路3269号旺座曲江E座29层2901号",
+    "business_scope": "一般项目：金属结构制造；园林绿化工程施工；对外承包工程；招投标代理服务；政府采购代理服务；工程和技术研究和试验发展；工程管理服务；工程造价咨询业务；单建式人防工程监理。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）许可项目：特种设备安装改造修理；输电、供电、受电电力设施的安装、维修和试验；地质灾害治理工程施工；房屋建筑和市政基础设施项目工程总承包；建设工程施工；住宅室内装饰装修；消防设施工程施工；建设工程监理；公路工程监理；水运工程监理；水利工程建设监理；文物保护工程监理；地质灾害治理工程监理；建设工程设计。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 9,
+    "selected_project_ids": [
+      "2023ANNAZ00582"
+    ],
+    "all_linked_project_ids": [
+      "2023AEWGZ00243",
+      "2023ANNAZ00582",
+      "2023ANNGZ00173"
+    ],
+    "roles": [
+      "agency"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "华睿诚项目管理有限公司",
+    "business_status": "开业",
+    "legal_representative": "李逸春",
+    "registered_capital": "10000000",
+    "paid_in_capital": "0",
+    "establishment_date": "9/12/2005 00:00:00",
+    "approval_date": "31/5/2024 00:00:00",
+    "business_term": "-",
+    "province": "陕西省",
+    "city": "西安市",
+    "district": "雁塔区",
+    "phone": "13930788743",
+    "additional_phones": "18259157817,0318-2053277,029-82350029,0596-2161156,0915-5212157",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91610000779946990K",
+    "taxpayer_identification_number": "91610000779946990K",
+    "business_registration_number": "610000100094429",
+    "organization_code": "77994699-0",
+    "insured_personnel_count": "214",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "建筑装饰、装修和其他建筑业",
+    "former_name": "-",
+    "registered_address": "陕西省西安市曲江新区雁翔路3269号旺座曲江E座29层2901号",
+    "latest_annual_report_address": "西安市曲江新区雁翔路3269号旺座曲江E座29层2901号",
+    "website": "www.huaruicheng.com.cn",
+    "business_scope": "一般项目：金属结构制造；园林绿化工程施工；对外承包工程；招投标代理服务；政府采购代理服务；工程和技术研究和试验发展；工程管理服务；工程造价咨询业务；单建式人防工程监理。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）许可项目：特种设备安装改造修理；输电、供电、受电电力设施的安装、维修和试验；地质灾害治理工程施工；房屋建筑和市政基础设施项目工程总承包；建设工程施工；住宅室内装饰装修；消防设施工程施工；建设工程监理；公路工程监理；水运工程监理；水利工程建设监理；文物保护工程监理；地质灾害治理工程监理；建设工程设计。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）",
+    "match_status": "成功"
+  }
+}

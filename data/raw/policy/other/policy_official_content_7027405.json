@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7027405",
+  "normalized_projection": {
+    "title": "国家移民管理局关于新增印度尼西亚为中国240小时过境免签政策适用国家的公告",
+    "issuer": "国家移民局",
+    "index_no": "未标注",
+    "subject_category": "商贸、海关、旅游\\其他",
+    "doc_no": "2025年第2号",
+    "publish_date": "2025-06-12",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7027405.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "商贸",
+      "海关",
+      "旅游",
+      "其他"
+    ],
+    "effective_date": "2025-06-12",
+    "abolish_date": "",
+    "summary": "自2025年6月12日起，印度尼西亚公民可适用240小时过境免签政策便捷来华，中国240小时过境免签政策适用国家范围增至55国。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7027405",
+    "title": "国家移民管理局关于新增印度尼西亚为中国240小时过境免签政策适用国家的公告",
+    "content": "国家移民管理局关于新增印度尼西亚为中国240小时过境免签政策适用国家的公告\n2025年第2号\n自2025年6月12日起，印度尼西亚公民可适用240小时过境免签政策便捷来华，中国240小时过境免签政策适用国家范围增至55国，名单如下：\n欧洲（40国）：奥地利、比利时、捷克、丹麦、爱沙尼亚、芬兰、法国、德国、希腊、匈牙利、冰岛、意大利、拉脱维亚、立陶宛、卢森堡、马耳他、荷兰、波兰、葡萄牙、斯洛伐克、斯洛文尼亚、西班牙、瑞典、瑞士、摩纳哥、俄罗斯、英国、爱尔兰、塞浦路斯、保加利亚、罗马尼亚、乌克兰、塞尔维亚、克罗地亚、波黑、黑山、北马其顿、阿尔巴尼亚、白俄罗斯、挪威。\n美洲（6国）：美国、加拿大、巴西、墨西哥、阿根廷、智利。\n大洋洲（2国）：澳大利亚、新西兰。\n亚洲（7国）：韩国、日本、新加坡、文莱、阿联酋、卡塔尔、印度尼西亚。\n特此公告。\n国家移民管理局\n2025年6月12日\n\nAnnouncement on China's 240-hour Visa-Free Transit Policy Applicable to Indonesia\nDocument No. 2 [2025]\nEffective June 12, 2025, nationals of Indonesia will be eligible for China's 240-hour visa-free transit policy. This expands the list of eligible countries to 55. The full list is as follows:\nEurope (40 countries): Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, Monaco, Russia, the United Kingdom, Ireland, Cyprus, Bulgaria, Romania, Ukraine, Serbia, Croatia, Bosnia and Herzegovina, Montenegro, North Macedonia, Albania, Belarus, Norway.\nAmericas (6 countries): the United States, Canada, Brazil, Mexico, Argentina, Chile.\nOceania (2 countries): Australia, New Zealand.\nAsia (7 countries): Republic of Korea, Japan, Singapore, Brunei, United Arab Emirates, Qatar, Indonesia.\nAnnouncement is hereby given.\nNational Immigration Administration\nJune 12, 2025",
+    "source": "国家移民局网站",
+    "publish_time": "2025-06-12",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7027405.htm",
+    "category": "商贸、海关、旅游\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "1437"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7027405",
+    "title": "国家移民管理局关于新增印度尼西亚为中国240小时过境免签政策适用国家的公告",
+    "source_name": "国家移民局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-06-12",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7027405.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7027405.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家移民管理局关于新增印度尼西亚为中国240小时过境免签政策适用国家的公告",
+      "发文机关": "国家移民局",
+      "发文字号": "2025年第2号",
+      "来源": "国家移民局网站",
+      "主题分类": "商贸、海关、旅游\\其他",
+      "公文种类": "公告",
+      "成文日期": "2025年06月12日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7027405.html"
+  },
+  "raw_legal_doc": {}
+}

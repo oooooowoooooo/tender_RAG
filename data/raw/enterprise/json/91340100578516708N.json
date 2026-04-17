@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100578516708N",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100578516708N",
+    "enterprise_name": "安徽正奇建设有限公司",
+    "legal_representative": "许明英",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "5/7/2011 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "100600000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市庐阳区蒙城北路与凤台路交口蓝筹国际1708室",
+    "business_scope": "公路工程；市政公用工程；公路养护工程；安全设施工程；机场设施工程；绿化工程；水利水电工程施工；机电工程。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023ADDGZ00151",
+      "2023ANNGZ00361",
+      "2023BFBGZ00721"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽正奇建设有限公司",
+    "business_status": "开业",
+    "legal_representative": "许明英",
+    "registered_capital": "100600000",
+    "paid_in_capital": "30600000",
+    "establishment_date": "5/7/2011 00:00:00",
+    "approval_date": "20/3/2018 00:00:00",
+    "business_term": "2011-07-05 至 2051-06-28",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐阳区",
+    "phone": "13420062008",
+    "additional_phones": "0311-80761912,13956930967,13966670866,15256023053,0551-65650939",
+    "email": "22176153@qq.com",
+    "additional_emails": "1321478031@qq.com,1029208403@qq.com",
+    "unified_social_credit_code": "91340100578516708N",
+    "taxpayer_identification_number": "91340100578516708N",
+    "business_registration_number": "340100000540974",
+    "organization_code": "57851670-8",
+    "insured_personnel_count": "23",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "土木工程建筑业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市庐阳区蒙城北路与凤台路交口蓝筹国际1708室",
+    "latest_annual_report_address": "合肥市包河区马鞍山路与望江路交口金中环广场C座13层",
+    "website": "-",
+    "business_scope": "公路工程；市政公用工程；公路养护工程；安全设施工程；机场设施工程；绿化工程；水利水电工程施工；机电工程。",
+    "match_status": "成功"
+  }
+}

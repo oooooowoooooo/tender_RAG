@@ -1,0 +1,71 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9111000063370987XW",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9111000063370987XW",
+    "enterprise_name": "中建二局第三建筑工程有限公司",
+    "legal_representative": "吴滨",
+    "entity_type": "其他有限责任公司",
+    "established_date": "1/12/1952 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "1200431400",
+    "business_status": "开业",
+    "registered_address": "北京市丰台区海鹰路6号院30号楼",
+    "business_scope": "普通货物运输；施工总承包，专业承包；工程勘察设计；起重机械设备拆装、维修和租赁；模板制作与租赁；建筑料具的租赁及金属制品、商品混凝土的销售；销售建筑材料；建筑材料及建筑产品试验与检验；自有房产的物业管理（含写字间出租）。（市场主体依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [
+      "2023AFCGZ02459"
+    ],
+    "all_linked_project_ids": [
+      "2023AFCGZ02459",
+      "2023BFCGZ00798",
+      "2023BFFGZ00824",
+      "2023DFWGZ01695"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "中建二局第三建筑工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "吴滨",
+    "registered_capital": "1200431400",
+    "paid_in_capital": "1200431400",
+    "establishment_date": "1/12/1952 00:00:00",
+    "approval_date": "15/12/2023 00:00:00",
+    "business_term": "2007-12-13 至 2057-12-12",
+    "province": "北京市",
+    "city": "市辖区",
+    "district": "丰台区",
+    "phone": "18211567993",
+    "additional_phones": "010-88552895,010-63772711,13419687285,010-63772855,18823219916",
+    "email": "cscec2b3cscb@126.com",
+    "additional_emails": "sgs007@126.com",
+    "unified_social_credit_code": "9111000063370987XW",
+    "taxpayer_identification_number": "9111000063370987XW",
+    "business_registration_number": "110000004326069",
+    "organization_code": "63370987-X",
+    "insured_personnel_count": "3285",
+    "company_type": "其他有限责任公司",
+    "industry": "房屋建筑业",
+    "former_name": "-",
+    "registered_address": "北京市丰台区海鹰路6号院30号楼",
+    "latest_annual_report_address": "北京市丰台区海鹰路6号院30号楼",
+    "website": "www.cscec2b3c.com",
+    "business_scope": "普通货物运输；施工总承包，专业承包；工程勘察设计；起重机械设备拆装、维修和租赁；模板制作与租赁；建筑料具的租赁及金属制品、商品混凝土的销售；销售建筑材料；建筑材料及建筑产品试验与检验；自有房产的物业管理（含写字间出租）。（市场主体依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "match_status": "成功"
+  }
+}

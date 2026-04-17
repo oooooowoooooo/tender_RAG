@@ -1,0 +1,74 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7031575",
+  "normalized_projection": {
+    "title": "国家医疗保障局关于公布《2025年国家基本医疗保险、生育保险和工伤保险药品目录及商业健康保险创新药品目录调整工作方案》等相关文件的公告",
+    "issuer": "国家医保局",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "未标注",
+    "publish_date": "2025-07-11",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7031575.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250711338864430213.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250711338864590628.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250711338864718829.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250711338864809556.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250711338864881620.pdf"
+    ],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2025-07-10",
+    "abolish_date": "",
+    "summary": "2025年7月11日—20日在我局国家医保服务平台开通网上申报系统。请符合条件的申报主体予以关注。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7031575",
+    "title": "国家医疗保障局关于公布《2025年国家基本医疗保险、生育保险和工伤保险药品目录及商业健康保险创新药品目录调整工作方案》等相关文件的公告",
+    "content": "国家医疗保障局关于公布《2025年国家基本医疗保险、生育保险和工伤保险药品目录及商业健康保险创新药品目录调整工作方案》等相关文件的公告\n根据工作安排，现将《2025年国家基本医疗保险、生育保险和工伤保险药品目录及商业健康保险创新药品目录调整工作方案》《2025年国家基本医疗保险、生育保险和工伤保险药品目录及商业健康保险创新药品目录调整申报指南》《谈判药品续约规则》以及《非独家药品竞价规则》正式公布。同时，为使社会各界对政策理解更加深入，我们组织编印了《国家基本医疗保险、生育保险和工伤保险药品目录及商业健康保险创新药品目录调整常用问答》（2025年版），在此一并发布。\n2025年7月11日—20日在我局国家医保服务平台开通网上申报系统。请符合条件的申报主体予以关注。\n附件：\n1.2025年国家基本医疗保险、生育保险和工伤保险药品目录及商业健康保险创新药品目录调整工作方案.pdf\n2.2025年国家基本医疗保险、生育保险和工伤保险药品目录及商业健康保险创新药品目录调整申报指南.pdf\n3.谈判药品续约规则.pdf \n4.非独家药品竞价规则.pdf\n5.国家基本医疗保险、生育保险和工伤保险药品目录及商业健康保险创新药品目录调整常用问答（2025年版）.pdf\n国家医疗保障局\n2025年7月10日",
+    "source": "国家医保局网站",
+    "publish_time": "2025-07-11",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7031575.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "553"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7031575",
+    "title": "国家医疗保障局关于公布《2025年国家基本医疗保险、生育保险和工伤保险药品目录及商业健康保险创新药品目录调整工作方案》等相关文件的公告",
+    "source_name": "国家医保局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-07-11",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7031575.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7031575.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家医疗保障局关于公布《2025年国家基本医疗保险、生育保险和工伤保险药品目录及商业健康保险创新药品目录调整工作方案》等相关文件的公告",
+      "发文机关": "国家医保局",
+      "来源": "国家医保局网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "公告",
+      "成文日期": "2025年07月10日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250711338864430213.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250711338864590628.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250711338864718829.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250711338864809556.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250711338864881620.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7031575.html"
+  },
+  "raw_legal_doc": {}
+}

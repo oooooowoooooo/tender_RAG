@@ -1,0 +1,61 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "911100001000002785",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "911100001000002785",
+    "enterprise_name": "中国图书进出口（集团）有限公司",
+    "legal_representative": "李红文",
+    "entity_type": "有限责任公司(法人独资)",
+    "established_date": "1980-12-30",
+    "registration_authority": "",
+    "registered_capital": "50801.692125万人民币",
+    "business_status": "存续",
+    "registered_address": "北京市朝阳区工人体育场东路16号",
+    "business_scope": "图书、报纸、期刊、电子出版物、音像制品批发、零售、网上销售；普通货运；广播电视节目制作；第二类增值电信业务；出版《现代阅读》期刊（限本公司内设机构期刊编辑部出版,有效期至2023年12月31日）；进出口业务；经营对外版权贸易；办理国外书刊、办公用品在华寄售业务；从事国内外会展业务；广告设计、制作、发布；仓储服务；出租商业用房、出租办公用房；机械设备租赁；销售教学仪器仪表、教学设备、计算机、软件及辅助设备、一类医疗器械、二类医疗器械、日用品；经济贸易咨询；利用《现代阅读》期刊发布广告；批发无机化学原料。（市场主体依法自主选择经营项目，开展经营活动；出版物批发、普通货运、广播电视节目制作、第二类增值电信业务以及依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "source_url": "http://www.cnpeak.com/",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 6,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023BFAFD01553",
+      "2023BFAHZ01401",
+      "2023BFFHZ00276"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "2934",
+    "title": "中国图书进出口（集团）有限公司",
+    "corporation": "李红文",
+    "amount_raw": "50801.692125万人民币",
+    "event_time": "1980-12-30",
+    "manage_date": "2020-08-07 至 无固定期限",
+    "status": "存续",
+    "province": "北京市",
+    "city": "-",
+    "district": "朝阳区",
+    "type": "有限责任公司(法人独资)",
+    "industry": "新闻和出版业",
+    "USCC": "911100001000002785",
+    "TIN": "911100001000002785",
+    "registed_num": "100000000000276",
+    "insured_persons": "413",
+    "location": "北京市朝阳区工人体育场东路16号",
+    "source_url": "http://www.cnpeak.com/",
+    "content": "图书、报纸、期刊、电子出版物、音像制品批发、零售、网上销售；普通货运；广播电视节目制作；第二类增值电信业务；出版《现代阅读》期刊（限本公司内设机构期刊编辑部出版,有效期至2023年12月31日）；进出口业务；经营对外版权贸易；办理国外书刊、办公用品在华寄售业务；从事国内外会展业务；广告设计、制作、发布；仓储服务；出租商业用房、出租办公用房；机械设备租赁；销售教学仪器仪表、教学设备、计算机、软件及辅助设备、一类医疗器械、二类医疗器械、日用品；经济贸易咨询；利用《现代阅读》期刊发布广告；批发无机化学原料。（市场主体依法自主选择经营项目，开展经营活动；出版物批发、普通货运、广播电视节目制作、第二类增值电信业务以及依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "search_text": "",
+    "capital_value": "508016921.25"
+  }
+}

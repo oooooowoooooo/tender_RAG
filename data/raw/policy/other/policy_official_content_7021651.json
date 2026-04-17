@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7021651",
+  "normalized_projection": {
+    "title": "关于印发《中国履行〈关于消耗臭氧层物质的蒙特利尔议定书〉国家方案（2025—2030年）》的通知",
+    "issuer": "生态环境部 国家发展改革委 工业和信息化部 商务部 海关总署",
+    "index_no": "未标注",
+    "subject_category": "城乡建设、环境保护\\其他",
+    "doc_no": "环大气〔2025〕27号",
+    "publish_date": "2025-04-24",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7021651.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250429429391653020.pdf"
+    ],
+    "keywords": [
+      "城乡建设",
+      "环境保护",
+      "其他"
+    ],
+    "effective_date": "2025-04-09",
+    "abolish_date": "",
+    "summary": "为全面履行《保护臭氧层维也纳公约》和《关于消耗臭氧层物质的蒙特利尔议定书》及其《基加利修正案》，保护臭氧层和应对气候变化，保障人体健康，贯彻落实党中央、国务院决策部署，依据《消耗臭氧层物质管理条例》，制定本方案。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7021651",
+    "title": "关于印发《中国履行〈关于消耗臭氧层物质的蒙特利尔议定书〉国家方案（2025—2030年）》的通知",
+    "content": "关于印发《中国履行〈关于消耗臭氧层物质的蒙特利尔议定书〉国家方案（2025—2030年）》的通知\n环大气〔2025〕27号\n各省、自治区、直辖市人民政府，新疆生产建设兵团，外交部、公安部、财政部、人力资源社会保障部、交通运输部、农业农村部、应急管理部、中国人民银行、市场监管总局、中国气象局、国家消防救援局、国家药品监督管理局：\n《中国履行〈关于消耗臭氧层物质的蒙特利尔议定书〉国家方案（2025—2030年）》已经国务院同意，现印发给你们，请认真贯彻执行。\n生态环境部\n国家发展改革委\n工业和信息化部\n商务部\n海关总署\n2025年4月9日\n（此件删减后公开）",
+    "source": "生态环境部网站",
+    "publish_time": "2025-04-24",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7021651.htm",
+    "category": "城乡建设、环境保护\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "280"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7021651",
+    "title": "关于印发《中国履行〈关于消耗臭氧层物质的蒙特利尔议定书〉国家方案（2025—2030年）》的通知",
+    "source_name": "生态环境部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-04-24",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7021651.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7021651.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《中国履行〈关于消耗臭氧层物质的蒙特利尔议定书〉国家方案（2025—2030年）》的通知",
+      "发文机关": "生态环境部 国家发展改革委 工业和信息化部 商务部 海关总署",
+      "发文字号": "环大气〔2025〕27号",
+      "来源": "生态环境部网站",
+      "主题分类": "城乡建设、环境保护\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年04月09日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250429429391653020.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7021651.html"
+  },
+  "raw_legal_doc": {}
+}

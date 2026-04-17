@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "12340000485001617A",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "12340000485001617A",
+    "enterprise_name": "安徽省第四测绘院",
+    "legal_representative": "李贤虎",
+    "entity_type": "-",
+    "established_date": "2021-04-06",
+    "registration_authority": "",
+    "registered_capital": "5031万",
+    "business_status": "正常",
+    "registered_address": "合肥市蜀山区龙河路2号",
+    "business_scope": "摄影测量与遥感、地理信息系统工程、工程测量、不动产测绘、地图编制、互联网地图服务、测绘航空摄影测量。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 22,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022BFAFN02416",
+      "2022BFAFN02534",
+      "2022BFAFN02631",
+      "2022BFAFN02786",
+      "2023BFAFN00590",
+      "2023BFAFN00608",
+      "2023BFAFN00685",
+      "2023BFAFN01632",
+      "2023BFAFN01940",
+      "2023BFAHZ00475"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "4481",
+    "title": "安徽省第四测绘院",
+    "corporation": "李贤虎",
+    "amount_raw": "5031万",
+    "event_time": "2021-04-06",
+    "manage_date": "-",
+    "status": "正常",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "type": "-",
+    "industry": "专业技术服务业",
+    "USCC": "12340000485001617A",
+    "TIN": "12340000485001617A",
+    "registed_num": "-",
+    "insured_persons": "-",
+    "location": "合肥市蜀山区龙河路2号",
+    "source_url": "-",
+    "content": "摄影测量与遥感、地理信息系统工程、工程测量、不动产测绘、地图编制、互联网地图服务、测绘航空摄影测量。",
+    "search_text": "",
+    "capital_value": "50310000"
+  }
+}

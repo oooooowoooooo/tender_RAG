@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9111000071093465XC",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9111000071093465XC",
+    "enterprise_name": "中国邮政储蓄银行股份有限公司",
+    "legal_representative": "张金良",
+    "entity_type": "股份有限公司(上市、国有控股)",
+    "established_date": "6/3/2007 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "99161076038",
+    "business_status": "开业",
+    "registered_address": "北京市西城区金融大街3号",
+    "business_scope": "吸收公众存款；发放短期、中期、长期贷款；办理国内外结算；办理票据承兑和贴现；发行金融债劵；代理发行、代理兑付、承销政府债券；买卖政府债券、金融债券；从事同业拆借；买卖、代理买卖外汇；从事银行卡业务；提供信用证服务及担保；代理收付款项及代理保险业务；提供保险箱服务；经中国银行业监督管理机构等监管部门批准的其他业务。（市场主体依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023AFWBZ02397"
+    ],
+    "all_linked_project_ids": [
+      "2023AFWBZ02397"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "中国邮政储蓄银行股份有限公司",
+    "business_status": "开业",
+    "legal_representative": "张金良",
+    "registered_capital": "99161076038",
+    "paid_in_capital": "62255549280",
+    "establishment_date": "6/3/2007 00:00:00",
+    "approval_date": "23/4/2024 00:00:00",
+    "business_term": "-",
+    "province": "北京市",
+    "city": "市辖区",
+    "district": "西城区",
+    "phone": "95580",
+    "additional_phones": "0551-65800986,15911150820,82827975,010-86351831,0431-82005109",
+    "email": "psbc.ir@psbcoa.com.cn",
+    "additional_emails": "ir@psbc.com",
+    "unified_social_credit_code": "9111000071093465XC",
+    "taxpayer_identification_number": "9111000071093465XC",
+    "business_registration_number": "100000000040768",
+    "organization_code": "71093465-X",
+    "insured_personnel_count": "179791",
+    "company_type": "股份有限公司(上市、国有控股)",
+    "industry": "货币金融服务",
+    "former_name": "-",
+    "registered_address": "北京市西城区金融大街3号",
+    "latest_annual_report_address": "北京市西城区金融大街3号",
+    "website": "www.psbc.com",
+    "business_scope": "吸收公众存款；发放短期、中期、长期贷款；办理国内外结算；办理票据承兑和贴现；发行金融债劵；代理发行、代理兑付、承销政府债券；买卖政府债券、金融债券；从事同业拆借；买卖、代理买卖外汇；从事银行卡业务；提供信用证服务及担保；代理收付款项及代理保险业务；提供保险箱服务；经中国银行业监督管理机构等监管部门批准的其他业务。（市场主体依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023ACCHZ00471",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "中标"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023ACCHZ00471",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "中标"
+    ],
+    "publish_time": "2023-11-07 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 长丰"
+    ],
+    "tenderer_or_purchaser": [
+      "长丰县数据资源局"
+    ],
+    "agency": [
+      "长丰县公共资源交易有限责任公司"
+    ],
+    "budget_or_bid_amount": [
+      "480000.0",
+      "458000.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231107/2d5b2ffe-349d-4840-aabb-72cc4295e5c6.html?ztbtab=002002004&biaoduanguid=d178c17b-3214-4efb-b622-035e17ec5fd1",
+    "attachment_paths": [],
+    "candidate_company_names": [
+      "中移系统集成有限公司"
+    ],
+    "winner_company_name": [
+      "中移系统集成有限公司"
+    ],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:12398",
+      "project_id": "2023ACCHZ00471",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231107/2d5b2ffe-349d-4840-aabb-72cc4295e5c6.html?ztbtab=002002004&biaoduanguid=d178c17b-3214-4efb-b622-035e17ec5fd1",
+      "type": "政府采购",
+      "stage": "中标",
+      "event_time": "2023-11-07",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "长丰",
+      "category": "政府",
+      "sub_category": "工程",
+      "budget_amount": "480000.0",
+      "purchaser": "长丰县数据资源局",
+      "agency": "长丰县公共资源交易有限责任公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "中移系统集成有限公司",
+      "bid_amount": "458000.0",
+      "bid_date": "2023-11-28",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"2023长丰县电子政务外网互联网出口加固中标结果公告\", \"content\": \"\n\n2023长丰县电子政务外网互联网出口加固中标结果公告\n\n一、项目编号:\n2023ACCHZ00471\n\n二、项目名称:\n2023长丰县电子政务外网互联网出口加固\n\n三、中标（成交）信息\n\n供应商名称：中移系统集成有限公司\n\n供应商地址：石家庄青园街220号\n\n中标金额：肆拾伍万捌仟元整(￥458000.00元)\n\n四、主要标的信息\n{\"1\": [\"货物名称\", \"▲抗拒绝服务系统\"], \"2\": [\"品牌\", \"启明星辰\"], \"3\": [\"规格型号\", \"ADM-GUARD-4900N\"], \"4\": [\"数量\", \"1\"], \"5\": [\"单价（元）\", \"105700\"], \"6\": [\"备注\", \"无\"], \"table_style\": 2}\n\n货物\n名称\n\n品牌\n\n规格型号\n\n数量\n\n单价（元）\n\n备注\n\n▲抗拒绝服务系统\n\n启明星辰\n\nADM-GUARD-4900N\n\n1\n\n105700\n\n无\n\n（\n1）其他主要标的信息详见附件：主要中标标的承诺函；\n{\"1\": [\"货物名称\", \"▲抗拒绝服务系统\"], \"2\": [\"品牌\", \"启明星辰\"], \"3\": [\"规格型号\", \"ADM-GUARD-4900N\"], \"4\": [\"数量\", \"1\"], \"5\": [\"单价（元）\", \"105700\"], \"6\": [\"备注\", \"无\"], \"table_style\": 2}\n\n（\n2）如与附件不一致的，以附件：主要中标标的承诺函为准。\n\n五、评审专家（单一来源采购人员）名单\n\n胡君勤,冯毅,许朝晖,欧阳俊,钱昆\n\n六、代理服务收费标准及金额\n\n1.代理服务收费标准：详见采购文件中标服务费收取标准。2.金额：0.5496万元。\n\n七、公告期限\n\n自本公告发布之日起1个工作日。\n\n八、其他补充事宜\n\n若供应商对上述结果有异议，可在中标结果公告发布之日起七个工作日内通过电子交易系统在线或以书面形式在工作时间（周一至周五，上午\n8:00-12:00，下午14:30-17:30，节假日休息）向长丰县公共资源交易有限责任公司提出质疑（异议），质疑材料递交地址：长丰县双墩镇阜阳北路与济河路交口北城综合服务中心北楼5楼520室业务协调部，联系电话：0551-62723383。\n\n若供应商对质疑处理意见有异议，可在规定时间内通过网上投诉系统或以书面形式向长丰县财政局提出投诉，联系人：张工，联系电话：\n0551-66660023【采购人为合肥行政区域以外单位的项目：向采购人所在地财政部门（公共资源交易监督管理部门）提出投诉】。\n\n一、质疑提起的条件及不予受理的情形\n\n根据《中华人民共和国政府采购法》、《中华人民共和国政府采购法实施条例》、《安徽省政府采购供应商质疑处理办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n\n（一）质疑应以书面形式或通过电子交易系统在线实名提出，质疑材料应当包括以下内容：\n\n1、质疑人的名称、地址、邮编、联系人及联系电话；\n\n2、质疑项目的名称、编号、包别号（如有）；\n\n3、被质疑人名称；\n\n4、具体的质疑事项、基本事实及必要的证明材料；\n\n5、明确的请求及主张；\n\n6、必要的法律依据；\n\n7、提起质疑的日期。\n\n质疑人为自然人的，应当由本人签字；质疑人为法人或者其他组织的，应当由法定代表人、主要负责人，或者其授权代表签字或者盖章，并加盖公章。\n\n（二）有下列情形之一的，不予受理：\n\n1、提起质疑的主体不是参与该政府采购项目活动的供应商；\n\n2、提起质疑的时间超过规定时限的；\n\n3、质疑材料不完整的；\n\n4、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n\n5、对其他供应商的投标文件详细内容质疑，无法提供合法来源渠道的；\n\n6、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n\n二、中标通知书发出情况\n\n2023长丰县电子政务外网互联网出口加固\n中标通知书已发出，请中标供应商登录电子交易系统自行下载领取电子中标通知书。\n\n九、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：长丰县数据资源局\n\n地址：合肥市长丰县水湖镇南一环与吴山路交口\n\n联系方式：0551-66670032\n\n2.采购代理机构信息\n\n名称：长丰县公共资源交易有限责任公司\n\n地址：长丰县双墩镇阜阳北路与济河路交口北城综合服务中心北楼5楼\n\n联系方式：0551-62721967、62721970\n\n3.项目联系方式\n\n项目联系人：陈敏\n\n电话：0551-62721967、62721970\n\n\", \"attachments\": [{\"file_name\": \"公示信息.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=2a26f6c3-e8b1-457e-b262-5ccf77f5a076&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=bac236a0-009d-4d85-b0ea-87c9b069c05d&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"安徽合肥公共资源交易中心网上投诉操作手册-投标人.docx\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=c3b1bbdc-f0e6-4ced-848d-8bf85ed042b4&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "2735",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

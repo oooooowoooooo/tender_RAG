@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7056020",
+  "normalized_projection": {
+    "title": "国家发展改革委关于印发《中央预算内投资计划管理办法》的通知",
+    "issuer": "国家发展改革委",
+    "index_no": "未标注",
+    "subject_category": "国民经济管理、国有资产监管\\其他",
+    "doc_no": "发改投资规〔2025〕1728号",
+    "publish_date": "2026-01-24",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7056020.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260124507036633396.pdf"
+    ],
+    "keywords": [
+      "国民经济管理",
+      "国有资产监管",
+      "其他"
+    ],
+    "effective_date": "2025-12-29",
+    "abolish_date": "",
+    "summary": "为进一步规范中央预算内投资计划管理，提高中央预算内投资计划编制执行的质量和效率，国家发展改革委制定了《中央预算内投资计划管理办法》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7056020",
+    "title": "国家发展改革委关于印发《中央预算内投资计划管理办法》的通知",
+    "content": "国家发展改革委关于印发《中央预算内投资计划管理办法》的通知\n发改投资规〔2025〕1728号\n全国人大常委会办公厅，国务院办公厅，全国政协办公厅，最高人民法院，最高人民检察院，中央和国家机关有关部委、有关直属机构，中央军委有关部门，各省、自治区、直辖市及计划单列市、新疆生产建设兵团发展改革委，有关中央企业：\n为进一步规范中央预算内投资计划管理，提高中央预算内投资计划编制执行的质量和效率，我委制定了《中央预算内投资计划管理办法》。现印发你们，请按照执行。\n国家发展改革委\n2025年12月29日\n  附件：\n  中央预算内投资计划管理办法.pdf\n  中央预算内投资计划管理办法.ofd",
+    "source": "国家发展改革委网站",
+    "publish_time": "2026-01-24",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7056020.htm",
+    "category": "国民经济管理、国有资产监管\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "294"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7056020",
+    "title": "国家发展改革委关于印发《中央预算内投资计划管理办法》的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-01-24",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7056020.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7056020.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家发展改革委关于印发《中央预算内投资计划管理办法》的通知",
+      "发文机关": "国家发展改革委",
+      "发文字号": "发改投资规〔2025〕1728号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "国民经济管理、国有资产监管\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年12月29日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260124507036633396.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7056020.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,71 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "12340104798146673F",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "12340104798146673F",
+    "enterprise_name": "合肥市蜀山区市政管理处",
+    "legal_representative": "张恩亮",
+    "entity_type": "事业单位营业",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "790000",
+    "business_status": "开业",
+    "registered_address": "合肥市蜀山区蜀河路46号",
+    "business_scope": "蜀山区辖区内市政道路、排水、防洪工程建设，兼营房建筑、水电安装、建筑装饰材料等。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 39,
+    "selected_project_ids": [
+      "2023ASSFN00206"
+    ],
+    "all_linked_project_ids": [
+      "2023ASSFN00100",
+      "2023ASSFN00206",
+      "2023ASSFZ00006",
+      "2023ASSFZ00019"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥市蜀山区市政管理处",
+    "business_status": "开业",
+    "legal_representative": "张恩亮",
+    "registered_capital": "790000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "2020-03-18 至 2025-03-18",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "17305603505",
+    "additional_phones": "0551-65987521,18110999671,18110999682,18956583670,0551-65987501",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "12340104798146673F",
+    "taxpayer_identification_number": "12340104798146673F",
+    "business_registration_number": "-",
+    "organization_code": "79814667-3",
+    "insured_personnel_count": "-",
+    "company_type": "事业单位营业",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "合肥市蜀山区蜀河路46号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "蜀山区辖区内市政道路、排水、防洪工程建设，兼营房建筑、水电安装、建筑装饰材料等。",
+    "match_status": "成功"
+  }
+}

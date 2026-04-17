@@ -1,0 +1,76 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "11340124003271535J",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "11340124003271535J",
+    "enterprise_name": "庐江县交通运输局",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "庐江县庐城镇黄山路288号",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 109,
+    "selected_project_ids": [
+      "2023ANNGZ00571",
+      "2023ANNGZ00573"
+    ],
+    "all_linked_project_ids": [
+      "2022ANNGZ00538",
+      "2022ANNHJ00443",
+      "2022BFFBZ02617",
+      "2023ANNFZ00041",
+      "2023ANNFZ00084",
+      "2023ANNGZ00571",
+      "2023ANNGZ00573",
+      "2023ANNHZ00441"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "庐江县交通运输局",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐江县",
+    "phone": "15156553588",
+    "additional_phones": "13855125775,13013035752,13856522211,13020041092,0551-87308039",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "11340124003271535J",
+    "taxpayer_identification_number": "11340124003271535J",
+    "business_registration_number": "-",
+    "organization_code": "00327153-5",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "庐江县庐城镇黄山路288号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

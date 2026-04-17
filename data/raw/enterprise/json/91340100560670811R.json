@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100560670811R",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100560670811R",
+    "enterprise_name": "安徽尚原规划咨询有限公司",
+    "legal_representative": "郭岭",
+    "entity_type": "其他有限责任公司",
+    "established_date": "16/8/2010 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "10000000",
+    "business_status": "开业",
+    "registered_address": "合肥市蜀山区白天鹅国际商务中心A座605、606室",
+    "business_scope": "土地整治咨询、规划、设计、论证服务；土地利用总体规划及专项规划；生态与农业建设规划设计；土地事务咨询代理；测绘服务；地理信息应用系统开发；城乡规划方案编制；规划选址可行性研究报告；旅游规划设计；地质灾害危险性评估；矿产资源评估；环境影响评价咨询；环保节能技术服务；水土保持方案编制；水利工程设计咨询；林业调查规划设计；计算机软硬件批发、零售；接受政府部门委托社会稳定风险评估；节能评估事务代理；安全评价事务代理；防洪影响评价事务代理；水土保持方案编制；水资源论证。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 3,
+    "selected_project_ids": [
+      "2023ANNFZ00466"
+    ],
+    "all_linked_project_ids": [
+      "2023AFABZ00923",
+      "2023ANNFN00288",
+      "2023ANNFZ00466"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽尚原规划咨询有限公司",
+    "business_status": "开业",
+    "legal_representative": "郭岭",
+    "registered_capital": "10000000",
+    "paid_in_capital": "1000000",
+    "establishment_date": "16/8/2010 00:00:00",
+    "approval_date": "12/8/2022 00:00:00",
+    "business_term": "2010-08-16 至 2030-08-15",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "0551-62595557",
+    "additional_phones": "0551-64390687,0551-62595668,15956913620,0551-65304984,13339144556",
+    "email": "648511636@qq.com",
+    "additional_emails": "695412298@qq.com,253299106@qq.com,374319280@qq.com,374319280@QQ.COM,314126224@qq.com,lansenlin@126.com",
+    "unified_social_credit_code": "91340100560670811R",
+    "taxpayer_identification_number": "91340100560670811R",
+    "business_registration_number": "340106000040858",
+    "organization_code": "56067081-1",
+    "insured_personnel_count": "134",
+    "company_type": "其他有限责任公司",
+    "industry": "商务服务业",
+    "former_name": "安徽金圣田土地资源管理咨询有限公司",
+    "registered_address": "合肥市蜀山区白天鹅国际商务中心A座605、606室",
+    "latest_annual_report_address": "合肥市蜀山区白天鹅国际商务中心A座605、606室",
+    "website": "www.syanhui.com",
+    "business_scope": "土地整治咨询、规划、设计、论证服务；土地利用总体规划及专项规划；生态与农业建设规划设计；土地事务咨询代理；测绘服务；地理信息应用系统开发；城乡规划方案编制；规划选址可行性研究报告；旅游规划设计；地质灾害危险性评估；矿产资源评估；环境影响评价咨询；环保节能技术服务；水土保持方案编制；水利工程设计咨询；林业调查规划设计；计算机软硬件批发、零售；接受政府部门委托社会稳定风险评估；节能评估事务代理；安全评价事务代理；防洪影响评价事务代理；水土保持方案编制；水资源论证。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

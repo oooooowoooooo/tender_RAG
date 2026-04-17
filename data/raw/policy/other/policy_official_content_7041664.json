@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7041664",
+  "normalized_projection": {
+    "title": "五部门关于印发《钢铁行业稳增长工作方案（2025—2026年）》的通知",
+    "issuer": "​工业和信息化部 自然资源部 生态环境部 商务部 市场监管总局",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\机械制造与重工业",
+    "doc_no": "工信部联原〔2025〕171号",
+    "publish_date": "2025-09-22",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7041664.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250922419004924459.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "机械制造与重工业"
+    ],
+    "effective_date": "2025-08-06",
+    "abolish_date": "",
+    "summary": "为贯彻中央经济工作会议精神，促进钢铁行业平稳运行和结构优化升级，制定本工作方案。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7041664",
+    "title": "五部门关于印发《钢铁行业稳增长工作方案（2025—2026年）》的通知",
+    "content": "工业和信息化部、自然资源部、生态环境部、商务部、市场监管总局关于印发《钢铁行业稳增长工作方案（2025—2026年）》的通知\n工信部联原〔2025〕171号\n各省、自治区、直辖市及新疆生产建设兵团工业和信息化、自然资源、生态环境、商务、市场监管主管部门：\n现将《钢铁行业稳增长工作方案（2025—2026年）》印发给你们，请结合实际认真抓好落实。\n工业和信息化部\n自然资源部\n生态环境部\n商务部\n市场监管总局\n2025年8月6日",
+    "source": "工业和信息化部网站",
+    "publish_time": "2025-09-22",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7041664.htm",
+    "category": "工业、交通\\机械制造与重工业",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "214"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7041664",
+    "title": "五部门关于印发《钢铁行业稳增长工作方案（2025—2026年）》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-09-22",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7041664.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7041664.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "五部门关于印发《钢铁行业稳增长工作方案（2025—2026年）》的通知",
+      "发文机关": "​工业和信息化部 自然资源部 生态环境部 商务部 市场监管总局",
+      "发文字号": "工信部联原〔2025〕171号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\机械制造与重工业",
+      "公文种类": "通知",
+      "成文日期": "2025年08月06日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250922419004924459.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7041664.html"
+  },
+  "raw_legal_doc": {}
+}

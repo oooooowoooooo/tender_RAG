@@ -1,0 +1,71 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "11340122003005982R",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "11340122003005982R",
+    "enterprise_name": "肥东县水务局",
+    "legal_representative": "吴学斌",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥东县店埠镇塘杨路文化广电大厦14楼",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 28,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022ADDHN00352",
+      "2023ADDFN00028",
+      "2023ADDFN00167",
+      "2023ADDFN00169",
+      "2023ADDFN00198",
+      "2023ADDFN00243"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "肥东县水务局",
+    "business_status": "开业",
+    "legal_representative": "吴学斌",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥东县",
+    "phone": "0551-7711144",
+    "additional_phones": "0551-62551551,0551-62551557,0551-62551556,0551-62551580,18905655352",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "11340122003005982R",
+    "taxpayer_identification_number": "11340122003005982R",
+    "business_registration_number": "-",
+    "organization_code": "00300598-2",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市肥东县店埠镇塘杨路文化广电大厦14楼",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

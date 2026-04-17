@@ -1,0 +1,76 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100684996776L",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100684996776L",
+    "enterprise_name": "佳天下建设集团有限公司",
+    "legal_representative": "张德权",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "6/3/2009 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "116100000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥东县杨店乡政府对面办公楼二楼",
+    "business_scope": "建筑工程、市政公用工程、公路工程、水利水电工程、机电工程、水电安装工程、环保工程、城市及道路照明工程、通信工程、古建筑工程、电力与送变电工程、石油化工工程、门窗工程、体育场地设施工程、消防工程、土石方工程、地基工程、港口与桥梁工程、公路路基路面及交通工程、室内外装饰工程、建筑幕墙工程、防水防腐保温工程、环境净化工程、弱电及智能化工程、园林绿化工程、安防保密工程、钢结构工程、结构补强工程、人防工程、防辐射工程、建筑物拆除工程、暖通工程设计与施工；建筑劳务分包（除劳务派遣）；物业管理；工程造价；工程咨询与管理；信息化软硬件产品研发、生产与销售；机械设备销售与租赁；花卉及苗木种植与销售；广告标牌灯箱制作与安装；建筑设计、智慧城市规划设计；展柜展台设计、制作及销售；建筑材料、日用百货、电子产品、医疗器械销售；自营和代理各类商品和技术的进出口业务（国家限定企业经营或禁止进出口的商品和技术除外）。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 11,
+    "selected_project_ids": [
+      "2023BFAZN02795"
+    ],
+    "all_linked_project_ids": [
+      "2023ABBZN00059",
+      "2023ADDZN00044",
+      "2023ANNZN00278",
+      "2023BFAZN00566",
+      "2023BFAZN00577",
+      "2023BFAZN02136",
+      "2023BFAZN02795",
+      "2023BFFFN00103",
+      "2023BFFGZ00932"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "佳天下建设集团有限公司",
+    "business_status": "开业",
+    "legal_representative": "张德权",
+    "registered_capital": "116100000",
+    "paid_in_capital": "20100000",
+    "establishment_date": "6/3/2009 00:00:00",
+    "approval_date": "10/3/2021 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥东县",
+    "phone": "13365512888",
+    "additional_phones": "15395137076,17756082572,17756061119,0551-63429130,18955188551",
+    "email": "1269438545@qq.com",
+    "additional_emails": "1319473450@qq.com,1030427108@qq.com,1693201281@qq.com",
+    "unified_social_credit_code": "91340100684996776L",
+    "taxpayer_identification_number": "91340100684996776L",
+    "business_registration_number": "340100000179310",
+    "organization_code": "68499677-6",
+    "insured_personnel_count": "40",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "土木工程建筑业",
+    "former_name": "合肥佳天下建设工程有限公司",
+    "registered_address": "安徽省合肥市肥东县杨店乡政府对面办公楼二楼",
+    "latest_annual_report_address": "安徽省合肥市肥东县杨店乡政府对面办公楼二楼",
+    "website": "www.jtxjt.com.cn",
+    "business_scope": "建筑工程、市政公用工程、公路工程、水利水电工程、机电工程、水电安装工程、环保工程、城市及道路照明工程、通信工程、古建筑工程、电力与送变电工程、石油化工工程、门窗工程、体育场地设施工程、消防工程、土石方工程、地基工程、港口与桥梁工程、公路路基路面及交通工程、室内外装饰工程、建筑幕墙工程、防水防腐保温工程、环境净化工程、弱电及智能化工程、园林绿化工程、安防保密工程、钢结构工程、结构补强工程、人防工程、防辐射工程、建筑物拆除工程、暖通工程设计与施工；建筑劳务分包（除劳务派遣）；物业管理；工程造价；工程咨询与管理；信息化软硬件产品研发、生产与销售；机械设备销售与租赁；花卉及苗木种植与销售；广告标牌灯箱制作与安装；建筑设计、智慧城市规划设计；展柜展台设计、制作及销售；建筑材料、日用百货、电子产品、医疗器械销售；自营和代理各类商品和技术的进出口业务（国家限定企业经营或禁止进出口的商品和技术除外）。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

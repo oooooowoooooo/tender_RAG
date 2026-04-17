@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7032635",
+  "normalized_projection": {
+    "title": "住房城乡建设部办公厅关于印发“好房子”建设经验做法（第一批）的通知",
+    "issuer": "住房城乡建设部办公厅",
+    "index_no": "未标注",
+    "subject_category": "城乡建设、环境保护\\城乡建设（含住房）",
+    "doc_no": "建办标函〔2025〕171号",
+    "publish_date": "2025-07-18",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7032635.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250718503001180747.doc"
+    ],
+    "keywords": [
+      "城乡建设",
+      "环境保护",
+      "城乡建设（含住房）"
+    ],
+    "effective_date": "2025-07-02",
+    "abolish_date": "",
+    "summary": "为全面贯彻落实党中央、国务院关于“好房子”建设的决策部署，加大“好房子”工作推动力度，我部总结各地“好房子”建设经验做法，形成《“好房子”建设经验做法（第一批）》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7032635",
+    "title": "住房城乡建设部办公厅关于印发“好房子”建设经验做法（第一批）的通知",
+    "content": "住房城乡建设部办公厅关于印发“好房子”建设经验做法（第一批）的通知\n建办标函〔2025〕171号\n各省、自治区住房城乡建设厅，直辖市住房城乡建设（管）委，新疆生产建设兵团住房城乡建设局：\n为全面贯彻落实党中央、国务院关于“好房子”建设的决策部署，加大“好房子”工作推动力度，我部总结各地“好房子”建设经验做法，形成《“好房子”建设经验做法（第一批）》，现印发给你们，请结合实际学习参考。\n住房城乡建设部办公厅\n2025年7月2日\n（此件主动公开）\n附件下载 “好房子”建设经验做法（第一批）",
+    "source": "住房城乡建设部网站",
+    "publish_time": "2025-07-18",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7032635.htm",
+    "category": "城乡建设、环境保护\\城乡建设（含住房）",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "245"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7032635",
+    "title": "住房城乡建设部办公厅关于印发“好房子”建设经验做法（第一批）的通知",
+    "source_name": "住房城乡建设部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-07-18",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7032635.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7032635.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "住房城乡建设部办公厅关于印发“好房子”建设经验做法（第一批）的通知",
+      "发文机关": "住房城乡建设部办公厅",
+      "发文字号": "建办标函〔2025〕171号",
+      "来源": "住房城乡建设部网站",
+      "主题分类": "城乡建设、环境保护\\城乡建设（含住房）",
+      "公文种类": "通知",
+      "成文日期": "2025年07月02日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250718503001180747.doc"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7032635.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,71 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7012802",
+  "normalized_projection": {
+    "title": "国家知识产权局办公室关于国家知识产权公共服务平台正式上线运行的通知",
+    "issuer": "国家知识产权局办公室",
+    "index_no": "未标注",
+    "subject_category": "科技、教育\\知识产权",
+    "doc_no": "国知办函服字〔2025〕165号",
+    "publish_date": "2025-03-10",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7012802.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250311420766223717.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250311436237095216.zip",
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250311436240342228.xlsx"
+    ],
+    "keywords": [
+      "科技",
+      "教育",
+      "知识产权"
+    ],
+    "effective_date": "2025-03-07",
+    "abolish_date": "",
+    "summary": "为提升知识产权公共服务数字化、智能化和便利化水平，国家知识产权局完成国家知识产权保护信息平台项目建设，将国家知识产权公共服务网升级改造为国家知识产权公共服务平台。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7012802",
+    "title": "国家知识产权局办公室关于国家知识产权公共服务平台正式上线运行的通知",
+    "content": "国家知识产权局办公室关于国家知识产权公共服务平台正式上线运行的通知\n国知办函服字〔2025〕165号\n各省、自治区、直辖市和新疆生产建设兵团知识产权局，各地方有关中心；国家知识产权局局机关各部门，专利局各部门，商标局，局其他直属单位、各社会团体：\n为提升知识产权公共服务数字化、智能化和便利化水平，国家知识产权局完成国家知识产权保护信息平台项目建设，将国家知识产权公共服务网升级改造为国家知识产权公共服务平台。平台集执法支撑、综合监管、保护监测等功能，便利知识产权信息“一站式”查询，实现专利代理师资格考试、专利代理机构审批、专利和商标代理监管等电子化业务办理流程。\n平台将于2025年3月10日正式上线，请各部门单位加强对平台的推广使用，促进创新主体、社会公众以及各级知识产权管理部门和服务机构知晓并实际使用。\n同时，为推动构建全国一体化平台，请各省级知识产权管理部门核对更新地方知识产权公共服务平台基本信息（见附件3），并向国家知识产权局公共服务司报送相关业务协同需求。\n附件：\n1．一张图了解国家知识产权公共服务平台.pdf\n2．国家知识产权公共服务平台用户操作手册.zip\n3．地方知识产权公共服务平台基本信息汇总表.xlsx\n国家知识产权局办公室\n2025年3月7日\n（联系人及电话：公共服务司  王亚鹏  010—62083689  外网邮箱：ggfws@cnipa.gov.cn）",
+    "source": "国家知识产权局网站",
+    "publish_time": "2025-03-10",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7012802.htm",
+    "category": "科技、教育\\知识产权",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "597"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7012802",
+    "title": "国家知识产权局办公室关于国家知识产权公共服务平台正式上线运行的通知",
+    "source_name": "国家知识产权局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-10",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7012802.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7012802.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家知识产权局办公室关于国家知识产权公共服务平台正式上线运行的通知",
+      "发文机关": "国家知识产权局办公室",
+      "发文字号": "国知办函服字〔2025〕165号",
+      "来源": "国家知识产权局网站",
+      "主题分类": "科技、教育\\知识产权",
+      "公文种类": "通知",
+      "成文日期": "2025年03月07日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250311420766223717.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250311436237095216.zip",
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250311436240342228.xlsx"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7012802.html"
+  },
+  "raw_legal_doc": {}
+}

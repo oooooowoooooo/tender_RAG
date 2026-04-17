@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91320508713249084B",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91320508713249084B",
+    "enterprise_name": "苏州建筑装饰设计研究院有限公司",
+    "legal_representative": "唐勇",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "11/1/1999 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "10110000",
+    "business_status": "开业",
+    "registered_address": "苏州市沧浪区念珠街105号",
+    "business_scope": "建筑室内外装饰设计、环境艺术设计。（依法须经批准的项目，经相关部门批准后方可开展经营活动）\n许可项目：建设工程设计；艺术品进出口；各类工程建设活动（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）\n一般项目：专业设计服务；文艺创作；广告设计、代理；日用百货销售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023BFFBZ02624"
+    ],
+    "all_linked_project_ids": [
+      "2023BFFBZ02624"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "苏州建筑装饰设计研究院有限公司",
+    "business_status": "开业",
+    "legal_representative": "唐勇",
+    "registered_capital": "10110000",
+    "paid_in_capital": "10110000",
+    "establishment_date": "11/1/1999 00:00:00",
+    "approval_date": "31/8/2023 00:00:00",
+    "business_term": "1999-01-11 至 2029-01-10",
+    "province": "江苏省",
+    "city": "苏州市",
+    "district": "姑苏区",
+    "phone": "8293066",
+    "additional_phones": "15327200952,0515-88501168,0512-68299706,0512-68299550,68500069",
+    "email": "107585196@qq.com",
+    "additional_emails": "zhouxiaoqin@goldmantis.com",
+    "unified_social_credit_code": "91320508713249084B",
+    "taxpayer_identification_number": "91320508713249084B",
+    "business_registration_number": "320500000047738",
+    "organization_code": "71324908-4",
+    "insured_personnel_count": "96",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "建筑装饰、装修和其他建筑业",
+    "former_name": "-",
+    "registered_address": "苏州市沧浪区念珠街105号",
+    "latest_annual_report_address": "苏州市沧浪区念珠街105号",
+    "website": "-",
+    "business_scope": "建筑室内外装饰设计、环境艺术设计。（依法须经批准的项目，经相关部门批准后方可开展经营活动）\n许可项目：建设工程设计；艺术品进出口；各类工程建设活动（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）\n一般项目：专业设计服务；文艺创作；广告设计、代理；日用百货销售（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）",
+    "match_status": "成功"
+  }
+}

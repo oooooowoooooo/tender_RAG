@@ -1,0 +1,61 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7014268",
+  "normalized_projection": {
+    "title": "国家档案局办公室关于开展电子档案备份中心建设试点工作的通知",
+    "issuer": "​国家档案局办公室",
+    "index_no": "未标注",
+    "subject_category": "综合政务\\文秘工作",
+    "doc_no": "未标注",
+    "publish_date": "2025-03-18",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014268.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "综合政务",
+      "文秘工作"
+    ],
+    "effective_date": "2025-03-13",
+    "abolish_date": "",
+    "summary": "为深入贯彻落实习近平总书记对档案工作重要指示批示精神，落实《“十四五”全国档案事业发展规划》重点任务，探索电子档案备份中心建设路径与管理方法，​国家档案局决定组织开展电子档案备份中心建设试点工作。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7014268",
+    "title": "国家档案局办公室关于开展电子档案备份中心建设试点工作的通知",
+    "content": "国家档案局办公室关于开展电子档案备份中心建设试点工作的通知\n各省、自治区、直辖市档案局、各副省级城市档案局、新疆生产建设兵团档案局：\n为深入贯彻落实习近平总书记对档案工作重要指示批示精神，落实《“十四五”全国档案事业发展规划》重点任务，探索电子档案备份中心建设路径与管理方法，我局决定组织开展电子档案备份中心建设试点工作。\n为保证试点工作取得预期成效，经综合考虑，从具有较好工作基础的省级国家综合档案馆中，确定辽宁省档案馆、浙江省档案馆、上海市档案馆、山东省档案馆、广东省档案馆、云南省档案馆为试点单位。现将有关事项通知如下。\n一、试点内容\n1.管理机制方面。备份中心的管理机制、业务与流程、运维与管理、应急与处置等方面的制度规范。\n2.基础设施建设方面。备份中心选址、备份机房建设、技术用房设置、网络建设、备份设备选型、管理系统建设等方面的方案。\n3.备份管理方面。备份登记管理、存储设备监测、备份数据检测、转换迁移等方面的操作规程。\n二、试点组织\n1.各试点单位根据试点工作内容和要求，编制试点工作方案，明确试点目标任务、实施步骤、保障措施等。\n2.各试点省（市）档案主管部门对试点工作方案审核后，于4月底前报送我局。\n3.各试点方案经我局审核同意后实施。\n三、试点验收\n1.试点工作于2025年12月底完成，提前完成的可向国家档案局申请验收。\n2.申请验收时，需由省（市）档案主管部门向国家档案局报送验收申请函，并附试点工作报告。试点工作报告应包括组织实施情况、具体建设方案、形成的制度规范、主要环节的操作规程等内容。\n3.我局将对试点工作成熟经验进行总结推广。\n各试点单位要高度重视试点工作，为试点工作提供必要的条件，支撑完成试点任务。省（市）档案主管部门要加强指导，推进试点工作。试点工作中有关重要情况请及时与我局联系沟通。\n联系人：刘璐、周玉倩\n联系电话：010-55605257\n国家档案局办公室\n2025年3月13日",
+    "source": "国家档案局网站",
+    "publish_time": "2025-03-18",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014268.htm",
+    "category": "综合政务\\文秘工作",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "816"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7014268",
+    "title": "国家档案局办公室关于开展电子档案备份中心建设试点工作的通知",
+    "source_name": "国家档案局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-18",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014268.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014268.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家档案局办公室关于开展电子档案备份中心建设试点工作的通知",
+      "发文机关": "​国家档案局办公室",
+      "来源": "国家档案局网站",
+      "主题分类": "综合政务\\文秘工作",
+      "公文种类": "通知",
+      "成文日期": "2025年03月13日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7014268.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7026613",
+  "normalized_projection": {
+    "title": "商务部等5部门办公厅关于公布第一批全国零售业创新提升试点城市名单的通知",
+    "issuer": "​商务部办公厅 国家发展改革委办公厅 ​住房城乡建设部办公厅 文化和旅游部办公厅​ 市场监管总局办公厅",
+    "index_no": "未标注",
+    "subject_category": "商贸、海关、旅游\\其他",
+    "doc_no": "未标注",
+    "publish_date": "2025-06-05",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7026613.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202506/P020250605709986175372.pdf"
+    ],
+    "keywords": [
+      "商贸",
+      "海关",
+      "旅游",
+      "其他"
+    ],
+    "effective_date": "2025-05-30",
+    "abolish_date": "",
+    "summary": "根据《商务部等7部门办公厅关于印发的通知》（以下简称《实施方案》）要求，在各地申报试点的基础上，经专家评审并向社会公示，确定第一批全国零售业创新提升试点城市共38个，名单见附件，现予公布."
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7026613",
+    "title": "商务部等5部门办公厅关于公布第一批全国零售业创新提升试点城市名单的通知",
+    "content": "商务部等5部门办公厅关于公布第一批全国零售业创新提升试点城市名单的通知\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团商务、发展改革、住房城乡建设、文化和旅游、市场监管部门：\n根据《商务部等7部门办公厅关于印发<零售业创新提升工程实施方案>的通知》（以下简称《实施方案》）要求，在各地申报试点的基础上，经专家评审并向社会公示，确定第一批全国零售业创新提升试点城市共38个，名单见附件，现予公布，并就有关事项通知如下：\n省级相关部门要指导试点城市按照当地历史文化、资源禀赋、行业基础、规划布局，侧重2—3个试点探索方向，因地制宜推动试点建设差异化、特色化发展。要问需于企，问计于企，调动企业创新转型的积极性，依靠市场化力量“一店一策”推动存量商业设施改造提升。要加强政策激励，推行清单管理，选出有特色、有代表性、引领带动性强的项目。 \n试点城市要认真落实《实施方案》和试点方案要求，在项目规划、改造审批、土地用途变更、投融资方面依法给予盘活便利，统筹用好现代商贸流通体系建设试点、一刻钟便民生活圈建设、城市更新行动、大规模设备更新、设立服务消费与养老再贷款、地方招商引资等政策，加大支持力度，优化经营环境。要按照市场主导与政府引导并重，硬设施与软环境并重，好商品与优服务并重，促消费与惠民生并重的工作路径，积极推进政策创新、管理创新、模式创新等。及时总结推广可复制的试点经验和创新案例，扩大工作覆盖范围和影响力，推动行业向供给丰富、布局均衡、渠道多元、服务优质、智慧便捷、绿色低碳的现代零售体系。 \n附件：第一批全国零售业创新提升试点城市名单\n商务部办公厅 国家发展改革委办公厅\n住房城乡建设部办公厅 文化和旅游部办公厅\n市场监管总局办公厅\n2025年5月30日",
+    "source": "商务部网站",
+    "publish_time": "2025-06-05",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7026613.htm",
+    "category": "商贸、海关、旅游\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "732"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7026613",
+    "title": "商务部等5部门办公厅关于公布第一批全国零售业创新提升试点城市名单的通知",
+    "source_name": "商务部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-06-05",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7026613.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7026613.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "商务部等5部门办公厅关于公布第一批全国零售业创新提升试点城市名单的通知",
+      "发文机关": "​商务部办公厅 国家发展改革委办公厅 ​住房城乡建设部办公厅 文化和旅游部办公厅​ 市场监管总局办公厅",
+      "来源": "商务部网站",
+      "主题分类": "商贸、海关、旅游\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年05月30日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202506/P020250605709986175372.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7026613.html"
+  },
+  "raw_legal_doc": {}
+}

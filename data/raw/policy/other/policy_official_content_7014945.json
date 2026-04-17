@@ -1,0 +1,69 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7014945",
+  "normalized_projection": {
+    "title": "国家卫生健康委办公厅关于印发2025年国家医疗质量安全改进目标的通知",
+    "issuer": "国家卫生健康委办公厅",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\其他",
+    "doc_no": "国卫办医政函〔2025〕106号",
+    "publish_date": "2025-03-21",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014945.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250321760579351618.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250321760579866941.pdf"
+    ],
+    "keywords": [
+      "卫生",
+      "体育",
+      "其他"
+    ],
+    "effective_date": "2025-03-18",
+    "abolish_date": "",
+    "summary": "为加强医疗质量安全管理，持续提升医疗质量安全水平，从2021年起，我委连续4年组织制定《国家医疗质量安全改进目标》（以下简称《目标》），指导行业以目标为导向科学精准开展医疗质量安全改进工作。《目标》印发后，各地各医疗机构积极贯彻落实，取得明显成效，充分发挥了引导工作方向、激发行业内生动力、改进医疗质量安全的积极作用。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7014945",
+    "title": "国家卫生健康委办公厅关于印发2025年国家医疗质量安全改进目标的通知",
+    "content": "国家卫生健康委办公厅关于印发2025年国家医疗质量安全改进目标的通知\n国卫办医政函〔2025〕106号\n各省、自治区、直辖市及新疆生产建设兵团卫生健康委：\n为加强医疗质量安全管理，持续提升医疗质量安全水平，从2021年起，我委连续4年组织制定《国家医疗质量安全改进目标》（以下简称《目标》），指导行业以目标为导向科学精准开展医疗质量安全改进工作。《目标》印发后，各地各医疗机构积极贯彻落实，取得明显成效，充分发挥了引导工作方向、激发行业内生动力、改进医疗质量安全的积极作用。\n为进一步加强以目标为导向的医疗质量安全管理工作，我委组织制定了《2025年国家医疗质量安全改进目标》和各专业2025年质控工作改进目标。现印发给你们，请指导各级各专业质控组织、医疗机构、行业团体做好组织实施工作，优化改进工作策略，创新工作机制和方式方法，深入推进目标管理，实现医疗质量安全持续改进。同时，要进一步加强宣贯培训，做好数据信息的收集、分析和反馈，不断提升医疗质量安全管理水平。\n附件：\n1.2025年国家医疗质量安全改进目标\n2.2025年各专业质控工作改进目标\n国家卫生健康委办公厅\n2025年3月18日",
+    "source": "国家卫生健康委网站",
+    "publish_time": "2025-03-21",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014945.htm",
+    "category": "卫生、体育\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "497"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7014945",
+    "title": "国家卫生健康委办公厅关于印发2025年国家医疗质量安全改进目标的通知",
+    "source_name": "国家卫生健康委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-21",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014945.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014945.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家卫生健康委办公厅关于印发2025年国家医疗质量安全改进目标的通知",
+      "发文机关": "国家卫生健康委办公厅",
+      "发文字号": "国卫办医政函〔2025〕106号",
+      "来源": "国家卫生健康委网站",
+      "主题分类": "卫生、体育\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年03月18日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250321760579351618.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250321760579866941.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7014945.html"
+  },
+  "raw_legal_doc": {}
+}

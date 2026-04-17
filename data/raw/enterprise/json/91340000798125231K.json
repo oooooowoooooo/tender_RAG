@@ -1,0 +1,71 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340000798125231K",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340000798125231K",
+    "enterprise_name": "安徽时代出版发行有限公司",
+    "legal_representative": "杨红卫",
+    "entity_type": "有限责任公司（非自然人投资或控股的法人独资）",
+    "established_date": "2007-01-29",
+    "registration_authority": "",
+    "registered_capital": "6000万人民币",
+    "business_status": "存续",
+    "registered_address": "合肥市翡翠路1118号18楼",
+    "business_scope": "出版物批发、出版物零售、教学专用仪器销售、电子产品销售、文具用品销售、通讯设备修理、计算机及办公设备维修、软件销售、通讯设备销售、五金产品批发、机械零售、零部件销售；建筑装饰材料销售、塑料制品销售、服装服饰零售、日用百货销售、城市配送运输服务（不含危险货物）、普通货物仓储服务（不含危险化学品等需许可审批的项目）、仓储租赁服务、道路货物运输（不含危险货物）、信息咨询服务（不含许可类信息咨询服务）、会议及展览服务、建设工程设计、网络与信息安全软件开发、广告设计、代理；食品经营。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "http://ahsdfxgp.com",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 12,
+    "selected_project_ids": [
+      "2023BFAHZ02462"
+    ],
+    "all_linked_project_ids": [
+      "2023BFAHZ00138",
+      "2023BFAHZ00198",
+      "2023BFAHZ00397",
+      "2023BFAHZ00443",
+      "2023BFAHZ01346",
+      "2023BFAHZ01419",
+      "2023BFAHZ02462",
+      "2023BFFHZ00276",
+      "2023BFFHZ00376",
+      "2023BFFHZ00560",
+      "2023BFFHZ00638"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "497",
+    "title": "安徽时代出版发行有限公司",
+    "corporation": "杨红卫",
+    "amount_raw": "6000万人民币",
+    "event_time": "2007-01-29",
+    "manage_date": "2007-01-29 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "-",
+    "type": "有限责任公司（非自然人投资或控股的法人独资）",
+    "industry": "新闻和出版业",
+    "USCC": "91340000798125231K",
+    "TIN": "91340000798125231K",
+    "registed_num": "340000000000830",
+    "insured_persons": "88",
+    "location": "合肥市翡翠路1118号18楼",
+    "source_url": "http://ahsdfxgp.com",
+    "content": "出版物批发、出版物零售、教学专用仪器销售、电子产品销售、文具用品销售、通讯设备修理、计算机及办公设备维修、软件销售、通讯设备销售、五金产品批发、机械零售、零部件销售；建筑装饰材料销售、塑料制品销售、服装服饰零售、日用百货销售、城市配送运输服务（不含危险货物）、普通货物仓储服务（不含危险化学品等需许可审批的项目）、仓储租赁服务、道路货物运输（不含危险货物）、信息咨询服务（不含许可类信息咨询服务）、会议及展览服务、建设工程设计、网络与信息安全软件开发、广告设计、代理；食品经营。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "60000000"
+  }
+}

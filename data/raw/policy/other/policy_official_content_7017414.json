@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7017414",
+  "normalized_projection": {
+    "title": "市场监管总局关于印发《网络交易合规数据报送管理暂行办法》的通知",
+    "issuer": "市场监管总局",
+    "index_no": "未标注",
+    "subject_category": "市场监管、安全生产监管\\其他",
+    "doc_no": "国市监网监规[2025]2号",
+    "publish_date": "2025-04-07",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7017414.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "市场监管",
+      "安全生产监管",
+      "其他"
+    ],
+    "effective_date": "2025-03-25",
+    "abolish_date": "",
+    "summary": ""
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7017414",
+    "title": "市场监管总局关于印发《网络交易合规数据报送管理暂行办法》的通知",
+    "content": "",
+    "source": "市场监管总局网站",
+    "publish_time": "2025-04-07",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7017414.htm",
+    "category": "市场监管、安全生产监管\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "0"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7017414",
+    "title": "市场监管总局关于印发《网络交易合规数据报送管理暂行办法》的通知",
+    "source_name": "市场监管总局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-04-07",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7017414.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7017414.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "市场监管总局关于印发《网络交易合规数据报送管理暂行办法》的通知",
+      "发文机关": "市场监管总局",
+      "发文字号": "国市监网监规[2025]2号",
+      "来源": "市场监管总局网站",
+      "主题分类": "市场监管、安全生产监管\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年03月25日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7017414.html"
+  },
+  "raw_legal_doc": {}
+}

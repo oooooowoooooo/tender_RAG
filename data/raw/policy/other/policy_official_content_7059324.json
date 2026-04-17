@@ -1,0 +1,68 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7059324",
+  "normalized_projection": {
+    "title": "关于发布国家生态环境质量标准《环境空气质量标准》的公告",
+    "issuer": "​生态环境部",
+    "index_no": "未标注",
+    "subject_category": "城乡建设、环境保护\\环境监测、保护与治理",
+    "doc_no": "〔2026〕13号",
+    "publish_date": "2026-02-25",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7059324.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260225350780697803.pdf"
+    ],
+    "keywords": [
+      "城乡建设",
+      "环境保护",
+      "环境监测",
+      "保护与治理"
+    ],
+    "effective_date": "2026-02-13",
+    "abolish_date": "",
+    "summary": "为贯彻《中华人民共和国环境保护法》和《中华人民共和国大气污染防治法》，保护和改善生态环境，保障公众健康，现批准《环境空气质量标准》为国家生态环境质量标准，并由生态环境部与市场监管总局联合发布。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7059324",
+    "title": "关于发布国家生态环境质量标准《环境空气质量标准》的公告",
+    "content": "关于发布国家生态环境质量标准《环境空气质量标准》的公告\n〔2026〕13号\n为贯彻《中华人民共和国环境保护法》和《中华人民共和国大气污染防治法》，保护和改善生态环境，保障公众健康，现批准《环境空气质量标准》为国家生态环境质量标准，并由生态环境部与市场监管总局联合发布。\n标准的名称、编号如下：\n《环境空气质量标准》（GB 3095—2026）。\n依据有关法律规定，以上标准具有强制执行效力。\n以上标准自2026年3月1日起实施。自以上标准实施之日起，《环境空气质量标准》（GB 3095—2012）及其修改单废止。\n以上标准内容可在生态环境部网站查询。\n特此公告。\n生态环境部\n2026年2月13日",
+    "source": "生态环境部网站",
+    "publish_time": "2026-02-25",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7059324.htm",
+    "category": "城乡建设、环境保护\\环境监测、保护与治理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "299"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7059324",
+    "title": "关于发布国家生态环境质量标准《环境空气质量标准》的公告",
+    "source_name": "生态环境部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-02-25",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7059324.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7059324.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于发布国家生态环境质量标准《环境空气质量标准》的公告",
+      "发文机关": "​生态环境部",
+      "发文字号": "〔2026〕13号",
+      "来源": "生态环境部网站",
+      "主题分类": "城乡建设、环境保护\\环境监测、保护与治理",
+      "公文种类": "公告",
+      "成文日期": "2026年02月13日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260225350780697803.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7059324.html"
+  },
+  "raw_legal_doc": {}
+}

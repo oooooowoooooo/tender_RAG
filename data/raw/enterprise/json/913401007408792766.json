@@ -1,0 +1,74 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913401007408792766",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913401007408792766",
+    "enterprise_name": "皖建生态环境建设有限公司",
+    "legal_representative": "王奇勇",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "29/7/2002 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "120180000",
+    "business_status": "开业",
+    "registered_address": "合肥市庐阳区濉溪路287号金鼎广场1-2001、1-2004室",
+    "business_scope": "园林绿化工程；市政公用工程；建筑工程；水利水电工程；公路工程；木结构工程；古建筑工程；城市亮化及道路照明工程；建筑装修装饰工程；公路维修、维护、保养；土石方工程；环保设备研发、生产及工程配套服务；风景园林工程设计、施工；地质灾害防治与治理工程施工；生态修复；水土保持；水体及环境治理工程；智慧农业、节水灌溉工程施工及技术服务；生态旅游开发及投资；田园综合体、特色小镇、美好乡村规划设计、建设及运营管理；建筑劳务分包；气雾化栽培设施设计施工、安装；植物培育、驯化及销售；水果、蔬菜、农作物、林木、苗木花草盆景种植、销售；农产品收购、销售；病虫害防治技术服务；林业调查规划；生态环境建设与保护技术研发；高新技术研发、技术转让、技术咨询；工程测量；档案整理；数字化技术服务；园林机械及建筑材料销售；环卫机械设备生产、销售、安装、保养及机械设备维修；机械设备租赁服务；沥青、混凝土砼路面的维修、维护、保养；城市公用设施安装、管理、维护；道路护栏清洗及维护；园林绿化养护管理；河道打捞、清理疏浚保洁；建筑垃圾清扫保洁；生活垃圾清扫保洁；道路清扫保洁；垃圾收集、运输、中转、处理；城市垃圾分类；再生资源回收（不含固体废物、危险废物、报废汽车等需经相关部门批准的项目）；物业服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 7,
+    "selected_project_ids": [
+      "2023BBBGZ00093"
+    ],
+    "all_linked_project_ids": [
+      "2022ACCFN00470",
+      "2022ANNGZ00537",
+      "2022BFAFZ02701",
+      "2022BFFGZ02929",
+      "2023ABBFZ00003",
+      "2023BBBGZ00093",
+      "2023BFNGZ00405"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "皖建生态环境建设有限公司",
+    "business_status": "开业",
+    "legal_representative": "王奇勇",
+    "registered_capital": "120180000",
+    "paid_in_capital": "20180000",
+    "establishment_date": "29/7/2002 00:00:00",
+    "approval_date": "23/6/2022 00:00:00",
+    "business_term": "2002-07-29 至 2028-12-31",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐阳区",
+    "phone": "0551-65859818",
+    "additional_phones": "18256942037,0551-65852008,0551-65852388,0551-62638176,15656972459",
+    "email": "422463101@qq.com",
+    "additional_emails": "287147557@qq.com",
+    "unified_social_credit_code": "913401007408792766",
+    "taxpayer_identification_number": "913401007408792766",
+    "business_registration_number": "340100000085854",
+    "organization_code": "74087927-6",
+    "insured_personnel_count": "78",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "林业",
+    "former_name": "安徽鑫苗园林景观建设有限公司",
+    "registered_address": "合肥市庐阳区濉溪路287号金鼎广场1-2001、1-2004室",
+    "latest_annual_report_address": "合肥市庐阳区濉溪路287号金鼎广场1-2001、1-2004室",
+    "website": "www.wjecology.com",
+    "business_scope": "园林绿化工程；市政公用工程；建筑工程；水利水电工程；公路工程；木结构工程；古建筑工程；城市亮化及道路照明工程；建筑装修装饰工程；公路维修、维护、保养；土石方工程；环保设备研发、生产及工程配套服务；风景园林工程设计、施工；地质灾害防治与治理工程施工；生态修复；水土保持；水体及环境治理工程；智慧农业、节水灌溉工程施工及技术服务；生态旅游开发及投资；田园综合体、特色小镇、美好乡村规划设计、建设及运营管理；建筑劳务分包；气雾化栽培设施设计施工、安装；植物培育、驯化及销售；水果、蔬菜、农作物、林木、苗木花草盆景种植、销售；农产品收购、销售；病虫害防治技术服务；林业调查规划；生态环境建设与保护技术研发；高新技术研发、技术转让、技术咨询；工程测量；档案整理；数字化技术服务；园林机械及建筑材料销售；环卫机械设备生产、销售、安装、保养及机械设备维修；机械设备租赁服务；沥青、混凝土砼路面的维修、维护、保养；城市公用设施安装、管理、维护；道路护栏清洗及维护；园林绿化养护管理；河道打捞、清理疏浚保洁；建筑垃圾清扫保洁；生活垃圾清扫保洁；道路清扫保洁；垃圾收集、运输、中转、处理；城市垃圾分类；再生资源回收（不含固体废物、危险废物、报废汽车等需经相关部门批准的项目）；物业服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

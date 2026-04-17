@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7016620",
+  "normalized_projection": {
+    "title": "住房城乡建设部关于发布国家标准《住宅项目规范》的公告",
+    "issuer": "住房城乡建设部",
+    "index_no": "未标注",
+    "subject_category": "城乡建设、环境保护\\城乡建设（含住房）",
+    "doc_no": "中华人民共和国住房和城乡建设部公告2025年第39号",
+    "publish_date": "2025-03-31",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7016620.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250401157366903671.pdf"
+    ],
+    "keywords": [
+      "城乡建设",
+      "环境保护",
+      "城乡建设（含住房）"
+    ],
+    "effective_date": "2025-03-13",
+    "abolish_date": "",
+    "summary": "现批准《住宅项目规范》为国家标准，编号为GB 55038-2025，自2025年5月1日起实施。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7016620",
+    "title": "住房城乡建设部关于发布国家标准《住宅项目规范》的公告",
+    "content": "住房城乡建设部关于发布国家标准《住宅项目规范》的公告\n中华人民共和国住房和城乡建设部公告2025年第39号\n现批准《住宅项目规范》为国家标准，编号为GB 55038-2025，自2025年5月1日起实施。本规范为强制性工程建设规范，全部条文必须严格执行。现行工程建设标准中有关规定与本规范不一致的，以本规范的规定为准。现行国家标准《住宅建筑规范》GB 50368-2005和下列现行工程建设标准相关强制性条文同时废止。\n一、《建筑采光设计标准》GB 50033-2013第4.0.1条。\n二、《住宅设计规范》GB 50096-2011第5.1.1、5.3.3、5.4.4、5.5.2、5.5.3、5.6.2、5.6.3、5.8.1、6.1.1、6.1.2、6.1.3、6.2.1、6.2.2、6.2.3、6.2.4、6.2.5、6.3.1、6.3.2、6.3.5、6.4.1、6.4.7、6.5.2、6.6.1、6.6.3、6.7.1、6.9.1、6.9.6、6.10.1、6.10.4、7.1.1、7.1.3、7.2.1、7.3.2、8.1.1、8.1.2、8.1.3、8.1.4（1、3、4）、8.1.7、8.2.1、8.2.2、8.2.6、8.2.10、8.2.11、8.2.12、8.3.3、8.3.6、8.4.1、8.4.3、8.4.4、8.5.3、8.7.3、8.7.4、8.7.5、8.7.9条（款）。\n三、《民用建筑隔声设计规范》GB 50118-2010第4.2.1、4.2.2、4.2.5条。\n四、《住宅装饰装修工程施工规范》GB 50327-2001第3.1.3、3.1.7、3.2.2、4.1.1、4.3.4、4.3.6、4.3.7、10.1.6条。\n五、《住宅信报箱工程技术规范》GB 50631-2010第1.0.3、3.0.1条。\n六、《住宅建筑电气设计规范》JGJ 242-2011第4.3.2、8.4.3、10.1.1、10.1.2条。\n七、《住宅室内装饰装修设计规范》JGJ 367-2015第3.0.4、3.0.7条。\n八、《城市居住区热环境设计标准》JGJ 286-2013第4.1.1、4.2.1条。\n本规范在住房城乡建设部门户网站公开，并由住房城乡建设部标准定额研究所组织中国建筑出版传媒有限公司出版发行。\n住房城乡建设部\n2025年3月13日\n附件：住宅项目规范",
+    "source": "住房城乡建设部网站",
+    "publish_time": "2025-03-31",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7016620.htm",
+    "category": "城乡建设、环境保护\\城乡建设（含住房）",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "1004"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7016620",
+    "title": "住房城乡建设部关于发布国家标准《住宅项目规范》的公告",
+    "source_name": "住房城乡建设部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-31",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7016620.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7016620.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "住房城乡建设部关于发布国家标准《住宅项目规范》的公告",
+      "发文机关": "住房城乡建设部",
+      "发文字号": "中华人民共和国住房和城乡建设部公告2025年第39号",
+      "来源": "住房城乡建设部网站",
+      "主题分类": "城乡建设、环境保护\\城乡建设（含住房）",
+      "公文种类": "公告",
+      "成文日期": "2025年03月13日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250401157366903671.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7016620.html"
+  },
+  "raw_legal_doc": {}
+}

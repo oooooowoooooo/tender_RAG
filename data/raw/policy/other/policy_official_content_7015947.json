@@ -1,0 +1,68 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7015947",
+  "normalized_projection": {
+    "title": "商务部等11部门办公厅（室）关于推广全国第二批城市一刻钟便民生活圈试点经验及开展第二批全域推进先行区试点申报工作的通知",
+    "issuer": "商务部等",
+    "index_no": "未标注",
+    "subject_category": "商贸、海关、旅游\\国内贸易（含供销）",
+    "doc_no": "商办流通函〔2025〕273号",
+    "publish_date": "2025-03-27",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015947.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250327797735477248.pdf"
+    ],
+    "keywords": [
+      "商贸",
+      "海关",
+      "旅游",
+      "国内贸易（含供销）"
+    ],
+    "effective_date": "2025-03-24",
+    "abolish_date": "",
+    "summary": "商务部等11部门近日印发通知，推广全国第二批城市一刻钟便民生活圈试点经验及开展第二批全域推进先行区试点申报工作。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7015947",
+    "title": "商务部等11部门办公厅（室）关于推广全国第二批城市一刻钟便民生活圈试点经验及开展第二批全域推进先行区试点申报工作的通知",
+    "content": "点击查看：商务部等11部门办公厅（室）关于推广全国第二批城市一刻钟便民生活圈试点经验及开展第二批全域推进先行区试点申报工作的通知",
+    "source": "商务部网站",
+    "publish_time": "2025-03-27",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015947.htm",
+    "category": "商贸、海关、旅游\\国内贸易（含供销）",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "64"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7015947",
+    "title": "商务部等11部门办公厅（室）关于推广全国第二批城市一刻钟便民生活圈试点经验及开展第二批全域推进先行区试点申报工作的通知",
+    "source_name": "商务部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-27",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015947.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015947.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "商务部等11部门办公厅（室）关于推广全国第二批城市一刻钟便民生活圈试点经验及开展第二批全域推进先行区试点申报工作的通知",
+      "发文机关": "商务部等",
+      "发文字号": "商办流通函〔2025〕273号",
+      "来源": "商务部网站",
+      "主题分类": "商贸、海关、旅游\\国内贸易（含供销）",
+      "公文种类": "通知",
+      "成文日期": "2025年03月24日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250327797735477248.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7015947.html"
+  },
+  "raw_legal_doc": {}
+}

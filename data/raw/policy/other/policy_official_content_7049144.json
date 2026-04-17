@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7049144",
+  "normalized_projection": {
+    "title": "国家卫生健康委办公厅关于印发基层慢性病健康管理服务能力建设指引的通知",
+    "issuer": "国家卫生健康委办公厅",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "国卫办基层函〔2025〕439号",
+    "publish_date": "2025-11-20",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7049144.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251120747732824228.pdf"
+    ],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2025-11-14",
+    "abolish_date": "",
+    "summary": "根据国家卫生健康委、国家发展改革委、财政部、国家医保局、国家中医药局、国家疾控局《关于加强基层慢性病健康管理服务的指导意见》（国卫基层发〔2025〕15号），乡镇卫生院和社区卫生服务中心通过功能整合，可设立分区合理、动线流畅的“一站式”基层慢性病健康管理中心。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7049144",
+    "title": "国家卫生健康委办公厅关于印发基层慢性病健康管理服务能力建设指引的通知",
+    "content": "国家卫生健康委办公厅关于印发基层慢性病健康管理服务能力建设指引的通知\n国卫办基层函〔2025〕439号\n各省、自治区、直辖市及新疆生产建设兵团卫生健康委：\n根据国家卫生健康委、国家发展改革委、财政部、国家医保局、国家中医药局、国家疾控局《关于加强基层慢性病健康管理服务的指导意见》（国卫基层发〔2025〕15号），乡镇卫生院和社区卫生服务中心通过功能整合，可设立分区合理、动线流畅的“一站式”基层慢性病健康管理中心。为指导各地根据需要促进基层慢性病健康管理服务能力建设，优化服务流程，提高服务质量，适应城乡居民慢性病健康管理服务需求，我委制定了《基层慢性病健康管理服务能力建设指引》，现印发给你们，请结合实际参照执行。\n附件：基层慢性病健康管理服务能力建设指引.pdf\n国家卫生健康委办公厅\n2025年11月14日\n（信息公开形式：主动公开）",
+    "source": "国家卫生健康委网站",
+    "publish_time": "2025-11-20",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7049144.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "371"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7049144",
+    "title": "国家卫生健康委办公厅关于印发基层慢性病健康管理服务能力建设指引的通知",
+    "source_name": "国家卫生健康委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-11-20",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7049144.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7049144.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家卫生健康委办公厅关于印发基层慢性病健康管理服务能力建设指引的通知",
+      "发文机关": "国家卫生健康委办公厅",
+      "发文字号": "国卫办基层函〔2025〕439号",
+      "来源": "国家卫生健康委网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "通知",
+      "成文日期": "2025年11月14日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251120747732824228.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7049144.html"
+  },
+  "raw_legal_doc": {}
+}

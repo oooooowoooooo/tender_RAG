@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "91340300150143162N",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "安徽瑞丰水利建筑有限公司",
+  "raw_profile": {
+    "record_id": "2394",
+    "title": "安徽瑞丰水利建筑有限公司",
+    "corporation": "郭虎",
+    "amount_raw": "10100万人民币",
+    "event_time": "1994-09-26",
+    "manage_date": "1994-09-26 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "蚌埠市",
+    "district": "怀远县",
+    "type": "其他有限责任公司",
+    "industry": "水利管理业",
+    "USCC": "91340300150143162N",
+    "TIN": "91340300150143162N",
+    "registed_num": "340322000006819",
+    "insured_persons": "124",
+    "location": "安徽省蚌埠市怀远县荆山镇山西路348号",
+    "source_url": "http://www.ahrfsl.cn",
+    "content": "水利水电工程、房屋建筑工程、市政公用工程、环保工程、建筑装饰工程、园林综合工程施工；雨水收集利用；城市泄洪防涝；污水处理工程施工及技术服务。（依法需经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "101000000"
+  }
+}

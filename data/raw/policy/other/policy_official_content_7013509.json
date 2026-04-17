@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7013509",
+  "normalized_projection": {
+    "title": "关于印发《清洁能源发展专项资金管理办法》的通知",
+    "issuer": "财政部",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\财政",
+    "doc_no": "财建〔2025〕35号",
+    "publish_date": "2025-03-14",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7013509.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250314443301114588.pdf"
+    ],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计"
+    ],
+    "effective_date": "2025-03-03",
+    "abolish_date": "",
+    "summary": "为促进清洁能源开发利用，推进能源清洁低碳转型，保障国家能源安全，根据《中华人民共和国预算法》、《中华人民共和国可再生能源法》等有关法律法规规定，财政部制定了《清洁能源发展专项资金管理办法》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7013509",
+    "title": "关于印发《清洁能源发展专项资金管理办法》的通知",
+    "content": "关于印发《清洁能源发展专项资金管理办法》的通知\n财建〔2025〕35号\n各省、自治区、直辖市、计划单列市财政厅（局），新疆生产建设兵团财政局： \n为促进清洁能源开发利用，推进能源清洁低碳转型，保障国家能源安全，根据《中华人民共和国预算法》、《中华人民共和国可再生能源法》等有关法律法规规定，我部制定了《清洁能源发展专项资金管理办法》。现予印发，请遵照执行。 \n附件：清洁能源发展专项资金管理办法\n\n财政部\n2025年3月3日",
+    "source": "财政部网站",
+    "publish_time": "2025-03-14",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7013509.htm",
+    "category": "财政、金融、审计\\财政",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "212"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7013509",
+    "title": "关于印发《清洁能源发展专项资金管理办法》的通知",
+    "source_name": "财政部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-14",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7013509.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7013509.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《清洁能源发展专项资金管理办法》的通知",
+      "发文机关": "财政部",
+      "发文字号": "财建〔2025〕35号",
+      "来源": "财政部网站",
+      "主题分类": "财政、金融、审计\\财政",
+      "公文种类": "通知",
+      "成文日期": "2025年03月03日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250314443301114588.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7013509.html"
+  },
+  "raw_legal_doc": {}
+}

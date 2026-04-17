@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7016072",
+  "normalized_projection": {
+    "title": "关于继续实施离岸贸易印花税优惠政策的通知",
+    "issuer": "财政部 税务总局",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\税务",
+    "doc_no": "财税〔2025〕10号",
+    "publish_date": "2025-03-28",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7016072.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "税务"
+    ],
+    "effective_date": "2025-03-24",
+    "abolish_date": "",
+    "summary": "本通知所称离岸转手买卖，是指居民企业从非居民企业购买货物，随后向另一非居民企业转售该货物，且该货物始终未实际进出我国关境的交易。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7016072",
+    "title": "关于继续实施离岸贸易印花税优惠政策的通知",
+    "content": "关于继续实施离岸贸易印花税优惠政策的通知\n财税〔2025〕10号\n上海市、江苏省、浙江省、福建省、山东省、广东省、海南省财政厅（局），国家税务总局上海市、江苏省、浙江省、广东省、海南省、宁波市、厦门市、青岛市、深圳市税务局：\n为落实党的二十届三中全会精神，进一步支持自由贸易试验区发展离岸贸易，现就继续实施离岸贸易印花税优惠政策通知如下：\n一、对注册登记在中国（上海）自由贸易试验区及临港新片区、中国（江苏）自由贸易试验区苏州片区、中国（浙江）自由贸易试验区、中国（福建）自由贸易试验区厦门片区、中国（山东）自由贸易试验区青岛片区、中国（广东）自由贸易试验区以及海南自由贸易港的企业开展离岸转手买卖业务书立的买卖合同，免征印花税。\n本通知所称离岸转手买卖，是指居民企业从非居民企业购买货物，随后向另一非居民企业转售该货物，且该货物始终未实际进出我国关境的交易。\n二、本通知自2025年4月1日起执行至2027年12月31日。\n财政部 税务总局\n2025年3月24日",
+    "source": "财政部网站",
+    "publish_time": "2025-03-28",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7016072.htm",
+    "category": "财政、金融、审计\\税务",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "432"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7016072",
+    "title": "关于继续实施离岸贸易印花税优惠政策的通知",
+    "source_name": "财政部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-28",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7016072.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7016072.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于继续实施离岸贸易印花税优惠政策的通知",
+      "发文机关": "财政部 税务总局",
+      "发文字号": "财税〔2025〕10号",
+      "来源": "财政部网站",
+      "主题分类": "财政、金融、审计\\税务",
+      "公文种类": "通知",
+      "成文日期": "2025年03月24日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7016072.html"
+  },
+  "raw_legal_doc": {}
+}

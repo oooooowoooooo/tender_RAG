@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7053833",
+  "normalized_projection": {
+    "title": "市场监管总局关于发布《企业名称申报指引（2025年版）》的公告",
+    "issuer": "市场监管总局",
+    "index_no": "未标注",
+    "subject_category": "市场监管、安全生产监管\\工商",
+    "doc_no": "2025年第59号",
+    "publish_date": "2026-01-04",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7053833.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260104635059389536.pdf"
+    ],
+    "keywords": [
+      "市场监管",
+      "安全生产监管",
+      "工商"
+    ],
+    "effective_date": "2025-12-27",
+    "abolish_date": "",
+    "summary": "为纵深推进全国统一大市场建设，统一市场基础制度，落实国务院优化营商环境重点工作任务，规范企业名称自主申报行为，保护企业合法权益，提高政务服务水平，市场监管总局依据《中华人民共和国公司法》《企业名称登记管理规定》《企业名称登记管理规定实施办法》等法律法规规章，制定了《企业名称申报指引（2025年版）》，现予以公告。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7053833",
+    "title": "市场监管总局关于发布《企业名称申报指引（2025年版）》的公告",
+    "content": "市场监管总局关于发布《企业名称申报指引（2025年版）》的公告\n2025年第59号\n为纵深推进全国统一大市场建设，统一市场基础制度，落实国务院优化营商环境重点工作任务，规范企业名称自主申报行为，保护企业合法权益，提高政务服务水平，市场监管总局依据《中华人民共和国公司法》《企业名称登记管理规定》《企业名称登记管理规定实施办法》等法律法规规章，制定了《企业名称申报指引（2025年版）》，现予以公告。\n市场监管总局\n2025年12月27日\n附件下载：\n市场监管总局关于发布《企业名称申报指引（2025年版）》的公告.pdf",
+    "source": "市场监管总局网站",
+    "publish_time": "2026-01-04",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7053833.htm",
+    "category": "市场监管、安全生产监管\\工商",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "260"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7053833",
+    "title": "市场监管总局关于发布《企业名称申报指引（2025年版）》的公告",
+    "source_name": "市场监管总局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-01-04",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7053833.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7053833.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "市场监管总局关于发布《企业名称申报指引（2025年版）》的公告",
+      "发文机关": "市场监管总局",
+      "发文字号": "2025年第59号",
+      "来源": "市场监管总局网站",
+      "主题分类": "市场监管、安全生产监管\\工商",
+      "公文种类": "公告",
+      "成文日期": "2025年12月27日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260104635059389536.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7053833.html"
+  },
+  "raw_legal_doc": {}
+}

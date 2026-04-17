@@ -1,0 +1,69 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7062944",
+  "normalized_projection": {
+    "title": "关于实施船舶吨税缴款凭证和吨税执照自主打印改革的公告",
+    "issuer": "海关总署",
+    "index_no": "未标注",
+    "subject_category": "商贸、海关、旅游\\海关",
+    "doc_no": "海关总署公告2025年第56号",
+    "publish_date": "2025-04-10",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7062944.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020260316847759141070.doc",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020260316847759230495.pdf"
+    ],
+    "keywords": [
+      "商贸",
+      "海关",
+      "旅游"
+    ],
+    "effective_date": "2025-04-04",
+    "abolish_date": "",
+    "summary": "为持续优化口岸营商环境，便利进境船舶办理纳税手续，海关总署决定实施船舶吨税缴款凭证和吨税执照自主打印改革。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7062944",
+    "title": "关于实施船舶吨税缴款凭证和吨税执照自主打印改革的公告",
+    "content": "关于实施船舶吨税缴款凭证和吨税执照自主打印改革的公告\n海关总署公告2025年第56号\n为持续优化口岸营商环境，便利进境船舶办理纳税手续，海关总署决定实施船舶吨税缴款凭证和吨税执照自主打印改革。现就有关事宜公告如下：\n自2025年4月21日起，自我国境外港口进入境内港口的船舶（以下称应税船舶），依照《中华人民共和国船舶吨税法》缴纳船舶吨税后，应税船舶负责人可以通过“互联网+海关”一体化网上办事平台或国际贸易“单一窗口”标准版，下载并打印船舶吨税缴款凭证和吨税执照。\n特此公告。\n海关总署\n2025年4月4日\n公告下载链接：\n海关总署关于实施船舶吨税缴款凭证和吨税执照自主打印改革的公告.doc\n海关总署关于实施船舶吨税缴款凭证和吨税执照自主打印改革的公告.pdf",
+    "source": "海关总署网站",
+    "publish_time": "2025-04-10",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7062944.htm",
+    "category": "商贸、海关、旅游\\海关",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "332"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7062944",
+    "title": "关于实施船舶吨税缴款凭证和吨税执照自主打印改革的公告",
+    "source_name": "海关总署网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-04-10",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7062944.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7062944.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于实施船舶吨税缴款凭证和吨税执照自主打印改革的公告",
+      "发文机关": "海关总署",
+      "发文字号": "海关总署公告2025年第56号",
+      "来源": "海关总署网站",
+      "主题分类": "商贸、海关、旅游\\海关",
+      "公文种类": "公告",
+      "成文日期": "2025年04月04日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020260316847759141070.doc",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020260316847759230495.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7062944.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,82 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023BFAFD02820",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "中标"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023BFAFD02820",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "中标"
+    ],
+    "publish_time": "2023-12-21 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 合肥"
+    ],
+    "tenderer_or_purchaser": [
+      "安徽省教育招生考试院"
+    ],
+    "agency": [
+      "安徽省政府采购中心"
+    ],
+    "budget_or_bid_amount": [
+      "2480000.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231221/e9643025-807a-41a1-a65c-39a48ebe55fb.html?ztbtab=002002004&biaoduanguid=fd179dee-7e28-4a04-91b4-9ed0781996c8",
+    "attachment_paths": [],
+    "candidate_company_names": [
+      "山东山大鸥玛软件股份有限公司"
+    ],
+    "winner_company_name": [
+      "山东山大鸥玛软件股份有限公司"
+    ],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:133",
+      "project_id": "2023BFAFD02820",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231221/e9643025-807a-41a1-a65c-39a48ebe55fb.html?ztbtab=002002004&biaoduanguid=fd179dee-7e28-4a04-91b4-9ed0781996c8",
+      "type": "政府采购",
+      "stage": "中标",
+      "event_time": "2023-12-21",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "合肥",
+      "category": "政府",
+      "sub_category": "服务",
+      "budget_amount": "2480000.0",
+      "purchaser": "安徽省教育招生考试院",
+      "agency": "安徽省政府采购中心",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "山东山大鸥玛软件股份有限公司",
+      "bid_amount": "",
+      "bid_date": "2023-12-28",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"安徽省2024年高考综合改革适应性演练答题卡扫描及网上评卷技术服务项目第1包中标（成交）结果公告\", \"content\": \"一、项目编号:2023BFAFD02820\n二、项目名称:安徽省2024年高考综合改革适应性演练答题卡扫描及网上评卷技术服务项目\n三、中标（成交）信息\n\n四、主要标的信息\n{\"table_style\": 1}\n\n五、评审专家（单一来源采购人员）名单\n夏银生,殷君,李洪彬\n六、代理服务收费标准及金额\n免费\n\n七、公告期限\n自本公告发布之日起1个工作日。\n八、其他补充事宜\n若供应商对上述结果有异议，可在中标（成交）公告发布之日起七个工作日内以电子交易系统或书面形式在工作时间（周一至周五，上午9:00-12:00，下午13:30-17:30，节假日休息）向安徽省政府采购中心提出质疑（异议），质疑材料递交地址：合肥市滨湖新区南京路2588号（徽州大道与南京路交口）A区六楼678室，联系电话：0551-66223642。\n若供应商对质疑处理意见有异议，可在规定时间内以书面形式向安徽省财政厅提出投诉。\n质疑提起的条件及不予受理的情形\n根据《中华人民共和国政府采购法》、《中华人民共和国政府采购法实施条例》、《安徽省政府采购供应商质疑处理办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n（一）质疑应以电子交易系统或书面形式实名提出，电子交易系统或书面质疑材料应当包括以下内容：\n1、质疑人的名称、地址、邮编、联系人及联系电话；\n2、采购人名称、项目名称、项目编号、包别号（如有）；\n3、被质疑人名称；\n4、具体的质疑事项、基本事实及必要的证明材料；\n5、明确的请求及主张；\n6、必要的法律依据；\n7、提起质疑的日期。\n质疑人为自然人的，应当由本人签字；质疑人为法人或者其他组织的，应当由法定代表人、主要负责人，或者其授权代表签字或者盖章，并加盖公章。\n（二）有下列情形之一的，不予受理：\n1、提起质疑的主体不是参与该政府采购项目活动的供应商；\n2、提起质疑的时间超过规定时限的；\n3、质疑材料不完整的；\n4、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n5、对其他投标人（供应商）的投标文件详细内容质疑，无法提供合法来源渠道的；\n6、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n安徽省2024年高考综合改革适应性演练答题卡扫描及网上评卷技术服务项目项目中标通知书已发出，请中标（成交）供应商委派专人凭介绍信或公司授权书（须携带身份证）到安徽省政府采购中心领取中标（成交）通知书。\n九、凡对本次公告内容提出询问，请按以下方式联系\n1.采购人信息\n名称：安徽省教育招生考试院\n地址：合肥市蜀山区绩溪路240号\n联系方式：0551-63612685\n2.采购代理机构信息\n名称：安徽省政府采购中心\n地址：合肥市滨湖新区南京路2588号（徽州大道与南京路交口）六楼\n联系方法：0551-66223645、66223646\n3.项目联系方式\n项目联系人：吴瑞\n电话：0551-66223933\n\", \"attachments\": [{\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=59239273-89a5-4e7f-9ef5-051baba5c4ac&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"主要中标（成交）标的承诺函.docx\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=9162afd7-a2ba-4118-91eb-afafaad09fbe&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"公示附件.docx\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=c17ccf44-dff4-4b8c-be2c-b2f8bea70329&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "2062",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

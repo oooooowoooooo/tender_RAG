@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7036293",
+  "normalized_projection": {
+    "title": "关于明确快递服务等增值税政策的公告",
+    "issuer": "财政部 税务总局",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\税务",
+    "doc_no": "财政部 税务总局公告2025年第5号",
+    "publish_date": "2025-08-13",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7036293.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "税务"
+    ],
+    "effective_date": "2025-08-11",
+    "abolish_date": "",
+    "summary": "快递企业提供快递服务取得的收入，按照“收派服务”缴纳增值税。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7036293",
+    "title": "关于明确快递服务等增值税政策的公告",
+    "content": "关于明确快递服务等增值税政策的公告\n财政部 税务总局公告2025年第5号\n现将快递服务等增值税政策公告如下：\n一、快递企业提供快递服务取得的收入，按照“收派服务”缴纳增值税。\n本公告所称快递企业，是指在境内从事快递业务经营并依法取得快递业务经营许可的企业，上述企业向邮政管理部门备案的分支机构，以及上述企业或者上述分支机构向邮政管理部门备案的快递末端网点。快递末端网点，是指提供快递末端服务的经营网点。\n本公告所称快递服务，是指在承诺的时限内完成快件的收寄、分拣、运输、投递服务的业务活动，不包括快递企业仅提供运输服务的业务活动。快递末端服务是指上述收寄、投递服务。快件，是指快递企业递送的信件、包裹、印刷品等物品。收寄服务，是指快递企业接受寄件人委托，完成快件下单、验视、包装、封装等服务的业务活动。分拣服务，是指快递企业对快件进行归类、封发的业务活动。投递服务，是指快递企业将快件按约定方式投交到约定的地址或收件人的业务活动。\n二、具有网络平台道路货物运输（以下简称网络货运）经营资质的纳税人，从事网络货运经营，自行采购并交付给实际承运人使用的成品油、天然气、电力、氢能、二甲醚、甲醇以及其他各类车辆燃料（能源）和支付的道路、桥、闸通行费，同时符合下列条件的，其进项税额准予从销项税额中抵扣：\n（一）成品油、天然气、电力、氢能、二甲醚、甲醇以及其他各类车辆燃料（能源）和支付的道路、桥、闸通行费，应用于从事网络货运经营纳税人委托实际承运人完成的运输服务。\n（二）取得的增值税扣税凭证符合现行规定。\n本公告所称网络货运经营，是指纳税人依托互联网平台整合配置运输资源，以承运人身份与托运人签订运输合同，委托实际承运人完成道路货物运输，承担承运人责任的道路货物运输经营活动，不包括为托运人和实际承运人提供信息中介和交易撮合等服务的行为。实际承运人，是指接受网络货运经营者委托，实际从事道路货物运输的经营者。\n三、本公告自发布之日起施行，此前已发生未处理的事项，按照本公告规定执行，已处理的事项不再调整。\n特此公告。\n财政部 税务总局\n2025年8月11日",
+    "source": "财政部网站",
+    "publish_time": "2025-08-13",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7036293.htm",
+    "category": "财政、金融、审计\\税务",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "876"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7036293",
+    "title": "关于明确快递服务等增值税政策的公告",
+    "source_name": "财政部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-08-13",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7036293.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7036293.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于明确快递服务等增值税政策的公告",
+      "发文机关": "财政部 税务总局",
+      "发文字号": "财政部 税务总局公告2025年第5号",
+      "来源": "财政部网站",
+      "主题分类": "财政、金融、审计\\税务",
+      "公文种类": "公告",
+      "成文日期": "2025年08月11日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7036293.html"
+  },
+  "raw_legal_doc": {}
+}

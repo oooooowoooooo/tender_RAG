@@ -1,0 +1,82 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023ASSFN00195",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "中标"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023ASSFN00195",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "中标"
+    ],
+    "publish_time": "2023-11-10 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 蜀山"
+    ],
+    "tenderer_or_purchaser": [
+      "合肥蜀山经济技术开发区管理委员会"
+    ],
+    "agency": [
+      "合肥蜀山公共资源交易项目管理有限公司"
+    ],
+    "budget_or_bid_amount": [
+      "1000000.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231110/b9150abc-efcb-43c0-ab37-3491cb4348d2.html?ztbtab=002002004&biaoduanguid=24706730-051f-4e4f-a322-6ec7ca92f09b",
+    "attachment_paths": [],
+    "candidate_company_names": [
+      "安徽地丰生态规划设计院有限公司"
+    ],
+    "winner_company_name": [
+      "安徽地丰生态规划设计院有限公司"
+    ],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:826",
+      "project_id": "2023ASSFN00195",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231110/b9150abc-efcb-43c0-ab37-3491cb4348d2.html?ztbtab=002002004&biaoduanguid=24706730-051f-4e4f-a322-6ec7ca92f09b",
+      "type": "政府采购",
+      "stage": "中标",
+      "event_time": "2023-11-10",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "蜀山",
+      "category": "政府",
+      "sub_category": "服务",
+      "budget_amount": "1000000.0",
+      "purchaser": "合肥蜀山经济技术开发区管理委员会",
+      "agency": "合肥蜀山公共资源交易项目管理有限公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "安徽地丰生态规划设计院有限公司",
+      "bid_amount": "1000000.0",
+      "bid_date": "2023-11-21",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"合肥蜀山经济技术开发区林业技术单位服务成交结果公告\", \"content\": \"\n\n合肥蜀山经济技术开发区林业技术单位服务成交结果公告\n\n一、项目编号:\n2023ASSFN00195\n\n二、项目名称:\n合肥蜀山经济技术开发区林业技术单位服务\n\n三、中标（成交）信息\n\n供应商名称：安徽地丰生态规划设计院有限公司\n\n供应商地址：安徽省合肥市蜀山区颐和花园庐阳佳苑23幢604室\n\n成交费率：百分之肆拾(40.00%)\n\n四、主要标的信息\n{\"table_style\": 1}\n\n服务类\n\n名称：\n\n安徽地丰生态规划设计院有限公司\n\n服务范围\n：\n\n根据使用林地审核审批及林木采伐报批相关法规和要求，服务范围为合肥市蜀山经济技术开发区\n2023-2024\n年林业调查、 设计及组卷报批的所有相关工作。 项目工作内容为：\n\n1.\n使用林地可行性报告编制及组卷报批：包括林地调查、林木调查、重点保护野生动植物调查，以及使用林地的环境影响分析和可行性分析等内容。\n\n2.\n作业设计编制及组卷报批：包括《采伐作业设计》、《临时使用林地恢复植被和林业生产条件方案设计》等。\n\n3.\n林地调查及图纸更新： 根据最新的林地图、 林地保护利用规划、公益林及退耕还林图等林业数据，并结合现场调查，疏理并动态更新合肥蜀山经济技术开发区建设范围内需报批的林地面积。\n\n4.\n其它林业调查规划设计任务： 其它临时需要的林业调查及规划设计任务，在《林业行业调查规划项目收费指导意见》范围内的项目，纳入本项目实施内容。\n\n本项目总预算\n100\n万元，服务期内服务费总额达到\n100\n万元时，合同自动终止。\n\n服务要求\n：\n\n（一）使用林地可行性报告编制及组卷报批\n\n包括为编制报告书而进行的所有调查、资料收集、现场勘察、专家评审等工作，提交符合规范要求的使用林地可行性报告（林地面积≥\n2\n公顷）或现状调查表（林地面积＜\n2\n公顷），并协助林地的组卷报批直到取得批复文件。要求按现行国家、省市有关规范和规定要求进行，成果满足相关项目设计要求，需要专家评审的项目需通过评审。若中标人编制的报告达不到相应要求，应负责修改完善直到符合相关要求为止，采购人不增加任何费用。\n\n（二）作业设计编制及组卷报批\n\n包括林木《采伐作业设计》编制及组卷报批、《临时使用林地恢复植被和林业生产条件方案设计》等。提交的成果需符合《森林采伐作业规程》（\nLY/T 1646-2005\n）、《森林资源规划设计调查技术规程》（\nGB/T 26424-2010\n）、《造林作业设计规程》（\nLY/T 1607-2003\n）、《安徽省恢复植被和林业生产条件、树木补种标准的实施意见（试行）》等相关规程和规范。\n\n（三）林地调查及图纸更新\n\n根据最新的林地一张图、林地保护利用规划、公益林及退耕还林图纸等林业数据，并结合现场调查，按照甲方委托的区域范围，疏理并动态更新合肥蜀山经济技术开发区建设范围内需报批的林地面积。要求图纸统计根据最新的资料，现场调查需符合《安徽省森林资源规划设计调查实施细则》要求，提交的成果需符合《建设项目使用林地审核审批管理办法》、《安微省自然资源厅安徽省林业局关于妥善处理历史遗留耕地林地属性重叠问题的通知》等相关标准和相关法律规范的要求。\n\n（四）其它林业调查及规划设计任务\n\n其它临时需要的林业调查及规划设计任务，在《林业行业调查规划项目收费指导意见》范围内的项目，纳入本项目实施内容。\n\n服务时间\n：\n\n合同签订后一年。\n\n服务标准：\n\n成交供应商提交的成果需符合相关文件、标准和规范的要求。需要专家评审的项目，需通过专家评审会；需要向上级部门报批的项目，中标单位需成功向上级部门提交成果并取得批复；上级部门需要现场核查的项目，中标单位须及时配合工作，直到通过上级主管部门的现场核查。\n\n本项目需配置项目负责人\n1\n名，项目组其他成员不得少于\n2\n名。项目负责人必须全程参与项目的外业调查、成果编制以及专家评审等环节，项目负责人不得随意中途更换，否则采购人有权上报主管部门。人员配备不作为初审要求，人员配备标后核实。\n\n注：以上内容如与本公告附件《主要成交标的承诺函》内容不一致的，以附件《主要成交标的承诺函》为准。\n\n五、评审专家（单一来源采购人员）名单\n\n沈克东,陈斌,汪本荣,阚永锋,钱伟\n\n六、代理服务收费标准及金额\n\n1.代理服务收费标准：执行采购文件中约定的收费标准。\n2.金额：人民币壹万伍仟元整（￥15000.00）。\n\n七、公告期限\n\n自本公告发布之日起1个工作日。\n\n八、其他补充事宜\n\n若供应商对上述结果有异议，可在成交结果公告发布之日起七个工作日内通过安徽合肥公共资源交易电子交易系统或书面形式在工作时间（上午\n8:00-12:00\n，下午\n14:30-17:30\n，节假日休息）向合肥蜀山公共资源交易项目管理有限公司提出质疑，质疑材料递交地址：合肥市蜀山区井岗路\n1100\n号蜀山区人民检察院北楼（井岗路与万泽路交口向西\n100\n米）二楼，联系电话：\n0551-65737248\n。\n\n若供应商对质疑处理意见有异议，可在规定时间内通过网上投诉系统或书面形式向合肥市蜀山区招标投标监督管理局提出投诉，联系电话：\n0551-65737234\n。\n\n根据《中华人民共和国政府采购法》《中华人民共和国政府采购法实施条例》《安徽省政府采购供应商质疑处理办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n\n（一）质疑应以书面形式实名提出，书面质疑材料应当包括以下内容：\n\n1\n、质疑人的名称、地址、邮编、联系人及联系电话；\n\n2\n、质疑项目的名称、编号、包别号（如有）；\n\n3\n、被质疑人名称；\n\n4\n、具体的质疑事项、基本事实及必要的证明材料；\n\n5\n、明确的请求及主张；\n\n6\n、必要的法律依据；\n\n7\n、提起质疑的日期。\n\n质疑人为自然人的，应当由本人签字；质疑人为法人或者其他组织的，应当由法定代表人、主要负责人，或者其授权代表签字或者盖章，并加盖公章。\n\n（二）有下列情形之一的，不予受理：\n\n1\n、提起质疑的主体不是参与该政府采购项目活动的供应商；\n\n2\n、提起质疑的时间超过规定时限的；\n\n3\n、质疑材料不完整的；\n\n4\n、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n\n5\n、对其他供应商的投标文件详细内容质疑，无法提供合法来源渠道的；\n\n6\n、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n\n合肥蜀山经济技术开发区林业技术单位服务成交通知书已发出，请成交供应商登录电子交易系统自行下载领取电子成交通知书。\n\n九、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：合肥蜀山经济技术开发区管理委员会\n\n地址：合肥市蜀山区井岗路68号电商园一期\n\n联系方式：18956051916\n\n2.采购代理机构信息\n\n名称：合肥蜀山公共资源交易项目管理有限公司\n\n地址：合肥市蜀山区井岗路1100号蜀山区人民检察院北楼（井岗路与万泽路交口向西100米）一楼\n\n联系方式：0551-65597297\n\n3.项目联系方式\n\n项目联系人：徐工\n\n电话：0551-65597297\n\n\", \"attachments\": [{\"file_name\": \"主要成交标的承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=35d791c3-190a-4694-9515-ea16b4d33f9c&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=5ab2fd2c-e7f5-43b6-8eac-700ccd6d7ddf&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"磋商业绩承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=61ed32f0-dfdb-4112-ae70-88ea111a6f9f&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"安徽合肥公共资源交易中心网上投诉操作手册-投标人.docx\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=8ba780b4-7e59-4cac-aed5-0f04aaa0cd43&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"中小企业声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=8d6174ab-f910-4d32-8d43-b3bd89462944&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"无重大违法记录声明函、无不良信用记录声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=caa0e7f3-be40-4b57-bdd3-e4b0ec482a11&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "4519",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

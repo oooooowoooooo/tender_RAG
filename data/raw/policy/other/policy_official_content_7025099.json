@@ -1,0 +1,84 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7025099",
+  "normalized_projection": {
+    "title": "国家医保局关于公开发布第一批智能监管“两库”规则和知识点的公告",
+    "issuer": "国家医保局",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "未标注",
+    "publish_date": "2025-05-24",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7025099.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332696685316.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332697025068.xlsx",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332698401558.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332698518519.xlsx",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332698584235.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332698729751.xlsx",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332698849452.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332698938318.xlsx",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332698994206.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332699094371.xlsx"
+    ],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2025-05-23",
+    "abolish_date": "",
+    "summary": "为帮助定点医药机构及其工作人员熟悉掌握医保基金监管规则，通过智能化方式主动合规、持续合规，实现监管关口前移，国家医保局计划分批次向定点医药机构征求智能监管知识库、规则库意见建议，并逐步向社会公布。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7025099",
+    "title": "国家医保局关于公开发布第一批智能监管“两库”规则和知识点的公告",
+    "content": "国家医保局关于公开发布第一批智能监管“两库”规则和知识点的公告\n为帮助定点医药机构及其工作人员熟悉掌握医保基金监管规则，通过智能化方式主动合规、持续合规，实现监管关口前移，国家医保局计划分批次向定点医药机构征求智能监管知识库、规则库（以下简称“两库”）意见建议，并逐步向社会公布。\n近日，我们完成了“药品区分性别使用”“医疗服务项目区分性别使用”“药品儿童专用”“药品限儿童使用”“医疗服务项目儿童专用”等5类规则对应知识点明细（共计11290条）的意见征求和修订完善工作，现面向社会公开。\n\n各省级医保部门要及时根据最新知识点明细及代码对省级医保信息平台智能监管子系统“两库”进行动态更新。\n定点医药机构可以将智能监管“两库”置于本机构智能提醒等信息化系统中，也可以对接医保部门智能监管系统事前提醒功能模块，对医保基金使用行为开展自动提醒和自查自纠，将不合规的行为消除在“萌芽”阶段，从源头上减少使用医保基金违法违规行为发生。\n  附件：\n  第一批-1.药品区分性别使用.pdf\n  第一批-1.药品区分性别使用.xlsx\n  第一批-2.医疗服务项目区分性别使用.pdf\n  第一批-2.医疗服务项目区分性别使用.xlsx\n  第一批-3.药品儿童专用.pdf\n  第一批-3.药品儿童专用.xlsx\n  第一批-4.药品限儿童使用.pdf\n  第一批-4.药品限儿童使用.xlsx\n  第一批-5.医疗服务项目儿童专用.pdf\n  第一批-5.医疗服务项目儿童专用.xlsx",
+    "source": "国家医保局网站",
+    "publish_time": "2025-05-24",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7025099.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "641"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7025099",
+    "title": "国家医保局关于公开发布第一批智能监管“两库”规则和知识点的公告",
+    "source_name": "国家医保局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-05-24",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7025099.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7025099.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家医保局关于公开发布第一批智能监管“两库”规则和知识点的公告",
+      "发文机关": "国家医保局",
+      "来源": "国家医保局网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "公告",
+      "成文日期": "2025年05月23日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332696685316.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332697025068.xlsx",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332698401558.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332698518519.xlsx",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332698584235.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332698729751.xlsx",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332698849452.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332698938318.xlsx",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332698994206.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250524332699094371.xlsx"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7025099.html"
+  },
+  "raw_legal_doc": {}
+}

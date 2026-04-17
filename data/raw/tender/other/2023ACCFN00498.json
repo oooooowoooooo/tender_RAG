@@ -1,0 +1,83 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023ACCFN00498",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "中标"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023ACCFN00498",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "中标"
+    ],
+    "publish_time": "2023-12-07 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 长丰"
+    ],
+    "tenderer_or_purchaser": [
+      "长丰县卫生健康委员会"
+    ],
+    "agency": [
+      "长丰县公共资源交易有限责任公司"
+    ],
+    "budget_or_bid_amount": [
+      "1614500.0",
+      "1519000.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231207/2c0da38d-38fb-4e07-b7e7-294483384dbf.html?ztbtab=002002004&biaoduanguid=835188a5-de9c-4711-9455-c857223458f0",
+    "attachment_paths": [],
+    "candidate_company_names": [
+      "安徽晶奇网络科技股份有限公司"
+    ],
+    "winner_company_name": [
+      "安徽晶奇网络科技股份有限公司"
+    ],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:353",
+      "project_id": "2023ACCFN00498",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231207/2c0da38d-38fb-4e07-b7e7-294483384dbf.html?ztbtab=002002004&biaoduanguid=835188a5-de9c-4711-9455-c857223458f0",
+      "type": "政府采购",
+      "stage": "中标",
+      "event_time": "2023-12-07",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "长丰",
+      "category": "政府",
+      "sub_category": "服务",
+      "budget_amount": "1614500.0",
+      "purchaser": "长丰县卫生健康委员会",
+      "agency": "长丰县公共资源交易有限责任公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "安徽晶奇网络科技股份有限公司",
+      "bid_amount": "1519000.0",
+      "bid_date": "2023-12-18",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"长丰县卫生健康委员会信息化运维项目（第1包）成交结果公告\", \"content\": \"\n\n长丰县卫生健康委员会信息化运维项目（第1包）成交结果公告\n\n一、项目编号:\n2023ACCFN00498\n\n二、项目名称:\n长丰县卫生健康委员会信息化运维项目\n\n三、中标（成交）信息\n\n第1包：\n\n供应商名称：安徽晶奇网络科技股份有限公司\n\n供应商地址：合肥市高新区创新大道2800号合肥创新产业园二期F区2幢\n\n成交金额：壹佰伍拾壹万玖仟元整(￥1519000.00元)\n\n四、主要标的信息\n\n名称：\n长丰县卫生健康委员会信息化运维项目\n\n服务范围：响应采购文件要求\n\n服务要求：响应采购文件要求\n\n服务时间：响应采购文件要求\n\n服务标准：\n响应采购文件要求\n\n五、评审专家（单一来源采购人员）名单\n\n张成,吴凯,崔广树\n\n六、代理服务收费标准及金额\n\n1.代理服务收费标准：详见文件成交服务费收取标准。2.金额：1.5322万元。\n\n七、公告期限\n\n自本公告发布之日起1个工作日。\n\n八、其他补充事宜\n\n若供应商对上述结果有异议，可在成交公告发布之日起七个工作日内通过电子交易系统在线或以书面形式在工作时间（周一至周五，上午\n8:00-12:00，下午14:30-17:30，节假日休息）向长丰县公共资源交易有限责任公司提出质疑（异议），质疑材料递交地址：长丰县双墩镇阜阳北路与济河路交口北城综合服务中心北楼5楼5\n20\n室业务协调部，联系电话：\n0551-6272\n3383\n。\n\n若供应商对质疑处理意见有异议，可在规定时间内通过网上投诉系统或以书面形式向长丰县财政局提出投诉，联系人：张工，联系电话：\n0551-66660023【采购人为合肥行政区域以外单位的项目：向采购人所在地财政部门（公共资源交易监督管理部门）提出投诉】。\n\n一、质疑提起的条件及不予受理的情形\n\n根据《中华人民共和国政府采购法》、《中华人民共和国政府采购法实施条例》、《安徽省政府采购供应商质疑处理办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n\n（一）质疑应以书面形式或通过电子交易系统在线实名提出，质疑材料应当包括以下内容：\n\n1、质疑人的名称、地址、邮编、联系人及联系电话；\n\n2、质疑项目的名称、编号、包别号（如有）；\n\n3、被质疑人名称；\n\n4、具体的质疑事项、基本事实及必要的证明材料；\n\n5、明确的请求及主张；\n\n6、必要的法律依据；\n\n7、提起质疑的日期。\n\n质疑人为自然人的，应当由本人签字；质疑人为法人或者其他组织的，应当由法定代表人、主要负责人，或者其授权代表签字或者盖章，并加盖公章。\n\n（二）有下列情形之一的，不予受理：\n\n1、提起质疑的主体不是参与该政府采购项目活动的供应商；\n\n2、提起质疑的时间超过规定时限的；\n\n3、质疑材料不完整的；\n\n4、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n\n5、对其他供应商的投标文件详细内容质疑，无法提供合法来源渠道的；\n\n6、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n\n二、成交通知书发出情况\n\n长丰县卫生健康委员会信息化运维项目\n项目成交通知书已发出，请成交供应商登录电子交易系统自行下载领取电子成交通知书。\n\n九、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：长丰县卫生健康委员会\n\n地址：合肥市长丰县水湖镇南一环与杨公路交叉口\n\n联系方式：0551-66672283\n\n2.采购代理机构信息\n\n名称：长丰县公共资源交易有限责任公司\n\n地址：长丰县双墩镇阜阳北路与济河路交口北城综合服务中心北楼5楼\n\n联系方式：0551-62721981、62721970\n\n3.项目联系方式\n\n项目联系人：张乐\n\n电话：0551-62721981、62721970\n\n\", \"attachments\": [{\"file_name\": \"公示信息.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=3d9dc0b1-5e4c-4604-96c1-80f06b3e9259&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=8f80d978-e03a-4916-b71d-3b7ba6a76b73&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"安徽合肥公共资源交易中心网上投诉操作手册-投标人.docx\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=a14db701-b4b2-49a6-8f95-22821a2b6dae&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}, {\"title\": \"长丰县卫生健康委员会信息化运维项目（第2包）终止公告\", \"content\": \"\n\n长丰县卫生健康委员会信息化运维项目（第2包）终止公告\n\n一、项目基本情况\n\n采购项目编号：2023ACCFN00498\n\n采购项目名称：长丰县卫生健康委员会信息化运维项目\n\n二、项目终止的原因\n\n第2包终止原因：有效供应商不足规定数量，本次采购终止。\n\n三、其他补充事宜\n\n无\n\n四、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：长丰县卫生健康委员会\n\n地址：合肥市长丰县水湖镇南一环与杨公路交叉口\n\n联系方式：0551-66672283\n\n2.采购代理机构信息\n\n名称：长丰县公共资源交易有限责任公司\n\n地址：长丰县双墩镇阜阳北路与济河路交口北城综合服务中心北楼5楼\n\n联系方式：0551-62721981、62721970\n\n3.项目联系方式\n\n项目联系人：张乐\n\n电话：0551-62721981、62721970\n\n累计办理时间：\n0天0小时10分20秒\n\n招标代理机构提交\n\n提交节点：\n\n2023-12-18\n\n交易中心见证\n\n办理状态：\n\n通过\n\n办理时间：\n\n2023-12-18\n\n办理用时：\n\n0天0小时10分\n\n\", \"attachments\": [{\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=e7096334-476b-496e-9ba4-60ded6038864&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "3182",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "legal:126",
+  "normalized_projection": {
+    "title": "中央国家机关政府采购电子卖场运行规则(第2期)",
+    "issuer": "全国法规整理",
+    "index_no": "未标注",
+    "subject_category": "政府采购",
+    "doc_no": "国机采[2021]21号",
+    "publish_date": "2021-09-22",
+    "validity_status": "active",
+    "policy_level": "national",
+    "source_url": "未标注",
+    "attachment_paths": [],
+    "keywords": [],
+    "effective_date": "",
+    "abolish_date": "",
+    "summary": ""
+  },
+  "raw_doc": {
+    "id": "legal:126",
+    "title": "中央国家机关政府采购电子卖场运行规则(第2期)",
+    "content": "中央国家机关政府采购电子卖场运行规则(第2期)\n\n（2021年9月22日公布，国机采[2021]21号）\n\n根据《中央国家机关政府采购电子卖场管理办法》第二十六条\"（三）未在规定时间内确认比价、反拍等竞争性方式已成交订单的\"，中央国家机关政府采购电子卖场将启动自动违约处理机制，参与比价、反拍项目并成交的供应商，不确认订单的将被暂停电子卖场交易权限3个月并予以公示。\n\n本期规则自公布之日起生效。",
+    "source": "全国法规整理",
+    "publish_time": "2021-09-22",
+    "url": "",
+    "category": "政府采购",
+    "project_type": "政府采购",
+    "region": "全国",
+    "region_level": "national",
+    "source_type": "curated_existing",
+    "corpus_tag": "national_baseline",
+    "word_count": "198"
+  },
+  "raw_meta": {
+    "id": "legal:126",
+    "title": "中央国家机关政府采购电子卖场运行规则(第2期)",
+    "publish_date": "2021-09-22",
+    "source_url": "",
+    "document_url": "",
+    "region": "全国",
+    "region_level": "national",
+    "category": "政府采购",
+    "project_type": "政府采购",
+    "source_type": "curated_existing",
+    "source_name": "全国法规整理",
+    "word_count": "198",
+    "corpus_tag": "national_baseline",
+    "upstream_table": "legal_documents",
+    "created_at": "2026-04-14 13:47:23"
+  },
+  "raw_legal_doc": {
+    "id": "126",
+    "title": "中央国家机关政府采购电子卖场运行规则(第2期)",
+    "publish_date": "22/9/2021",
+    "content": "### 中央国家机关政府采购电子卖场运行规则(第2期)\n\n（2021年9月22日公布，国机采[2021]21号）\n\n根据《中央国家机关政府采购电子卖场管理办法》第二十六条\"（三）未在规定时间内确认比价、反拍等竞争性方式已成交订单的\"，中央国家机关政府采购电子卖场将启动自动违约处理机制，参与比价、反拍项目并成交的供应商，不确认订单的将被暂停电子卖场交易权限3个月并予以公示。\n\n本期规则自公布之日起生效。",
+    "status": "active",
+    "created_at": "19/10/2025 12:52:35",
+    "authority_level": "规范性文件",
+    "category": "政府采购"
+  }
+}

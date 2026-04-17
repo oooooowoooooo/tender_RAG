@@ -1,0 +1,62 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7031053",
+  "normalized_projection": {
+    "title": "国务院办公厅关于印发《“高效办成一件事”2025年度第二批重点事项清单》的通知",
+    "issuer": "国务院办公厅",
+    "index_no": "000014349/2025-00060",
+    "subject_category": "综合政务\\电子政务",
+    "doc_no": "国办函〔2025〕70号",
+    "publish_date": "2025-07-08",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7031053.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "综合政务",
+      "电子政务"
+    ],
+    "effective_date": "2025-07-03",
+    "abolish_date": "",
+    "summary": "《“高效办成一件事”2025年度第二批重点事项清单》已经国务院同意，现印发给你们，请结合实际认真组织实施。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7031053",
+    "title": "国务院办公厅关于印发《“高效办成一件事”2025年度第二批重点事项清单》的通知",
+    "content": "国务院办公厅关于印发《“高效办成一件事”\n2025年度第二批重点事项清单》的通知\n国办函〔2025〕70号\n\n各省、自治区、直辖市人民政府，国务院各部委、各直属机构：\n《“高效办成一件事”2025年度第二批重点事项清单》已经国务院同意，现印发给你们，请结合实际认真组织实施。\n国务院办公厅         \n2025年7月3日          \n（此件公开发布）\n\n“高效办成一件事”2025年度第二批重点事项清单",
+    "source": "中国政府网-国务院文件",
+    "publish_time": "2025-07-08",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7031053.htm",
+    "category": "综合政务\\电子政务",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_gwywj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "208"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7031053",
+    "title": "国务院办公厅关于印发《“高效办成一件事”2025年度第二批重点事项清单》的通知",
+    "source_name": "中国政府网-国务院文件",
+    "source_type": "gov_cn_gwywj",
+    "region_level": "national",
+    "publish_date": "2025-07-08",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7031053.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7031053.htm",
+    "source_feed": "gov_cn_gwywj",
+    "metadata_pairs": {
+      "索引号": "000014349/2025-00060",
+      "主题分类": "综合政务\\电子政务",
+      "发文机关": "国务院办公厅",
+      "成文日期": "2025年07月03日",
+      "标题": "国务院办公厅关于印发《“高效办成一件事”2025年度第二批重点事项清单》的通知",
+      "发文字号": "国办函〔2025〕70号",
+      "发布日期": "2025年07月08日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7031053.html"
+  },
+  "raw_legal_doc": {}
+}

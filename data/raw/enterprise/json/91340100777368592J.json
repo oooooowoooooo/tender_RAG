@@ -1,0 +1,65 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100777368592J",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100777368592J",
+    "enterprise_name": "合肥星火工贸有限公司",
+    "legal_representative": "贾斯丽",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "2005-07-12",
+    "registration_authority": "",
+    "registered_capital": "10000万人民币",
+    "business_status": "存续",
+    "registered_address": "合肥市新站区萧城路与纬十路交叉口",
+    "business_scope": "家具、钢制家具、实验室家具、钢塑家具、医用家具、校用家具、图书馆家具、智能办公家具、保密柜、保险柜、防盗门、货架、档案架、公寓床、智能枪柜、博物馆珍藏设备、铝合金及不锈钢制品设计、研发、生产与销售；医疗器械（一类）、钢材销售；货物仓储（除危险品）；多功能新型办公家具研发、电子计算机应用软件开发、信息化系统集成的应用及销售；自营和代理各类商品和技术进出口业务（除国家限定企业经营或禁止进出口的商品和技术）。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "http://www.xing-huo.com/",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 7,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022BFAHZ02777",
+      "2023BFAHZ01467",
+      "2023BFAHZ01486",
+      "2023BFAHZ01969",
+      "2023BFAHZ02036",
+      "2023BFFHZ00451",
+      "2023BFFHZ01826"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "3420",
+    "title": "合肥星火工贸有限公司",
+    "corporation": "贾斯丽",
+    "amount_raw": "10000万人民币",
+    "event_time": "2005-07-12",
+    "manage_date": "2005-07-12 至 2025-12-31",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "-",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "家具制造业",
+    "USCC": "91340100777368592J",
+    "TIN": "91340100777368592J",
+    "registed_num": "340108000017287",
+    "insured_persons": "41",
+    "location": "合肥市新站区萧城路与纬十路交叉口",
+    "source_url": "http://www.xing-huo.com/",
+    "content": "家具、钢制家具、实验室家具、钢塑家具、医用家具、校用家具、图书馆家具、智能办公家具、保密柜、保险柜、防盗门、货架、档案架、公寓床、智能枪柜、博物馆珍藏设备、铝合金及不锈钢制品设计、研发、生产与销售；医疗器械（一类）、钢材销售；货物仓储（除危险品）；多功能新型办公家具研发、电子计算机应用软件开发、信息化系统集成的应用及销售；自营和代理各类商品和技术进出口业务（除国家限定企业经营或禁止进出口的商品和技术）。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "100000000"
+  }
+}

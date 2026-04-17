@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "914403001922663713",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "914403001922663713",
+    "enterprise_name": "深圳市中装建设集团股份有限公司",
+    "legal_representative": "庄展诺",
+    "entity_type": "股份有限公司(上市、自然人投资或控股)",
+    "established_date": "29/4/1994 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "721685336",
+    "business_status": "开业",
+    "registered_address": "深圳市罗湖区深南东路4002号鸿隆世纪广场四-五层（仅限办公）",
+    "business_scope": "一般经营项目是：博物馆陈列展览设计专项甲级（凭中国博物馆协会A2019028资质证书经营）；博物馆陈列展览施工壹级（凭中国博物馆协会A2019030资质证书经营）；展览陈列工程设计与施工一体化一级（凭中国展览馆协会C20171457资质证书经营）；安全技术防范系统设计施工服务；园林绿化工程施工；人工智能应用软件开发；业务培训（不含教育培训、职业技能培训等需取得许可的培训）；教育咨询服务（不含涉许可审批的教育培训活动）；新兴能源技术研发；储能技术服务；节能管理服务；合同能源管理；建筑装饰材料销售；新材料技术研发；家具销售；家具安装和维修服务；建筑材料销售；建筑用钢筋产品销售；建筑材料生产专用机械制造；数字文化创意软件开发；数字文化创意技术装备销售；数字文化创意内容应用服务；数字内容制作服务（不含出版发行）；会议及展览服务；软件开发；大数据服务；互联网数据服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动），许可经营项目是：医疗器械销售、维修及售后服务；建设工程施工；建设工程设计；建筑智能化系统设计；输电、供电、受电电力设施的安装、维修和试验；货物进出口；检验检测服务；建设工程质量检测。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023AFWBZ02560"
+    ],
+    "all_linked_project_ids": [
+      "2023AFWBZ02560",
+      "2023GFWBZ00103"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "深圳市中装建设集团股份有限公司",
+    "business_status": "开业",
+    "legal_representative": "庄展诺",
+    "registered_capital": "721685336",
+    "paid_in_capital": "721445836",
+    "establishment_date": "29/4/1994 00:00:00",
+    "approval_date": "23/6/2022 00:00:00",
+    "business_term": "-",
+    "province": "广东省",
+    "city": "深圳市",
+    "district": "罗湖区",
+    "phone": "0755-83598225",
+    "additional_phones": "2110771,0755-83864290,13723796909,0755-83567197,13942550080",
+    "email": "zhangxiaolong@zhongzhuang.com",
+    "additional_emails": "qichunhua@zhongzhuang.com,zhengquan@zhongzhuang.com,510091790@qq.com,serve@zhongzhuang.com,serve@zhongzhuang.vom",
+    "unified_social_credit_code": "914403001922663713",
+    "taxpayer_identification_number": "914403001922663713",
+    "business_registration_number": "440301103849354",
+    "organization_code": "19226637-1",
+    "insured_personnel_count": "0",
+    "company_type": "股份有限公司(上市、自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "former_name": "深圳市中装设计装饰工程有限公司",
+    "registered_address": "深圳市罗湖区深南东路4002号鸿隆世纪广场四-五层（仅限办公）",
+    "latest_annual_report_address": "深圳市罗湖区深南东路4002号鸿隆世纪广场4-5层",
+    "website": "www.zhongzhuang.com",
+    "business_scope": "一般经营项目是：博物馆陈列展览设计专项甲级（凭中国博物馆协会A2019028资质证书经营）；博物馆陈列展览施工壹级（凭中国博物馆协会A2019030资质证书经营）；展览陈列工程设计与施工一体化一级（凭中国展览馆协会C20171457资质证书经营）；安全技术防范系统设计施工服务；园林绿化工程施工；人工智能应用软件开发；业务培训（不含教育培训、职业技能培训等需取得许可的培训）；教育咨询服务（不含涉许可审批的教育培训活动）；新兴能源技术研发；储能技术服务；节能管理服务；合同能源管理；建筑装饰材料销售；新材料技术研发；家具销售；家具安装和维修服务；建筑材料销售；建筑用钢筋产品销售；建筑材料生产专用机械制造；数字文化创意软件开发；数字文化创意技术装备销售；数字文化创意内容应用服务；数字内容制作服务（不含出版发行）；会议及展览服务；软件开发；大数据服务；互联网数据服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动），许可经营项目是：医疗器械销售、维修及售后服务；建设工程施工；建设工程设计；建筑智能化系统设计；输电、供电、受电电力设施的安装、维修和试验；货物进出口；检验检测服务；建设工程质量检测。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）",
+    "match_status": "成功"
+  }
+}

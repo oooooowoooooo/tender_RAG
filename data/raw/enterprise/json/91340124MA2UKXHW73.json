@@ -1,0 +1,78 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340124MA2UKXHW73",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340124MA2UKXHW73",
+    "enterprise_name": "安徽众发工程造价咨询有限公司",
+    "legal_representative": "荣玉香",
+    "entity_type": "有限责任公司(自然人独资)",
+    "established_date": "27/3/2020 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "5000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市庐江县庐城镇文昌路众发名城物业服务综合楼1号3楼",
+    "business_scope": "工程造价专业咨询服务；工程建设项目招标代理服务；工程监理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 38,
+    "selected_project_ids": [
+      "2023ANNHJ00467"
+    ],
+    "all_linked_project_ids": [
+      "2023ANNFN00076",
+      "2023ANNFN00383",
+      "2023ANNGZ00070",
+      "2023ANNGZ00103",
+      "2023ANNGZ00206",
+      "2023ANNGZ00209",
+      "2023ANNGZ00226",
+      "2023ANNHJ00085",
+      "2023ANNHJ00467",
+      "2023ANNZN00118",
+      "2023ANNZN00285"
+    ],
+    "roles": [
+      "agency"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽众发工程造价咨询有限公司",
+    "business_status": "开业",
+    "legal_representative": "荣玉香",
+    "registered_capital": "5000000",
+    "paid_in_capital": "0",
+    "establishment_date": "27/3/2020 00:00:00",
+    "approval_date": "16/4/2020 00:00:00",
+    "business_term": "2020-03-27 至 2070-03-26",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐江县",
+    "phone": "13705652661",
+    "additional_phones": "13225898006,18756538999,13329150869,15956927436,0551-87087555",
+    "email": "71968959@qq.com",
+    "additional_emails": "719668959@qq.com,2522758703@qq.com",
+    "unified_social_credit_code": "91340124MA2UKXHW73",
+    "taxpayer_identification_number": "91340124MA2UKXHW73",
+    "business_registration_number": "340124000091528",
+    "organization_code": "MA2UKXHW-7",
+    "insured_personnel_count": "9",
+    "company_type": "有限责任公司(自然人独资)",
+    "industry": "专业技术服务业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市庐江县庐城镇文昌路众发名城物业服务综合楼1号3楼",
+    "latest_annual_report_address": "安徽庐江县众发名城物业3楼",
+    "website": "-",
+    "business_scope": "工程造价专业咨询服务；工程建设项目招标代理服务；工程监理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

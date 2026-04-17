@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913101153015517620",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913101153015517620",
+    "enterprise_name": "上海润爽环境股份有限公司",
+    "legal_representative": "王宏梅",
+    "entity_type": "股份有限公司(非上市、自然人投资或控股)",
+    "established_date": "15/5/2014 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "30000000",
+    "business_status": "开业",
+    "registered_address": "上海市浦东新区曹路镇林场路103号39幢",
+    "business_scope": "一般项目：制冷设备、冷库的安装、维修及销售，仓储设备租赁服务，普通货物仓储服务（不含危险化学品等需许可审批的项目），特种设备出租，空调设备的安装、维修，从事机械科技、机电科技、制冷技术领域内的技术咨询、技术服务，机电设备、机械设备、电子产品、家用电器、建筑装潢材料的销售，园林绿化工程施工，制冷设备及配件的生产、加工（限分支机构）。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）\n许可项目：建设工程设计；各类工程建设活动；货物进出口；技术进出口。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023AEEHN00439"
+    ],
+    "all_linked_project_ids": [
+      "2023AEEHN00439"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "上海润爽环境股份有限公司",
+    "business_status": "开业",
+    "legal_representative": "王宏梅",
+    "registered_capital": "30000000",
+    "paid_in_capital": "30000000",
+    "establishment_date": "15/5/2014 00:00:00",
+    "approval_date": "15/7/2022 00:00:00",
+    "business_term": "2014-05-15 至 2034-05-14",
+    "province": "上海市",
+    "city": "市辖区",
+    "district": "浦东新区",
+    "phone": "021-58871098",
+    "additional_phones": "18001795777,18352660610,021-61722333,021-68721388,15900829408",
+    "email": "2851104276@qq.com",
+    "additional_emails": "2851104270@qq.com,94374995@qq.com",
+    "unified_social_credit_code": "913101153015517620",
+    "taxpayer_identification_number": "913101153015517620",
+    "business_registration_number": "310115002317558",
+    "organization_code": "30155176-2",
+    "insured_personnel_count": "20",
+    "company_type": "股份有限公司(非上市、自然人投资或控股)",
+    "industry": "批发业",
+    "former_name": "上海润爽制冷设备工程有限公司",
+    "registered_address": "上海市浦东新区曹路镇林场路103号39幢",
+    "latest_annual_report_address": "上海市浦东新区唐镇上丰路538号",
+    "website": "www.shlkgc.com",
+    "business_scope": "一般项目：制冷设备、冷库的安装、维修及销售，仓储设备租赁服务，普通货物仓储服务（不含危险化学品等需许可审批的项目），特种设备出租，空调设备的安装、维修，从事机械科技、机电科技、制冷技术领域内的技术咨询、技术服务，机电设备、机械设备、电子产品、家用电器、建筑装潢材料的销售，园林绿化工程施工，制冷设备及配件的生产、加工（限分支机构）。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）\n许可项目：建设工程设计；各类工程建设活动；货物进出口；技术进出口。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）",
+    "match_status": "成功"
+  }
+}

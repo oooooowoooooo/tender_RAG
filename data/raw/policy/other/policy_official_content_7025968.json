@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7025968",
+  "normalized_projection": {
+    "title": "工业和信息化部关于印发《算力互联互通行动计划》的通知",
+    "issuer": "工业和信息化部",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\信息产业（含电信）",
+    "doc_no": "工信部信管〔2025〕119号",
+    "publish_date": "2025-05-30",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7025968.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250531125060951193.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "信息产业（含电信）"
+    ],
+    "effective_date": "2025-05-21",
+    "abolish_date": "",
+    "summary": "加快构建算力互联互通体系，实现不同主体、不同架构的公共算力资源标准化互联，提高公共算力资源使用效率和服务水平，促进算力高质量发展。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7025968",
+    "title": "工业和信息化部关于印发《算力互联互通行动计划》的通知",
+    "content": "工业和信息化部关于印发《算力互联互通行动计划》的通知\n工信部信管〔2025〕119号\n各省、自治区、直辖市通信管理局，各省、自治区、直辖市及新疆生产建设兵团工业和信息化主管部门，中国电信集团有限公司、中国移动通信集团有限公司、中国联合网络通信集团有限公司、中国广播电视网络集团有限公司、中国铁塔股份有限公司，各相关单位：\n现将《算力互联互通行动计划》印发给你们，请结合实际认真抓好落实。\n工业和信息化部\n2025年5月21日\n算力互联互通行动计划",
+    "source": "工业和信息化部网站",
+    "publish_time": "2025-05-30",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7025968.htm",
+    "category": "工业、交通\\信息产业（含电信）",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "223"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7025968",
+    "title": "工业和信息化部关于印发《算力互联互通行动计划》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-05-30",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7025968.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7025968.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "工业和信息化部关于印发《算力互联互通行动计划》的通知",
+      "发文机关": "工业和信息化部",
+      "发文字号": "工信部信管〔2025〕119号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\信息产业（含电信）",
+      "公文种类": "通知",
+      "成文日期": "2025年05月21日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250531125060951193.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7025968.html"
+  },
+  "raw_legal_doc": {}
+}

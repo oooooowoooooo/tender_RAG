@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "911101086000175782",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "911101086000175782",
+    "enterprise_name": "北京帕克国际工程咨询股份有限公司",
+    "legal_representative": "胡海林",
+    "entity_type": "股份有限公司(非上市、自然人投资或控股)",
+    "established_date": "10/9/1993 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "200000012",
+    "business_status": "开业",
+    "registered_address": "北京市海淀区知春路51号慎昌大厦5层518D室",
+    "business_scope": "一般项目：工程管理服务；招投标代理服务；工程造价咨询业务；单建式人防工程监理；建设工程消防验收现场评定技术服务；消防技术服务；环保咨询服务；节能管理服务；环境保护监测；生态资源监测；地质灾害治理服务；工程和技术研究和试验发展；软件开发；软件销售；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；非居住房地产租赁。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）许可项目：建设工程监理；水利工程建设监理；公路工程监理；文物保护工程监理；检验检测服务；建设工程质量检测；室内环境检测；雷电防护装置检测。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）（不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023BFFBZ02504"
+    ],
+    "all_linked_project_ids": [
+      "2023AFABZ01461",
+      "2023BFFBZ02504"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "北京帕克国际工程咨询股份有限公司",
+    "business_status": "开业",
+    "legal_representative": "胡海林",
+    "registered_capital": "200000012",
+    "paid_in_capital": "161000000",
+    "establishment_date": "10/9/1993 00:00:00",
+    "approval_date": "9/7/2024 00:00:00",
+    "business_term": "-",
+    "province": "北京市",
+    "city": "市辖区",
+    "district": "海淀区",
+    "phone": "010-58579561",
+    "additional_phones": "010-58795611,010-58795568,010-58795615,18601026327,0312-3397200",
+    "email": "renlibu@puhca.com",
+    "additional_emails": "1439344218@qq.com,1006968554@qq.com,285516503@qq.com,xingzhengbu@puhca.com,279655403@qq.com",
+    "unified_social_credit_code": "911101086000175782",
+    "taxpayer_identification_number": "911101086000175782",
+    "business_registration_number": "110000410059935",
+    "organization_code": "60001757-8",
+    "insured_personnel_count": "0",
+    "company_type": "股份有限公司(非上市、自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "former_name": "北京帕克国际工程咨询有限公司",
+    "registered_address": "北京市海淀区知春路51号慎昌大厦5层518D室",
+    "latest_annual_report_address": "北京市朝阳区永安里通用国际中心A座二层",
+    "website": "www.bjpake.com",
+    "business_scope": "一般项目：工程管理服务；招投标代理服务；工程造价咨询业务；单建式人防工程监理；建设工程消防验收现场评定技术服务；消防技术服务；环保咨询服务；节能管理服务；环境保护监测；生态资源监测；地质灾害治理服务；工程和技术研究和试验发展；软件开发；软件销售；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；非居住房地产租赁。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）许可项目：建设工程监理；水利工程建设监理；公路工程监理；文物保护工程监理；检验检测服务；建设工程质量检测；室内环境检测；雷电防护装置检测。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）（不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "match_status": "成功"
+  }
+}

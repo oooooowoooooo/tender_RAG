@@ -1,0 +1,66 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7056835",
+  "normalized_projection": {
+    "title": "市场监管总局等部门关于印发《低空经济标准体系建设指南（2025年版）》的通知",
+    "issuer": "市场监管总局等",
+    "index_no": "未标注",
+    "subject_category": "市场监管、安全生产监管\\标准",
+    "doc_no": "未标注",
+    "publish_date": "2026-02-02",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7056835.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260202758834303916.pdf"
+    ],
+    "keywords": [
+      "市场监管",
+      "安全生产监管",
+      "标准"
+    ],
+    "effective_date": "2025-12-11",
+    "abolish_date": "",
+    "summary": "近日市场监管总局会同中央空管办、国家发展改革委等十部门联合发布《低空经济标准体系建设指南（2025年版）》。指南明确，到2027年，低空经济标准体系基本建立，基本满足低空经济安全健康发展需求。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7056835",
+    "title": "市场监管总局等部门关于印发《低空经济标准体系建设指南（2025年版）》的通知",
+    "content": "市场监管总局等部门关于印发《低空经济标准体系建设指南（2025年版）》的通知\n各省、自治区、直辖市和新疆生产建设兵团市场监管局（厅、委）、发展改革委、工业和信息化主管部门、自然资源主管部门、交通运输厅（局、委）、农业农村（农牧）厅（局、委）、气象局、能源行业管理部门，各地区空管协调委办公室，民航各地区管理局，有关全国专业标准化技术委员会：\n现将《低空经济标准体系建设指南（2025年版）》印发给你们，请结合实际加强组织领导，抓好贯彻落实。\n市场监管总局\n中央空管办\n国家发展改革委\n工业和信息化部\n自然资源部\n交通运输部\n农业农村部\n中国气象局\n国家能源局\n中国民航局\n2025年12月11日\n附件：关于印发低空经济标准体系建设指南的通知",
+    "source": "市场监管总局网站",
+    "publish_time": "2026-02-02",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7056835.htm",
+    "category": "市场监管、安全生产监管\\标准",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "320"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7056835",
+    "title": "市场监管总局等部门关于印发《低空经济标准体系建设指南（2025年版）》的通知",
+    "source_name": "市场监管总局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-02-02",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7056835.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7056835.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "市场监管总局等部门关于印发《低空经济标准体系建设指南（2025年版）》的通知",
+      "发文机关": "市场监管总局等",
+      "来源": "市场监管总局网站",
+      "主题分类": "市场监管、安全生产监管\\标准",
+      "公文种类": "通知",
+      "成文日期": "2025年12月11日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260202758834303916.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7056835.html"
+  },
+  "raw_legal_doc": {}
+}

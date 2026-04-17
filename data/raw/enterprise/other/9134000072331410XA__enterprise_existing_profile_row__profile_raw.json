@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "9134000072331410XA",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "安徽军工集团控股有限公司",
+  "raw_profile": {
+    "record_id": "21935",
+    "title": "安徽军工集团控股有限公司",
+    "corporation": "涂荣",
+    "amount_raw": "47850万人民币",
+    "event_time": "2000-03-28",
+    "manage_date": "2000-03-28 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "type": "其他有限责任公司",
+    "industry": "其他制造业",
+    "USCC": "9134000072331410XA",
+    "TIN": "9134000072331410XA",
+    "registed_num": "340000000029194",
+    "insured_persons": "13",
+    "location": "安徽省合肥市包河区山东路508号",
+    "source_url": "http://www.amig.com.cn",
+    "content": "一般经营项目：从事国有资本运营和民品科研、生产、销售；对子公司军品科研、生产、销售进行管理。",
+    "search_text": "",
+    "capital_value": "478500000"
+  }
+}

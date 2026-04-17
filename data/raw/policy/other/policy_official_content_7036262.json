@@ -1,0 +1,65 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7036262",
+  "normalized_projection": {
+    "title": "农业农村部关于印发《道路运输动物指定通道检查站管理指引》的通知",
+    "issuer": "农业农村部",
+    "index_no": "未标注",
+    "subject_category": "农业、林业、水利\\农业、畜牧业、渔业",
+    "doc_no": "​农牧发〔2025〕6号",
+    "publish_date": "2025-08-13",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7036262.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "农业",
+      "林业",
+      "水利",
+      "畜牧业",
+      "渔业"
+    ],
+    "effective_date": "2025-08-08",
+    "abolish_date": "",
+    "summary": "为提升动物运输环节的疫病防控能力，降低动物疫病跨区域传播风险，农业农村部制定了《道路运输动物指定通道检查站管理指引》。现予以印发，自2025年9月1日起施行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7036262",
+    "title": "农业农村部关于印发《道路运输动物指定通道检查站管理指引》的通知",
+    "content": "农业农村部关于印发《道路运输动物指定通道检查站管理指引》的通知\n农牧发〔2025〕6号\n各省、自治区、直辖市农业农村（农牧）、畜牧兽医厅（局、委），新疆生产建设兵团农业农村局，中国动物疫病预防控制中心： \n为提升动物运输环节的疫病防控能力，降低动物疫病跨区域传播风险，我部制定了《道路运输动物指定通道检查站管理指引》。现予以印发，自2025年9月1日起施行。 \n农业农村部\n2025年8月8日\n附件：农牧发〔2025〕6号",
+    "source": "农业农村部网站",
+    "publish_time": "2025-08-13",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7036262.htm",
+    "category": "农业、林业、水利\\农业、畜牧业、渔业",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "211"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7036262",
+    "title": "农业农村部关于印发《道路运输动物指定通道检查站管理指引》的通知",
+    "source_name": "农业农村部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-08-13",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7036262.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7036262.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "农业农村部关于印发《道路运输动物指定通道检查站管理指引》的通知",
+      "发文机关": "农业农村部",
+      "发文字号": "​农牧发〔2025〕6号",
+      "来源": "农业农村部网站",
+      "主题分类": "农业、林业、水利\\农业、畜牧业、渔业",
+      "公文种类": "通知",
+      "成文日期": "2025年08月08日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7036262.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,66 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7054192",
+  "normalized_projection": {
+    "title": "工业和信息化部办公厅关于印发《工业互联网和人工智能融合赋能行动方案》的通知",
+    "issuer": "工业和信息化部办公厅",
+    "index_no": "未标注",
+    "subject_category": "科技、教育\\科技",
+    "doc_no": "工信厅信管〔2025〕76号",
+    "publish_date": "2026-01-07",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054192.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260107758343733280.pdf"
+    ],
+    "keywords": [
+      "科技",
+      "教育"
+    ],
+    "effective_date": "2025-12-30",
+    "abolish_date": "",
+    "summary": "为深入贯彻党中央、国务院决策部署，落实《国务院关于深化“互联网+先进制造业”发展工业互联网的指导意见》《国务院关于深入实施“人工智能+”行动的意见》有关要求，深化人工智能与工业互联网融合应用，一体推进新型工业化，助力制造强国与网络强国建设，制定本行动方案。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7054192",
+    "title": "工业和信息化部办公厅关于印发《工业互联网和人工智能融合赋能行动方案》的通知",
+    "content": "工业和信息化部办公厅关于印发《工业互联网和人工智能融合赋能行动方案》的通知\n工信厅信管〔2025〕76号\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化主管部门，各省、自治区、直辖市通信管理局：\n现将《工业互联网和人工智能融合赋能行动方案》印发给你们，请结合实际认真抓好落实。\n工业和信息化部办公厅\n2025年12月30日\n工业互联网和人工智能融合赋能行动方案",
+    "source": "工业和信息化部网站",
+    "publish_time": "2026-01-07",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054192.htm",
+    "category": "科技、教育\\科技",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "188"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7054192",
+    "title": "工业和信息化部办公厅关于印发《工业互联网和人工智能融合赋能行动方案》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-01-07",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054192.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054192.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "工业和信息化部办公厅关于印发《工业互联网和人工智能融合赋能行动方案》的通知",
+      "发文机关": "工业和信息化部办公厅",
+      "发文字号": "工信厅信管〔2025〕76号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "科技、教育\\科技",
+      "公文种类": "通知",
+      "成文日期": "2025年12月30日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260107758343733280.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7054192.html"
+  },
+  "raw_legal_doc": {}
+}

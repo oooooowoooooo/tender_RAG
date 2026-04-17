@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7026110",
+  "normalized_projection": {
+    "title": "住房城乡建设部 财政部 中国人民银行关于印发《全国住房公积金2024年年度报告》的通知",
+    "issuer": "住房城乡建设部 财政部 中国人民银行",
+    "index_no": "未标注",
+    "subject_category": "城乡建设、环境保护\\其他",
+    "doc_no": "建金〔2025〕22号",
+    "publish_date": "2025-06-01",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7026110.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202506/P020250601601759182303.pdf"
+    ],
+    "keywords": [
+      "城乡建设",
+      "环境保护",
+      "其他"
+    ],
+    "effective_date": "2025-05-20",
+    "abolish_date": "",
+    "summary": "根据《住房公积金管理条例》，落实住房城乡建设部、财政部、中国人民银行《关于健全住房公积金信息披露制度的通知》有关规定，现将全国住房公积金2024年年度报告公布如下。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7026110",
+    "title": "住房城乡建设部 财政部 中国人民银行关于印发《全国住房公积金2024年年度报告》的通知",
+    "content": "住房城乡建设部 财政部 中国人民银行关于印发《全国住房公积金2024年年度报告》的通知\n建金〔2025〕22号\n各省、自治区住房城乡建设厅、财政厅、中国人民银行分行，中国人民银行上海总部，直辖市及计划单列市中国人民银行分行，直辖市、新疆生产建设兵团住房公积金管理委员会、住房公积金管理中心：\n根据《住房公积金管理条例》和住房城乡建设部、财政部、中国人民银行《关于健全住房公积金信息披露制度的通知》（建金〔2015〕26号），现将《全国住房公积金2024年年度报告》印发给你们，并在住房城乡建设部、财政部、中国人民银行门户网站公开披露。\n住房城乡建设部\n财政部\n中国人民银行\n2025年5月20日\n（此件主动公开）\n附件：全国住房公积金2024年年度报告",
+    "source": "住房城乡建设部网站",
+    "publish_time": "2025-06-01",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7026110.htm",
+    "category": "城乡建设、环境保护\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "326"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7026110",
+    "title": "住房城乡建设部 财政部 中国人民银行关于印发《全国住房公积金2024年年度报告》的通知",
+    "source_name": "住房城乡建设部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-06-01",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7026110.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7026110.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "住房城乡建设部 财政部 中国人民银行关于印发《全国住房公积金2024年年度报告》的通知",
+      "发文机关": "住房城乡建设部 财政部 中国人民银行",
+      "发文字号": "建金〔2025〕22号",
+      "来源": "住房城乡建设部网站",
+      "主题分类": "城乡建设、环境保护\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年05月20日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202506/P020250601601759182303.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7026110.html"
+  },
+  "raw_legal_doc": {}
+}

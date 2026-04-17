@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "912102001184620169",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "912102001184620169",
+    "enterprise_name": "大连市政工程有限公司",
+    "legal_representative": "张阿房",
+    "entity_type": "其他有限责任公司",
+    "established_date": "1/11/1990 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "181221900",
+    "business_status": "开业",
+    "registered_address": "辽宁省大连市西岗区胜利路100号4层",
+    "business_scope": "许可项目：房屋建筑和市政基础设施项目工程总承包，各类工程建设活动，施工专业作业，建筑劳务分包，道路货物运输（不含危险货物）（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）\n一般项目：对外承包工程，园林绿化工程施工，体育场地设施工程施工，普通机械设备安装服务，土石方工程施工，建筑材料销售，机械设备销售，砼结构构件销售，停车场服务，装卸搬运，普通货物仓储服务（不含危险化学品等需许可审批的项目），成品油仓储（不含危险化学品），土地使用权租赁，非居住房地产租赁，建筑工程机械与设备租赁，汽车租赁，运输设备租赁服务，房屋拆迁服务，环保咨询服务，新材料技术研发，工程管理服务，工程技术服务（规划管理、勘察、设计、监理除外），废旧沥青再生技术研发，固体废物治理，土壤污染治理与修复服务，土壤环境污染防治服务，市政设施管理，土地整治服务，土地调查评估服务，机动车修理和维护，洗车服务，煤炭及制品销售，石油制品销售（不含危险化学品），非金属矿及制品销售，非金属矿物制品制造（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023ACCGZ00280"
+    ],
+    "all_linked_project_ids": [
+      "2023ACCGZ00280"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "大连市政工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "张阿房",
+    "registered_capital": "181221900",
+    "paid_in_capital": "181221900",
+    "establishment_date": "1/11/1990 00:00:00",
+    "approval_date": "29/7/2021 00:00:00",
+    "business_term": "-",
+    "province": "辽宁省",
+    "city": "大连市",
+    "district": "西岗区",
+    "phone": "13842654860",
+    "additional_phones": "0411-84390867,024-62656997,0411-3633720,0411-84390709,0411-84390722",
+    "email": "735928222@qq.com",
+    "additional_emails": "xiaolifeidao0720@126.com,suli1965@126.com",
+    "unified_social_credit_code": "912102001184620169",
+    "taxpayer_identification_number": "912102001184620169",
+    "business_registration_number": "210203000005357",
+    "organization_code": "11846201-6",
+    "insured_personnel_count": "83",
+    "company_type": "其他有限责任公司",
+    "industry": "公共设施管理业",
+    "former_name": "大连市政工程总公司",
+    "registered_address": "辽宁省大连市西岗区胜利路100号4层",
+    "latest_annual_report_address": "辽宁省大连市西岗区胜利路100号4层",
+    "website": "-",
+    "business_scope": "许可项目：房屋建筑和市政基础设施项目工程总承包，各类工程建设活动，施工专业作业，建筑劳务分包，道路货物运输（不含危险货物）（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）\n一般项目：对外承包工程，园林绿化工程施工，体育场地设施工程施工，普通机械设备安装服务，土石方工程施工，建筑材料销售，机械设备销售，砼结构构件销售，停车场服务，装卸搬运，普通货物仓储服务（不含危险化学品等需许可审批的项目），成品油仓储（不含危险化学品），土地使用权租赁，非居住房地产租赁，建筑工程机械与设备租赁，汽车租赁，运输设备租赁服务，房屋拆迁服务，环保咨询服务，新材料技术研发，工程管理服务，工程技术服务（规划管理、勘察、设计、监理除外），废旧沥青再生技术研发，固体废物治理，土壤污染治理与修复服务，土壤环境污染防治服务，市政设施管理，土地整治服务，土地调查评估服务，机动车修理和维护，洗车服务，煤炭及制品销售，石油制品销售（不含危险化学品），非金属矿及制品销售，非金属矿物制品制造（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）",
+    "match_status": "成功"
+  }
+}

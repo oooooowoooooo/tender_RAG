@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7053608",
+  "normalized_projection": {
+    "title": "国家发展改革委 国家能源局关于印发《电力中长期市场基本规则》的通知",
+    "issuer": "国家发展改革委 国家能源局",
+    "index_no": "未标注",
+    "subject_category": "国土资源、能源\\电力",
+    "doc_no": "发改能源规〔2025〕1656号",
+    "publish_date": "2025-12-30",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053608.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020260101398522066627.pdf"
+    ],
+    "keywords": [
+      "国土资源",
+      "能源",
+      "电力"
+    ],
+    "effective_date": "2025-12-17",
+    "abolish_date": "",
+    "summary": "为贯彻落实加快建设全国统一电力市场要求，深化电力中长期市场建设，规范电力中长期交易行为，适应电力改革发展需要，根据《电力市场运行基本规则》（中华人民共和国国家发展和改革委员会令2024年第20号）、《国家发展改革委 国家能源局关于加快建设全国统一电力市场体系的指导意见》（发改体改〔2022〕118号）等有关规定，国家发展改革委 国家能源局组织修订了《电力中长期交易基本规则》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7053608",
+    "title": "国家发展改革委 国家能源局关于印发《电力中长期市场基本规则》的通知",
+    "content": "国家发展改革委 国家能源局关于印发《电力中长期市场基本规则》的通知\n发改能源规〔2025〕1656号\n各省、自治区、直辖市及新疆生产建设兵团发展改革委、能源局，北京市城管委，天津市、辽宁省、上海市、重庆市、甘肃省工信厅（工信局、经信委），国家能源局各派出机构，中国核工业集团有限公司、国家电网有限公司、中国南方电网有限责任公司、中国华能集团有限公司、中国大唐集团有限公司、中国华电集团有限公司、国家电力投资集团有限公司、中国长江三峡集团有限公司、国家能源投资集团有限责任公司、国家开发投资集团有限公司、华润（集团）有限公司、中国广核集团有限公司、内蒙古电力（集团）有限责任公司、北京电力交易中心有限公司、广州电力交易中心有限责任公司：\n为贯彻落实加快建设全国统一电力市场要求，深化电力中长期市场建设，规范电力中长期交易行为，适应电力改革发展需要，根据《电力市场运行基本规则》（中华人民共和国国家发展和改革委员会令2024年第20号）、《国家发展改革委 国家能源局关于加快建设全国统一电力市场体系的指导意见》（发改体改〔2022〕118号）等有关规定，我们组织修订了《电力中长期交易基本规则》，现将修订形成的《电力中长期市场基本规则》印发给你们，请遵照执行。\n国家能源局派出机构会同政府有关主管部门组织电力交易机构根据本规则拟定各地和区域电力中长期市场实施细则，并于2026年3月1日前报国家发展改革委、国家能源局备案。\n执行中如遇重大问题，及时报告国家发展改革委、国家能源局。\n国家发展改革委\n国家能源局\n2025年12月17日\n  附件：\n  电力中长期市场基本规则.pdf\n  电力中长期市场基本规则.ofd",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-12-30",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053608.htm",
+    "category": "国土资源、能源\\电力",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "706"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7053608",
+    "title": "国家发展改革委 国家能源局关于印发《电力中长期市场基本规则》的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-12-30",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053608.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053608.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家发展改革委 国家能源局关于印发《电力中长期市场基本规则》的通知",
+      "发文机关": "国家发展改革委 国家能源局",
+      "发文字号": "发改能源规〔2025〕1656号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "国土资源、能源\\电力",
+      "公文种类": "通知",
+      "成文日期": "2025年12月17日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020260101398522066627.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7053608.html"
+  },
+  "raw_legal_doc": {}
+}

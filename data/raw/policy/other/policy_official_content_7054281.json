@@ -1,0 +1,61 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7054281",
+  "normalized_projection": {
+    "title": "国家医疗保障局办公室关于大力推进刷脸支付、一码支付、移动支付、信用支付等便捷支付工作的通知",
+    "issuer": "国家医保局",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\卫生",
+    "doc_no": "未标注",
+    "publish_date": "2026-01-08",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054281.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "卫生",
+      "体育"
+    ],
+    "effective_date": "2025-12-24",
+    "abolish_date": "",
+    "summary": "为深入贯彻落实党的二十届四中全会精神，优化医保支付政策，国家医疗保障局办公室印发《关于大力推进刷脸支付、一码支付、移动支付、信用支付等便捷支付工作的通知》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7054281",
+    "title": "国家医疗保障局办公室关于大力推进刷脸支付、一码支付、移动支付、信用支付等便捷支付工作的通知",
+    "content": "为深入贯彻落实党的二十届四中全会精神，优化医保支付政策，国家医疗保障局办公室印发《关于大力推进刷脸支付、一码支付、移动支付、信用支付等便捷支付工作的通知》。",
+    "source": "国家医保局网站",
+    "publish_time": "2026-01-08",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054281.htm",
+    "category": "卫生、体育\\卫生",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "78"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7054281",
+    "title": "国家医疗保障局办公室关于大力推进刷脸支付、一码支付、移动支付、信用支付等便捷支付工作的通知",
+    "source_name": "国家医保局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-01-08",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054281.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054281.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家医疗保障局办公室关于大力推进刷脸支付、一码支付、移动支付、信用支付等便捷支付工作的通知",
+      "发文机关": "国家医保局",
+      "来源": "国家医保局网站",
+      "主题分类": "卫生、体育\\卫生",
+      "公文种类": "通知",
+      "成文日期": "2025年12月24日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7054281.html"
+  },
+  "raw_legal_doc": {}
+}

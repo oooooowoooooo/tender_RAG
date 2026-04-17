@@ -1,0 +1,71 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100769048935F",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100769048935F",
+    "enterprise_name": "安徽四建控股集团有限公司",
+    "legal_representative": "曹文星",
+    "entity_type": "其他有限责任公司",
+    "established_date": "6/1/2005 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "968000000",
+    "business_status": "开业",
+    "registered_address": "合肥市高新区彩虹路222号创新广场A座12层",
+    "business_scope": "一般经营项目：房屋建筑、公路、市政公用、水利水电、矿山、铁路、城市园林绿化工程建设项目总承包；建筑装饰装修、公路路面、路基、桥梁、隧道、建筑幕墙、消防设施、钢结构、机电设备安装、河湖整治工程专业承包，承包国外工程项目，对外派遣境外工程所需的劳务人员，建筑材料销售，建筑机械销售、租赁；工程咨询与设计，第一类医疗器械、第二类医疗器械的销售；货物或技术进出口（国家禁止或涉及行政审批的货物和技术进出口除外）。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [
+      "2023AFXGZ02579"
+    ],
+    "all_linked_project_ids": [
+      "2023AFXGZ02579",
+      "2023AGGGZ00104",
+      "2023BFJGZ01550",
+      "2023BFJGZ02186"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽四建控股集团有限公司",
+    "business_status": "开业",
+    "legal_representative": "曹文星",
+    "registered_capital": "968000000",
+    "paid_in_capital": "362000000",
+    "establishment_date": "6/1/2005 00:00:00",
+    "approval_date": "6/8/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "phone": "13615653077",
+    "additional_phones": "15056351711,18919981402,0551-64221608,15056028508,15079183851",
+    "email": "331338319@qq.com",
+    "additional_emails": "cao.juan@ahsjgs.com,278930297@qq.com,ahsjjt@ahsjgs.com,xu.ruike@ahsjgs.com,ahsj@ahsjgs.com,36316212@qq.com",
+    "unified_social_credit_code": "91340100769048935F",
+    "taxpayer_identification_number": "91340100769048935F",
+    "business_registration_number": "340000000038285",
+    "organization_code": "76904893-5",
+    "insured_personnel_count": "10867",
+    "company_type": "其他有限责任公司",
+    "industry": "房屋建筑业",
+    "former_name": "安徽四建控股有限公司",
+    "registered_address": "合肥市高新区彩虹路222号创新广场A座12层",
+    "latest_annual_report_address": "合肥市高新区彩虹路222号创新国际A座12层",
+    "website": "-",
+    "business_scope": "一般经营项目：房屋建筑、公路、市政公用、水利水电、矿山、铁路、城市园林绿化工程建设项目总承包；建筑装饰装修、公路路面、路基、桥梁、隧道、建筑幕墙、消防设施、钢结构、机电设备安装、河湖整治工程专业承包，承包国外工程项目，对外派遣境外工程所需的劳务人员，建筑材料销售，建筑机械销售、租赁；工程咨询与设计，第一类医疗器械、第二类医疗器械的销售；货物或技术进出口（国家禁止或涉及行政审批的货物和技术进出口除外）。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

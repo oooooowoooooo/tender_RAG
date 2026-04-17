@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7040298",
+  "normalized_projection": {
+    "title": "三部门关于印发《电力装备行业稳增长工作方案（2025-2026年）》的通知",
+    "issuer": "工业和信息化部 市场监管总局 国家能源局",
+    "index_no": "未标注",
+    "subject_category": "国土资源、能源\\电力",
+    "doc_no": "工信部联重装〔2025〕178号",
+    "publish_date": "2025-09-12",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7040298.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250912418874752046.pdf"
+    ],
+    "keywords": [
+      "国土资源",
+      "能源",
+      "电力"
+    ],
+    "effective_date": "2025-08-06",
+    "abolish_date": "",
+    "summary": "现将《电力装备行业稳增长工作方案（2025－2026年）》印发给你们，请结合实际抓好落实。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7040298",
+    "title": "三部门关于印发《电力装备行业稳增长工作方案（2025-2026年）》的通知",
+    "content": "工业和信息化部 市场监管总局 国家能源局关于印发《电力装备行业稳增长工作方案（2025-2026年）》的通知\n工信部联重装〔2025〕178号\n各省、自治区、直辖市及新疆生产建设兵团工业和信息化、市场监管、能源主管部门，有关中央企业：\n现将《电力装备行业稳增长工作方案（2025－2026年）》印发给你们，请结合实际抓好落实。\n工业和信息化部\n市场监管总局\n国家能源局\n2025年8月6日",
+    "source": "工业和信息化部网站",
+    "publish_time": "2025-09-12",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7040298.htm",
+    "category": "国土资源、能源\\电力",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "194"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7040298",
+    "title": "三部门关于印发《电力装备行业稳增长工作方案（2025-2026年）》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-09-12",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7040298.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7040298.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "三部门关于印发《电力装备行业稳增长工作方案（2025-2026年）》的通知",
+      "发文机关": "工业和信息化部 市场监管总局 国家能源局",
+      "发文字号": "工信部联重装〔2025〕178号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "国土资源、能源\\电力",
+      "公文种类": "通知",
+      "成文日期": "2025年08月06日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250912418874752046.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7040298.html"
+  },
+  "raw_legal_doc": {}
+}

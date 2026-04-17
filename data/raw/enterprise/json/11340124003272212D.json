@@ -1,0 +1,76 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "11340124003272212D",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "11340124003272212D",
+    "enterprise_name": "庐江县盛桥镇人民政府",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "合肥市庐江县盛桥镇街道",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 213,
+    "selected_project_ids": [
+      "2023ANNZN00448"
+    ],
+    "all_linked_project_ids": [
+      "2022ANNFN00489",
+      "2022ANNHZ00457",
+      "2022ANNZJ00480",
+      "2023ANNGZ00433",
+      "2023ANNHZ00368",
+      "2023ANNHZ00410",
+      "2023ANNZJ00111",
+      "2023ANNZN00093",
+      "2023ANNZN00448"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "庐江县盛桥镇人民政府",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐江县",
+    "phone": "19170067564",
+    "additional_phones": "19965071264,18505605905,18956476285,18156078646,15156519013",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "11340124003272212D",
+    "taxpayer_identification_number": "11340124003272212D",
+    "business_registration_number": "-",
+    "organization_code": "00327221-2",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "合肥市庐江县盛桥镇街道",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

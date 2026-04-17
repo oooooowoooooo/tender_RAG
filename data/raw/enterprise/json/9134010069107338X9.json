@@ -1,0 +1,66 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9134010069107338X9",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9134010069107338X9",
+    "enterprise_name": "合肥金巢房地产开发有限责任公司",
+    "legal_representative": "李勇",
+    "entity_type": "有限责任公司(国有独资)",
+    "established_date": "3/7/2009 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "100000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市包河区北京路与繁华大道交叉口水丽坊自在城营销中心",
+    "business_scope": "房地产开发、房地产代理销售、房屋租赁。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 7,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023BFBGZ02013"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥金巢房地产开发有限责任公司",
+    "business_status": "开业",
+    "legal_representative": "李勇",
+    "registered_capital": "100000000",
+    "paid_in_capital": "100000000",
+    "establishment_date": "3/7/2009 00:00:00",
+    "approval_date": "15/9/2022 00:00:00",
+    "business_term": "2009-07-03 至 2059-06-30",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "phone": "0551-63457790",
+    "additional_phones": "0551-63475302,0551-63421000",
+    "email": "bhct6666@163.com",
+    "additional_emails": "812179015@qq.com,zjzywwwx@163.com,zjzywwx@163.com,313752469@qq.com",
+    "unified_social_credit_code": "9134010069107338X9",
+    "taxpayer_identification_number": "9134010069107338X9",
+    "business_registration_number": "340100000335534",
+    "organization_code": "69107338-X",
+    "insured_personnel_count": "0",
+    "company_type": "有限责任公司(国有独资)",
+    "industry": "房地产业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市包河区北京路与繁华大道交叉口水丽坊自在城营销中心",
+    "latest_annual_report_address": "安徽省合肥市包河区北京路与繁华大道交叉口水丽坊自在城营销中心",
+    "website": "-",
+    "business_scope": "房地产开发、房地产代理销售、房屋租赁。",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913400001489427235",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913400001489427235",
+    "enterprise_name": "安徽建工交通航务集团有限公司",
+    "legal_representative": "徐少华",
+    "entity_type": "其他有限责任公司",
+    "established_date": "21/5/1992 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "1000000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市瑶海区铜陵路20号",
+    "business_scope": "市政公用、港口与航道、水利水电、公路、建筑、机电、矿山工程施工总承包；河湖整治、航道整治、港口与海岸、堤防、土石方、地基基础、古建筑、钢结构、建筑装修装饰、电子与智能化、公路路面及路基、桥梁、隧道、深基坑处理工程施工专业承包；环保、地质灾害处理;城市园林绿化;土地复垦与土地综合整治，土壤与地下水污染调查修复和水环境综合整治；市政公用工程勘探设计、工程咨询；各类工程项目投资、管理、运营、施工管理；船舶修理、制造；预拌商品混凝土加工与销售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 3,
+    "all_tender_frequency": 9,
+    "selected_project_ids": [
+      "2023AFMGZ02465",
+      "2023BFAGZ02457",
+      "2023BFYGZ02414"
+    ],
+    "all_linked_project_ids": [
+      "2023ADDGZ00211",
+      "2023AFMGZ02465",
+      "2023ANNGZ00494",
+      "2023BFAGZ02457",
+      "2023BFBGZ01440",
+      "2023BFFGZ01108",
+      "2023BFFGZ01249",
+      "2023BFYGZ02044",
+      "2023BFYGZ02414"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽建工交通航务集团有限公司",
+    "business_status": "开业",
+    "legal_representative": "徐少华",
+    "registered_capital": "1000000000",
+    "paid_in_capital": "1000000000",
+    "establishment_date": "21/5/1992 00:00:00",
+    "approval_date": "6/6/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "瑶海区",
+    "phone": "13505512820",
+    "additional_phones": "13365685501,15305607825,0551-64482740,0551-82633561,18755648360",
+    "email": "1011055641@qq.com",
+    "additional_emails": "ahjthwgs@163.com,shjxsjgs@163.com,ahjxsjgs@163.com",
+    "unified_social_credit_code": "913400001489427235",
+    "taxpayer_identification_number": "913400001489427235",
+    "business_registration_number": "340000000035514",
+    "organization_code": "14894272-3",
+    "insured_personnel_count": "586",
+    "company_type": "其他有限责任公司",
+    "industry": "建筑装饰、装修和其他建筑业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市瑶海区铜陵路20号",
+    "latest_annual_report_address": "安徽省合肥市瑶海区铜陵路20号",
+    "website": "www.ahjthw.com",
+    "business_scope": "市政公用、港口与航道、水利水电、公路、建筑、机电、矿山工程施工总承包；河湖整治、航道整治、港口与海岸、堤防、土石方、地基基础、古建筑、钢结构、建筑装修装饰、电子与智能化、公路路面及路基、桥梁、隧道、深基坑处理工程施工专业承包；环保、地质灾害处理;城市园林绿化;土地复垦与土地综合整治，土壤与地下水污染调查修复和水环境综合整治；市政公用工程勘探设计、工程咨询；各类工程项目投资、管理、运营、施工管理；船舶修理、制造；预拌商品混凝土加工与销售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

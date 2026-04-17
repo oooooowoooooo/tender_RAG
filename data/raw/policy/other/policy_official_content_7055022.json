@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7055022",
+  "normalized_projection": {
+    "title": "关于印发《重点生态保护修复治理资金管理办法》的通知",
+    "issuer": "财政部",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\财政",
+    "doc_no": "财资环〔2026〕7号",
+    "publish_date": "2026-01-17",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7055022.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260117357119737253.pdf"
+    ],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计"
+    ],
+    "effective_date": "2026-01-07",
+    "abolish_date": "",
+    "summary": "为加强重点生态保护修复治理资金管理，我们修订了《重点生态保护修复治理资金管理办法》，现予印发，请遵照执行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7055022",
+    "title": "关于印发《重点生态保护修复治理资金管理办法》的通知",
+    "content": "关于印发《重点生态保护修复治理资金管理办法》的通知\n财资环〔2026〕7号\n各省、自治区、直辖市财政厅（局），新疆生产建设兵团财政局：\n为加强重点生态保护修复治理资金管理，我们修订了《重点生态保护修复治理资金管理办法》，现予印发，请遵照执行。\n财政部\n2026年1月7日\n附件下载：\n重点生态保护修复治理资金管理办法.pdf",
+    "source": "财政部网站",
+    "publish_time": "2026-01-17",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7055022.htm",
+    "category": "财政、金融、审计\\财政",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "162"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7055022",
+    "title": "关于印发《重点生态保护修复治理资金管理办法》的通知",
+    "source_name": "财政部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-01-17",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7055022.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7055022.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《重点生态保护修复治理资金管理办法》的通知",
+      "发文机关": "财政部",
+      "发文字号": "财资环〔2026〕7号",
+      "来源": "财政部网站",
+      "主题分类": "财政、金融、审计\\财政",
+      "公文种类": "通知",
+      "成文日期": "2026年01月07日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260117357119737253.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7055022.html"
+  },
+  "raw_legal_doc": {}
+}

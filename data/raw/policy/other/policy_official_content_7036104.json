@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7036104",
+  "normalized_projection": {
+    "title": "国务院关税税则委员会关于调整对原产于美国的进口商品加征关税措施的公告",
+    "issuer": "国务院关税税则委员会",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\税务",
+    "doc_no": "税委会公告2025年第8号",
+    "publish_date": "2025-08-12",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7036104.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "税务"
+    ],
+    "effective_date": "2025-08-12",
+    "abolish_date": "",
+    "summary": "自2025年8月12日12时01分起，调整《国务院关税税则委员会关于对原产于美国的进口商品加征关税的公告》（税委会公告2025年第4号）规定的加征关税措施，在90天内继续暂停实施24%的对美加征关税税率，保留10%的对美加征关税税率。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7036104",
+    "title": "国务院关税税则委员会关于调整对原产于美国的进口商品加征关税措施的公告",
+    "content": "国务院关税税则委员会关于调整对原产于美国的进口商品加征关税措施的公告\n税委会公告2025年第8号\n为落实中美经贸会谈共识，根据《中华人民共和国关税法》、《中华人民共和国海关法》、《中华人民共和国对外贸易法》等法律法规和国际法基本原则，经国务院批准，自2025年8月12日12时01分起，调整《国务院关税税则委员会关于对原产于美国的进口商品加征关税的公告》（税委会公告2025年第4号）规定的加征关税措施，在90天内继续暂停实施24%的对美加征关税税率，保留10%的对美加征关税税率。 \n国务院关税税则委员会\n2025年8月12日",
+    "source": "财政部网站",
+    "publish_time": "2025-08-12",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7036104.htm",
+    "category": "财政、金融、审计\\税务",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "264"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7036104",
+    "title": "国务院关税税则委员会关于调整对原产于美国的进口商品加征关税措施的公告",
+    "source_name": "财政部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-08-12",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7036104.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7036104.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国务院关税税则委员会关于调整对原产于美国的进口商品加征关税措施的公告",
+      "发文机关": "国务院关税税则委员会",
+      "发文字号": "税委会公告2025年第8号",
+      "来源": "财政部网站",
+      "主题分类": "财政、金融、审计\\税务",
+      "公文种类": "公告",
+      "成文日期": "2025年08月12日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7036104.html"
+  },
+  "raw_legal_doc": {}
+}

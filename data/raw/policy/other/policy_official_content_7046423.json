@@ -1,0 +1,71 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7046423",
+  "normalized_projection": {
+    "title": "关于推行应用《饲料和饲料添加剂进口登记证》等6种电子证照的公告",
+    "issuer": "农业农村部",
+    "index_no": "未标注",
+    "subject_category": "农业、林业、水利\\农业、畜牧业、渔业",
+    "doc_no": "中华人民共和国农业农村部公告第963号",
+    "publish_date": "2025-10-30",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7046423.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251030531133772523.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251030543117519640.pdf"
+    ],
+    "keywords": [
+      "农业",
+      "林业",
+      "水利",
+      "畜牧业",
+      "渔业"
+    ],
+    "effective_date": "2025-10-27",
+    "abolish_date": "",
+    "summary": "为贯彻落实党中央、国务院关于全国统一大市场建设和“高效办成一件事”的部署要求，进一步扩大农业行政审批电子证照应用领域，促进政务服务标准化、规范化、便利化，农业农村部决定推行应用《饲料和饲料添加剂进口登记证》等6种电子证照。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7046423",
+    "title": "关于推行应用《饲料和饲料添加剂进口登记证》等6种电子证照的公告",
+    "content": "中华人民共和国农业农村部公告\n第963号\n为贯彻落实党中央、国务院关于全国统一大市场建设和“高效办成一件事”的部署要求，进一步扩大农业行政审批电子证照应用领域，促进政务服务标准化、规范化、便利化，农业农村部决定推行应用《饲料和饲料添加剂进口登记证》等6种电子证照。现就有关事项公告如下：\n一、自2025年11月1日起，在全国范围内推行应用农业农村部本级颁发的《饲料和饲料添加剂进口登记证》、《饲料和饲料添加剂新产品证书》、《渔业船网工具指标批准书》、《渔业捕捞许可证》、《农业转基因生物安全证书（进口）》、《农产品质量安全检测机构考核合格证书》电子证照。电子证照与纸质证照同步制发、并行使用，具有同等法律效力。自2026年1月1日起，不再制发相应的纸质证照。\n二、电子证照分别加盖相应的中华人民共和国农业农村部审批专用章的电子印章，具体版式附后。\n三、已经制发仍在有效期内的纸质证照继续使用，直至下次换发时更换电子证照。\n四、申请人可登录农业农村部政务服务平台，查看和下载电子证照。\n五、社会公众可通过农业农村部政务服务平台核验电子证照有效性，或通过手机浏览器扫描电子证照二维码查询证照信息。\n六、各级农业农村部门要充分认识推行应用电子证照的重要意义，更好发挥电子证照在行政审批减环节、减材料、减时限等方面的重要作用，凡通过电子证照可以获取的信息，不再要求提供相应纸质材料。\n附件：\n1.《饲料和饲料添加剂进口登记证》电子证照样式\n2.《饲料和饲料添加剂新产品证书》电子证照样式\n3.《渔业船网工具指标批准书》电子证照样式\n4.《渔业捕捞许可证》电子证照样式\n5.《农业转基因生物安全证书（进口）》电子证照样式\n6.《农产品质量安全检测机构考核合格证书》电子证照样式\n农业农村部\n2025年10月27日\n\n附件.pdf",
+    "source": "农业农村部网站",
+    "publish_time": "2025-10-30",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7046423.htm",
+    "category": "农业、林业、水利\\农业、畜牧业、渔业",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "759"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7046423",
+    "title": "关于推行应用《饲料和饲料添加剂进口登记证》等6种电子证照的公告",
+    "source_name": "农业农村部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-10-30",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7046423.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7046423.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于推行应用《饲料和饲料添加剂进口登记证》等6种电子证照的公告",
+      "发文机关": "农业农村部",
+      "发文字号": "中华人民共和国农业农村部公告第963号",
+      "来源": "农业农村部网站",
+      "主题分类": "农业、林业、水利\\农业、畜牧业、渔业",
+      "公文种类": "公告",
+      "成文日期": "2025年10月27日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251030531133772523.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251030543117519640.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7046423.html"
+  },
+  "raw_legal_doc": {}
+}

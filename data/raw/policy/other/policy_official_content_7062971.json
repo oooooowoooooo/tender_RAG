@@ -1,0 +1,69 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7062971",
+  "normalized_projection": {
+    "title": "关于开展报关单证及电子数据自助查询打印试点的公告",
+    "issuer": "海关总署",
+    "index_no": "未标注",
+    "subject_category": "商贸、海关、旅游\\海关",
+    "doc_no": "海关总署公告2025年第146号",
+    "publish_date": "2025-07-11",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7062971.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020260317213709618368.doc",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020260317213709662859.pdf"
+    ],
+    "keywords": [
+      "商贸",
+      "海关",
+      "旅游"
+    ],
+    "effective_date": "2025-07-08",
+    "abolish_date": "",
+    "summary": "为进一步优化口岸营商环境，便利企业获取保管期限内的报关单证及数据，海关总署决定自2025年8月1日起，在北京、满洲里、福州、厦门、青岛、长沙、广州、黄埔、海口、南宁海关开展报关单证及数据自助查询打印试点。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7062971",
+    "title": "关于开展报关单证及电子数据自助查询打印试点的公告",
+    "content": "关于开展报关单证及电子数据自助查询打印试点的公告\n海关总署公告2025年第146号\n为进一步优化口岸营商环境，便利企业获取保管期限内的报关单证及数据，海关总署决定自2025年8月1日起，在北京、满洲里、福州、厦门、青岛、长沙、广州、黄埔、海口、南宁海关开展报关单证及数据自助查询打印试点。现就有关事宜公告如下：\n一、本公告所称报关单证，是指已办结海关手续（以下简称结关）并经整理归档的《中华人民共和国海关进出口货物报关单》和《中华人民共和国海关进出境货物备案清单》，不包括随附的单证。\n二、报关单证保管期限为：减免税、加工贸易不作价设备等报关单证结关后11年；加工贸易（除不作价设备外）报关单证结关后5年；除上述情况之外的报关单证结关后3年。\n三、除海关失信企业以及在海关备案的住所（主要经营场所）无法查找且通过在海关备案的联系方式无法与其取得联系的报关单位之外的进出口货物收发货人，可以通过国际贸易“单一窗口”中的“报关单证查询打印”功能自助查询打印在试点海关申报的保管期限内的报关单证，并可同步导出相应的报关单证数据。\n四、自助查询打印的报关单证与海关单证档案管理部门出具的报关单证具有同等效力。导出的报关单证数据仅供企业内部管理使用，不作为企业进出口经营活动证明或其他证据、证明。\n五、因采用有纸通关、无纸通关转有纸通关方式或其他原因导致无法自助查询打印报关单证的，可继续通过现行报关单证查阅渠道向申报地海关申请办理。\n本公告自2025年8月1日起施行。\n特此公告。\n海关总署\n2025年7月8日\n\n  公告下载链接：\n  海关总署关于开展报关单证及电子数据自助查询打印试点的公告.doc\n  海关总署关于开展报关单证及电子数据自助查询打印试点的公告.pdf",
+    "source": "海关总署",
+    "publish_time": "2025-07-11",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7062971.htm",
+    "category": "商贸、海关、旅游\\海关",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "732"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7062971",
+    "title": "关于开展报关单证及电子数据自助查询打印试点的公告",
+    "source_name": "海关总署",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-07-11",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7062971.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7062971.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于开展报关单证及电子数据自助查询打印试点的公告",
+      "发文机关": "海关总署",
+      "发文字号": "海关总署公告2025年第146号",
+      "来源": "海关总署",
+      "主题分类": "商贸、海关、旅游\\海关",
+      "公文种类": "公告",
+      "成文日期": "2025年07月08日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020260317213709618368.doc",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020260317213709662859.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7062971.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,72 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9134018167092419XN",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9134018167092419XN",
+    "enterprise_name": "安徽省中畅生态工程建设有限公司",
+    "legal_representative": "鲍习霞",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "11/1/2008 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "20600000",
+    "business_status": "开业",
+    "registered_address": "巢湖市烔炀镇工业区合芜公路32.9KM处5幢",
+    "business_scope": "建筑工程、防水防腐保温工程、地基与基础工程、钢结构工程、公路工程施工与养护、公路交通工程、桥梁工程施工与维护加固、隧道工程、石油化工工程、古建筑工程、市政公用工程、水利水电工程、机电安装工程、河湖整治工程、堤防工程、水工大坝工程、输变电工程（不含承装（修、试）电力设施）、通信工程、城市及道路照明工程、环保工程设计与施工、环保及交通工程设备制造安装与销售、大棚制作安装及配套加工销售、园林绿化工程与养护、园林花卉种植与施工养护、特种专业工程（不含特种设备）、地质灾害治理勘察设计施工、装饰装修设计与施工、建筑幕墙工程、电子智能化工程、消防设施工程设计与施工、建筑教学模型技术开发、展览陈列工程设计与施工、雕塑设计及施工、招标代理、工程咨询与设计、造价审计、施工劳务、物业管理、卫生保洁、广告标牌、房屋拆除、档案资料整理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 5,
+    "selected_project_ids": [
+      "2023ADDZN00327"
+    ],
+    "all_linked_project_ids": [
+      "2023ACCGZ00031",
+      "2023ADDGZ00167",
+      "2023ADDZN00327",
+      "2023AMMFZ00163",
+      "2023AMMZN00127"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽省中畅生态工程建设有限公司",
+    "business_status": "开业",
+    "legal_representative": "鲍习霞",
+    "registered_capital": "20600000",
+    "paid_in_capital": "20600000",
+    "establishment_date": "11/1/2008 00:00:00",
+    "approval_date": "10/7/2019 00:00:00",
+    "business_term": "2008-01-11 至 2038-01-11",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "巢湖市",
+    "phone": "0551-63450007",
+    "additional_phones": "18056395198,0551-62633103,0551-63400050,13856551112,17305608487",
+    "email": "bxz7320@qq.com",
+    "additional_emails": "-",
+    "unified_social_credit_code": "9134018167092419XN",
+    "taxpayer_identification_number": "9134018167092419XN",
+    "business_registration_number": "341402000006521",
+    "organization_code": "67092419-X",
+    "insured_personnel_count": "33",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "建筑装饰、装修和其他建筑业",
+    "former_name": "安徽省中畅工程建设有限公司",
+    "registered_address": "巢湖市烔炀镇工业区合芜公路32.9KM处5幢",
+    "latest_annual_report_address": "安徽省合肥市九华山路1号世纪阳光大厦1101室",
+    "website": "www.ahzc0007.com",
+    "business_scope": "建筑工程、防水防腐保温工程、地基与基础工程、钢结构工程、公路工程施工与养护、公路交通工程、桥梁工程施工与维护加固、隧道工程、石油化工工程、古建筑工程、市政公用工程、水利水电工程、机电安装工程、河湖整治工程、堤防工程、水工大坝工程、输变电工程（不含承装（修、试）电力设施）、通信工程、城市及道路照明工程、环保工程设计与施工、环保及交通工程设备制造安装与销售、大棚制作安装及配套加工销售、园林绿化工程与养护、园林花卉种植与施工养护、特种专业工程（不含特种设备）、地质灾害治理勘察设计施工、装饰装修设计与施工、建筑幕墙工程、电子智能化工程、消防设施工程设计与施工、建筑教学模型技术开发、展览陈列工程设计与施工、雕塑设计及施工、招标代理、工程咨询与设计、造价审计、施工劳务、物业管理、卫生保洁、广告标牌、房屋拆除、档案资料整理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

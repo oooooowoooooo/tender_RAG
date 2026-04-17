@@ -1,0 +1,69 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7019579",
+  "normalized_projection": {
+    "title": "文化和旅游部办公厅关于组织开展2025年公共图书馆、文化馆服务宣传周活动的通知",
+    "issuer": "文化和旅游部办公厅",
+    "index_no": "未标注",
+    "subject_category": "文化、广电、新闻出版\\文化",
+    "doc_no": "办公共函〔2025〕194号",
+    "publish_date": "2025-04-18",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7019579.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250418398753828364.docx",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250418398753911391.docx"
+    ],
+    "keywords": [
+      "文化",
+      "广电",
+      "新闻出版"
+    ],
+    "effective_date": "2025-04-14",
+    "abolish_date": "",
+    "summary": "现将《2025年公共图书馆服务宣传周活动方案》《2025年文化馆服务宣传周活动方案》印发给你们，请精心组织、加强统筹，指导各级公共图书馆、文化馆认真做好落实工作。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7019579",
+    "title": "文化和旅游部办公厅关于组织开展2025年公共图书馆、文化馆服务宣传周活动的通知",
+    "content": "文化和旅游部办公厅关于组织开展2025年公共图书馆、文化馆服务宣传周活动的通知\n办公共函〔2025〕194号\n各省、自治区、直辖市文化和旅游厅（局），新疆生产建设兵团文化体育广电和旅游局，国家图书馆、文化和旅游部全国公共文化发展中心： \n为全面贯彻落实党的二十大和二十届二中、三中全会精神，深入学习实践习近平文化思想，更好发挥各级公共图书馆、文化馆对推动公共文化服务高质量发展的重要作用，文化和旅游部将组织开展2025年公共图书馆、文化馆服务宣传周活动。现将《2025年公共图书馆服务宣传周活动方案》《2025年文化馆服务宣传周活动方案》印发给你们，请精心组织、加强统筹，指导各级公共图书馆、文化馆认真做好落实工作。 \n特此通知。 \n文化和旅游部办公厅\n2025年4月14日\n附件：\n1.2025年公共图书馆服务宣传周活动方案.docx\n2.2025年文化馆服务宣传周活动方案.docx",
+    "source": "文化和旅游部网站",
+    "publish_time": "2025-04-18",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7019579.htm",
+    "category": "文化、广电、新闻出版\\文化",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "393"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7019579",
+    "title": "文化和旅游部办公厅关于组织开展2025年公共图书馆、文化馆服务宣传周活动的通知",
+    "source_name": "文化和旅游部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-04-18",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7019579.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7019579.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "文化和旅游部办公厅关于组织开展2025年公共图书馆、文化馆服务宣传周活动的通知",
+      "发文机关": "文化和旅游部办公厅",
+      "发文字号": "办公共函〔2025〕194号",
+      "来源": "文化和旅游部网站",
+      "主题分类": "文化、广电、新闻出版\\文化",
+      "公文种类": "通知",
+      "成文日期": "2025年04月14日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250418398753828364.docx",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250418398753911391.docx"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7019579.html"
+  },
+  "raw_legal_doc": {}
+}

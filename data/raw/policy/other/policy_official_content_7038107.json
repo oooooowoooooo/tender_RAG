@@ -1,0 +1,71 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7038107",
+  "normalized_projection": {
+    "title": "海关总署公告2025年第172号（关于发布《海南自由贸易港进口货物海关径予放行管理规定》的公告）",
+    "issuer": "海关总署",
+    "index_no": "未标注",
+    "subject_category": "商贸、海关、旅游\\海关",
+    "doc_no": "公告〔2025〕172号",
+    "publish_date": "2025-08-28",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7038107.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202508/P020250828566013486943.docx",
+      "https://www.gov.cn/zhengce/zhengceku/202508/P020250828566013538273.doc",
+      "https://www.gov.cn/zhengce/zhengceku/202508/P020250828566013586658.pdf"
+    ],
+    "keywords": [
+      "商贸",
+      "海关",
+      "旅游"
+    ],
+    "effective_date": "2025-08-25",
+    "abolish_date": "",
+    "summary": "为落实《中华人民共和国海南自由贸易港法》，支持海南自由贸易港高质量发展，海关总署制定了《海南自由贸易港进口货物海关径予放行管理规定》，现予发布。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7038107",
+    "title": "海关总署公告2025年第172号（关于发布《海南自由贸易港进口货物海关径予放行管理规定》的公告）",
+    "content": "海关总署公告\n公告〔2025〕172号\n为落实《中华人民共和国海南自由贸易港法》，支持海南自由贸易港高质量发展，海关总署制定了《海南自由贸易港进口货物海关径予放行管理规定》，现予发布。\n特此公告。\n海关总署\n2025年8月25日\n\n海南自由贸易港进口货物海关径予放行管理规定\n第一条  为落实海南自由贸易港（以下简称海南自贸港）建设有关工作安排，规范海关对进口径予放行货物的管理，根据《中华人民共和国海南自由贸易港法》等法律法规及国家有关政策规定，结合海南自贸港监管实际，制定本规定。\n第二条  经海南自贸港对外开放口岸直接进入海南自贸港的保税货物、“零关税”货物，且不实行许可证件管理、不需要依法实施检验检疫的，可选择适用径予放行。\n属于放宽贸易管理措施的保税货物、零关税”货物，且不需要依法实施检验检疫的，可以适用本规定。\n第三条  对适用径予放行的货物，进口货物的收货人或者受委托的报关企业（以下简称进口货物收货人）应向海口海关所属隶属海关（不含“三沙海关”）提交货物相关信息（见附件）。\n第四条  海关按规定审核进口货物收货人提交的信息，必要时可要求进口货物收货人补充提供有关资料，进口货物收货人应当予以配合。\n第五条  海关认为必要时可对径予放行货物实施检查，进口货物收货人应当到场协助；海关也可径行开验、复验或者提取货样。\n第六条  适用径予放行的保税货物、“零关税”货物、放宽贸易管理措施货物均纳入电子账册管理。\n进口货物收货人应将径予放行货物与其他货物分开存放并设置明显标识，在货物径予放行之日起14日内办结入账手续，入账前不得使用。\n第七条  海关加强对径予放行货物的风险信息收集、风险评估和风险处置。\n第八条  海关运用信息化手段，以智能化、便利化为原则，通过相关信息化系统加强对径予放行货物的监管。\n第九条  进口货物收货人未按期向海关报送账册清单或核注清单、擅自处置货物的，海关依法依规追究其相关责任。\n第十条  本规定由中华人民共和国海关总署负责解释。\n第十一条  本规定自海南自贸港封关运作之日起施行。\n\n附件：径予放行货物填报栏目\n公告正文下载链接：\n海关总署关于发布《海南自由贸易港进口货物海关径予放行管理规定》的公告\n海关总署关于发布《海南自由贸易港进口货物海关径予放行管理规定》的公告",
+    "source": "海关总署网站",
+    "publish_time": "2025-08-28",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7038107.htm",
+    "category": "商贸、海关、旅游\\海关",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "960"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7038107",
+    "title": "海关总署公告2025年第172号（关于发布《海南自由贸易港进口货物海关径予放行管理规定》的公告）",
+    "source_name": "海关总署网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-08-28",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7038107.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7038107.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "海关总署公告2025年第172号（关于发布《海南自由贸易港进口货物海关径予放行管理规定》的公告）",
+      "发文机关": "海关总署",
+      "发文字号": "公告〔2025〕172号",
+      "来源": "海关总署网站",
+      "主题分类": "商贸、海关、旅游\\海关",
+      "公文种类": "公告",
+      "成文日期": "2025年08月25日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202508/P020250828566013486943.docx",
+      "https://www.gov.cn/zhengce/zhengceku/202508/P020250828566013538273.doc",
+      "https://www.gov.cn/zhengce/zhengceku/202508/P020250828566013586658.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7038107.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7047381",
+  "normalized_projection": {
+    "title": "交通运输部关于发布《水网地区航道生态护岸建设指南》的公告",
+    "issuer": "交通运输部",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\水运",
+    "doc_no": "交通运输部公告2025年第52号",
+    "publish_date": "2025-11-07",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047381.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251107499997410857.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "水运"
+    ],
+    "effective_date": "2025-09-29",
+    "abolish_date": "",
+    "summary": "现发布《水网地区航道生态护岸建设指南》，为水运工程建设推荐性行业标准，标准代码为JTS/T 332—2025，自2025年12月1日起施行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7047381",
+    "title": "交通运输部关于发布《水网地区航道生态护岸建设指南》的公告",
+    "content": "交通运输部关于发布《水网地区航道生态护岸建设指南》的公告\n交通运输部公告2025年第52号\n现发布《水网地区航道生态护岸建设指南》（以下简称《指南》），为水运工程建设推荐性行业标准，标准代码为JTS/T 332—2025，自2025年12月1日起施行。\n《指南》由交通运输部水运局负责管理和解释，实施过程中具体使用问题的咨询，由主编单位交通运输部水运科学研究院、湖州市港航管理中心答复。《指南》文本可在交通运输部政府网站水路运输建设综合管理信息系统“水运工程行业标准”专栏查询和下载。\n特此公告。\n交通运输部\n2025年9月29日\n附件下载：\n水网地区航道生态护岸建设指南.pdf",
+    "source": "交通运输部网站",
+    "publish_time": "2025-11-07",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047381.htm",
+    "category": "工业、交通\\水运",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "290"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7047381",
+    "title": "交通运输部关于发布《水网地区航道生态护岸建设指南》的公告",
+    "source_name": "交通运输部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-11-07",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047381.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047381.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "交通运输部关于发布《水网地区航道生态护岸建设指南》的公告",
+      "发文机关": "交通运输部",
+      "发文字号": "交通运输部公告2025年第52号",
+      "来源": "交通运输部网站",
+      "主题分类": "工业、交通\\水运",
+      "公文种类": "公告",
+      "成文日期": "2025年09月29日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251107499997410857.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7047381.html"
+  },
+  "raw_legal_doc": {}
+}

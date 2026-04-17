@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "913400001489746613",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "徽商银行股份有限公司",
+  "raw_profile": {
+    "record_id": "22949",
+    "title": "徽商银行股份有限公司",
+    "corporation": "严琛",
+    "amount_raw": "1388980.1211万人民币",
+    "event_time": "1997-04-04",
+    "manage_date": "1997-04-04 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "-",
+    "type": "其他股份有限公司(上市)",
+    "industry": "货币金融服务",
+    "USCC": "913400001489746613",
+    "TIN": "913400001489746613",
+    "registed_num": "340000000026144",
+    "insured_persons": "11190",
+    "location": "安徽省合肥市云谷路1699号徽银大厦",
+    "source_url": "http://www.hsbank.com.cn",
+    "content": "许可项目：银行业务；证券投资基金托管；公募证券投资基金销售；结汇、售汇业务；外汇业务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）",
+    "search_text": "",
+    "capital_value": "13889801211"
+  }
+}

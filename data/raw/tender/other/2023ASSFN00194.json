@@ -1,0 +1,82 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023ASSFN00194",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "中标"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023ASSFN00194",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "中标"
+    ],
+    "publish_time": "2023-11-10 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 蜀山"
+    ],
+    "tenderer_or_purchaser": [
+      "合肥市蜀山区公共就业和人才服务管理中心"
+    ],
+    "agency": [
+      "合肥蜀山公共资源交易项目管理有限公司"
+    ],
+    "budget_or_bid_amount": [
+      "900000.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231110/26becc79-343d-44c7-b6b9-40733d4a6e05.html?ztbtab=002002004&biaoduanguid=ac196a1d-2fa8-476d-978c-41c8cacda0a2",
+    "attachment_paths": [],
+    "candidate_company_names": [
+      "安徽鑫盾信息科技有限公司"
+    ],
+    "winner_company_name": [
+      "安徽鑫盾信息科技有限公司"
+    ],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:828",
+      "project_id": "2023ASSFN00194",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231110/26becc79-343d-44c7-b6b9-40733d4a6e05.html?ztbtab=002002004&biaoduanguid=ac196a1d-2fa8-476d-978c-41c8cacda0a2",
+      "type": "政府采购",
+      "stage": "中标",
+      "event_time": "2023-11-10",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "蜀山",
+      "category": "政府",
+      "sub_category": "服务",
+      "budget_amount": "900000.0",
+      "purchaser": "合肥市蜀山区公共就业和人才服务管理中心",
+      "agency": "合肥蜀山公共资源交易项目管理有限公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "安徽鑫盾信息科技有限公司",
+      "bid_amount": "900000.0",
+      "bid_date": "2023-11-21",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"合肥市蜀山区人事档案数字化整理工作成交结果公告\", \"content\": \"\n\n合肥市蜀山区人事档案数字化整理工作成交结果公告\n\n一、项目编号:\n2023ASSFN00194\n\n二、项目名称:\n合肥市蜀山区人事档案数字化整理工作\n\n三、中标（成交）信息\n\n供应商名称：安徽鑫盾信息科技有限公司\n\n供应商地址：合肥市政务区潜山路与休宁路交口西南角中侨中心C座1103室\n\n成交单价：人民币叁拾元伍角每卷（册）（￥30.50元/卷（册））\n\n四、主要标的信息\n\n服务类\n\n名称：\n\n合肥市蜀山区人事档案数字化整理工作\n\n服务范围\n：\n\n本项目计划完成\n\n2.8 万卷流动人员人事档案数字化加工，主要内容有档案整理、分类编码、档案扫描、图像处理、目录著录、数据挂接、数据备份、刻录光盘、还原装订、建立相关数据库、导入档案数字化成果、整理完毕重新上架等。\n\n服务要求\n：\n\n响应采购文件要求，项目以安全、规范、高效为原则，立足档案保护、资源服务和业务管理的宗旨，按国家、省、市有关档案的管理规定、工作规范、技术规范、行业标准等，运用计算机技术，方便、高效、可靠地采集和管理档案信息资\n\n源。档案整理服务要求：人事档案按十大类分类整理、编目、编写页码，裱糊，加边，打印封面，建立档案材料目录\n,打印目录，整理装订，打印粘贴档案袋标签，装袋，上架。目录电子版移交给采购人。\n\n档案数字化加工要求：人事档案拆卷、编号、扫描、图像处理、\n\n装卷并上架；\n\n扫描影像等数据存储在档案级蓝光光盘\n\n和移动硬盘中，移交采购人，负责将数据挂接到采购人指定系统中，保证采购人正常使用。\n\n服务时间\n：\n\n自合同签订之日起至\n\n2024 年 5 月 31 日。服务期结束后，在年度预算能保障的前提下，经采购人年度考核合格后，采购人与成交供应商可续签采购合同（合同半年一签，续签时间最长不超过 2 年，综合单价不变） 。\n\n服务标准：\n\n严格按照国家及行业标准，并响应采购文件要求。\n\n注：以上内容如与本公告附件《主要成交标的承诺函》内容不一致的，以附件《主要成交标的承诺函》为准。\n\n五、评审专家（单一来源采购人员）名单\n\n朱迅,钱大为,汤复寿,刘社文,李景梅,赖英,张朝晖\n\n六、代理服务收费标准及金额\n\n1.代理服务收费标准：执行采购文件中约定的收费标准。\n2.金额：人民币壹万叁仟伍佰元整（￥13500.00元）。\n\n七、公告期限\n\n自本公告发布之日起1个工作日。\n\n八、其他补充事宜\n\n若供应商对上述结果有异议，可在成交结果公告发布之日起七个工作日内通过安徽合肥公共资源交易电子交易系统或书面形式在工作时间（上午\n8:00-12:00，下午14:30-17:30，节假日休息）向合肥蜀山公共资源交易项目管理有限公司提出质疑，质疑材料递交地址：合肥市蜀山区井岗路1100号蜀山区人民检察院北楼（井岗路与万泽路交口向西100米）二楼，联系电话：0551-65737248。\n\n若供应商对质疑处理意见有异议，可在规定时间内通过网上投诉系统或书面形式向合肥市蜀山区招标投标监督管理局提出投诉，联系电话：\n0551-65737234。\n\n根据《中华人民共和国政府采购法》《中华人民共和国政府采购法实施条例》《安徽省政府采购供应商质疑处理办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n\n（一）质疑应以书面形式实名提出，书面质疑材料应当包括以下内容：\n\n1、质疑人的名称、地址、邮编、联系人及联系电话；\n\n2、质疑项目的名称、编号、包别号（如有）；\n\n3、被质疑人名称；\n\n4、具体的质疑事项、基本事实及必要的证明材料；\n\n5、明确的请求及主张；\n\n6、必要的法律依据；\n\n7、提起质疑的日期。\n\n质疑人为自然人的，应当由本人签字；质疑人为法人或者其他组织的，应当由法定代表人、主要负责人，或者其授权代表签字或者盖章，并加盖公章。\n\n（二）有下列情形之一的，不予受理：\n\n1、提起质疑的主体不是参与该政府采购项目活动的供应商；\n\n2、提起质疑的时间超过规定时限的；\n\n3、质疑材料不完整的；\n\n4、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n\n5、对其他供应商的投标文件详细内容质疑，无法提供合法来源渠道的；\n\n6、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n\n合肥市蜀山区人事档案数字化整理工作\n成交通知书已发出，请成交供应商登录电子交易系统自行下载领取电子成交通知书。\n\n九、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：合肥市蜀山区公共就业和人才服务管理中心\n\n地址：合肥市蜀山区樊洼路52号民生大厦1807室\n\n联系方式：0551-65504459\n\n2.采购代理机构信息\n\n名称：合肥蜀山公共资源交易项目管理有限公司\n\n地址：合肥市蜀山区井岗路1100号蜀山区人民检察院北楼（井岗路与万泽路交口向西100米）一楼\n\n联系方式：0551-65597297\n\n3.项目联系方式\n\n项目联系人：徐工\n\n电话：0551-6559727\n\n\", \"attachments\": [{\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=61849fb7-1c9c-4a5a-8802-0b7fc01eddcf&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"磋商业绩承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=74e702ef-a848-41bf-b6a2-bc9478b8447b&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"中小企业声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=872128fa-3224-4b58-9c37-2c4889256dd7&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"主要成交标的承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=8c9e2491-529a-487d-8782-c54e8f49fa04&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"无重大违法记录声明函、无不良信用记.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=9694196d-ffb4-4714-8c53-281b783bfadb&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"安徽合肥公共资源交易中心网上投诉操作手册-投标人.docx\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=e976df04-7704-4a1a-bf53-3e9b6d9c6beb&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "3644",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

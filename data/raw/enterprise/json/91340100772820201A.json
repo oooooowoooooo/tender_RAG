@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100772820201A",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100772820201A",
+    "enterprise_name": "安徽省大地园林股份有限公司",
+    "legal_representative": "凌利宏",
+    "entity_type": "其他股份有限公司(非上市)",
+    "established_date": "5/4/2005 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "50000000",
+    "business_status": "开业",
+    "registered_address": "合肥市高新区创新大道与云飞路交口创新产业园二期G4栋D区9楼",
+    "business_scope": "园林与景观的规划设计、施工及维护；水环境治理、土壤修复、水土保持与生态修复规划；市政公用工程、古建筑工程、水利水电工程、环保工程及照明工程施工；房屋建筑施工、地基与基础工程施工；建筑装饰装修工程施工；环保工程；生态园林高新技术产品研发、成果转化、咨询及培训（除学历教育）；城镇总体建设规划编制及修订；田园综合体、特色小镇、美好乡村规划、建设及运营；休闲观光旅游项目开发、投资与建设；农业技术开发、智慧农业、节水灌溉技术服务、气雾化栽培设施设计及安装、温室大棚生产、安装服务；中药材、水果、蔬菜、农作物种植、加工、批发、销售（含网上）；苗木、草坪、绿肥、农产品的引种、育种、驯化、种植、培育及销售；市政工程监理及相关技术咨询服务；市政及绿化工程的养护、保洁业务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 5,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023AEWGZ00243",
+      "2023ANNGZ00479",
+      "2023ASSGZ00032",
+      "2023BFFGZ01267",
+      "2023BFFGZ01278"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽省大地园林股份有限公司",
+    "business_status": "开业",
+    "legal_representative": "凌利宏",
+    "registered_capital": "50000000",
+    "paid_in_capital": "20760000",
+    "establishment_date": "5/4/2005 00:00:00",
+    "approval_date": "22/5/2020 00:00:00",
+    "business_term": "2005-04-05 至 2025-12-31",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "0551-3683628",
+    "additional_phones": "0551-3216859,0551-4213786,0551-5110003,13739297144,0551-63853108",
+    "email": "dadi_xz2@126.com",
+    "additional_emails": "dadi_xz2@126.con",
+    "unified_social_credit_code": "91340100772820201A",
+    "taxpayer_identification_number": "91340100772820201A",
+    "business_registration_number": "340100000088037",
+    "organization_code": "77282020-1",
+    "insured_personnel_count": "53",
+    "company_type": "其他股份有限公司(非上市)",
+    "industry": "居民服务业",
+    "former_name": "-",
+    "registered_address": "合肥市高新区创新大道与云飞路交口创新产业园二期G4栋D区9楼",
+    "latest_annual_report_address": "合肥市高新区创新大道与云飞路交口创新产业园二期G4栋D区9楼",
+    "website": "-",
+    "business_scope": "园林与景观的规划设计、施工及维护；水环境治理、土壤修复、水土保持与生态修复规划；市政公用工程、古建筑工程、水利水电工程、环保工程及照明工程施工；房屋建筑施工、地基与基础工程施工；建筑装饰装修工程施工；环保工程；生态园林高新技术产品研发、成果转化、咨询及培训（除学历教育）；城镇总体建设规划编制及修订；田园综合体、特色小镇、美好乡村规划、建设及运营；休闲观光旅游项目开发、投资与建设；农业技术开发、智慧农业、节水灌溉技术服务、气雾化栽培设施设计及安装、温室大棚生产、安装服务；中药材、水果、蔬菜、农作物种植、加工、批发、销售（含网上）；苗木、草坪、绿肥、农产品的引种、育种、驯化、种植、培育及销售；市政工程监理及相关技术咨询服务；市政及绿化工程的养护、保洁业务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

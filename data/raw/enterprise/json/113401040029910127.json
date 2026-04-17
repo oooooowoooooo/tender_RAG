@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "113401040029910127",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "113401040029910127",
+    "enterprise_name": "合肥市蜀山区琥珀街道办事处",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "合肥市蜀山区清溪路翠竹园B区中心广场",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 14,
+    "selected_project_ids": [
+      "2023ASSZJ00213"
+    ],
+    "all_linked_project_ids": [
+      "2023ASSZJ00213"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥市蜀山区琥珀街道办事处",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "18919644393",
+    "additional_phones": "13855171361,18055164713,18655158092,18110999615,0551-65157316",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "113401040029910127",
+    "taxpayer_identification_number": "113401040029910127",
+    "business_registration_number": "-",
+    "organization_code": "00299101-2",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "合肥市蜀山区清溪路翠竹园B区中心广场",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

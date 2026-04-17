@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7029916",
+  "normalized_projection": {
+    "title": "市场监管总局办公厅关于印发《食品补充检验方法“揭榜挂帅”工作方案》的通知",
+    "issuer": "市场监管总局办公厅",
+    "index_no": "未标注",
+    "subject_category": "市场监管、安全生产监管\\食品药品监管",
+    "doc_no": "市监食检发〔2025〕54号",
+    "publish_date": "2025-06-29",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7029916.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202506/P020250629453668117547.pdf"
+    ],
+    "keywords": [
+      "市场监管",
+      "安全生产监管",
+      "食品药品监管"
+    ],
+    "effective_date": "2025-06-18",
+    "abolish_date": "",
+    "summary": "为贯彻党中央、国务院关于加强食品安全工作的决策部署，落实食品安全“四个最严”要求，提升食品安全检验能力，有效发现和打击食品掺杂掺假违法犯罪行为，保障人民群众身体健康和生命安全，根据《中华人民共和国食品安全法实施条例》《食品补充检验方法管理规定》，制定本方案。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7029916",
+    "title": "市场监管总局办公厅关于印发《食品补充检验方法“揭榜挂帅”工作方案》的通知",
+    "content": "市场监管总局办公厅关于印发《食品补充检验方法“揭榜挂帅”工作方案》的通知\n市监食检发〔2025〕54号\n各省、自治区、直辖市和新疆生产建设兵团市场监管局（厅、委）：\n为规范开展食品补充检验方法“揭榜挂帅”工作，现将《食品补充检验方法“揭榜挂帅”工作方案》印发给你们，请遵照执行。\n市场监管总局办公厅\n2025年6月18日\n（此件公开发布）\n附件：食品补充检验方法“揭榜挂帅”工作方案",
+    "source": "市场监管总局网站",
+    "publish_time": "2025-06-29",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7029916.htm",
+    "category": "市场监管、安全生产监管\\食品药品监管",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "191"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7029916",
+    "title": "市场监管总局办公厅关于印发《食品补充检验方法“揭榜挂帅”工作方案》的通知",
+    "source_name": "市场监管总局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-06-29",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7029916.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7029916.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "市场监管总局办公厅关于印发《食品补充检验方法“揭榜挂帅”工作方案》的通知",
+      "发文机关": "市场监管总局办公厅",
+      "发文字号": "市监食检发〔2025〕54号",
+      "来源": "市场监管总局网站",
+      "主题分类": "市场监管、安全生产监管\\食品药品监管",
+      "公文种类": "通知",
+      "成文日期": "2025年06月18日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202506/P020250629453668117547.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7029916.html"
+  },
+  "raw_legal_doc": {}
+}

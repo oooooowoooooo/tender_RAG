@@ -1,0 +1,66 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7052491",
+  "normalized_projection": {
+    "title": "国家药监局关于发布互联网药品医疗器械信息服务备案管理规定的公告",
+    "issuer": "国家药监局",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\卫生",
+    "doc_no": "2025年第123号",
+    "publish_date": "2025-12-23",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7052491.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251223480359619648.doc"
+    ],
+    "keywords": [
+      "卫生",
+      "体育"
+    ],
+    "effective_date": "2025-12-19",
+    "abolish_date": "",
+    "summary": "为了规范互联网药品医疗器械信息服务备案，加强互联网药品医疗器械信息服务管理，依据《互联网信息服务管理办法》，国家药监局制定了《互联网药品医疗器械信息服务备案管理规定》，现予发布，自发布之日起施行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7052491",
+    "title": "国家药监局关于发布互联网药品医疗器械信息服务备案管理规定的公告",
+    "content": "国家药监局关于发布互联网药品医疗器械信息服务备案管理规定的公告\n2025年第123号\n为了规范互联网药品医疗器械信息服务备案，加强互联网药品医疗器械信息服务管理，依据《互联网信息服务管理办法》，国家药监局制定了《互联网药品医疗器械信息服务备案管理规定》，现予发布，自发布之日起施行。\n特此公告。\n附件：互联网药品医疗器械信息服务备案管理规定\n国家药监局\n2025年12月19日",
+    "source": "国家药监局网站",
+    "publish_time": "2025-12-23",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7052491.htm",
+    "category": "卫生、体育\\卫生",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "188"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7052491",
+    "title": "国家药监局关于发布互联网药品医疗器械信息服务备案管理规定的公告",
+    "source_name": "国家药监局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-12-23",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7052491.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7052491.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家药监局关于发布互联网药品医疗器械信息服务备案管理规定的公告",
+      "发文机关": "国家药监局",
+      "发文字号": "2025年第123号",
+      "来源": "国家药监局网站",
+      "主题分类": "卫生、体育\\卫生",
+      "公文种类": "公告",
+      "成文日期": "2025年12月19日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251223480359619648.doc"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7052491.html"
+  },
+  "raw_legal_doc": {}
+}

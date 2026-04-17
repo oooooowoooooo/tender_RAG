@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "9134012355181246XJ",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "安徽勤冉项目管理咨询有限公司",
+  "raw_profile": {
+    "record_id": "3271",
+    "title": "安徽勤冉项目管理咨询有限公司",
+    "corporation": "张婷婷",
+    "amount_raw": "500万人民币",
+    "event_time": "2010-03-09",
+    "manage_date": "2010-03-09 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "USCC": "9134012355181246XJ",
+    "TIN": "9134012355181246XJ",
+    "registed_num": "340123000049226",
+    "insured_persons": "8",
+    "location": "安徽省合肥市肥西县上派镇翡翠路与三河路交口西南国际车城诚挚大厦B座6-办公01室。",
+    "source_url": "-",
+    "content": "工程监理；工程技术咨询；工程造价咨询；工程项目全过程项目管理与策划；招投标代理；工程勘察；工程试验检测；工程设计；市政公用工程施工；房屋建筑工程施工；公路工程施工；水利水电工程施工；装饰装修工程施工；物业服务；市政道路清扫保洁服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "5000000"
+  }
+}

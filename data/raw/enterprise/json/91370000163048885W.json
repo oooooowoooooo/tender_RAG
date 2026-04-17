@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91370000163048885W",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91370000163048885W",
+    "enterprise_name": "山东省路桥集团有限公司",
+    "legal_representative": "林存友",
+    "entity_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "established_date": "7/8/1984 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "6010000000",
+    "business_status": "开业",
+    "registered_address": "山东省济南市历下区经十路14677号",
+    "business_scope": "一般项目：建筑材料销售；金属材料销售；建筑用钢筋产品销售；汽车零配件零售；旧货销售；公路水运工程试验检测服务；对外承包工程；建筑工程用机械制造；建筑工程用机械销售；机械设备租赁；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；工程技术服务（规划管理、勘察、设计、监理除外）；水泥制品制造；水泥制品销售；砼结构构件制造；建筑装饰、水暖管道零件及其他建筑用金属制品制造；土石方工程施工；固体废物治理；土壤污染治理与修复服务；汽车零部件及配件制造；再生资源加工【分支机构经营】；环境保护专用设备制造；环境保护专用设备销售；金属结构制造；金属工具制造；货物进出口；树木种植经营；林业产品销售；电力设施器材销售；光伏设备及元器件销售；园林绿化工程施工；非居住房地产租赁；汽车销售。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）许可项目：特种设备设计；特种设备制造；特种设备安装改造修理；建设工程施工；建设工程设计；建设工程勘察；施工专业作业；非煤矿山矿产资源开采；道路货物运输（不含危险货物）。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023BFSGZ02424"
+    ],
+    "all_linked_project_ids": [
+      "2023BFSGZ02424"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "山东省路桥集团有限公司",
+    "business_status": "开业",
+    "legal_representative": "林存友",
+    "registered_capital": "6010000000",
+    "paid_in_capital": "6009999900",
+    "establishment_date": "7/8/1984 00:00:00",
+    "approval_date": "6/6/2024 00:00:00",
+    "business_term": "-",
+    "province": "山东省",
+    "city": "济南市",
+    "district": "历下区",
+    "phone": "18105393800",
+    "additional_phones": "13370521663,18753602770,18554006524,19853633538,17861858085",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91370000163048885W",
+    "taxpayer_identification_number": "91370000163048885W",
+    "business_registration_number": "370000018080452",
+    "organization_code": "16304888-5",
+    "insured_personnel_count": "3260",
+    "company_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "industry": "土木工程建筑业",
+    "former_name": "山东省交通工程总公司",
+    "registered_address": "山东省济南市历下区经十路14677号",
+    "latest_annual_report_address": "山东省济南市历下区经十路14677号",
+    "website": "sdluqiao.com",
+    "business_scope": "一般项目：建筑材料销售；金属材料销售；建筑用钢筋产品销售；汽车零配件零售；旧货销售；公路水运工程试验检测服务；对外承包工程；建筑工程用机械制造；建筑工程用机械销售；机械设备租赁；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；工程技术服务（规划管理、勘察、设计、监理除外）；水泥制品制造；水泥制品销售；砼结构构件制造；建筑装饰、水暖管道零件及其他建筑用金属制品制造；土石方工程施工；固体废物治理；土壤污染治理与修复服务；汽车零部件及配件制造；再生资源加工【分支机构经营】；环境保护专用设备制造；环境保护专用设备销售；金属结构制造；金属工具制造；货物进出口；树木种植经营；林业产品销售；电力设施器材销售；光伏设备及元器件销售；园林绿化工程施工；非居住房地产租赁；汽车销售。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）许可项目：特种设备设计；特种设备制造；特种设备安装改造修理；建设工程施工；建设工程设计；建设工程勘察；施工专业作业；非煤矿山矿产资源开采；道路货物运输（不含危险货物）。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9134010033684002XA",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9134010033684002XA",
+    "enterprise_name": "安徽国科检测科技有限公司",
+    "legal_representative": "徐非",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "2015-07-09",
+    "registration_authority": "",
+    "registered_capital": "3593.75万人民币",
+    "business_status": "存续",
+    "registered_address": "合肥市包河区延安路7号",
+    "business_scope": "检验检测科技领域内的技术研发、技术服务；食品、农产品检验检测；水质、环境检验检测；化妆品、药品、中药材、包装材料检验检测；日用品、消杀产品、一次性卫生用品、防护用品检验检测；医疗器械检验检测；医学、病理检验检测；农药、肥料、饲料、兽药检验检测；动物疾病诊断及检测服务；农药登记试验；兽药临床试验及安全性评价；计量检定校准；标准制定、认证服务；信用等级评价；企业及实验室管理咨询；科研检测服务；医疗项目投资；医疗、医药信息咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "http://www.guoketest.com",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 13,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023ACCFN00012",
+      "2023ADDFN00015",
+      "2023ADDFN00222",
+      "2023AEEFN00079",
+      "2023AEEFN00101",
+      "2023AJJFN00011",
+      "2023AMMFN00130",
+      "2023ANNFN00048",
+      "2023ANNFN00066",
+      "2023ANNFN00070",
+      "2023ASSFN00024",
+      "2023AYYFZ00016",
+      "2023BFAFZ01400"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "4411",
+    "title": "安徽国科检测科技有限公司",
+    "corporation": "徐非",
+    "amount_raw": "3593.75万人民币",
+    "event_time": "2015-07-09",
+    "manage_date": "2015-07-09 至 2045-07-08",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "科技推广和应用服务业",
+    "USCC": "9134010033684002XA",
+    "TIN": "9134010033684002XA",
+    "registed_num": "340100001303384",
+    "insured_persons": "236",
+    "location": "合肥市包河区延安路7号",
+    "source_url": "http://www.guoketest.com",
+    "content": "检验检测科技领域内的技术研发、技术服务；食品、农产品检验检测；水质、环境检验检测；化妆品、药品、中药材、包装材料检验检测；日用品、消杀产品、一次性卫生用品、防护用品检验检测；医疗器械检验检测；医学、病理检验检测；农药、肥料、饲料、兽药检验检测；动物疾病诊断及检测服务；农药登记试验；兽药临床试验及安全性评价；计量检定校准；标准制定、认证服务；信用等级评价；企业及实验室管理咨询；科研检测服务；医疗项目投资；医疗、医药信息咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "35937500"
+  }
+}

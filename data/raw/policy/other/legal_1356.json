@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "legal:1356",
+  "normalized_projection": {
+    "title": "财政部办公厅关于《中华人民共和国政府采购法实施条例》第十八条第二款法律适用的函",
+    "issuer": "全国法规整理",
+    "index_no": "未标注",
+    "subject_category": "政府采购",
+    "doc_no": "财办库[2015]295号",
+    "publish_date": "2015-07-09",
+    "validity_status": "active",
+    "policy_level": "national",
+    "source_url": "未标注",
+    "attachment_paths": [],
+    "keywords": [],
+    "effective_date": "",
+    "abolish_date": "",
+    "summary": ""
+  },
+  "raw_doc": {
+    "id": "legal:1356",
+    "title": "财政部办公厅关于《中华人民共和国政府采购法实施条例》第十八条第二款法律适用的函",
+    "content": "财政部办公厅关于《中华人民共和国政府采购法实施条例》第十八条第二款法律适用的函\n\n(2015年9月7日 财办库[2015]295号)\n\n深圳市财政委员会：\n你单位《关于咨询<政府采购法实施条例>第十八条第二款法律适用问题的函》（深财购函[2015]2282号）收悉。经研究，现函复如下：\n为促进政府采购公平竞争，加强采购项目的实施监管，《中华人民共和国政府采购法实施条例》第十八条规定，“除单一来源采购项目外，为采购项目提供整体设计、规范编制或者项目管理、监理、检测等服务的供应商，不得再参加该采购项目的其他采购活动。”其中，“其他采购活动”指为采购项目提供整体设计、规范编制和项目管理、监理、检测等服务之外的采购活动。因此，同一供应商可以同时承担项目的整体设计、规范编制和项目管理、监理、检测等服务。\n特此函复。",
+    "source": "全国法规整理",
+    "publish_time": "7-9-2015",
+    "url": "",
+    "category": "政府采购",
+    "project_type": "政府采购",
+    "region": "全国",
+    "region_level": "national",
+    "source_type": "curated_existing",
+    "corpus_tag": "national_baseline",
+    "word_count": "357"
+  },
+  "raw_meta": {
+    "id": "legal:1356",
+    "title": "财政部办公厅关于《中华人民共和国政府采购法实施条例》第十八条第二款法律适用的函",
+    "publish_date": "7-9-2015",
+    "source_url": "",
+    "document_url": "",
+    "region": "全国",
+    "region_level": "national",
+    "category": "政府采购",
+    "project_type": "政府采购",
+    "source_type": "curated_existing",
+    "source_name": "全国法规整理",
+    "word_count": "357",
+    "corpus_tag": "national_baseline",
+    "upstream_table": "legal_documents",
+    "created_at": "2026-04-14 13:47:23"
+  },
+  "raw_legal_doc": {
+    "id": "1356",
+    "title": "财政部办公厅关于《中华人民共和国政府采购法实施条例》第十八条第二款法律适用的函",
+    "publish_date": "7/9/2015",
+    "content": "### 财政部办公厅关于《中华人民共和国政府采购法实施条例》第十八条第二款法律适用的函\n\n(2015年9月7日 财办库[2015]295号)\n\n深圳市财政委员会：\n你单位《关于咨询<政府采购法实施条例>第十八条第二款法律适用问题的函》（深财购函[2015]2282号）收悉。经研究，现函复如下：\n为促进政府采购公平竞争，加强采购项目的实施监管，《中华人民共和国政府采购法实施条例》第十八条规定，“除单一来源采购项目外，为采购项目提供整体设计、规范编制或者项目管理、监理、检测等服务的供应商，不得再参加该采购项目的其他采购活动。”其中，“其他采购活动”指为采购项目提供整体设计、规范编制和项目管理、监理、检测等服务之外的采购活动。因此，同一供应商可以同时承担项目的整体设计、规范编制和项目管理、监理、检测等服务。\n特此函复。",
+    "status": "active",
+    "created_at": "19/10/2025 13:54:33",
+    "authority_level": "规范性文件",
+    "category": "政府采购"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100682053168F",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100682053168F",
+    "enterprise_name": "中筑科技股份有限公司",
+    "legal_representative": "王家燕",
+    "entity_type": "股份有限公司(非上市、自然人投资或控股)",
+    "established_date": "7/11/2008 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "50500000",
+    "business_status": "开业",
+    "registered_address": "合肥高新区梦园路8号信息安全研发楼209室",
+    "business_scope": "工程科技、绿色建筑、城市和乡镇建筑智慧改造、装配式建筑和装饰的研发、咨询、技术推广、技术成果转让；节能技术、减排技术、环保技术的研发、咨询、技术成果转让；机电、净化、暖通、环保、电力、电梯、消防、人防、市政、音视频、智能制造、智能安防设备销售及施工、研发、咨询、系统设计、维保；合同能源管理；新能源、新材料的研发、系统设计、技术成果转让。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 3,
+    "selected_project_ids": [
+      "2023ANNFN00504"
+    ],
+    "all_linked_project_ids": [
+      "2023AFWGZ01511",
+      "2023ANNFN00504"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "中筑科技股份有限公司",
+    "business_status": "开业",
+    "legal_representative": "王家燕",
+    "registered_capital": "50500000",
+    "paid_in_capital": "8000000",
+    "establishment_date": "7/11/2008 00:00:00",
+    "approval_date": "13/1/2022 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "18605512221",
+    "additional_phones": "0551-65765276,13966727383",
+    "email": "756055879@qq.com",
+    "additional_emails": "758819120@qq.com,493437339@qq.com,313789597@qq.com",
+    "unified_social_credit_code": "91340100682053168F",
+    "taxpayer_identification_number": "91340100682053168F",
+    "business_registration_number": "341100000042227",
+    "organization_code": "68205316-8",
+    "insured_personnel_count": "28",
+    "company_type": "股份有限公司(非上市、自然人投资或控股)",
+    "industry": "公共设施管理业",
+    "former_name": "中筑科技有限公司",
+    "registered_address": "合肥高新区梦园路8号信息安全研发楼209室",
+    "latest_annual_report_address": "合肥市高新区香樟大道311号蜀山名著综合楼",
+    "website": "-",
+    "business_scope": "工程科技、绿色建筑、城市和乡镇建筑智慧改造、装配式建筑和装饰的研发、咨询、技术推广、技术成果转让；节能技术、减排技术、环保技术的研发、咨询、技术成果转让；机电、净化、暖通、环保、电力、电梯、消防、人防、市政、音视频、智能制造、智能安防设备销售及施工、研发、咨询、系统设计、维保；合同能源管理；新能源、新材料的研发、系统设计、技术成果转让。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

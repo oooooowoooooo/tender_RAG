@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7047922",
+  "normalized_projection": {
+    "title": "关于印发《招标人主体责任履行指引》的通知",
+    "issuer": "国家发展改革委 工业和信息化部 住房城乡建设部 交通运输部 水利部 农业农村部 商务部 国务院国资委",
+    "index_no": "未标注",
+    "subject_category": "国民经济管理、国有资产监管\\其他",
+    "doc_no": "发改法规〔2025〕1358号",
+    "publish_date": "2025-11-12",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047922.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251112302845586709.pdf"
+    ],
+    "keywords": [
+      "国民经济管理",
+      "国有资产监管",
+      "其他"
+    ],
+    "effective_date": "2025-10-29",
+    "abolish_date": "",
+    "summary": "为贯彻落实《国务院办公厅关于创新完善体制机制推动招标投标市场规范健康发展的意见》（国办发〔2024〕21号），压实招标人主体责任，我们制定了《招标人主体责任履行指引》，现予印发，请结合实际抓好贯彻落实。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7047922",
+    "title": "关于印发《招标人主体责任履行指引》的通知",
+    "content": "国家发展改革委等部门关于印发《招标人主体责任履行指引》的通知\n发改法规〔2025〕1358号\n各省、自治区、直辖市、新疆生产建设兵团发展改革委、工业和信息化主管部门、住房城乡建设厅（委、局）、交通运输厅（局、委）、水利（水务）厅（局）、农业农村厅（局、委）、商务主管部门、国资委、招标投标指导协调部门、公共资源交易平台整合工作牵头部门，各省、自治区、直辖市通信管理局，各中央企业：\n为贯彻落实《国务院办公厅关于创新完善体制机制推动招标投标市场规范健康发展的意见》（国办发〔2024〕21号），压实招标人主体责任，我们制定了《招标人主体责任履行指引》，现予印发，请结合实际抓好贯彻落实。\n国家发展改革委\n工业和信息化部\n住房城乡建设部\n交通运输部\n水利部\n农业农村部\n商务部\n国务院国资委\n2025年10月29日\n附件：\n《招标人主体责任履行指引》.pdf\n《招标人主体责任履行指引》.ofd",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-11-12",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047922.htm",
+    "category": "国民经济管理、国有资产监管\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "395"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7047922",
+    "title": "关于印发《招标人主体责任履行指引》的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-11-12",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047922.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047922.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《招标人主体责任履行指引》的通知",
+      "发文机关": "国家发展改革委 工业和信息化部 住房城乡建设部 交通运输部 水利部 农业农村部 商务部 国务院国资委",
+      "发文字号": "发改法规〔2025〕1358号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "国民经济管理、国有资产监管\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年10月29日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251112302845586709.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7047922.html"
+  },
+  "raw_legal_doc": {}
+}

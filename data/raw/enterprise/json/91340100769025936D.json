@@ -1,0 +1,66 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100769025936D",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100769025936D",
+    "enterprise_name": "安徽省汉帮家具制造有限公司",
+    "legal_representative": "秦卫兵",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "2004-12-09",
+    "registration_authority": "",
+    "registered_capital": "10009万人民币",
+    "business_status": "存续",
+    "registered_address": "安徽省合肥市庐阳区耀远路372号5幢103-503",
+    "business_scope": "办公家具、智能家具、实木家具、钢木家具、幼儿家具、定制家具，酒店、会所、公寓、银行、医用、养老院、课桌椅、学生宿舍家具，剧院、公用场所家具以及橱柜、衣帽间、木门、木地板、装饰板的设计研发、制造、运输安装销售及售后；室内外装潢、广告、整体软装配套工程设计及施工；卫浴、建材、厨房设备、办公设备、办公用品、办公耗材、体育器材的销售和售后；电子产品、音视频、教学仪器设备、音体美相关教育装备器材、实验室设备、计算机系统集成相关设计、安装销售及售后。货物或技术进出口业务（国家禁止或涉及行政审批的货物和技术进出口除外）（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "http://www.ahhanbang.com",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 8,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023ACCHZ00346",
+      "2023AEEHN00383",
+      "2023BFAHZ01418",
+      "2023BFAHZ02277",
+      "2023BFFHZ01592",
+      "2023BFFHZ01826",
+      "2023BFFHZ01957",
+      "2023BFFHZ02064"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "1284",
+    "title": "安徽省汉帮家具制造有限公司",
+    "corporation": "秦卫兵",
+    "amount_raw": "10009万人民币",
+    "event_time": "2004-12-09",
+    "manage_date": "2004-12-09 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐阳区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "家具制造业",
+    "USCC": "91340100769025936D",
+    "TIN": "91340100769025936D",
+    "registed_num": "341122000000871",
+    "insured_persons": "32",
+    "location": "安徽省合肥市庐阳区耀远路372号5幢103-503",
+    "source_url": "http://www.ahhanbang.com",
+    "content": "办公家具、智能家具、实木家具、钢木家具、幼儿家具、定制家具，酒店、会所、公寓、银行、医用、养老院、课桌椅、学生宿舍家具，剧院、公用场所家具以及橱柜、衣帽间、木门、木地板、装饰板的设计研发、制造、运输安装销售及售后；室内外装潢、广告、整体软装配套工程设计及施工；卫浴、建材、厨房设备、办公设备、办公用品、办公耗材、体育器材的销售和售后；电子产品、音视频、教学仪器设备、音体美相关教育装备器材、实验室设备、计算机系统集成相关设计、安装销售及售后。货物或技术进出口业务（国家禁止或涉及行政审批的货物和技术进出口除外）（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "100090000"
+  }
+}

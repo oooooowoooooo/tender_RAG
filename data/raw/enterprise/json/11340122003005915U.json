@@ -1,0 +1,76 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "11340122003005915U",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "11340122003005915U",
+    "enterprise_name": "肥东县自然资源和规划局",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥东县店埠镇站北路1号",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 34,
+    "selected_project_ids": [
+      "2023ADDFN00335"
+    ],
+    "all_linked_project_ids": [
+      "2023ADDFD00253",
+      "2023ADDFN00001",
+      "2023ADDFN00036",
+      "2023ADDFN00055",
+      "2023ADDFN00291",
+      "2023ADDFN00301",
+      "2023ADDFN00335",
+      "2023ADDFY00297",
+      "2023ADDFZ00056"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "肥东县自然资源和规划局",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥东县",
+    "phone": "0551-62551617",
+    "additional_phones": "0551-62551600,17333086450,0551-62551662,15922437396,0551-62551693",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "11340122003005915U",
+    "taxpayer_identification_number": "11340122003005915U",
+    "business_registration_number": "-",
+    "organization_code": "00300591-5",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市肥东县店埠镇站北路1号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

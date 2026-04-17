@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7032817",
+  "normalized_projection": {
+    "title": "住房城乡建设部办公厅关于印发《高海拔地区“五小”设施建设技术指南》的通知",
+    "issuer": "住房城乡建设部办公厅",
+    "index_no": "未标注",
+    "subject_category": "城乡建设、环境保护\\城市规划",
+    "doc_no": "建办标函〔2025〕159号",
+    "publish_date": "2025-07-20",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7032817.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250720566874027112.pdf"
+    ],
+    "keywords": [
+      "城乡建设",
+      "环境保护",
+      "城市规划"
+    ],
+    "effective_date": "2025-06-20",
+    "abolish_date": "",
+    "summary": "经多年建设，当前高海拔地区基层已普遍建成办公楼和周转房，有效保障了办公和住房需求。但“五小”设施等生活配套设施仍需进一步完善。为切实解决此问题，经深入调查与研究，住房城乡建设部办公厅编制《高海拔地区“五小”设施建设技术指南》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7032817",
+    "title": "住房城乡建设部办公厅关于印发《高海拔地区“五小”设施建设技术指南》的通知",
+    "content": "住房城乡建设部办公厅关于印发《高海拔地区“五小”设施建设技术指南》的通知\n建办标函〔2025〕159号\n四川省、云南省、西藏自治区、甘肃省、青海省、新疆维吾尔自治区住房城乡建设厅，新疆生产建设兵团住房城乡建设局：\n现将《高海拔地区“五小”设施建设技术指南》印发给你们，请结合本地区实际情况参考使用。\n住房城乡建设部办公厅\n2025年6月20日\n（此件主动公开）\n附件：高海拔地区“五小”设施建设技术指南",
+    "source": "住房城乡建设部网站",
+    "publish_time": "2025-07-20",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7032817.htm",
+    "category": "城乡建设、环境保护\\城市规划",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "201"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7032817",
+    "title": "住房城乡建设部办公厅关于印发《高海拔地区“五小”设施建设技术指南》的通知",
+    "source_name": "住房城乡建设部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-07-20",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7032817.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7032817.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "住房城乡建设部办公厅关于印发《高海拔地区“五小”设施建设技术指南》的通知",
+      "发文机关": "住房城乡建设部办公厅",
+      "发文字号": "建办标函〔2025〕159号",
+      "来源": "住房城乡建设部网站",
+      "主题分类": "城乡建设、环境保护\\城市规划",
+      "公文种类": "通知",
+      "成文日期": "2025年06月20日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250720566874027112.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7032817.html"
+  },
+  "raw_legal_doc": {}
+}

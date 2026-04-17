@@ -1,0 +1,71 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340000772847607G",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340000772847607G",
+    "enterprise_name": "安徽盐业地产集团有限责任公司",
+    "legal_representative": "王成民",
+    "entity_type": "其他有限责任公司",
+    "established_date": "10/5/2005 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "1000000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市包河区华山路808号",
+    "business_scope": "房地产开发，建筑装饰材料销售及咨询，不动产经营租赁，代收水电费。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 3,
+    "selected_project_ids": [
+      "2023DFWBZ02694",
+      "2023DFWGZ02671"
+    ],
+    "all_linked_project_ids": [
+      "2023DFWBZ02694",
+      "2023DFWGZ02323",
+      "2023DFWGZ02671"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽盐业地产集团有限责任公司",
+    "business_status": "开业",
+    "legal_representative": "王成民",
+    "registered_capital": "1000000000",
+    "paid_in_capital": "515464000",
+    "establishment_date": "10/5/2005 00:00:00",
+    "approval_date": "4/7/2024 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "phone": "18356956344",
+    "additional_phones": "0557-6229999,0564-7255019,0551-65281702,0557-7560666,0550-2163968",
+    "email": "fangdc_office@126.com",
+    "additional_emails": "fangdc@saltah.com",
+    "unified_social_credit_code": "91340000772847607G",
+    "taxpayer_identification_number": "91340000772847607G",
+    "business_registration_number": "340000000003935",
+    "organization_code": "77284760-7",
+    "insured_personnel_count": "77",
+    "company_type": "其他有限责任公司",
+    "industry": "房地产业",
+    "former_name": "安徽盐业房地产开发有限公司",
+    "registered_address": "安徽省合肥市包河区华山路808号",
+    "latest_annual_report_address": "安徽省合肥市包河区华山路808号",
+    "website": "www.ahyydc.com",
+    "business_scope": "房地产开发，建筑装饰材料销售及咨询，不动产经营租赁，代收水电费。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

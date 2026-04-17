@@ -1,0 +1,71 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "11340124003271711F",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "11340124003271711F",
+    "enterprise_name": "庐江县农业农村局",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "庐江县庐城镇庐巢路41号",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 20,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023ANNFN00109",
+      "2023ANNFN00310",
+      "2023ANNFN00312",
+      "2023ANNFN00353",
+      "2023ANNHJ00420",
+      "2023ANNHZ00075"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "庐江县农业农村局",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐江县",
+    "phone": "13865800219",
+    "additional_phones": "15856951425,19855950781,0551-87334489,0551-87323014,0565-7330778",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "11340124003271711F",
+    "taxpayer_identification_number": "11340124003271711F",
+    "business_registration_number": "-",
+    "organization_code": "00327171-1",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "庐江县庐城镇庐巢路41号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023ASSFN00207",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "中标"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023ASSFN00207",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "中标"
+    ],
+    "publish_time": "2023-11-27 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 蜀山"
+    ],
+    "tenderer_or_purchaser": [
+      "合肥市蜀山区教育体育局"
+    ],
+    "agency": [
+      "合肥蜀山公共资源交易项目管理有限公司"
+    ],
+    "budget_or_bid_amount": [
+      "1950000.0",
+      "1673104.0999999999"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231127/883e0598-4b89-40a6-90f1-25e891c8a96f.html?ztbtab=002002004&biaoduanguid=9bd9aa29-02d6-4df8-aa9c-18fb8e644d0c",
+    "attachment_paths": [],
+    "candidate_company_names": [
+      "安徽联众印刷有限公司"
+    ],
+    "winner_company_name": [
+      "安徽联众印刷有限公司"
+    ],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:474",
+      "project_id": "2023ASSFN00207",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231127/883e0598-4b89-40a6-90f1-25e891c8a96f.html?ztbtab=002002004&biaoduanguid=9bd9aa29-02d6-4df8-aa9c-18fb8e644d0c",
+      "type": "政府采购",
+      "stage": "中标",
+      "event_time": "2023-11-27",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "蜀山",
+      "category": "学校",
+      "sub_category": "货物",
+      "budget_amount": "1950000.0",
+      "purchaser": "合肥市蜀山区教育体育局",
+      "agency": "合肥蜀山公共资源交易项目管理有限公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "安徽联众印刷有限公司",
+      "bid_amount": "1673104.0999999999",
+      "bid_date": "2023-12-08",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"2024年蜀山区中小学作业本印刷成交结果公告\", \"content\": \"\n\n2024年蜀山区中小学作业本印刷成交结果公告\n\n一、项目编号:\n2023ASSFN00207\n\n二、项目名称:\n2024年蜀山区中小学作业本印刷\n\n三、中标（成交）信息\n\n供应商名称：安徽联众印刷有限公司\n\n供应商地址：安徽省合肥市庐阳区天水路7号\n\n成交金额：人民币壹佰陆拾柒万叁仟壹佰零肆元壹角(￥1673104.10元)\n\n四、主要标的信息\n\n服务类\n\n名称：\n\n2024年蜀山区中小学作业本印刷\n\n服务范围\n：\n\n2024 年度蜀山区中小学约需印刷作业本 3318862 本，其中，中学约需印刷作业本 1055414 本，小学约需印刷作业本 2263448 本。\n\n服务要求\n：\n\n完全响应招标文件各项要求，产品纸张、质量符合招标文件要求，符合国家及行业标准；\n服务符合项目招标文件要求。\n\n服务时间\n：\n\n合同签订后\n\n1 年。服务期满后，如成交供应商履约 良好，采购人在年度预算能保障的前\n提下，经双方同意，可续签下一年度合同（续签不得超过\n\n2 次，合同一年一签，成交价格\n不变）\n\n服务标准：\n\n1.作业本内页采用 70 克本白双胶纸 (白度 80，白度正负不超过 3) ，并保证作业本的纸张\n\n质量，钢笔、水笔书写正反面不受影响\n\n,签订合同时成交单位须携带一套样本 (该次印刷\n所有品种\n\n) ，加盖供应商公章并装订成册；成交供应商样品由采购人封存。\n\n2.供应商生产结束后，在规定时间内（2024 年春季学期作业本在开学前 5 日、秋季学期\n作业本在秋季开学前\n\n5 日），按蜀山区教体局提供的各校配备数量分校区、分年级配送至\n学校指定地点。\n\n3.本次作业本采购 2024 年度两个学期。配送期发现作业本质量不合格的，经第三方鉴定\n确认，采购方可立即终止合同。其中，配送期提供的作业本质量达不到国家相应标准或与\n提供的样本质量存在较大差距的，视为配送质量不合格。\n\n4.作业本封面封底按蜀山区教体局要求设计。\n\n5.作业本封面封底，蜀山区教体局拥有专属权作业本成交供应商不得对外销售。\n\n6.样本经蜀山区教体局审定后印刷。\n\n五、评审专家（单一来源采购人员）名单\n\n邱丽梅,俞放,赵安,徐菽,丁能波\n\n六、代理服务收费标准及金额\n\n1.代理服务收费标准：执行采购文件中约定的收费标准。\n2.金额：人民币贰万零叁佰捌拾肆元捌角叁分（￥20384.83）。\n\n七、公告期限\n\n自本公告发布之日起1个工作日。\n\n八、其他补充事宜\n\n若供应商对上述结果有异议，可在成交结果公告发布之日起七个工作日内通过安徽合肥公共资源交易电子交易系统或书面形式在工作时间（上午\n8:00-12:00，下午14:30-17:30，节假日休息）向合肥蜀山公共资源交易项目管理有限公司提出质疑，质疑材料递交地址：合肥市蜀山区井岗路1100号蜀山区人民检察院北楼（井岗路与万泽路交口向西100米）二楼，联系电话：0551-65737248。\n\n若供应商对质疑处理意见有异议，可在规定时间内通过网上投诉系统或书面形式向合肥市蜀山区招标投标监督管理局提出投诉，联系电话：\n0551-65737234。\n\n根据《中华人民共和国政府采购法》《中华人民共和国政府采购法实施条例》《安徽省政府采购供应商质疑处理办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n\n（一）质疑应以书面形式实名提出，书面质疑材料应当包括以下内容：\n\n1、质疑人的名称、地址、邮编、联系人及联系电话；\n\n2、质疑项目的名称、编号、包别号（如有）；\n\n3、被质疑人名称；\n\n4、具体的质疑事项、基本事实及必要的证明材料；\n\n5、明确的请求及主张；\n\n6、必要的法律依据；\n\n7、提起质疑的日期。\n\n质疑人为自然人的，应当由本人签字；质疑人为法人或者其他组织的，应当由法定代表人、主要负责人，或者其授权代表签字或者盖章，并加盖公章。\n\n（二）有下列情形之一的，不予受理：\n\n1、提起质疑的主体不是参与该政府采购项目活动的供应商；\n\n2、提起质疑的时间超过规定时限的；\n\n3、质疑材料不完整的；\n\n4、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n\n5、对其他供应商的投标文件详细内容质疑，无法提供合法来源渠道的；\n\n6、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n\n2024年蜀山区中小学作业本印刷\n成交通知书已发出，请成交供应商登录电子交易系统自行下载领取电子成交通知书。\n\n九、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：合肥市蜀山区教育体育局\n\n地址：合肥市蜀山区樊洼路与怀宁北路路口西南角蜀山区民生大厦20楼\n\n联系方式：0551-65597671\n\n2.采购代理机构信息\n\n名称：合肥蜀山公共资源交易项目管理有限公司\n\n地址：合肥市蜀山区井岗路1100号蜀山区人民检察院北楼（井岗路与万泽路交口向西100米）一楼\n\n联系方式：0551-65597407\n\n3.项目联系方式\n\n项目联系人：金工\n\n电话：0551-65597407\n\n\", \"attachments\": [{\"file_name\": \"无重大.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=569f4a3d-c6d3-4018-a149-e353e7b6bd7d&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"磋商业绩.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=85348966-b432-482e-98dd-edadf0547c11&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"中小企业声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=883bf8e9-626c-4e51-9c8f-bbd38319dd24&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"主要标的.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=c73ad38d-b03d-41d9-8086-7093b9ebde9c&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=ef302026-de47-4dc6-9bb5-f96a3bd2a1f3&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"安徽合肥公共资源交易中心网上投诉操作手册-投标人.docx\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=f1d4e7c2-e782-493e-b4d7-d91a394314f1&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "3653",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

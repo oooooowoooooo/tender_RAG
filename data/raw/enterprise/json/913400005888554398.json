@@ -1,0 +1,63 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913400005888554398",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913400005888554398",
+    "enterprise_name": "国药集团安徽省医疗器械有限公司",
+    "legal_representative": "刘彤",
+    "entity_type": "其他有限责任公司",
+    "established_date": "2011-12-20",
+    "registration_authority": "",
+    "registered_capital": "7000万人民币",
+    "business_status": "存续",
+    "registered_address": "安徽省合肥市高新区香樟大道211号香枫创意园C座19楼",
+    "business_scope": "医疗器械研发与销售，消毒液、洗手液、保健用品、办公用品销售，计算机软硬件、日用百货销售，医疗器械、仪器仪表的技术服务与维修，医疗器械及设备的租赁、维修、保养服务，食品销售，信息咨询，汽车新车销售，为其他医疗器械生产、经营企业提供贮存、配送服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [
+      "2023BFFHZ02585"
+    ],
+    "all_linked_project_ids": [
+      "2022ANNHJ00449",
+      "2023BFFHZ01945",
+      "2023BFFHZ02585"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "3349",
+    "title": "国药集团安徽省医疗器械有限公司",
+    "corporation": "刘彤",
+    "amount_raw": "7000万人民币",
+    "event_time": "2011-12-20",
+    "manage_date": "2011-12-20 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "合肥新站高新技术产业开发区",
+    "type": "其他有限责任公司",
+    "industry": "批发业",
+    "USCC": "913400005888554398",
+    "TIN": "913400005888554398",
+    "registed_num": "340000000054105",
+    "insured_persons": "90",
+    "location": "安徽省合肥市高新区香樟大道211号香枫创意园C座19楼",
+    "source_url": "-",
+    "content": "医疗器械研发与销售，消毒液、洗手液、保健用品、办公用品销售，计算机软硬件、日用百货销售，医疗器械、仪器仪表的技术服务与维修，医疗器械及设备的租赁、维修、保养服务，食品销售，信息咨询，汽车新车销售，为其他医疗器械生产、经营企业提供贮存、配送服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "70000000"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7019915",
+  "normalized_projection": {
+    "title": "商务部印发《关于加快推进服务业扩大开放综合试点工作方案》的通知",
+    "issuer": "商务部",
+    "index_no": "未标注",
+    "subject_category": "商贸、海关、旅游\\其他",
+    "doc_no": "商资函〔2025〕84号",
+    "publish_date": "2025-04-18",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7019915.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250418818459102725.pdf"
+    ],
+    "keywords": [
+      "商贸",
+      "海关",
+      "旅游",
+      "其他"
+    ],
+    "effective_date": "2025-04-11",
+    "abolish_date": "",
+    "summary": "商务部印发《关于加快推进服务业扩大开放综合试点工作方案》的通知\n商资函〔2025〕84号\n中央组织部、中央宣传部、中央网信办、中央台办、中央港澳办、中央空管办，北京市、天津市、辽宁省、上海市、江苏省、浙江省、安徽省、福建省、山东省、湖北省、广东省、海南省、重庆市、四川省、陕西省人民政府，外交部、国家发展改革委、教育部、科技部、工业和信息化部、公安部、国家安全部、民政部、司法部、财政部、人力资源社会保障部、自然资源部、生态环境部、住房城乡建设部、交通运输部、农业农村部、文化和旅"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7019915",
+    "title": "商务部印发《关于加快推进服务业扩大开放综合试点工作方案》的通知",
+    "content": "商务部印发《关于加快推进服务业扩大开放综合试点工作方案》的通知\n商资函〔2025〕84号\n中央组织部、中央宣传部、中央网信办、中央台办、中央港澳办、中央空管办，北京市、天津市、辽宁省、上海市、江苏省、浙江省、安徽省、福建省、山东省、湖北省、广东省、海南省、重庆市、四川省、陕西省人民政府，外交部、国家发展改革委、教育部、科技部、工业和信息化部、公安部、国家安全部、民政部、司法部、财政部、人力资源社会保障部、自然资源部、生态环境部、住房城乡建设部、交通运输部、农业农村部、文化和旅游部、国家卫生健康委、中国人民银行、海关总署、税务总局、市场监管总局、金融监管总局、中国证监会、广电总局、国家统计局、国家知识产权局、国家医保局、中国气象局、国家能源局、国家数据局、国家国防科工局、国家移民局、国家铁路局、中国民航局、国家文物局、国家中医药局、国家外汇局、国家药监局、国家密码局，最高人民法院： \n商务部会同相关部门制定了《关于加快推进服务业扩大开放综合试点工作方案》，已经国务院同意，现印发给你们，请遵照执行。\n附件：加快推进服务业扩大开放综合试点工作方案\n\n商务部\n2025年4月11日",
+    "source": "商务部网站",
+    "publish_time": "2025-04-18",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7019915.htm",
+    "category": "商贸、海关、旅游\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "493"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7019915",
+    "title": "商务部印发《关于加快推进服务业扩大开放综合试点工作方案》的通知",
+    "source_name": "商务部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-04-18",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7019915.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7019915.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "商务部印发《关于加快推进服务业扩大开放综合试点工作方案》的通知",
+      "发文机关": "商务部",
+      "发文字号": "商资函〔2025〕84号",
+      "来源": "商务部网站",
+      "主题分类": "商贸、海关、旅游\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年04月11日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250418818459102725.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7019915.html"
+  },
+  "raw_legal_doc": {}
+}

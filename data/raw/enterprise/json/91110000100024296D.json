@@ -1,0 +1,72 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91110000100024296D",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91110000100024296D",
+    "enterprise_name": "中国建筑第二工程局有限公司",
+    "legal_representative": "石雨",
+    "entity_type": "有限责任公司(法人独资)",
+    "established_date": "9/12/1980 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "10000000000",
+    "business_status": "开业",
+    "registered_address": "北京市通州区梨园镇北杨洼251号",
+    "business_scope": "土木工程建设；核电站工程建筑；装饰工程的设计、施工、科研、咨询；线路、管道、设备的安装；混凝土预制构件及成品的制作；钢结构、网架工程的制作与安装；地基与基础工程施工；建设项目中预应力专项工程的施工；公路施工；各类工业、能源、交通、民用等工程建设项目的设计及施工总承包；建筑机械、钢模板机具的设计、加工、销售、租赁；工业筑炉；建筑材料的销售；自有房屋租赁；信息咨询服务；货物进出口；技术进出口；代理进出口；城市园林绿化工程。（市场主体依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 7,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023AFEGZ01334",
+      "2023AFEGZ01562",
+      "2023AFEGZ01812",
+      "2023AFEGZ01985",
+      "2023BFCGZ01960",
+      "2023BFJGZ01058",
+      "2023BFSGZ02081"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "中国建筑第二工程局有限公司",
+    "business_status": "开业",
+    "legal_representative": "石雨",
+    "registered_capital": "10000000000",
+    "paid_in_capital": "10000000000",
+    "establishment_date": "9/12/1980 00:00:00",
+    "approval_date": "21/3/2023 00:00:00",
+    "business_term": "-",
+    "province": "北京市",
+    "city": "市辖区",
+    "district": "通州区",
+    "phone": "13857888491",
+    "additional_phones": "13528738036,010-51579655,0532-85916333,13823642450,15943039262",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91110000100024296D",
+    "taxpayer_identification_number": "91110000100024296D",
+    "business_registration_number": "100000000024299",
+    "organization_code": "10002429-6",
+    "insured_personnel_count": "15215",
+    "company_type": "有限责任公司(法人独资)",
+    "industry": "房屋建筑业",
+    "former_name": "-",
+    "registered_address": "北京市通州区梨园镇北杨洼251号",
+    "latest_annual_report_address": "北京市丰台区汽车博物馆东路6号院E座",
+    "website": "2bur.cscec.com",
+    "business_scope": "土木工程建设；核电站工程建筑；装饰工程的设计、施工、科研、咨询；线路、管道、设备的安装；混凝土预制构件及成品的制作；钢结构、网架工程的制作与安装；地基与基础工程施工；建设项目中预应力专项工程的施工；公路施工；各类工业、能源、交通、民用等工程建设项目的设计及施工总承包；建筑机械、钢模板机具的设计、加工、销售、租赁；工业筑炉；建筑材料的销售；自有房屋租赁；信息咨询服务；货物进出口；技术进出口；代理进出口；城市园林绿化工程。（市场主体依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "match_status": "成功"
+  }
+}

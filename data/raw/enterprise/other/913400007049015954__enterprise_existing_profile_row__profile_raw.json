@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "913400007049015954",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "安徽民航机场集团有限公司",
+  "raw_profile": {
+    "record_id": "1351",
+    "title": "安徽民航机场集团有限公司",
+    "corporation": "周晞桥",
+    "amount_raw": "554100万人民币",
+    "event_time": "2005-06-07",
+    "manage_date": "2005-06-07 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "-",
+    "type": "其他有限责任公司",
+    "industry": "航空运输业",
+    "USCC": "913400007049015954",
+    "TIN": "913400007049015954",
+    "registed_num": "340000000029715",
+    "insured_persons": "132",
+    "location": "安徽省合肥新桥国际机场",
+    "source_url": "http://anhuiairport.com",
+    "content": "机场经营管理，航空业务保障，航空信息咨询及航空运输业务延伸服务，停车服务，物业管理，仓储服务（不含危险化学品），保洁服务，饮食及食品加工，园林绿化，日用百货、日用杂品、针纺织品、服装、五金交电、装饰材料、旅游工艺品、干鲜果品、酒类销售，设计、制作、发布各类广告业务，住宿、餐饮服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "5541000000"
+  }
+}

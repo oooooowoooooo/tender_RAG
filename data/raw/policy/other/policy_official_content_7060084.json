@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7060084",
+  "normalized_projection": {
+    "title": "自然资源部关于印发《城镇开发边界管理办法（试行）》的通知",
+    "issuer": "自然资源部",
+    "index_no": "未标注",
+    "subject_category": "国土资源、能源\\其他",
+    "doc_no": "自然资规〔2026〕1号",
+    "publish_date": "2026-02-28",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7060084.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260228766840554845.doc"
+    ],
+    "keywords": [
+      "国土资源",
+      "能源",
+      "其他"
+    ],
+    "effective_date": "2026-02-11",
+    "abolish_date": "",
+    "summary": "《城镇开发边界管理办法（试行）》已经部审议通过，现印发执行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7060084",
+    "title": "自然资源部关于印发《城镇开发边界管理办法（试行）》的通知",
+    "content": "自然资源部关于印发《城镇开发边界管理办法（试行）》的通知\n自然资规〔2026〕1号\n各省、自治区、直辖市自然资源主管部门，新疆生产建设兵团自然资源局，上海市海洋局、浙江省海洋经济发展厅、福建省海洋与渔业局、山东省海洋局、广西壮族自治区海洋局、海南省海洋厅，各派出机构，部机关各司局：\n《城镇开发边界管理办法（试行）》已经部审议通过，现印发执行。\n自然资源部\n2026年2月11日\n附件  :\n城镇开发边界管理办法（试行）",
+    "source": "自然资源部网站",
+    "publish_time": "2026-02-28",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7060084.htm",
+    "category": "国土资源、能源\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "210"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7060084",
+    "title": "自然资源部关于印发《城镇开发边界管理办法（试行）》的通知",
+    "source_name": "自然资源部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-02-28",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7060084.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7060084.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "自然资源部关于印发《城镇开发边界管理办法（试行）》的通知",
+      "发文机关": "自然资源部",
+      "发文字号": "自然资规〔2026〕1号",
+      "来源": "自然资源部网站",
+      "主题分类": "国土资源、能源\\其他",
+      "公文种类": "通知",
+      "成文日期": "2026年02月11日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260228766840554845.doc"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7060084.html"
+  },
+  "raw_legal_doc": {}
+}

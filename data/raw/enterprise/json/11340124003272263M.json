@@ -1,0 +1,73 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "11340124003272263M",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "11340124003272263M",
+    "enterprise_name": "庐江县乐桥镇人民政府",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "3/9/2018 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "庐江县乐桥镇政务新区",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 165,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022ANNZN00431",
+      "2023ANNFN00397",
+      "2023ANNGZ00447",
+      "2023ANNGZ00498",
+      "2023ANNHZ00379",
+      "2023ANNZN00021",
+      "2023ANNZN00026"
+    ],
+    "roles": [
+      "agency",
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "庐江县乐桥镇人民政府",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "3/9/2018 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐江县",
+    "phone": "18326898095",
+    "additional_phones": "13865924787,18305628850,0551-87765128,13865211299,13865280792",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "11340124003272263M",
+    "taxpayer_identification_number": "11340124003272263M",
+    "business_registration_number": "-",
+    "organization_code": "00327226-3",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "庐江县乐桥镇政务新区",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

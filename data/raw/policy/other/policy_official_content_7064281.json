@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7064281",
+  "normalized_projection": {
+    "title": "工业和信息化部等九部门关于印发《推动物联网产业创新发展行动方案（2026—2028年）》的通知",
+    "issuer": "工业和信息化部 中央网信办 国家发展改革委 教育部 生态环境部 住房城乡建设部 国家卫生健康委 市场监管总局 国家数据局",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\其他",
+    "doc_no": "工信部联科〔2026〕65号",
+    "publish_date": "2026-03-31",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202603/content_7064281.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202603/P020260331562733723674.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "其他"
+    ],
+    "effective_date": "2026-03-16",
+    "abolish_date": "",
+    "summary": "现将《推动物联网产业创新发展行动方案（2026—2028年）》​印发给你们，请结合实际认真抓好落实。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7064281",
+    "title": "工业和信息化部等九部门关于印发《推动物联网产业创新发展行动方案（2026—2028年）》的通知",
+    "content": "工业和信息化部等九部门关于印发《推动物联网产业创新发展行动方案（2026—2028年）》的通知\n工信部联科〔2026〕65号\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化主管部门、党委网信办、发展改革委、教育厅（教委）、生态环境厅（局）、住房城乡建设厅（委、管委、局）、卫生健康委、市场监管局（厅、委）、数据管理部门，各有关单位：\n现将《推动物联网产业创新发展行动方案（2026—2028年）》印发给你们，请结合实际认真抓好落实。\n工业和信息化部\n中央网信办\n国家发展改革委\n教育部\n生态环境部\n住房城乡建设部\n国家卫生健康委\n市场监管总局\n国家数据局\n2026年3月16日",
+    "source": "工业和信息化部网站",
+    "publish_time": "2026-03-31",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202603/content_7064281.htm",
+    "category": "工业、交通\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "296"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7064281",
+    "title": "工业和信息化部等九部门关于印发《推动物联网产业创新发展行动方案（2026—2028年）》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-03-31",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202603/content_7064281.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202603/content_7064281.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "工业和信息化部等九部门关于印发《推动物联网产业创新发展行动方案（2026—2028年）》的通知",
+      "发文机关": "工业和信息化部 中央网信办 国家发展改革委 教育部 生态环境部 住房城乡建设部 国家卫生健康委 市场监管总局 国家数据局",
+      "发文字号": "工信部联科〔2026〕65号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\其他",
+      "公文种类": "通知",
+      "成文日期": "2026年03月16日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202603/P020260331562733723674.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7064281.html"
+  },
+  "raw_legal_doc": {}
+}

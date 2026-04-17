@@ -1,0 +1,65 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7050374",
+  "normalized_projection": {
+    "title": "中国民用航空局关于印发推动“人工智能+民航”高质量发展实施意见的通知",
+    "issuer": "中国民航局",
+    "index_no": "未标注",
+    "subject_category": "其他",
+    "doc_no": "民航发〔2025〕24号",
+    "publish_date": "2025-12-05",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7050374.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251205489409897554.pdf"
+    ],
+    "keywords": [
+      "其他"
+    ],
+    "effective_date": "2025-11-19",
+    "abolish_date": "",
+    "summary": "为深入贯彻落实党中央、国务院关于发展人工智能的决策部\n署，落实 《国务院关于深入实施 “人工智能+”行动的意见》和\n《关于 “人工智能+交通运输”的实施意见》，加快推动人工智能\n在民航领域广泛深度融合创新，促进行业高质量发展，提出本实\n施意见。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7050374",
+    "title": "中国民用航空局关于印发推动“人工智能+民航”高质量发展实施意见的通知",
+    "content": "中国民用航空局关于印发推动“人工智能+民航”高质量发展实施意见的通知\n民航发〔2025〕24号\n民航各地区管理局，各运输（通用）航空公司、运输（通用）机场公司、服务保障公司，局属各单位，局机关各部门：\n现将《关于推动“人工智能+民航”高质量发展的实施意见》印发，请结合实际认真贯彻落实。\n中国民用航空局\n2025年11月19日\n附件：\n中国民用航空局关于印发推动“人工智能+民航”高质量发展实施意见的通知",
+    "source": "中国民航局网站",
+    "publish_time": "2025-12-05",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7050374.htm",
+    "category": "其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "202"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7050374",
+    "title": "中国民用航空局关于印发推动“人工智能+民航”高质量发展实施意见的通知",
+    "source_name": "中国民航局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-12-05",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7050374.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7050374.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "中国民用航空局关于印发推动“人工智能+民航”高质量发展实施意见的通知",
+      "发文机关": "中国民航局",
+      "发文字号": "民航发〔2025〕24号",
+      "来源": "中国民航局网站",
+      "主题分类": "其他",
+      "公文种类": "通知",
+      "成文日期": "2025年11月19日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251205489409897554.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7050374.html"
+  },
+  "raw_legal_doc": {}
+}

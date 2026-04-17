@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7015292",
+  "normalized_projection": {
+    "title": "国家认监委关于发布产品碳足迹标识认证通用实施规则（试行）的公告",
+    "issuer": "国家认监委",
+    "index_no": "未标注",
+    "subject_category": "国土资源、能源\\其他",
+    "doc_no": "国家认证认可监督管理委员会公告2025年第8号",
+    "publish_date": "2025-03-24",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015292.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250324395328984477.pdf"
+    ],
+    "keywords": [
+      "国土资源",
+      "能源",
+      "其他"
+    ],
+    "effective_date": "2025-03-17",
+    "abolish_date": "",
+    "summary": "根据《市场监管总局等部门关于开展产品碳足迹标识认证试点工作的通知》（国市监认证发〔2024〕85号），现发布产品碳足迹标识认证通用实施规则（试行），自发布之日起实施。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7015292",
+    "title": "国家认监委关于发布产品碳足迹标识认证通用实施规则（试行）的公告",
+    "content": "国家认监委关于发布产品碳足迹标识认证通用实施规则（试行）的公告\n国家认证认可监督管理委员会公告2025年第8号\n根据《市场监管总局等部门关于开展产品碳足迹标识认证试点工作的通知》（国市监认证发〔2024〕85号），现发布产品碳足迹标识认证通用实施规则（试行），自发布之日起实施。\n国家认监委\n2025年3月17日\n附件：产品碳足迹标识认证通用实施规则（试行）",
+    "source": "国家认监委网站",
+    "publish_time": "2025-03-24",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015292.htm",
+    "category": "国土资源、能源\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "179"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7015292",
+    "title": "国家认监委关于发布产品碳足迹标识认证通用实施规则（试行）的公告",
+    "source_name": "国家认监委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-24",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015292.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015292.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家认监委关于发布产品碳足迹标识认证通用实施规则（试行）的公告",
+      "发文机关": "国家认监委",
+      "发文字号": "国家认证认可监督管理委员会公告2025年第8号",
+      "来源": "国家认监委网站",
+      "主题分类": "国土资源、能源\\其他",
+      "公文种类": "公告",
+      "成文日期": "2025年03月17日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250324395328984477.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7015292.html"
+  },
+  "raw_legal_doc": {}
+}

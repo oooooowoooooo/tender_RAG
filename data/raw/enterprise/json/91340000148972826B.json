@@ -1,0 +1,78 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340000148972826B",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340000148972826B",
+    "enterprise_name": "安徽省高等级公路工程监理有限公司",
+    "legal_representative": "靳军",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "20/6/1996 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "12522700",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市蜀山经济开发区湖光路电商园二期9号楼一层、二层",
+    "business_scope": "一般经营项目：国内一类、二类、三类公路工程、桥梁工程、隧道工程监理，国内特殊独立大桥、特殊独立隧道项目监理，国内各等级公路、桥梁、隧道工程通讯、监控、收费等机电项目的监理，国内水运工程监理，市政公用工程、房屋建筑工程监理，建设工程项目管理、技术咨询，公路工程技术开发等业务",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 11,
+    "selected_project_ids": [
+      "2023AEEBZ00361",
+      "2023BFFBZ02403"
+    ],
+    "all_linked_project_ids": [
+      "2022BFFBZ02768",
+      "2023AEEBZ00062",
+      "2023AEEBZ00084",
+      "2023AEEBZ00321",
+      "2023AEEBZ00361",
+      "2023ANNBZ00326",
+      "2023AYYBZ00002",
+      "2023BFFBZ00340",
+      "2023BFFBZ02345",
+      "2023BFFBZ02403"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽省高等级公路工程监理有限公司",
+    "business_status": "开业",
+    "legal_representative": "靳军",
+    "registered_capital": "12522700",
+    "paid_in_capital": "12522700",
+    "establishment_date": "20/6/1996 00:00:00",
+    "approval_date": "23/2/2022 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "34003167",
+    "additional_phones": "15155928810,0551-63813019,0353-6981680,0551-63811890,18326360123",
+    "email": "770409091@qq.com",
+    "additional_emails": "391542821@qq.com,GHGSJIGS@163.com,GHGSJIGS@163.COM",
+    "unified_social_credit_code": "91340000148972826B",
+    "taxpayer_identification_number": "91340000148972826B",
+    "business_registration_number": "340000000027442",
+    "organization_code": "14897282-6",
+    "insured_personnel_count": "564",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市蜀山经济开发区湖光路电商园二期9号楼一层、二层",
+    "latest_annual_report_address": "安徽省合肥市蜀山经济开发区湖光路电商园二期9号楼一层、二层",
+    "website": "www.ahgsjl.com",
+    "business_scope": "一般经营项目：国内一类、二类、三类公路工程、桥梁工程、隧道工程监理，国内特殊独立大桥、特殊独立隧道项目监理，国内各等级公路、桥梁、隧道工程通讯、监控、收费等机电项目的监理，国内水运工程监理，市政公用工程、房屋建筑工程监理，建设工程项目管理、技术咨询，公路工程技术开发等业务",
+    "match_status": "成功"
+  }
+}

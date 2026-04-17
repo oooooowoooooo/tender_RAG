@@ -1,0 +1,83 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023AMMHX00172",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "中标"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023AMMHX00172",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "中标"
+    ],
+    "publish_time": "2023-11-06 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 巢湖"
+    ],
+    "tenderer_or_purchaser": [
+      "巢湖市烔炀中学"
+    ],
+    "agency": [
+      "安徽华正建设工程咨询有限公司"
+    ],
+    "budget_or_bid_amount": [
+      "563900.0",
+      "549800.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231106/30df5d32-c130-4436-bd6e-f249f92fa0f8.html?ztbtab=002002004&biaoduanguid=a373bc00-5b39-4885-acf8-44e711d33186",
+    "attachment_paths": [],
+    "candidate_company_names": [
+      "合肥信卓网络科技有限公司"
+    ],
+    "winner_company_name": [
+      "合肥信卓网络科技有限公司"
+    ],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:878",
+      "project_id": "2023AMMHX00172",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231106/30df5d32-c130-4436-bd6e-f249f92fa0f8.html?ztbtab=002002004&biaoduanguid=a373bc00-5b39-4885-acf8-44e711d33186",
+      "type": "政府采购",
+      "stage": "中标",
+      "event_time": "2023-11-06",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "巢湖",
+      "category": "学校",
+      "sub_category": "货物",
+      "budget_amount": "563900.0",
+      "purchaser": "巢湖市烔炀中学",
+      "agency": "安徽华正建设工程咨询有限公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "合肥信卓网络科技有限公司",
+      "bid_amount": "549800.0",
+      "bid_date": "2023-11-17",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"巢湖市烔炀中学2023年多功能教室采购成交结果公告\", \"content\": \"\n\n巢湖市烔炀中学2023年多功能教室采购成交结果公告\n\n一、项目编号:\n2023AMMHX00172\n\n二、项目名称:\n巢湖市烔炀中学2023年多功能教室采购\n\n三、中标（成交）信息\n\n供应商名称：合肥信卓网络科技有限公司\n\n供应商地址：安徽省合肥市包河区大连路6686号徽商总部广场B-办909\n\n中标（成交）金额：伍拾肆万玖仟捌佰元整(￥549800.00元)\n\n四、主要标的信息\n{\"1\": [\"序号\", \"1\"], \"2\": [\"名称\", \"礼堂椅\"], \"3\": [\"品牌\", \"群友\"], \"4\": [\"规格型号\", \"QY-L006\"], \"5\": [\"数量\", \"90把\"], \"6\": [\"单价\", \"640.00元\"], \"table_style\": 2}\n\n序号\n\n名称\n\n品牌\n\n规格型号\n\n数量\n\n单价\n\n1\n\n礼堂椅\n\n群友\n\nQY-L006\n\n90\n把\n\n640.00\n元\n\n五、评审专家（单一来源采购人员）名单\n\n刘芝芳、何丽娟、吴昌平\n\n六、代理服务收费标准及金额\n\n参照关于印发《招标（采购）代理行业服务收费指导意见》的通知（合公协【2023】03）规定收取。收费金额：捌仟贰佰肆拾柒元整\n\n七、公告期限\n\n自本公告发布之日起1个工作日。\n\n八、其他补充事宜\n\n（一）若供应商对上述结果有异议,可在成交公告发布之日起七个工作日内通过电子交易系统或以书面形式在工作时间(周一至周五,上午8:00-11:30,下午14:30-17:30,节假日休息 )向安徽华正建设工程咨询有限公司提出质疑,质疑材料递交地址：巢湖市半汤路51#,联系人：李平峰，联系电话：13675653939。\n\n若投标人（供应商）对质疑处理意见有异议，可通过网上投诉系统或以书面形式向巢湖市财政局提出投诉，投诉函中应明确提出自身权益受到损害的事实与理由，联系电话：0551-82367013。\n\n（二）质疑提起的条件及不予受理的情形\n\n根据《中华人民共和国政府采购法》、《中华人民共和国政府采购法实施条例》、财政部《政府采购质疑和投诉办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n\n（1）质疑可在规定时间内通过网上投诉系统或以书面形式实名提出，质疑材料应当包括以下内容：\n\n1\n、质疑人的名称、地址、邮编、联系人及联系电话；\n\n2\n、采购人名称、项目名称、项目编号、包别号（如有）；\n\n3\n、被质疑人名称；\n\n4\n、具体的质疑事项、基本事实及必要的证明材料；\n\n5\n、明确的请求及主张；\n\n6\n、必要的法律依据；\n\n7\n、提起质疑的日期。\n\n质疑人为法人或者其他组织的，应当由法定代表人或其委托代理人（需有委托授权书）签字并加盖公章。\n\n（2）有下列情形之一的，不予受理：\n\n1\n、提起质疑的主体不是参与该政府采购项目活动的供应商；\n\n2\n、提起质疑的时间超过规定时限的；\n\n3\n、质疑材料不完整的；\n\n4\n、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n\n5\n、对其他供应商的投标文件详细内容质疑，无法提供合法来源渠道的\n；\n\n6\n、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n\n巢湖市烔炀中学2023年多功能教室采购项目中标通知书已发出，请中标（成交）供应商登录电子交易系统自行下载电子中标（成交）通知书。\n\n九、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：巢湖市烔炀中学\n\n地址：合肥市巢湖市烔炀镇合裕路与银杏路交口向北约350米\n\n联系方式：18919641720\n\n2.采购代理机构信息\n\n名称：安徽华正建设工程咨询有限公司\n\n地址：合肥市巢湖市半汤路51号\n\n联系方式：0551-825226852\n\n3.项目联系方式\n\n项目联系人：袁工\n\n电话：13965670160\n\n\", \"attachments\": [{\"file_name\": \"无重大违法记录声明函、无不良信用记录声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=2ca0d519-fb7c-423c-8d7c-ce5468784f4d&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"安徽合肥公共资源交易中心电子服务系统网上投诉操作手册-投标人.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=64ea5f48-c074-45e3-8a2a-b35e398aba56&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"主要成交标的承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=6a5c7866-54b2-42e3-aaa3-17d76f272454&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"中小企业声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=9da669c9-07c7-49d6-87b7-07bb9927541b&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=de352ced-93bf-4bb0-9f65-daa43c4eccca&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "2938",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

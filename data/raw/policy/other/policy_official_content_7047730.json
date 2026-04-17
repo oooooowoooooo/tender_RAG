@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7047730",
+  "normalized_projection": {
+    "title": "市场监管总局关于进一步推进内外贸产品“同线同标同质”工作的公告",
+    "issuer": "​市场监管总局",
+    "index_no": "未标注",
+    "subject_category": "商贸、海关、旅游\\其他",
+    "doc_no": "2025年第40号",
+    "publish_date": "2025-11-11",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047730.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "商贸",
+      "海关",
+      "旅游",
+      "其他"
+    ],
+    "effective_date": "2025-10-21",
+    "abolish_date": "",
+    "summary": "为积极落实党中央、国务院关于促进内外贸一体化发展以及新形势下提振消费的战略部署，加快运用内外贸产品“同线同标同质”手段助力企业高质量发展，现就有关落实举措公告如下"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7047730",
+    "title": "市场监管总局关于进一步推进内外贸产品“同线同标同质”工作的公告",
+    "content": "市场监管总局关于进一步推进内外贸产品“同线同标同质”工作的公告\n2025年第40号\n为积极落实党中央、国务院关于促进内外贸一体化发展以及新形势下提振消费的战略部署，加快运用内外贸产品“同线同标同质”（以下简称“三同”）手段助力企业高质量发展，现就有关落实举措公告如下：\n一、积极鼓励企业发展“三同”产品\n企业可依据国内外相关标准，自主评估其产品是否符合“三同”条件。对符合条件的产品，可作“三同”符合性声明（特殊食品除外）。企业应确保其“三同”产品信息真实、准确。\n二、加大对“三同”企业技术帮扶力度\n认证机构要进一步发挥专业优势，开展国内外标准差异分\n析，主动帮助有意愿的企业识别技术指标、检测方法等核心差异，\n通过建立对标改进方案等方式助力“三同”企业降本增效。\n三、加强对“三同”企业政策扶持\n各级市场监管部门要加强对“三同”政策的解读和宣传，提高企业对“三同”工作的认知度；动态掌握本辖区“三同”企业及产品数量，积极协调企业参与有关部门组织的产销对接活动；督促企业落实主体责任，推动行业自律，维护市场秩序。\n市场监管总局\n2025年10月21日",
+    "source": "市场监管总局网站",
+    "publish_time": "2025-11-11",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047730.htm",
+    "category": "商贸、海关、旅游\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "476"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7047730",
+    "title": "市场监管总局关于进一步推进内外贸产品“同线同标同质”工作的公告",
+    "source_name": "市场监管总局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-11-11",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047730.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047730.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "市场监管总局关于进一步推进内外贸产品“同线同标同质”工作的公告",
+      "发文机关": "​市场监管总局",
+      "发文字号": "2025年第40号",
+      "来源": "市场监管总局网站",
+      "主题分类": "商贸、海关、旅游\\其他",
+      "公文种类": "公告",
+      "成文日期": "2025年10月21日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7047730.html"
+  },
+  "raw_legal_doc": {}
+}

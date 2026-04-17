@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "91340100060836184B",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "安徽省公众检验研究院有限公司",
+  "raw_profile": {
+    "record_id": "2330",
+    "title": "安徽省公众检验研究院有限公司",
+    "corporation": "俞成英",
+    "amount_raw": "5000万人民币",
+    "event_time": "2013-01-17",
+    "manage_date": "2013-01-17 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "商务服务业",
+    "USCC": "91340100060836184B",
+    "TIN": "91340100060836184B",
+    "registed_num": "340100000740185",
+    "insured_persons": "179",
+    "location": "安徽省合肥市包河区延安路1666号7幢",
+    "source_url": "http://www.gongzhongjianyan.com",
+    "content": "食品、农产品、药品、中药材、医疗器械、化妆品、消毒用品（除危险化学品）、肥料、饲料、兽药、农药（除高毒剧毒）、一次性卫生用品、日用品检验检测；公共卫生、水和废水、空气和废气、土壤、底泥、噪声、固废环境监测和洁净环境检测；计量检定校准；认证服务；食品、药品、兽药、农药检测技术研发、技术转让、技术服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "50000000"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7045245",
+  "normalized_projection": {
+    "title": "自然资源部办公厅关于印发《省级国土空间生态修复规划实施评估指南（试行）》的通知",
+    "issuer": "自然资源部办公厅",
+    "index_no": "未标注",
+    "subject_category": "城乡建设、环境保护\\其他",
+    "doc_no": "自然资办函〔2025〕2295号",
+    "publish_date": "2025-10-21",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045245.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251021339702945550.pdf"
+    ],
+    "keywords": [
+      "城乡建设",
+      "环境保护",
+      "其他"
+    ],
+    "effective_date": "2025-10-09",
+    "abolish_date": "",
+    "summary": "《省级国土空间生态修复规划实施评估指南（试行）》已经部领导同意，现予印发，请在省级国土空间生态修复规划实施评估工作中参照使用。过程中如有问题和建议，请向部国土空间生态修复司反馈。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7045245",
+    "title": "自然资源部办公厅关于印发《省级国土空间生态修复规划实施评估指南（试行）》的通知",
+    "content": "自然资源部办公厅关于印发\n《省级国土空间生态修复规划实施评估指南（试行）》的通知\n自然资办函〔2025〕2295号\n各省、自治区、直辖市自然资源主管部门，新疆生产建设兵团自然资源局，中国地质调查局及部其他直属单位，部有关司局：\n《省级国土空间生态修复规划实施评估指南（试行）》已经部领导同意，现予印发，请在省级国土空间生态修复规划实施评估工作中参照使用。过程中如有问题和建议，请向部国土空间生态修复司反馈。\n自然资源部办公厅\n2025年10月9日\n附件:\n《省级国土空间生态修复规划实施评估指南（试行）》.pdf",
+    "source": "自然资源部网站",
+    "publish_time": "2025-10-21",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045245.htm",
+    "category": "城乡建设、环境保护\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "256"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7045245",
+    "title": "自然资源部办公厅关于印发《省级国土空间生态修复规划实施评估指南（试行）》的通知",
+    "source_name": "自然资源部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-10-21",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045245.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045245.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "自然资源部办公厅关于印发《省级国土空间生态修复规划实施评估指南（试行）》的通知",
+      "发文机关": "自然资源部办公厅",
+      "发文字号": "自然资办函〔2025〕2295号",
+      "来源": "自然资源部网站",
+      "主题分类": "城乡建设、环境保护\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年10月09日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251021339702945550.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7045245.html"
+  },
+  "raw_legal_doc": {}
+}

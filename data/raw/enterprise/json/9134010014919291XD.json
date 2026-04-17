@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9134010014919291XD",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9134010014919291XD",
+    "enterprise_name": "合肥琥珀家具有限责任公司",
+    "legal_representative": "王安生",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "1996-04-04",
+    "registration_authority": "",
+    "registered_capital": "6050万人民币",
+    "business_status": "存续",
+    "registered_address": "合肥市瑶海区定远路与临泉路交口瑶海配送中心综合楼",
+    "business_scope": "智能办公家具、钢木家具、实木家具、橱柜的研发、生产、运输安装销售。酒店、会所、公寓、银行家具的研发制造以及运输安装销售。木门、建材、卫浴、板材、钢材五金配件的销售。室内外装饰装潢、广告的工程设计及施工。电器、交通设施、劳保用品的销售及施工。课桌椅、幼儿家具、教具、玩具的设计、研发、生产、运输和售后服务；厨房设备、办公设备、黑板、体育健身器材、办公用品以及生活家居用品的销售和售后服务；电子产品、音视频、计算机系统集成相关设计安装销售以及售后服务；实验室设备教学仪器，音体美相关教育装备器材的销售、售后服务；园艺花卉的设计、办公环境环保处理（以上除快递）。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "http://www.hupojiaju.com",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 9,
+    "selected_project_ids": [
+      "2023AEEHZ00453",
+      "2023BFAHZ02543"
+    ],
+    "all_linked_project_ids": [
+      "2022ACCHZ00434",
+      "2022BFAHZ02754",
+      "2023AEEHZ00453",
+      "2023AYYHZ00057",
+      "2023BFAHZ02120",
+      "2023BFAHZ02543",
+      "2023BFFHZ00342",
+      "2023BFFHZ00561",
+      "2023BFFHZ01806"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "1546",
+    "title": "合肥琥珀家具有限责任公司",
+    "corporation": "王安生",
+    "amount_raw": "6050万人民币",
+    "event_time": "1996-04-04",
+    "manage_date": "1996-04-04 至 2025-12-31",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "瑶海区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "家具制造业",
+    "USCC": "9134010014919291XD",
+    "TIN": "9134010014919291XD",
+    "registed_num": "340108000024905",
+    "insured_persons": "37",
+    "location": "合肥市瑶海区定远路与临泉路交口瑶海配送中心综合楼",
+    "source_url": "http://www.hupojiaju.com",
+    "content": "智能办公家具、钢木家具、实木家具、橱柜的研发、生产、运输安装销售。酒店、会所、公寓、银行家具的研发制造以及运输安装销售。木门、建材、卫浴、板材、钢材五金配件的销售。室内外装饰装潢、广告的工程设计及施工。电器、交通设施、劳保用品的销售及施工。课桌椅、幼儿家具、教具、玩具的设计、研发、生产、运输和售后服务；厨房设备、办公设备、黑板、体育健身器材、办公用品以及生活家居用品的销售和售后服务；电子产品、音视频、计算机系统集成相关设计安装销售以及售后服务；实验室设备教学仪器，音体美相关教育装备器材的销售、售后服务；园艺花卉的设计、办公环境环保处理（以上除快递）。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "60500000"
+  }
+}

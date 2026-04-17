@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7027836",
+  "normalized_projection": {
+    "title": "国家文物局关于公布10家国家考古遗址公园名单的通知",
+    "issuer": "国家文物局",
+    "index_no": "未标注",
+    "subject_category": "城乡建设、环境保护\\其他",
+    "doc_no": "文物考函〔2025〕799号",
+    "publish_date": "2025-06-14",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7027836.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "城乡建设",
+      "环境保护",
+      "其他"
+    ],
+    "effective_date": "2025-06-09",
+    "abolish_date": "",
+    "summary": "根据《国家考古遗址公园管理办法》等有关规定，国家文物局组织开展了新一批国家考古遗址公园评定工作。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7027836",
+    "title": "国家文物局关于公布10家国家考古遗址公园名单的通知",
+    "content": "国家文物局关于公布10家国家考古遗址公园名单的通知\n文物考函〔2025〕799号\n各省、自治区、直辖市文物局（文化和旅游厅/局），新疆生产建设兵团文物局：\n根据《国家考古遗址公园管理办法》等有关规定，我局组织开展了新一批国家考古遗址公园评定工作。经国家文物局党组会议研究决定，10家单位列入国家考古遗址公园名单，现予公布：\n山西省陶寺国家考古遗址公园\n内蒙古自治区萨拉乌苏国家考古遗址公园\n内蒙古自治区和林格尔土城子国家考古遗址公园\n浙江省上山国家考古遗址公园\n安徽省双墩国家考古遗址公园\n山东省大汶口国家考古遗址公园\n河南省大河村国家考古遗址公园\n湖北省铜绿山国家考古遗址公园\n四川省宝墩国家考古遗址公园\n陕西省秦咸阳城咸阳宫国家考古遗址公园\n特此通知。\n国家文物局\n2025年6月9日",
+    "source": "国家文物局网站",
+    "publish_time": "2025-06-14",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7027836.htm",
+    "category": "城乡建设、环境保护\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "344"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7027836",
+    "title": "国家文物局关于公布10家国家考古遗址公园名单的通知",
+    "source_name": "国家文物局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-06-14",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7027836.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7027836.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家文物局关于公布10家国家考古遗址公园名单的通知",
+      "发文机关": "国家文物局",
+      "发文字号": "文物考函〔2025〕799号",
+      "来源": "国家文物局网站",
+      "主题分类": "城乡建设、环境保护\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年06月09日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7027836.html"
+  },
+  "raw_legal_doc": {}
+}

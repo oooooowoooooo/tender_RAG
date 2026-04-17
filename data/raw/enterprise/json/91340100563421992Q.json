@@ -1,0 +1,61 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100563421992Q",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100563421992Q",
+    "enterprise_name": "合肥宣美家具有限公司",
+    "legal_representative": "许庆春",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "2010-10-15",
+    "registration_authority": "",
+    "registered_capital": "3002万人民币",
+    "business_status": "存续",
+    "registered_address": "合肥市庐阳工业园区11#厂房",
+    "business_scope": "办公家具、民用家具、校用家具、宾馆酒店家具、教学仪器及设备、钢制家具的设计、研发、加工、制造及销售；音乐美术文化体育用品、幼教设备、实验室设备、功能室设备、五金电器、信息化系统及设备销售及服务；门窗及室内外装饰工程。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023ALLHZ00144"
+    ],
+    "all_linked_project_ids": [
+      "2023ALLHZ00144"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "2699",
+    "title": "合肥宣美家具有限公司",
+    "corporation": "许庆春",
+    "amount_raw": "3002万人民币",
+    "event_time": "2010-10-15",
+    "manage_date": "2010-10-15 至 2040-10-11",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐阳区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "家具制造业",
+    "USCC": "91340100563421992Q",
+    "TIN": "91340100563421992Q",
+    "registed_num": "340100000453773",
+    "insured_persons": "8",
+    "location": "合肥市庐阳工业园区11#厂房",
+    "source_url": "-",
+    "content": "办公家具、民用家具、校用家具、宾馆酒店家具、教学仪器及设备、钢制家具的设计、研发、加工、制造及销售；音乐美术文化体育用品、幼教设备、实验室设备、功能室设备、五金电器、信息化系统及设备销售及服务；门窗及室内外装饰工程。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "30020000"
+  }
+}

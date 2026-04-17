@@ -1,0 +1,71 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9134010071100389XB",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9134010071100389XB",
+    "enterprise_name": "宝利建设集团有限公司",
+    "legal_representative": "孙晓志",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "7/7/1998 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "100000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市庐阳区濉溪路87号国金大厦2701商业（宾馆）",
+    "business_scope": "装饰装修设计、施工；装饰材料销售，建筑幕墙设计、安装销售，建筑工程、钢结构工程、金属门窗工程、建筑智能化工程、安全技术防范工程；灯箱设计制作安装；园林绿化设计、施工；土石方工程，市政工程，房地产投资咨询，物业管理，五金、电器销售，机电安装工程；城市及道路照明工程；建筑消防工程设计及施工；建筑劳务分包；劳务信息咨询。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 7,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023ANNGZ00442",
+      "2023BFFGZ00575",
+      "2023BFFGZ00811",
+      "2023BFGGZ00428",
+      "2023BFGGZ00445",
+      "2023BFWGZ01047"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "宝利建设集团有限公司",
+    "business_status": "开业",
+    "legal_representative": "孙晓志",
+    "registered_capital": "100000000",
+    "paid_in_capital": "0",
+    "establishment_date": "7/7/1998 00:00:00",
+    "approval_date": "16/4/2024 00:00:00",
+    "business_term": "1998-07-07 至 2028-05-31",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐阳区",
+    "phone": "0551-65149582",
+    "additional_phones": "13399590091,0551-65149583,18805665590,13965076353,0551-65150336",
+    "email": "610963849@qq.com",
+    "additional_emails": "baoli1998@126.com,157753740@qq.com,420493919@qq.com",
+    "unified_social_credit_code": "9134010071100389XB",
+    "taxpayer_identification_number": "9134010071100389XB",
+    "business_registration_number": "340100000102746",
+    "organization_code": "71100389-X",
+    "insured_personnel_count": "45",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "建筑装饰、装修和其他建筑业",
+    "former_name": "安徽宝利建筑装饰工程有限责任公司",
+    "registered_address": "安徽省合肥市庐阳区濉溪路87号国金大厦2701商业（宾馆）",
+    "latest_annual_report_address": "安徽省合肥市庐阳区濉溪路87号国金大厦2701商业（宾馆）",
+    "website": "-",
+    "business_scope": "装饰装修设计、施工；装饰材料销售，建筑幕墙设计、安装销售，建筑工程、钢结构工程、金属门窗工程、建筑智能化工程、安全技术防范工程；灯箱设计制作安装；园林绿化设计、施工；土石方工程，市政工程，房地产投资咨询，物业管理，五金、电器销售，机电安装工程；城市及道路照明工程；建筑消防工程设计及施工；建筑劳务分包；劳务信息咨询。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

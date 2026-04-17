@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100MA2MT2QN8J",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100MA2MT2QN8J",
+    "enterprise_name": "安徽瑾天建设工程有限公司",
+    "legal_representative": "刘泽洋",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "21/1/2016 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "18000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市包河区万达文旅城未来塔A座1412-1413",
+    "business_scope": "水利水电工程、公路工程、市政公用工程、建筑工程、电力工程、通信工程、机电工程、矿山工程施工总承包；河湖整治工程；土石方工程；机电安装工程；水工金属结构制作与安装；园林绿化工程；环保工程；地基基础工程；城市与道路照明工程；道路桥梁工程；公路养护；交通工程；地质灾害治理工程；消防设施工程；钢结构工程；特种工程；建筑装修装饰工程、建筑智能化工程、太阳能热利用工程设计及施工；古建筑工程；建筑幕墙工程；防水防腐保温工程；土地整理、复垦；水土保持；矿山地质环境保护与综合治理；黑臭水体及水系治理工程；河道清淤疏浚工程；河渠、库坝工程养护、管护；白蚁防治；凿井工程；建筑物拆除工程（除爆破作业外）；砂、石料开采；环境治理；生态修复；体育场设施工程；建筑材料、机械设备销售及租赁；建筑劳务服务；工程项目咨询；工程监理；工程造价事务代理；工程招标事务代理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023ANNGZ00559"
+    ],
+    "all_linked_project_ids": [
+      "2023ANNGZ00559"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽瑾天建设工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "刘泽洋",
+    "registered_capital": "18000000",
+    "paid_in_capital": "18000000",
+    "establishment_date": "21/1/2016 00:00:00",
+    "approval_date": "1/3/2024 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "phone": "15657271065",
+    "additional_phones": "18656967005,0551-66865995,18119682800,18956288813,0551-65776800",
+    "email": "740034321@QQ.COM",
+    "additional_emails": "740034321@qq.com,151399646@qq.com",
+    "unified_social_credit_code": "91340100MA2MT2QN8J",
+    "taxpayer_identification_number": "91340100MA2MT2QN8J",
+    "business_registration_number": "340100001487829",
+    "organization_code": "MA2MT2QN-8",
+    "insured_personnel_count": "24",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "土木工程建筑业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市包河区万达文旅城未来塔A座1412-1413",
+    "latest_annual_report_address": "安徽省合肥市包河区万达文旅城未来塔A座1412-1413",
+    "website": "www.ahjtjs.com.cn",
+    "business_scope": "水利水电工程、公路工程、市政公用工程、建筑工程、电力工程、通信工程、机电工程、矿山工程施工总承包；河湖整治工程；土石方工程；机电安装工程；水工金属结构制作与安装；园林绿化工程；环保工程；地基基础工程；城市与道路照明工程；道路桥梁工程；公路养护；交通工程；地质灾害治理工程；消防设施工程；钢结构工程；特种工程；建筑装修装饰工程、建筑智能化工程、太阳能热利用工程设计及施工；古建筑工程；建筑幕墙工程；防水防腐保温工程；土地整理、复垦；水土保持；矿山地质环境保护与综合治理；黑臭水体及水系治理工程；河道清淤疏浚工程；河渠、库坝工程养护、管护；白蚁防治；凿井工程；建筑物拆除工程（除爆破作业外）；砂、石料开采；环境治理；生态修复；体育场设施工程；建筑材料、机械设备销售及租赁；建筑劳务服务；工程项目咨询；工程监理；工程造价事务代理；工程招标事务代理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

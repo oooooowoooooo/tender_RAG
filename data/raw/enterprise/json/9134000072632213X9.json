@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9134000072632213X9",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9134000072632213X9",
+    "enterprise_name": "安徽省粮食产业集团有限公司",
+    "legal_representative": "郑承乾",
+    "entity_type": "有限责任公司(国有独资)",
+    "established_date": "27/12/2000 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "1000000000",
+    "business_status": "开业",
+    "registered_address": "合肥市望江西路388号",
+    "business_scope": "粮油收储业务，原粮、油料、成品粮油、农副产品、食品、动植物油脂、畜产品、饲料销售，储粮专用药剂、仪器设备、建材、钢材、化工机电产品、家电、百货经营，粮油进出口业务，粮油、饲料加工，仓储租赁（不含危险化学品），粮食装卸服务，仓储服务（不含危险化学品），粮油质量检验，粮油运输（不含危险化学品），农业资产投资，宾馆、旅游服务，科研、信息、工程设计、中介咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023AFFGZ02742"
+    ],
+    "all_linked_project_ids": [
+      "2023AFFGZ02742"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽省粮食产业集团有限公司",
+    "business_status": "开业",
+    "legal_representative": "郑承乾",
+    "registered_capital": "1000000000",
+    "paid_in_capital": "274770000",
+    "establishment_date": "27/12/2000 00:00:00",
+    "approval_date": "18/5/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "0551-62852816",
+    "additional_phones": "0551-65501029,0551-2870666,0551-4675831,0553-2884088,0551-62852809",
+    "email": "811790628@qq.com",
+    "additional_emails": "174386587@qq.com,ahlyjtzhb@126.com",
+    "unified_social_credit_code": "9134000072632213X9",
+    "taxpayer_identification_number": "9134000072632213X9",
+    "business_registration_number": "340000000023226",
+    "organization_code": "72632213-X",
+    "insured_personnel_count": "35",
+    "company_type": "有限责任公司(国有独资)",
+    "industry": "商务服务业",
+    "former_name": "-",
+    "registered_address": "合肥市望江西路388号",
+    "latest_annual_report_address": "合肥市望江西路388号",
+    "website": "ahgrain.com",
+    "business_scope": "粮油收储业务，原粮、油料、成品粮油、农副产品、食品、动植物油脂、畜产品、饲料销售，储粮专用药剂、仪器设备、建材、钢材、化工机电产品、家电、百货经营，粮油进出口业务，粮油、饲料加工，仓储租赁（不含危险化学品），粮食装卸服务，仓储服务（不含危险化学品），粮油质量检验，粮油运输（不含危险化学品），农业资产投资，宾馆、旅游服务，科研、信息、工程设计、中介咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

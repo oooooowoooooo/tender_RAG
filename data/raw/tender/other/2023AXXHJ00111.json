@@ -1,0 +1,78 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023AXXHJ00111",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "终止"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023AXXHJ00111",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "终止"
+    ],
+    "publish_time": "2023-11-20 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 新站"
+    ],
+    "tenderer_or_purchaser": [
+      "安徽合肥新站高新技术产业开发区应急和城市管理局"
+    ],
+    "agency": [
+      "合肥新站高新区公共资源管理中心"
+    ],
+    "budget_or_bid_amount": [
+      "295000.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231120/2ccf7dc9-fce4-4f03-aa8a-c3208967dfe8.html?ztbtab=002002004&biaoduanguid=7b1861dc-1d80-4b12-8839-3e0a803e11d7",
+    "attachment_paths": [],
+    "candidate_company_names": [],
+    "winner_company_name": [],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:712",
+      "project_id": "2023AXXHJ00111",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231120/2ccf7dc9-fce4-4f03-aa8a-c3208967dfe8.html?ztbtab=002002004&biaoduanguid=7b1861dc-1d80-4b12-8839-3e0a803e11d7",
+      "type": "政府采购",
+      "stage": "终止",
+      "event_time": "2023-11-20",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "新站",
+      "category": "政府",
+      "sub_category": "货物",
+      "budget_amount": "295000.0",
+      "purchaser": "安徽合肥新站高新技术产业开发区应急和城市管理局",
+      "agency": "合肥新站高新区公共资源管理中心",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "",
+      "bid_amount": "",
+      "bid_date": "",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"新站高新区化工园区气防站移动气源车采购终止公告\", \"content\": \"\n\n新站高新区化工园区气防站移动气源车采购终止公告\n\n一、项目基本情况\n\n采购项目编号：2023AXXHJ00111\n\n采购项目名称：新站高新区化工园区气防站移动气源车采购\n\n二、项目终止的原因\n\n终止原因：有效投标单位不足规定数量\n\n三、其他补充事宜\n\n无\n\n四、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：安徽合肥新站高新技术产业开发区应急和城市管理局\n\n地址：合肥市皇藏峪路与当涂北路交口向东300米\n\n联系方式：0551-62777511\n\n2.采购代理机构信息\n\n名称：合肥新站高新区公共资源管理中心\n\n地址：合肥市新站区学府路1516号智慧产业园A14号楼5层506室\n\n联系方式：0551-65777681\n\n3.项目联系方式\n\n项目联系人：孙瑜\n\n电话：0551-65777681\n\n累计办理时间：\n0天0小时2分18秒\n\n招标代理机构提交\n\n提交节点：\n\n2023-11-28\n\n交易中心见证\n\n办理状态：\n\n通过\n\n办理时间：\n\n2023-11-28\n\n办理用时：\n\n0天0小时2分\n\n\", \"attachments\": [{\"file_name\": \"安徽合肥公共资源交易中心网上投诉操作手册-投标人.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=872d3e03-06e5-400f-bcde-f42e79ccb1df&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=deeefbe7-7fa6-4c4f-91f8-e3b8fbef9e8f&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "1058",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

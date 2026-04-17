@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7051826",
+  "normalized_projection": {
+    "title": "自然资源部办公厅关于印发《国土空间规划实施监测网络建设技术指南（试行）》的通知",
+    "issuer": "自然资源部办公厅",
+    "index_no": "未标注",
+    "subject_category": "国土资源、能源\\土地",
+    "doc_no": "自然资办发〔2025〕37号",
+    "publish_date": "2025-12-16",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7051826.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251216454703418225.pdf"
+    ],
+    "keywords": [
+      "国土资源",
+      "能源",
+      "土地"
+    ],
+    "effective_date": "2025-12-11",
+    "abolish_date": "",
+    "summary": "按照《全国国土空间规划纲要（2021—2035年）》《数字中国建设整体布局规划》等的部署，根据《“一张图”建设工作方案》《全国国土空间规划实施监测网络建设工作方案（2023—2027年）》，自然资源部吸纳地方国土空间规划实施监测网络建设试点经验，组织制订了《国土空间规划实施监测网络建设技术指南（试行）》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7051826",
+    "title": "自然资源部办公厅关于印发《国土空间规划实施监测网络建设技术指南（试行）》的通知",
+    "content": "自然资源部办公厅\n关于印发《国土空间规划实施监测网络建设技术指南（试行）》的通知\n自然资办发〔2025〕37号\n各省、自治区、直辖市自然资源主管部门，新疆生产建设兵团自然资源局：\n按照《全国国土空间规划纲要（2021—2035年）》《数字中国建设整体布局规划》等的部署，根据《“一张图”建设工作方案》《全国国土空间规划实施监测网络建设工作方案（2023—2027年）》，部吸纳地方国土空间规划实施监测网络建设试点经验，组织制订了《国土空间规划实施监测网络建设技术指南（试行）》。现印送你们，请结合实际抓好贯彻落实。\n自然资源部办公厅\n2025年12月11日\n附件：国土空间规划实施监测网络建设技术指南（试行）",
+    "source": "自然资源部网站",
+    "publish_time": "2025-12-16",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7051826.htm",
+    "category": "国土资源、能源\\土地",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "304"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7051826",
+    "title": "自然资源部办公厅关于印发《国土空间规划实施监测网络建设技术指南（试行）》的通知",
+    "source_name": "自然资源部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-12-16",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7051826.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7051826.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "自然资源部办公厅关于印发《国土空间规划实施监测网络建设技术指南（试行）》的通知",
+      "发文机关": "自然资源部办公厅",
+      "发文字号": "自然资办发〔2025〕37号",
+      "来源": "自然资源部网站",
+      "主题分类": "国土资源、能源\\土地",
+      "公文种类": "通知",
+      "成文日期": "2025年12月11日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251216454703418225.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7051826.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "12100000466000264C",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "12100000466000264C",
+    "enterprise_name": "水利部交通运输部国家能源局南京水利科学研究院",
+    "legal_representative": "戴济群",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "405100000",
+    "business_status": "开业",
+    "registered_address": "江苏省南京市广州路223号",
+    "business_scope": "开展水利交通能源科学研究，促进水利交通能源事业发展。 水利工程、土木工程、交通运输工程、能源科学技术、力学、海洋学、地质学、地球科学、材料科学与工程、环境科学与工程研究 工学类硕士研究生和博士研究生学历教育 水电水利工程、港口河海工程项目可行性研究、评估咨询与规划设计 建设项目水资源论证 水文水资源监测与调查评价 相关技术服务和技术培训",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 7,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023AFABZ02274",
+      "2023AFAFZ01374",
+      "2023AFFBZ00884",
+      "2023BFAFZ00072",
+      "2023IFABZ01778"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "水利部交通运输部国家能源局南京水利科学研究院",
+    "business_status": "开业",
+    "legal_representative": "戴济群",
+    "registered_capital": "405100000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "江苏省",
+    "city": "南京市",
+    "district": "南京市",
+    "phone": "17062210295",
+    "additional_phones": "15251703198,18082811405,19060517342,025-83737805,15050588428",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "12100000466000264C",
+    "taxpayer_identification_number": "12100000466000264C",
+    "business_registration_number": "-",
+    "organization_code": "46600026-4",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "江苏省南京市广州路223号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "开展水利交通能源科学研究，促进水利交通能源事业发展。 水利工程、土木工程、交通运输工程、能源科学技术、力学、海洋学、地质学、地球科学、材料科学与工程、环境科学与工程研究 工学类硕士研究生和博士研究生学历教育 水电水利工程、港口河海工程项目可行性研究、评估咨询与规划设计 建设项目水资源论证 水文水资源监测与调查评价 相关技术服务和技术培训",
+    "match_status": "成功"
+  }
+}

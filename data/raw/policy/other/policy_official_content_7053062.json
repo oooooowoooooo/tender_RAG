@@ -1,0 +1,80 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7053062",
+  "normalized_projection": {
+    "title": "国务院关税税则委员会关于2026年关税调整方案的公告",
+    "issuer": "国务院关税税则委员会",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\税务",
+    "doc_no": "税委会公告2025年第11号",
+    "publish_date": "2025-12-29",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053062.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251229817547511264.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251229817547633702.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251229817547826335.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251229817547918245.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251229817548018648.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251229817548136135.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251229817548216284.pdf"
+    ],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "税务"
+    ],
+    "effective_date": "2025-12-26",
+    "abolish_date": "",
+    "summary": "为深入贯彻党的二十大和二十届历次全会精神，引领发展新质生产力，不断满足人民对美好生活的需要，助力扩大高水平对外开放，推动高质量发展，根据《中华人民共和国关税法》及相关规定，自2026年1月1日起，对部分商品的进口关税税率和税目进行调整，具体内容见附件。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7053062",
+    "title": "国务院关税税则委员会关于2026年关税调整方案的公告",
+    "content": "国务院关税税则委员会关于2026年关税调整方案的公告\n税委会公告2025年第11号\n为深入贯彻党的二十大和二十届历次全会精神，引领发展新质生产力，不断满足人民对美好生活的需要，助力扩大高水平对外开放，推动高质量发展，根据《中华人民共和国关税法》及相关规定，自2026年1月1日起，对部分商品的进口关税税率和税目进行调整，具体内容见附件。\n附件：2026年关税调整方案\n国务院关税税则委员会\n2025年12月26日\n  附件下载：\n  附件：2026年关税调整方案\n  附1 进口商品暂定税率表\n  附2 关税配额商品税目税率表\n  附3 出口商品税率表\n  附4 进出口税则税目调整表\n  附5 本国子目注释\n  附6 自由贸易协定和优惠贸易安排实施税率表",
+    "source": "财政部网站",
+    "publish_time": "2025-12-29",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053062.htm",
+    "category": "财政、金融、审计\\税务",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "328"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7053062",
+    "title": "国务院关税税则委员会关于2026年关税调整方案的公告",
+    "source_name": "财政部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-12-29",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053062.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053062.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国务院关税税则委员会关于2026年关税调整方案的公告",
+      "发文机关": "国务院关税税则委员会",
+      "发文字号": "税委会公告2025年第11号",
+      "来源": "财政部网站",
+      "主题分类": "财政、金融、审计\\税务",
+      "公文种类": "公告",
+      "成文日期": "2025年12月26日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251229817547511264.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251229817547633702.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251229817547826335.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251229817547918245.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251229817548018648.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251229817548136135.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251229817548216284.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7053062.html"
+  },
+  "raw_legal_doc": {}
+}

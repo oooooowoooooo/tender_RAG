@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100661447627R",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100661447627R",
+    "enterprise_name": "安徽通达信工程造价咨询有限公司",
+    "legal_representative": "朱军旗",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "16/5/2007 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "1000000",
+    "business_status": "开业",
+    "registered_address": "合肥市包河区马鞍山南路760号绿地赢海A座1113室",
+    "business_scope": "工程造价咨询服务；建设工程招投标代理；项目投资策划、管理及咨询服务。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023ANNFZ00483"
+    ],
+    "all_linked_project_ids": [
+      "2022ANNFZ00426",
+      "2023ANNFZ00483"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽通达信工程造价咨询有限公司",
+    "business_status": "开业",
+    "legal_representative": "朱军旗",
+    "registered_capital": "1000000",
+    "paid_in_capital": "1000000",
+    "establishment_date": "16/5/2007 00:00:00",
+    "approval_date": "16/3/2016 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "phone": "17730013711",
+    "additional_phones": "0551-64295611,0551-64292365,0566-2318290,15656073654,13856906163",
+    "email": "543822428@qq.com",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91340100661447627R",
+    "taxpayer_identification_number": "91340100661447627R",
+    "business_registration_number": "340000000033027",
+    "organization_code": "66144762-7",
+    "insured_personnel_count": "34",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "商务服务业",
+    "former_name": "-",
+    "registered_address": "合肥市包河区马鞍山南路760号绿地赢海A座1113室",
+    "latest_annual_report_address": "合肥市包河区望江东路299号金中环广场C座11层",
+    "website": "-",
+    "business_scope": "工程造价咨询服务；建设工程招投标代理；项目投资策划、管理及咨询服务。",
+    "match_status": "成功"
+  }
+}

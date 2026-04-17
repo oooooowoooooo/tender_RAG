@@ -1,0 +1,66 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9134000074489676X6",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9134000074489676X6",
+    "enterprise_name": "安徽皖投置业有限责任公司",
+    "legal_representative": "钱章",
+    "entity_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "established_date": "26/12/2002 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "4090000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市包河区常青街道姚公社居委南屏路555号",
+    "business_scope": "住宿、餐饮服务，预包装食品、乳制品（不含婴幼儿配方乳粉）零售，浴室、棋牌室、游泳馆经营，以上限分支机构经营。房地产开发及中介服务，房屋租赁，物业管理，水电安装，室内外装饰，建材、装饰材料、木材、五金交电、机械、电子设备、服装、日用百货销售，酒店管理，美容、美发，房屋租赁。（以上依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 35,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023AFWAZ01789"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽皖投置业有限责任公司",
+    "business_status": "开业",
+    "legal_representative": "钱章",
+    "registered_capital": "4090000000",
+    "paid_in_capital": "4090000000",
+    "establishment_date": "26/12/2002 00:00:00",
+    "approval_date": "9/1/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "phone": "0551-63444828",
+    "additional_phones": "18756205201,0551-65678071,0551-65678072,0551-65678110,0551-65678037",
+    "email": "wtzy@wtzy.com",
+    "additional_emails": "wtzy@ahinv.com",
+    "unified_social_credit_code": "9134000074489676X6",
+    "taxpayer_identification_number": "9134000074489676X6",
+    "business_registration_number": "340000000039518",
+    "organization_code": "74489676-X",
+    "insured_personnel_count": "214",
+    "company_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "industry": "房地产业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市包河区常青街道姚公社居委南屏路555号",
+    "latest_annual_report_address": "合肥市包河区南屏路555号",
+    "website": "www.wtzy.com",
+    "business_scope": "住宿、餐饮服务，预包装食品、乳制品（不含婴幼儿配方乳粉）零售，浴室、棋牌室、游泳馆经营，以上限分支机构经营。房地产开发及中介服务，房屋租赁，物业管理，水电安装，室内外装饰，建材、装饰材料、木材、五金交电、机械、电子设备、服装、日用百货销售，酒店管理，美容、美发，房屋租赁。（以上依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

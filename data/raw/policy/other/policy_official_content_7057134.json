@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7057134",
+  "normalized_projection": {
+    "title": "国家医保局关于加快医疗保障领域场景培育和开放 支持新场景大规模应用的通知",
+    "issuer": "国家医保局",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "医保发〔2025〕38号",
+    "publish_date": "2026-02-05",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7057134.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2025-12-19",
+    "abolish_date": "",
+    "summary": ""
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7057134",
+    "title": "国家医保局关于加快医疗保障领域场景培育和开放 支持新场景大规模应用的通知",
+    "content": "",
+    "source": "国家医保局网站",
+    "publish_time": "2026-02-05",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7057134.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "0"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7057134",
+    "title": "国家医保局关于加快医疗保障领域场景培育和开放 支持新场景大规模应用的通知",
+    "source_name": "国家医保局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-02-05",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7057134.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7057134.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家医保局关于加快医疗保障领域场景培育和开放 支持新场景大规模应用的通知",
+      "发文机关": "国家医保局",
+      "发文字号": "医保发〔2025〕38号",
+      "来源": "国家医保局网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "通知",
+      "成文日期": "2025年12月19日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7057134.html"
+  },
+  "raw_legal_doc": {}
+}

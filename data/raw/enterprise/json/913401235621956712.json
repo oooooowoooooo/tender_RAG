@@ -1,0 +1,75 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913401235621956712",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913401235621956712",
+    "enterprise_name": "肥西县城乡建设投资（集团）有限公司",
+    "legal_representative": "马逢春",
+    "entity_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "established_date": "30/9/2010 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "3010000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥西县上派镇馆驿路肥西农商银行20楼",
+    "business_scope": "城乡基础设施建设；土地复垦整理；新农村建设；房屋租赁，房地产开发；道路施工建设和园林绿化；物业服务；房地产中介服务；建筑材料、装饰材料、金属材料、五金交电批发、零售；人力资源中介服务；人才招聘、推荐、猎头服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 185,
+    "selected_project_ids": [
+      "2023AEEBZ00355",
+      "2023AEEBZ00361"
+    ],
+    "all_linked_project_ids": [
+      "2023AEEAZ00327",
+      "2023AEEBZ00309",
+      "2023AEEBZ00355",
+      "2023AEEBZ00361",
+      "2023AFEGZ02002",
+      "2023AFEGZ02118",
+      "2023AFEGZ02171"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "肥西县城乡建设投资（集团）有限公司",
+    "business_status": "开业",
+    "legal_representative": "马逢春",
+    "registered_capital": "3010000000",
+    "paid_in_capital": "3010000000",
+    "establishment_date": "30/9/2010 00:00:00",
+    "approval_date": "29/6/2024 00:00:00",
+    "business_term": "2010-09-30 至 2060-09-29",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "phone": "15851831455",
+    "additional_phones": "19965096185,0551-6884624,18019958602,18155192009,18456504339",
+    "email": "396755032@qq.com",
+    "additional_emails": "396755032@qq.ocm,1315544824@qq.com,864375438@qq.com,13965080828@.163.com",
+    "unified_social_credit_code": "913401235621956712",
+    "taxpayer_identification_number": "913401235621956712",
+    "business_registration_number": "340123000054880",
+    "organization_code": "56219567-1",
+    "insured_personnel_count": "29",
+    "company_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "industry": "餐饮业",
+    "former_name": "肥西县城乡建设投资有限公司",
+    "registered_address": "安徽省合肥市肥西县上派镇馆驿路肥西农商银行20楼",
+    "latest_annual_report_address": "肥西县上派镇馆驿路肥西农商银行20楼",
+    "website": "-",
+    "business_scope": "城乡基础设施建设；土地复垦整理；新农村建设；房屋租赁，房地产开发；道路施工建设和园林绿化；物业服务；房地产中介服务；建筑材料、装饰材料、金属材料、五金交电批发、零售；人力资源中介服务；人才招聘、推荐、猎头服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

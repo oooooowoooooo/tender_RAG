@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7056030",
+  "normalized_projection": {
+    "title": "住房城乡建设部办公厅关于启用建筑业企业资质等建设工程企业资质电子证书的通知",
+    "issuer": "住房城乡建设部办公厅",
+    "index_no": "未标注",
+    "subject_category": "城乡建设、环境保护\\其他",
+    "doc_no": "建办厅〔2026〕2号",
+    "publish_date": "2026-01-24",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7056030.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260124712755813833.pdf"
+    ],
+    "keywords": [
+      "城乡建设",
+      "环境保护",
+      "其他"
+    ],
+    "effective_date": "2026-01-15",
+    "abolish_date": "",
+    "summary": "为进一步推进政务服务标准化、规范化、便利化，提高“互联网+政务服务”水平，决定启用住房城乡建设部核准的建筑业企业资质等建设工程企业资质电子证书。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7056030",
+    "title": "住房城乡建设部办公厅关于启用建筑业企业资质等建设工程企业资质电子证书的通知",
+    "content": "住房城乡建设部办公厅关于启用建筑业企业资质等建设工程企业资质电子证书的通知\n建办厅〔2026〕2号\n各省、自治区住房城乡建设厅，直辖市住房城乡建设（管）委，北京市规划和自然资源委，新疆生产建设兵团住房城乡建设局，部机关各单位、直属各单位：\n为进一步推进政务服务标准化、规范化、便利化，提高“互联网+政务服务”水平，决定启用住房城乡建设部核准的建筑业企业资质等建设工程企业资质电子证书。现将有关事项通知如下：\n一、自2026年1月17日起，下列住房城乡建设部核准的建设工程企业资质启用电子证书（样式见附件），不再发放纸质证书。\n1.建筑业企业资质；\n2.建设工程勘察企业资质；\n3.建设工程设计企业资质；\n4.工程监理企业资质。\n二、企业可登录住房城乡建设部政务服务门户查看和下载住房城乡建设部核准的建设工程企业资质电子证书，具体操作流程参阅《住房和城乡建设部政务服务门户操作手册（试行）》。企业应妥善保管住房城乡建设部政务服务门户账号，因保管不当造成账号信息泄露所产生的后果由企业承担。\n三、单位和个人可通过“全国建筑市场监管公共服务平台”微信小程序或住房城乡建设部政务服务门户扫描电子证书二维码，查询核验企业资质信息。\n附件：建设工程企业资质电子证书样式\n住房城乡建设部办公厅\n2026年1月15日\n（此件有删节）",
+    "source": "住房城乡建设部网站",
+    "publish_time": "2026-01-24",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7056030.htm",
+    "category": "城乡建设、环境保护\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "558"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7056030",
+    "title": "住房城乡建设部办公厅关于启用建筑业企业资质等建设工程企业资质电子证书的通知",
+    "source_name": "住房城乡建设部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-01-24",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7056030.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7056030.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "住房城乡建设部办公厅关于启用建筑业企业资质等建设工程企业资质电子证书的通知",
+      "发文机关": "住房城乡建设部办公厅",
+      "发文字号": "建办厅〔2026〕2号",
+      "来源": "住房城乡建设部网站",
+      "主题分类": "城乡建设、环境保护\\其他",
+      "公文种类": "通知",
+      "成文日期": "2026年01月15日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260124712755813833.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7056030.html"
+  },
+  "raw_legal_doc": {}
+}

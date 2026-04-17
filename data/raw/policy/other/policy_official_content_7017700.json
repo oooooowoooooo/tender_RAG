@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7017700",
+  "normalized_projection": {
+    "title": "市场监管总局关于发布市场监管行业标准《自然人网店管理规范》的公告",
+    "issuer": "市场监管总局",
+    "index_no": "未标注",
+    "subject_category": "市场监管、安全生产监管\\工商",
+    "doc_no": "2025年第15号",
+    "publish_date": "2025-04-09",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7017700.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "市场监管",
+      "安全生产监管",
+      "工商"
+    ],
+    "effective_date": "2025-03-31",
+    "abolish_date": "",
+    "summary": "《自然人网店管理规范》（MR/T 0001—2025）行业标准已经市场监管总局批准，现予以公告，自2025年6月1日起实施。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7017700",
+    "title": "市场监管总局关于发布市场监管行业标准《自然人网店管理规范》的公告",
+    "content": "市场监管总局关于发布市场监管行业标准《自然人网店管理规范》的公告\n2025年第15号\n《自然人网店管理规范》（MR/T 0001—2025）行业标准已经市场监管总局批准，现予以公告，自2025年6月1日起实施。\n该标准可在市场监管行业标准管理系统查询。\n市场监管总局\n2025年3月31日",
+    "source": "市场监管总局网站",
+    "publish_time": "2025-04-09",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7017700.htm",
+    "category": "市场监管、安全生产监管\\工商",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "144"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7017700",
+    "title": "市场监管总局关于发布市场监管行业标准《自然人网店管理规范》的公告",
+    "source_name": "市场监管总局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-04-09",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7017700.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7017700.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "市场监管总局关于发布市场监管行业标准《自然人网店管理规范》的公告",
+      "发文机关": "市场监管总局",
+      "发文字号": "2025年第15号",
+      "来源": "市场监管总局网站",
+      "主题分类": "市场监管、安全生产监管\\工商",
+      "公文种类": "公告",
+      "成文日期": "2025年03月31日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7017700.html"
+  },
+  "raw_legal_doc": {}
+}

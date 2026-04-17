@@ -1,0 +1,73 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "123401234851101437",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "123401234851101437",
+    "enterprise_name": "肥西县人民医院",
+    "legal_representative": "王佐",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "174730000",
+    "business_status": "开业",
+    "registered_address": "翡翠路与天海路交叉口西南角",
+    "business_scope": "为人民身体健康提供医疗与护理保健服务。 医疗与护理",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 25,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022AEEFN00320",
+      "2022AEEFN00343",
+      "2022AEEFZ00339",
+      "2022AEEHZ00352",
+      "2023AEEFN00036",
+      "2023AEEFN00186",
+      "2023AEEFN00251",
+      "2023AEEZJ00111"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "肥西县人民医院",
+    "business_status": "开业",
+    "legal_representative": "王佐",
+    "registered_capital": "174730000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "2018-03-01 至 2023-03-01",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "phone": "0551-62061888",
+    "additional_phones": "18755185370,15056031001,0551-62061512,18056021161,13696507626",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "123401234851101437",
+    "taxpayer_identification_number": "123401234851101437",
+    "business_registration_number": "-",
+    "organization_code": "48511014-3",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "翡翠路与天海路交叉口西南角",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "为人民身体健康提供医疗与护理保健服务。 医疗与护理",
+    "match_status": "成功"
+  }
+}

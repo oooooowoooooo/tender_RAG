@@ -1,0 +1,77 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "11340123003008585G",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "11340123003008585G",
+    "enterprise_name": "肥西县三河镇人民政府",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "肥西县三河镇振宁路1号",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 194,
+    "selected_project_ids": [
+      "2023AEEGZ00341"
+    ],
+    "all_linked_project_ids": [
+      "2022AEEHN00304",
+      "2023AEEFN00035",
+      "2023AEEFN00246",
+      "2023AEEFN00266",
+      "2023AEEFZ00248",
+      "2023AEEFZ00384",
+      "2023AEEGZ00341",
+      "2023AEEHN00356",
+      "2023AEEHN00399",
+      "2023AEEZN00032"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "肥西县三河镇人民政府",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "phone": "13956077893",
+    "additional_phones": "15156018083,13637085958,13965069500,17375005184,18156981993",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "11340123003008585G",
+    "taxpayer_identification_number": "11340123003008585G",
+    "business_registration_number": "-",
+    "organization_code": "00300858-5",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "肥西县三河镇振宁路1号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

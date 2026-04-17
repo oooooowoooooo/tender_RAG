@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7014584",
+  "normalized_projection": {
+    "title": "国家医保局 人力资源社会保障部 国家卫生健康委 国家药监局关于加强药品追溯码在医疗保障和工伤保险领域采集应用的通知",
+    "issuer": "国家医保局 人力资源社会保障部 国家卫生健康委 国家药监局",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "医保发〔2025〕7号",
+    "publish_date": "2025-03-20",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014584.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2025-03-12",
+    "abolish_date": "",
+    "summary": "国家医保局等四部门3月19日联合公开发布《关于加强药品追溯码在医疗保障和工伤保险领域采集应用的通知》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7014584",
+    "title": "国家医保局 人力资源社会保障部 国家卫生健康委 国家药监局关于加强药品追溯码在医疗保障和工伤保险领域采集应用的通知",
+    "content": "国家医保局等四部门3月19日联合公开发布《关于加强药品追溯码在医疗保障和工伤保险领域采集应用的通知》。",
+    "source": "国家医保局网站",
+    "publish_time": "2025-03-20",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014584.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "51"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7014584",
+    "title": "国家医保局 人力资源社会保障部 国家卫生健康委 国家药监局关于加强药品追溯码在医疗保障和工伤保险领域采集应用的通知",
+    "source_name": "国家医保局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-20",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014584.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014584.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家医保局 人力资源社会保障部 国家卫生健康委 国家药监局关于加强药品追溯码在医疗保障和工伤保险领域采集应用的通知",
+      "发文机关": "国家医保局 人力资源社会保障部 国家卫生健康委 国家药监局",
+      "发文字号": "医保发〔2025〕7号",
+      "来源": "国家医保局网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "通知",
+      "成文日期": "2025年03月12日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7014584.html"
+  },
+  "raw_legal_doc": {}
+}

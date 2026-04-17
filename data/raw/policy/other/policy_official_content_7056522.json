@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7056522",
+  "normalized_projection": {
+    "title": "国务院关于同意将湖南省芷江侗族自治县列为国家历史文化名城的批复",
+    "issuer": "国务院",
+    "index_no": "000014349/2026-00004",
+    "subject_category": "文化、广电、新闻出版\\文化",
+    "doc_no": "国函〔2026〕7号",
+    "publish_date": "2026-01-29",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7056522.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "文化",
+      "广电",
+      "新闻出版"
+    ],
+    "effective_date": "2026-01-26",
+    "abolish_date": "",
+    "summary": "同意将芷江侗族自治县列为国家历史文化名城。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7056522",
+    "title": "国务院关于同意将湖南省芷江侗族自治县列为国家历史文化名城的批复",
+    "content": "国务院关于同意将湖南省芷江侗族自治县\n列为国家历史文化名城的批复\n国函〔2026〕7号\n\n湖南省人民政府：\n你省关于申报芷江侗族自治县为国家历史文化名城的请示收悉。现批复如下：\n一、同意将芷江侗族自治县列为国家历史文化名城。芷江侗族自治县历史悠久、文化厚重，文化遗产资源丰富，传统格局和历史风貌保存较好，地域特色鲜明，具有重要的历史文化价值。\n二、你省、怀化市及芷江侗族自治县人民政府要以习近平新时代中国特色社会主义思想为指导，全面贯彻党的二十大和二十届历次全会精神，深入学习贯彻习近平文化思想，按照党中央、国务院决策部署，牢固树立保护历史文化遗产责任重大的观念，落实《中华人民共和国文物保护法》、《历史文化名城名镇名村保护条例》要求，深入研究发掘文化遗产内涵与价值，系统开展考古调查和史料研究，厘清沅州古城的空间格局和发展脉络，明确保护的原则和重点，强化文化遗产保护利用，传承弘扬中华优秀传统文化，讲好中国故事。编制实施好芷江侗族自治县历史文化名城保护规划和文物保护等专项规划，制定并严格实施保护管理规定，明确各类保护对象的清单以及保护内容、要求和责任。正确处理城市建设与文化遗产保护的关系，摸清文物资源家底，加强文物保护，完善“先调查、后建设”、“先考古、后出让”制度，重视城市格局保护和风貌管控，加强整体性保护、系统性保护；保护修复历史文化街区，补足配套基础设施和公共服务设施短板，不断提升人居环境品质；加强不可移动文物和历史建筑修缮保护，推动文物活化利用，充分发挥不可移动文物和历史建筑的使用价值。不得改变与名城相互依存的自然景观和环境，不得进行任何与名城环境和风貌不相协调的建设活动，不得损坏或者擅自迁移、拆除不可移动文物和历史建筑，相关建设项目要依法履行报批程序。进一步强化责任落实，对不履职尽责、保护不力，造成名城历史文化价值受到严重影响的行为，依法依规加大监督问责力度。\n三、你省与住房城乡建设部、国家文物局要加强对芷江侗族自治县国家历史文化名城保护工作的指导、监督和检查。\n国务院               \n2026年1月26日          \n（此件公开发布）",
+    "source": "中国政府网-国务院文件",
+    "publish_time": "2026-01-29",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7056522.htm",
+    "category": "文化、广电、新闻出版\\文化",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_gwywj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "894"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7056522",
+    "title": "国务院关于同意将湖南省芷江侗族自治县列为国家历史文化名城的批复",
+    "source_name": "中国政府网-国务院文件",
+    "source_type": "gov_cn_gwywj",
+    "region_level": "national",
+    "publish_date": "2026-01-29",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7056522.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7056522.htm",
+    "source_feed": "gov_cn_gwywj",
+    "metadata_pairs": {
+      "索引号": "000014349/2026-00004",
+      "主题分类": "文化、广电、新闻出版\\文化",
+      "发文机关": "国务院",
+      "成文日期": "2026年01月26日",
+      "标题": "国务院关于同意将湖南省芷江侗族自治县列为国家历史文化名城的批复",
+      "发文字号": "国函〔2026〕7号",
+      "发布日期": "2026年01月29日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7056522.html"
+  },
+  "raw_legal_doc": {}
+}

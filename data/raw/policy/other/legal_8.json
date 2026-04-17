@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "legal:8",
+  "normalized_projection": {
+    "title": "必须招标的基础设施和公用事业项目范围规定",
+    "issuer": "全国法规整理",
+    "index_no": "未标注",
+    "subject_category": "招投标",
+    "doc_no": "发改法规规[2018]843号",
+    "publish_date": "2018-06-06",
+    "validity_status": "active",
+    "policy_level": "national",
+    "source_url": "未标注",
+    "attachment_paths": [],
+    "keywords": [],
+    "effective_date": "",
+    "abolish_date": "",
+    "summary": ""
+  },
+  "raw_doc": {
+    "id": "legal:8",
+    "title": "必须招标的基础设施和公用事业项目范围规定",
+    "content": "必须招标的基础设施和公用事业项目范围规定\n\n（2018年6月6日国家发展和改革委员会发布，发改法规规[2018]843号）\n\n**第一条** 为明确必须招标的大型基础设施和公用事业项目范围，根据《中华人民共和国招标投标法》和《必须招标的工程项目规定》，制定本规定。\n\n**第二条** 不属于《必须招标的工程项目规定》第二条、第三条规定情形的大型基础设施、公用事业等关系社会公共利益、公众安全的项目，必须招标的具体范围包括：\n\n（一）煤炭、石油、天然气、电力、新能源等能源基础设施项目；\n（二）铁路、公路、管道、水运，以及公共航空和A1级通用机场等交通运输基础设施项目；\n（三）电信枢纽、通信信息网络等通信基础设施项目；\n（四）防洪、灌溉、排涝、引（供）水等水利基础设施项目；\n（五）城市轨道交通等城建项目。\n\n**第三条** 本规定自2018年6月6日起施行。\n\n---",
+    "source": "全国法规整理",
+    "publish_time": "6-6-2018",
+    "url": "",
+    "category": "招投标",
+    "project_type": "招投标",
+    "region": "全国",
+    "region_level": "national",
+    "source_type": "curated_existing",
+    "corpus_tag": "national_baseline",
+    "word_count": "385"
+  },
+  "raw_meta": {
+    "id": "legal:8",
+    "title": "必须招标的基础设施和公用事业项目范围规定",
+    "publish_date": "6-6-2018",
+    "source_url": "",
+    "document_url": "",
+    "region": "全国",
+    "region_level": "national",
+    "category": "招投标",
+    "project_type": "招投标",
+    "source_type": "curated_existing",
+    "source_name": "全国法规整理",
+    "word_count": "385",
+    "corpus_tag": "national_baseline",
+    "upstream_table": "legal_documents",
+    "created_at": "2026-04-14 13:47:23"
+  },
+  "raw_legal_doc": {
+    "id": "8",
+    "title": "必须招标的基础设施和公用事业项目范围规定",
+    "publish_date": "6/6/2018",
+    "content": "### 必须招标的基础设施和公用事业项目范围规定\n\n（2018年6月6日国家发展和改革委员会发布，发改法规规[2018]843号）\n\n**第一条** 为明确必须招标的大型基础设施和公用事业项目范围，根据《中华人民共和国招标投标法》和《必须招标的工程项目规定》，制定本规定。\n\n**第二条** 不属于《必须招标的工程项目规定》第二条、第三条规定情形的大型基础设施、公用事业等关系社会公共利益、公众安全的项目，必须招标的具体范围包括：\n\n（一）煤炭、石油、天然气、电力、新能源等能源基础设施项目；\n（二）铁路、公路、管道、水运，以及公共航空和A1级通用机场等交通运输基础设施项目；\n（三）电信枢纽、通信信息网络等通信基础设施项目；\n（四）防洪、灌溉、排涝、引（供）水等水利基础设施项目；\n（五）城市轨道交通等城建项目。\n\n**第三条** 本规定自2018年6月6日起施行。\n\n---",
+    "status": "active",
+    "created_at": "19/10/2025 12:52:35",
+    "authority_level": "部门规章",
+    "category": "招投标"
+  }
+}

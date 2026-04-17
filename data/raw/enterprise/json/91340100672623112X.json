@@ -1,0 +1,65 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100672623112X",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100672623112X",
+    "enterprise_name": "安徽蓝剑警用装备制造有限公司",
+    "legal_representative": "刘彬",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "2008-03-17",
+    "registration_authority": "",
+    "registered_capital": "1000万人民币",
+    "business_status": "存续",
+    "registered_address": "安徽省合肥市长丰县双凤开发区凤锦路20号",
+    "business_scope": "警用装备、单警装备、警用防护装备、警用服装、服饰、鞋帽、靴、腰带、针织服装、防护服装、雨衣、装具护具、反光背心、骑行服、裤、裙、背包、执勤服、作训服、战训服、常服、衬衣、T桖、棉服 、羊毛衫、袜子、皮革制品、电暖服装服饰、手套、口罩、领带、眼镜、床上用品、照明器材及警示器生产、加工、销售；刑侦及现场勘查器材、安检排爆器材、红外测温器材、道路交通安全防护器材、警用训练器材、便携式执法取证仪、通讯设备、消防器材、破拆救援器材、防毒设备、夜视仪、生物检材、高清监控设备 、数字化审讯系统、数码装备、体育训练器材、劳保用品 、交通工具、办公自动化设备、信息安全设备销售、警用科技产品的研发、售后服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "http://警用服饰.中国",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 19,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023ACCHZ00327",
+      "2023ADDHN00252",
+      "2023ADDHN00271",
+      "2023AEEHN00335",
+      "2023AMMHX00039",
+      "2023BFAHZ01586",
+      "2023BFAHZ02393"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "2889",
+    "title": "安徽蓝剑警用装备制造有限公司",
+    "corporation": "刘彬",
+    "amount_raw": "1000万人民币",
+    "event_time": "2008-03-17",
+    "manage_date": "2008-03-17 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "长丰县",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "纺织服装、服饰业",
+    "USCC": "91340100672623112X",
+    "TIN": "91340100672623112X",
+    "registed_num": "340100000065939",
+    "insured_persons": "132",
+    "location": "安徽省合肥市长丰县双凤开发区凤锦路20号",
+    "source_url": "http://警用服饰.中国",
+    "content": "警用装备、单警装备、警用防护装备、警用服装、服饰、鞋帽、靴、腰带、针织服装、防护服装、雨衣、装具护具、反光背心、骑行服、裤、裙、背包、执勤服、作训服、战训服、常服、衬衣、T桖、棉服 、羊毛衫、袜子、皮革制品、电暖服装服饰、手套、口罩、领带、眼镜、床上用品、照明器材及警示器生产、加工、销售；刑侦及现场勘查器材、安检排爆器材、红外测温器材、道路交通安全防护器材、警用训练器材、便携式执法取证仪、通讯设备、消防器材、破拆救援器材、防毒设备、夜视仪、生物检材、高清监控设备 、数字化审讯系统、数码装备、体育训练器材、劳保用品 、交通工具、办公自动化设备、信息安全设备销售、警用科技产品的研发、售后服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "10000000"
+  }
+}

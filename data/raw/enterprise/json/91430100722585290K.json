@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91430100722585290K",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91430100722585290K",
+    "enterprise_name": "湖南新宇建筑科技集团有限公司",
+    "legal_representative": "言可大",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "5/6/2000 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "50000000",
+    "business_status": "开业",
+    "registered_address": "长沙市芙蓉区八一东路68号日出东方大厦五楼",
+    "business_scope": "建筑装修装饰工程专业承包；建筑幕墙工程专业承包；园林绿化工程、金属门窗工程、环保工程设施、展览陈列工程、文物保护工程、城市及道路照明工程、建筑防水、防腐保温工程施工；古建筑工程服务；智能化安装工程服务；建筑钢结构、预制构件工程安装服务；机电设备安装工程专业承包；建筑装饰材料零售；建筑装饰工程、建筑幕墙工程、展览陈列工程设计；建材、五金产品销售；建筑工程施工总承包；水利水电工程施工总承包；市政公用工程施工总承包；消防设施工程专业承包；地基与基础工程专业承包；电力工程施工总承包；环保工程专业承包；建筑劳务分包。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023AFWGZ02426"
+    ],
+    "all_linked_project_ids": [
+      "2023AFWGZ02426"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "湖南新宇建筑科技集团有限公司",
+    "business_status": "开业",
+    "legal_representative": "言可大",
+    "registered_capital": "50000000",
+    "paid_in_capital": "5500000",
+    "establishment_date": "5/6/2000 00:00:00",
+    "approval_date": "12/8/2021 00:00:00",
+    "business_term": "2000-06-05 至 2050-06-04",
+    "province": "湖南省",
+    "city": "长沙市",
+    "district": "芙蓉区",
+    "phone": "0731-2285886",
+    "additional_phones": "13755021765,0731-84797565,0731-82282218,0731-82281518,0731-84377807",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91430100722585290K",
+    "taxpayer_identification_number": "91430100722585290K",
+    "business_registration_number": "430100000030354",
+    "organization_code": "72258529-0",
+    "insured_personnel_count": "110",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "建筑装饰、装修和其他建筑业",
+    "former_name": "-",
+    "registered_address": "长沙市芙蓉区八一东路68号日出东方大厦五楼",
+    "latest_annual_report_address": "湖南省长沙市芙蓉区韭菜园街道八一路10号天佑大厦30楼",
+    "website": "www.hnxyjzkj.cn",
+    "business_scope": "建筑装修装饰工程专业承包；建筑幕墙工程专业承包；园林绿化工程、金属门窗工程、环保工程设施、展览陈列工程、文物保护工程、城市及道路照明工程、建筑防水、防腐保温工程施工；古建筑工程服务；智能化安装工程服务；建筑钢结构、预制构件工程安装服务；机电设备安装工程专业承包；建筑装饰材料零售；建筑装饰工程、建筑幕墙工程、展览陈列工程设计；建材、五金产品销售；建筑工程施工总承包；水利水电工程施工总承包；市政公用工程施工总承包；消防设施工程专业承包；地基与基础工程专业承包；电力工程施工总承包；环保工程专业承包；建筑劳务分包。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

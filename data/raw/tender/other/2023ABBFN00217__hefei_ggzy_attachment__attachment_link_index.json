@@ -1,0 +1,28 @@
+{
+  "dataset": "tender",
+  "project_id": "2023ABBFN00217",
+  "source_id": "hefei_ggzy_attachment",
+  "record_role": "derived_support",
+  "attachments": [
+    {
+      "file_name": "主要成交标的承诺函.doc",
+      "file_link": "https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=5bcdc8b5-874a-41b9-b1d3-06d493479cea&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a"
+    },
+    {
+      "file_name": "公示附件.docx",
+      "file_link": "https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=5c713585-3fbe-4b44-9486-3762db01fcbb&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a"
+    },
+    {
+      "file_name": "中标（成交）供应商评审情况表.doc",
+      "file_link": "https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=8c090f30-7990-41ad-91c1-e08ca312e0b8&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a"
+    },
+    {
+      "file_name": "招标文件正文.pdf",
+      "file_link": "https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=b2e8d3be-952a-4dbe-980f-962a6d3b76d1&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a"
+    },
+    {
+      "file_name": "安徽合肥公共资源交易中心网上投诉操作手册-投标人.docx",
+      "file_link": "https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=de677b0e-31fd-4034-961f-ece2d37078c3&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a"
+    }
+  ]
+}

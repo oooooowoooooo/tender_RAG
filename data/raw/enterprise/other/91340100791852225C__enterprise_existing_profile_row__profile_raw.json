@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "91340100791852225C",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "安徽晶奇网络科技股份有限公司",
+  "raw_profile": {
+    "record_id": "1014",
+    "title": "安徽晶奇网络科技股份有限公司",
+    "corporation": "冷浩",
+    "amount_raw": "4710万人民币",
+    "event_time": "2006-07-18",
+    "manage_date": "2006-07-18 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "合肥新站高新技术产业开发区",
+    "type": "股份有限公司(非上市、自然人投资或控股)",
+    "industry": "软件和信息技术服务业",
+    "USCC": "91340100791852225C",
+    "TIN": "91340100791852225C",
+    "registed_num": "340100000021376",
+    "insured_persons": "247",
+    "location": "合肥市高新区创新大道2800号合肥创新产业园二期F区2幢",
+    "source_url": "http://www.jqsoft.net",
+    "content": "计算机软件开发、软件生产、销售；计算机及相关硬件销售；建筑弱电智能化工程，安全防范系统工程，网络工程设计、安装、系统集成，相关产品销售；技术服务，信息咨询服务；房屋租赁；经营电信业务；大数据技术服务；居家养老服务；各类商品和技术的进出口业务（国家法律、法规禁止进出口的除外）；二、三类医疗器械的批发（在许可证有效期及核定范围内经营）。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "47100000"
+  }
+}

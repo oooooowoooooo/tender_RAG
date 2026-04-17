@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9134020071996306X7",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9134020071996306X7",
+    "enterprise_name": "安徽省长江河道工程有限责任公司",
+    "legal_representative": "刘晓盼",
+    "entity_type": "其他有限责任公司",
+    "established_date": "22/6/2000 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "120000000",
+    "business_status": "开业",
+    "registered_address": "芜湖市湾沚区安徽新芜经济开发区芜湖佳海产业新城A区A19、A20幢",
+    "business_scope": "水利水电工程、房屋建筑工程、河道清淤工程、地质灾害治理工程、桥梁工程、地基基础工程、机电设备安装工程、室内外装饰装修工程、钢结构工程、园林绿化工程、土石方工程施工；消防设施安装；公路工程建筑；市政道路工程建筑；金属结构制造；建筑幕墙装饰和装修；拆除工程服务；工程监理；工程造价咨询；工程技术咨询服务；工程建设项目招标代理服务；泵站运营、维护；工程检测咨询服务；商品混凝土制造；沥青销售；建筑工程机械与设备租赁；建筑劳务服务（不含劳务派遣和劳务输出）；房地产开发经营；物业管理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023ANNGZ00263",
+      "2023IFAGZ00646",
+      "2023IFAGZ01632"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽省长江河道工程有限责任公司",
+    "business_status": "开业",
+    "legal_representative": "刘晓盼",
+    "registered_capital": "120000000",
+    "paid_in_capital": "24548000",
+    "establishment_date": "22/6/2000 00:00:00",
+    "approval_date": "1/6/2022 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "芜湖市",
+    "district": "湾沚区",
+    "phone": "13880054246",
+    "additional_phones": "0553-2232081,0553-2232801,0553-5915882,42397127,15956910768",
+    "email": "cjhd@ahcjhd.com",
+    "additional_emails": "-",
+    "unified_social_credit_code": "9134020071996306X7",
+    "taxpayer_identification_number": "9134020071996306X7",
+    "business_registration_number": "340200000070821",
+    "organization_code": "71996306-X",
+    "insured_personnel_count": "126",
+    "company_type": "其他有限责任公司",
+    "industry": "土木工程建筑业",
+    "former_name": "-",
+    "registered_address": "芜湖市湾沚区安徽新芜经济开发区芜湖佳海产业新城A区A19、A20幢",
+    "latest_annual_report_address": "安徽省芜湖市弋江区云谷科技园2＃楼11层",
+    "website": "-",
+    "business_scope": "水利水电工程、房屋建筑工程、河道清淤工程、地质灾害治理工程、桥梁工程、地基基础工程、机电设备安装工程、室内外装饰装修工程、钢结构工程、园林绿化工程、土石方工程施工；消防设施安装；公路工程建筑；市政道路工程建筑；金属结构制造；建筑幕墙装饰和装修；拆除工程服务；工程监理；工程造价咨询；工程技术咨询服务；工程建设项目招标代理服务；泵站运营、维护；工程检测咨询服务；商品混凝土制造；沥青销售；建筑工程机械与设备租赁；建筑劳务服务（不含劳务派遣和劳务输出）；房地产开发经营；物业管理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7042325",
+  "normalized_projection": {
+    "title": "国家医疗保障局关于印发《国家长期护理保险服务项目目录（试行）》的通知",
+    "issuer": "​国家医保局",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\保险",
+    "doc_no": "医保发〔2025〕24号",
+    "publish_date": "2025-09-25",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042325.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "保险"
+    ],
+    "effective_date": "2025-09-18",
+    "abolish_date": "",
+    "summary": "文件下载链接：国家医疗保障局关于印发《国家长期护理保险服务项目目录（试行）》的通知.txt"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7042325",
+    "title": "国家医疗保障局关于印发《国家长期护理保险服务项目目录（试行）》的通知",
+    "content": "文件下载链接：国家医疗保障局关于印发《国家长期护理保险服务项目目录（试行）》的通知.txt",
+    "source": "​国家医保局网站",
+    "publish_time": "2025-09-25",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042325.htm",
+    "category": "财政、金融、审计\\保险",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "45"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7042325",
+    "title": "国家医疗保障局关于印发《国家长期护理保险服务项目目录（试行）》的通知",
+    "source_name": "​国家医保局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-09-25",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042325.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042325.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家医疗保障局关于印发《国家长期护理保险服务项目目录（试行）》的通知",
+      "发文机关": "​国家医保局",
+      "发文字号": "医保发〔2025〕24号",
+      "来源": "​国家医保局网站",
+      "主题分类": "财政、金融、审计\\保险",
+      "公文种类": "通知",
+      "成文日期": "2025年09月18日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7042325.html"
+  },
+  "raw_legal_doc": {}
+}

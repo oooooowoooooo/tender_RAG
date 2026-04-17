@@ -1,0 +1,78 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023ALLFN00143",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "终止"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023ALLFN00143",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "终止"
+    ],
+    "publish_time": "2023-11-23 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 庐阳"
+    ],
+    "tenderer_or_purchaser": [
+      "合肥市庐阳区重点工程建设管理中心"
+    ],
+    "agency": [
+      "合肥庐阳合信公共资源交易项目管理有限公司"
+    ],
+    "budget_or_bid_amount": [
+      "1036700.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231123/be97f894-0de8-4473-af00-9d38d0392d23.html?ztbtab=002002004&biaoduanguid=e466ad24-1435-48d3-875e-340ba0ceb02c",
+    "attachment_paths": [],
+    "candidate_company_names": [],
+    "winner_company_name": [],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:625",
+      "project_id": "2023ALLFN00143",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231123/be97f894-0de8-4473-af00-9d38d0392d23.html?ztbtab=002002004&biaoduanguid=e466ad24-1435-48d3-875e-340ba0ceb02c",
+      "type": "政府采购",
+      "stage": "终止",
+      "event_time": "2023-11-23",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "庐阳",
+      "category": "政府",
+      "sub_category": "服务",
+      "budget_amount": "1036700.0",
+      "purchaser": "合肥市庐阳区重点工程建设管理中心",
+      "agency": "合肥庐阳合信公共资源交易项目管理有限公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "",
+      "bid_amount": "",
+      "bid_date": "",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"庐阳西部片区支路网第三方检测终止公告\", \"content\": \"\n\n庐阳西部片区支路网第三方检测终止公告\n\n一、项目基本情况\n\n采购项目编号：2023ALLFN00143\n\n采购项目名称：庐阳西部片区支路网第三方检测\n\n二、项目终止的原因\n\n终止原因：有效投标单位不足规定数目，本项目流标\n\n三、其他补充事宜\n\n无\n\n四、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：合肥市庐阳区重点工程建设管理中心\n\n地址：合肥市庐阳区砀山路2199号\n\n联系方式：0551-65699027\n\n2.采购代理机构信息\n\n名称：合肥庐阳合信公共资源交易项目管理有限公司\n\n地址：合肥市庐阳区濉溪路335号蓝钻尚界B座4楼\n\n联系方式：0551-65639782\n\n3.项目联系方式\n\n项目联系人：焦工\n\n电话：0551-65639782\n\n累计办理时间：\n0天1小时19分26秒\n\n招标代理机构提交\n\n提交节点：\n\n2023-12-04\n\n交易中心见证\n\n办理状态：\n\n通过\n\n办理时间：\n\n2023-12-04\n\n办理用时：\n\n0天1小时19分\n\n\", \"attachments\": [{\"file_name\": \"安徽合肥公共资源交易中心网上投诉操作手册-投标人.docx\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=52507e15-67d5-40ed-afbf-25801ec89e4f&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=9a214272-6a56-4f19-91ea-07d07547b035&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "1035",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

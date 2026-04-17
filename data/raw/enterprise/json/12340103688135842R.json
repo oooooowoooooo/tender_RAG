@@ -1,0 +1,81 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "12340103688135842R",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "12340103688135842R",
+    "enterprise_name": "合肥市庐阳区园林绿化管理中心",
+    "legal_representative": "张斌",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "17370000",
+    "business_status": "开业",
+    "registered_address": "合肥市北二环与兰花路交口北（中铁湿地公园内）",
+    "business_scope": "打造生态宜居环境。公共绿地规划设计建设、市政基础设施改造、水环境治理，桥梁、照明、排水设施和大型综合性公园管理。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 111,
+    "selected_project_ids": [
+      "2023ALLFJ00164"
+    ],
+    "all_linked_project_ids": [
+      "2022ALLFN00212",
+      "2023ALLFJ00123",
+      "2023ALLFJ00164",
+      "2023ALLFN00026",
+      "2023ALLFN00029",
+      "2023ALLFN00033",
+      "2023ALLFN00108",
+      "2023ALLFN00114",
+      "2023ALLFN00119",
+      "2023ALLFN00137",
+      "2023ALLFZ00003",
+      "2023ALLFZ00009",
+      "2023ALLFZ00071",
+      "2023ALLZN00007"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥市庐阳区园林绿化管理中心",
+    "business_status": "开业",
+    "legal_representative": "张斌",
+    "registered_capital": "17370000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "2019-03-20 至 2024-03-20",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐阳区",
+    "phone": "0551-62818031",
+    "additional_phones": "0551-65633205,18110912080,13855185592,0551-62643373,18709830093",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "12340103688135842R",
+    "taxpayer_identification_number": "12340103688135842R",
+    "business_registration_number": "事证第134010300142号",
+    "organization_code": "68813584-2",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "合肥市北二环与兰花路交口北（中铁湿地公园内）",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "打造生态宜居环境。公共绿地规划设计建设、市政基础设施改造、水环境治理，桥梁、照明、排水设施和大型综合性公园管理。",
+    "match_status": "成功"
+  }
+}

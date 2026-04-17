@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7013513",
+  "normalized_projection": {
+    "title": "国家林业和草原局关于印发《国家储备林建设管理办法》的通知",
+    "issuer": "国家林草局",
+    "index_no": "未标注",
+    "subject_category": "农业、林业、水利\\林业",
+    "doc_no": "林规规〔2025〕1号",
+    "publish_date": "2025-03-09",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7013513.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250314448413572838.pdf"
+    ],
+    "keywords": [
+      "农业",
+      "林业",
+      "水利"
+    ],
+    "effective_date": "2025-03-06",
+    "abolish_date": "",
+    "summary": "为进一步加强国家储备林建设管理，推动国家储备林高质量发展，国家林草局对2023 年3月8日印发的《国家储备林建设管理办法（试行）》（林工规〔2023〕2 号）进行了修订。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7013513",
+    "title": "国家林业和草原局关于印发《国家储备林建设管理办法》的通知",
+    "content": "国家林业和草原局关于印发《国家储备林建设管理办法》的通知\n林规规〔2025〕1号\n各省、自治区、直辖市林业和草原主管部门，新疆生产建设兵团林业和草原局，大兴安岭林业集团：\n为进一步加强国家储备林建设管理，推动国家储备林高质量发展，我局对2023年3月8日印发的《国家储备林建设管理办法（试行）》（林工规〔2023〕2号）进行了修订，现印发给你们，请遵照执行。\n特此通知。\n国家林业和草原局\n2025年3月6日\n附件：国家储备林建设管理办法",
+    "source": "国家林草局网站",
+    "publish_time": "2025-03-09",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7013513.htm",
+    "category": "农业、林业、水利\\林业",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "219"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7013513",
+    "title": "国家林业和草原局关于印发《国家储备林建设管理办法》的通知",
+    "source_name": "国家林草局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-09",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7013513.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7013513.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家林业和草原局关于印发《国家储备林建设管理办法》的通知",
+      "发文机关": "国家林草局",
+      "发文字号": "林规规〔2025〕1号",
+      "来源": "国家林草局网站",
+      "主题分类": "农业、林业、水利\\林业",
+      "公文种类": "通知",
+      "成文日期": "2025年03月06日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250314448413572838.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7013513.html"
+  },
+  "raw_legal_doc": {}
+}

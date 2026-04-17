@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100570408702N",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100570408702N",
+    "enterprise_name": "安徽新能电力工程监理咨询有限公司",
+    "legal_representative": "刘健",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "22/2/2011 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "11000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市蜀山区黄山路588号大溪地现代城78幢1301-1303室",
+    "business_scope": "工程监理、咨询及勘察设计；工程项目管理及技术服务（以上凡涉及资质的凭资质核准经营范围经营）。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023AEEBZ00337"
+    ],
+    "all_linked_project_ids": [
+      "2023AEEBZ00337"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽新能电力工程监理咨询有限公司",
+    "business_status": "开业",
+    "legal_representative": "刘健",
+    "registered_capital": "11000000",
+    "paid_in_capital": "7300000",
+    "establishment_date": "22/2/2011 00:00:00",
+    "approval_date": "13/12/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "0551-65113550",
+    "additional_phones": "0551-65133063,0551-65133498,0551-65113549,13966736677,13955080718",
+    "email": "ahxndl@163.com",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91340100570408702N",
+    "taxpayer_identification_number": "91340100570408702N",
+    "business_registration_number": "340100000487928",
+    "organization_code": "57040870-2",
+    "insured_personnel_count": "38",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市蜀山区黄山路588号大溪地现代城78幢1301-1303室",
+    "latest_annual_report_address": "安徽省合肥市蜀山区黄山路588号大溪地现代城78幢1301-1303室",
+    "website": "www.ahxndl.com",
+    "business_scope": "工程监理、咨询及勘察设计；工程项目管理及技术服务（以上凡涉及资质的凭资质核准经营范围经营）。",
+    "match_status": "成功"
+  }
+}

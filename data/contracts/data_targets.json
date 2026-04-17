@@ -1,0 +1,125 @@
+{
+  "version": "v1",
+  "tender": {
+    "target_count": 1000,
+    "count_unit": "project",
+    "source_scope": [
+      "全国公共资源交易平台-安徽/合肥相关项目",
+      "安徽合肥公共资源交易电子服务系统"
+    ],
+    "raw_formats": [
+      "html",
+      "pdf"
+    ],
+    "packaged_raw_formats": [
+      "json"
+    ],
+    "dedupe_keys": [
+      "source_platform",
+      "project_code",
+      "notice_url_hash"
+    ],
+    "required_fields": [
+      "project_code",
+      "project_name",
+      "business_type",
+      "info_type",
+      "publish_time",
+      "region",
+      "tenderer_or_purchaser",
+      "agency",
+      "budget_or_bid_amount",
+      "opening_time",
+      "source_platform",
+      "source_url",
+      "attachment_paths"
+    ],
+    "optional_fields": [
+      "candidate_company_names",
+      "winner_company_name",
+      "contact_phone",
+      "qualification_requirements",
+      "procurement_method"
+    ]
+  },
+  "policy": {
+    "target_count": 1000,
+    "count_unit": "document",
+    "source_scope": [
+      "国务院/国家部委",
+      "安徽省政府信息公开",
+      "合肥政务公开"
+    ],
+    "raw_formats": [
+      "html",
+      "pdf"
+    ],
+    "packaged_raw_formats": [
+      "json",
+      "html"
+    ],
+    "dedupe_keys": [
+      "issuer",
+      "doc_no",
+      "title_hash"
+    ],
+    "required_fields": [
+      "title",
+      "issuer",
+      "index_no",
+      "subject_category",
+      "doc_no",
+      "publish_date",
+      "validity_status",
+      "policy_level",
+      "source_url",
+      "attachment_paths"
+    ],
+    "optional_fields": [
+      "keywords",
+      "effective_date",
+      "abolish_date",
+      "summary"
+    ]
+  },
+  "enterprise": {
+    "target_count": 1000,
+    "count_unit": "entity",
+    "source_scope": [
+      "国家企业信用信息公示系统-安徽",
+      "从招投标主体反查得到的企业"
+    ],
+    "raw_formats": [
+      "html",
+      "json"
+    ],
+    "packaged_raw_formats": [
+      "json"
+    ],
+    "dedupe_keys": [
+      "unified_social_credit_code",
+      "enterprise_name"
+    ],
+    "required_fields": [
+      "unified_social_credit_code",
+      "enterprise_name",
+      "legal_representative",
+      "entity_type",
+      "established_date",
+      "registration_authority",
+      "registered_capital",
+      "business_status",
+      "registered_address",
+      "business_scope",
+      "source_url"
+    ],
+    "optional_fields": [
+      "administrative_licenses",
+      "administrative_penalties",
+      "annual_reports",
+      "spot_checks",
+      "abnormal_operations",
+      "serious_illegal_list"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "11340121003004322U",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "11340121003004322U",
+    "enterprise_name": "长丰县岗集镇人民政府",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "合肥市长丰县岗集镇",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 160,
+    "selected_project_ids": [
+      "2023ACCFN00502",
+      "2023ACCFN00513"
+    ],
+    "all_linked_project_ids": [
+      "2022ACCFN00420",
+      "2022ACCFN00427",
+      "2022ACCFN00466",
+      "2023ACCFN00502",
+      "2023ACCFN00513",
+      "2023ACCFZ00328",
+      "2023ACCHX00312",
+      "2023ACCHZ00369",
+      "2023ACCHZ00423",
+      "2023ACCZN00017",
+      "2023ACCZN00111",
+      "2023ACCZN00305",
+      "2023ACCZN00306",
+      "2023ACCZN00343",
+      "2023ACCZN00382"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "长丰县岗集镇人民政府",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "长丰县",
+    "phone": "13866775918",
+    "additional_phones": "13955135613,0551-66777232,0551-66778268,0551-66777395,0551-66770159",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "11340121003004322U",
+    "taxpayer_identification_number": "11340121003004322U",
+    "business_registration_number": "-",
+    "organization_code": "00300432-2",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "合肥市长丰县岗集镇",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

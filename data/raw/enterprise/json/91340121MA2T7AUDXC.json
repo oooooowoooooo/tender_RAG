@@ -1,0 +1,66 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340121MA2T7AUDXC",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340121MA2T7AUDXC",
+    "enterprise_name": "长丰县城乡公交集团有限公司",
+    "legal_representative": "谷彬",
+    "entity_type": "有限责任公司(国有独资)",
+    "established_date": "7/11/2018 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "20000000",
+    "business_status": "开业",
+    "registered_address": "长丰县水湖镇站前路县城公交停保场综合办公楼",
+    "business_scope": "城市公交、城市公共汽电车客运；城乡公共交通营运；道路旅客运输及客运站场经营；长、短途客运；包车服务；汽车租赁；货物运输及站场经营；出租汽车（巡游、网约）；机动车维修；机动车驾驶员培训；水路运输服务；仓储服务；物流服务；车辆及车辆零部件销售；旅游、广告、物业管理服务；信息科技咨询；充电及充电设施安装；保险事务代理；代驾服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 24,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023ACCGZ00251"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "长丰县城乡公交集团有限公司",
+    "business_status": "开业",
+    "legal_representative": "谷彬",
+    "registered_capital": "20000000",
+    "paid_in_capital": "20000000",
+    "establishment_date": "7/11/2018 00:00:00",
+    "approval_date": "20/2/2024 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "长丰县",
+    "phone": "15056039856",
+    "additional_phones": "0551-66671132,13956932896,0551-66671028,15056249686,0551-66671039",
+    "email": "379781501@qq.com",
+    "additional_emails": "648204274@qq.com",
+    "unified_social_credit_code": "91340121MA2T7AUDXC",
+    "taxpayer_identification_number": "91340121MA2T7AUDXC",
+    "business_registration_number": "340121000166380",
+    "organization_code": "MA2T7AUD-X",
+    "insured_personnel_count": "385",
+    "company_type": "有限责任公司(国有独资)",
+    "industry": "商务服务业",
+    "former_name": "-",
+    "registered_address": "长丰县水湖镇站前路县城公交停保场综合办公楼",
+    "latest_annual_report_address": "长丰县水湖镇站前路",
+    "website": "www.cfgj.com.cn",
+    "business_scope": "城市公交、城市公共汽电车客运；城乡公共交通营运；道路旅客运输及客运站场经营；长、短途客运；包车服务；汽车租赁；货物运输及站场经营；出租汽车（巡游、网约）；机动车维修；机动车驾驶员培训；水路运输服务；仓储服务；物流服务；车辆及车辆零部件销售；旅游、广告、物业管理服务；信息科技咨询；充电及充电设施安装；保险事务代理；代驾服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

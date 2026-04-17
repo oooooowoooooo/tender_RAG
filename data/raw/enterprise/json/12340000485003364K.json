@@ -1,0 +1,71 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "12340000485003364K",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "12340000485003364K",
+    "enterprise_name": "安徽省公共卫生临床中心（安徽省传染病医院）",
+    "legal_representative": "张泓",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "19890000",
+    "business_status": "开业",
+    "registered_address": "合肥市淮海大道100号",
+    "business_scope": "医疗、保健",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 9,
+    "selected_project_ids": [
+      "2023DFAGZ02572"
+    ],
+    "all_linked_project_ids": [
+      "2023BFAFZ02320",
+      "2023BFAFZ02321",
+      "2023BFAHZ02228",
+      "2023DFAGZ02572"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽省公共卫生临床中心（安徽省传染病医院）",
+    "business_status": "开业",
+    "legal_representative": "张泓",
+    "registered_capital": "19890000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "2022-05-17 至 2027-05-17",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "合肥市",
+    "phone": "0551-62922911",
+    "additional_phones": "0551-62875489,0551-2873825,0551-65320549,0551-66332210,0551-62631311",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "12340000485003364K",
+    "taxpayer_identification_number": "12340000485003364K",
+    "business_registration_number": "-",
+    "organization_code": "48500336-4",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "卫生",
+    "former_name": "-",
+    "registered_address": "合肥市淮海大道100号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "医疗、保健",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7063427",
+  "normalized_projection": {
+    "title": "市场监管总局关于发布《特种设备使用管理规则》的公告",
+    "issuer": "市场监管总局",
+    "index_no": "未标注",
+    "subject_category": "市场监管、安全生产监管\\其他",
+    "doc_no": "2026年第6号",
+    "publish_date": "2026-03-22",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202603/content_7063427.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202603/P020260322391133204973.pdf"
+    ],
+    "keywords": [
+      "市场监管",
+      "安全生产监管",
+      "其他"
+    ],
+    "effective_date": "2026-02-02",
+    "abolish_date": "",
+    "summary": "为贯彻落实《特种设备使用单位落实使用安全主体责任监督管理规定》，进一步加强特种设备使用单位监管，市场监管总局对《特种设备使用管理规则》进行了修订。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7063427",
+    "title": "市场监管总局关于发布《特种设备使用管理规则》的公告",
+    "content": "市场监管总局关于发布《特种设备使用管理规则》的公告\n2026年第6号\n为贯彻落实《特种设备使用单位落实使用安全主体责任监督管理规定》（国家市场监督管理总局令第74号），进一步加强特种设备使用单位监管，市场监管总局对《特种设备使用管理规则》（TSG08－2017）进行了修订，现予以发布，自2026年5月1日起施行。\n特此公告。\n市场监管总局\n2026年2月2日\n  附件下载：\n  TSG 08—2026 特种设备使用管理规则",
+    "source": "市场监管总局网站",
+    "publish_time": "2026-03-22",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202603/content_7063427.htm",
+    "category": "市场监管、安全生产监管\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "213"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7063427",
+    "title": "市场监管总局关于发布《特种设备使用管理规则》的公告",
+    "source_name": "市场监管总局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-03-22",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202603/content_7063427.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202603/content_7063427.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "市场监管总局关于发布《特种设备使用管理规则》的公告",
+      "发文机关": "市场监管总局",
+      "发文字号": "2026年第6号",
+      "来源": "市场监管总局网站",
+      "主题分类": "市场监管、安全生产监管\\其他",
+      "公文种类": "公告",
+      "成文日期": "2026年02月02日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202603/P020260322391133204973.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7063427.html"
+  },
+  "raw_legal_doc": {}
+}

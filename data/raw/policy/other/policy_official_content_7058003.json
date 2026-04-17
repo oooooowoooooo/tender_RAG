@@ -1,0 +1,70 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7058003",
+  "normalized_projection": {
+    "title": "关于“十五五”期间国家综合性消防救援队伍进口税收优惠政策的通知",
+    "issuer": "财政部 海关总署 税务总局",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\税务",
+    "doc_no": "财关税〔2026〕15号",
+    "publish_date": "2026-02-14",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7058003.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260214506878387339.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260214506878705123.pdf"
+    ],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "税务"
+    ],
+    "effective_date": "2026-02-13",
+    "abolish_date": "",
+    "summary": "为支持国家综合性消防救援队伍建设，财政部、海关总署、税务总局近日联合印发《关于“十五五”期间国家综合性消防救援队伍进口税收优惠政策的通知》，明确自2026年1月1日至2030年12月31日，对国家综合性消防救援队伍进口国内不能生产或性能不能满足需要的消防救援装备，免征进口关税、进口环节增值税和消费税。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7058003",
+    "title": "关于“十五五”期间国家综合性消防救援队伍进口税收优惠政策的通知",
+    "content": "关于“十五五”期间国家综合性消防救援队伍进口税收优惠政策的通知\n财关税〔2026〕15号\n国家消防救援局，各省、自治区、直辖市、计划单列市财政厅（局），新疆生产建设兵团财政局，海关总署广东分署、各直属海关，国家税务总局各省、自治区、直辖市、计划单列市税务局：\n为支持国家综合性消防救援队伍建设，现将有关进口税收优惠政策通知如下：\n一、自2026年1月1日至2030年12月31日，对国家综合性消防救援队伍进口国内不能生产或性能不能满足需要的消防救援装备，免征进口关税、进口环节增值税和消费税。\n二、享受免税政策的装备列入《消防救援装备进口免税目录》（见附件1）。该目录由财政部会同海关总署、税务总局、国家消防救援局、工业和信息化部根据消防救援任务需求和国内产业发展情况适时调整。\n三、国家消防救援局对国家综合性消防救援队伍各级队伍进口列入《消防救援装备进口免税目录》的装备出具《国家综合性消防救援队伍进口消防救援装备确认表》（见附件2）。国家综合性消防救援队伍各级队伍凭《国家综合性消防救援队伍进口消防救援装备确认表》，按相关规定向海关申请办理消防救援装备进口免税手续。进口消防救援装备需由海关按减免税货物监管其使用。\n四、国家消防救援局牵头制定《免税进口消防救援装备管理办法》，明确进口单位条件，以及免税消防救援装备进口后登记、使用、管理要求。\n五、国家消防救援局每年对上一年度的政策执行情况进行总结评估，汇总分析进口装备货值和免税额、政策执行效果、存在问题等，并对主要进口装备分类、分单位进行统计，以上形成报告于每年3月31日前函告财政部，抄送海关总署、税务总局。\n  附件：\n  1.消防救援装备进口免税目录\n  2.国家综合性消防救援队伍进口消防救援装备确认表\n\n财政部\n海关总署\n税务总局\n2026年2月13日",
+    "source": "财政部网站",
+    "publish_time": "2026-02-14",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7058003.htm",
+    "category": "财政、金融、审计\\税务",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "760"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7058003",
+    "title": "关于“十五五”期间国家综合性消防救援队伍进口税收优惠政策的通知",
+    "source_name": "财政部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-02-14",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7058003.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7058003.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于“十五五”期间国家综合性消防救援队伍进口税收优惠政策的通知",
+      "发文机关": "财政部 海关总署 税务总局",
+      "发文字号": "财关税〔2026〕15号",
+      "来源": "财政部网站",
+      "主题分类": "财政、金融、审计\\税务",
+      "公文种类": "通知",
+      "成文日期": "2026年02月13日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260214506878387339.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260214506878705123.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7058003.html"
+  },
+  "raw_legal_doc": {}
+}

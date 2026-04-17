@@ -1,0 +1,20 @@
+{
+  "dataset": "tender",
+  "project_id": "2023ABBFN00205",
+  "source_id": "hefei_ggzy_attachment",
+  "record_role": "derived_support",
+  "attachments": [
+    {
+      "file_name": "公示附件.docx",
+      "file_link": "https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=0124b8c3-4aa9-4740-b973-36746e437670&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a"
+    },
+    {
+      "file_name": "安徽合肥公共资源交易中心网上投诉操作手册-投标人(1).docx",
+      "file_link": "https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=0c2187c8-b787-44bb-afb8-89eeae62f0f8&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a"
+    },
+    {
+      "file_name": "招标文件正文.pdf",
+      "file_link": "https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=79cca137-4260-4711-a6d4-79cce03eccd4&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a"
+    }
+  ]
+}

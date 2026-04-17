@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "91340124788555051P",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "庐江县城市建设投资有限公司",
+  "raw_profile": {
+    "record_id": "25413",
+    "title": "庐江县城市建设投资有限公司",
+    "corporation": "金建明",
+    "amount_raw": "404920万人民币",
+    "event_time": "2006-04-24",
+    "manage_date": "2006-04-24 至 2056-04-23",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐江县",
+    "type": "有限责任公司（非自然人投资或控股的法人独资）",
+    "industry": "资本市场服务",
+    "USCC": "91340124788555051P",
+    "TIN": "91340124788555051P",
+    "registed_num": "341421000002900",
+    "insured_persons": "29",
+    "location": "安徽省合肥市庐江县庐城镇晨光路17号东方水岸写字楼13-14层",
+    "source_url": "-",
+    "content": "组织或参与实施县本级政府性投资的城市建设项目；土地的整理与开发；筹集和管理城市建设资金；开展资本运营，支持和配合国企改革；PPP项目合作及其他股权投资。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "4049200000"
+  }
+}

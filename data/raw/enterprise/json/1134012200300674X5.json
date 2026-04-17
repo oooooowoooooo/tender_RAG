@@ -1,0 +1,78 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "1134012200300674X5",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "1134012200300674X5",
+    "enterprise_name": "肥东县元疃镇人民政府",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "肥东县元疃镇",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 3,
+    "all_tender_frequency": 67,
+    "selected_project_ids": [
+      "2023ADDBZ00283",
+      "2023ADDBZ00284",
+      "2023ADDZN00329"
+    ],
+    "all_linked_project_ids": [
+      "2022ADDZN00378",
+      "2022ADDZN00403",
+      "2023ADDBZ00283",
+      "2023ADDBZ00284",
+      "2023ADDFD00201",
+      "2023ADDFN00171",
+      "2023ADDZN00044",
+      "2023ADDZN00077",
+      "2023ADDZN00329"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "肥东县元疃镇人民政府",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥东县",
+    "phone": "0551-7951111",
+    "additional_phones": "0551-67951111,13083009918,0551-67951612,18556353576,0551-67951101",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "1134012200300674X5",
+    "taxpayer_identification_number": "1134012200300674X5",
+    "business_registration_number": "-",
+    "organization_code": "00300674-X",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "肥东县元疃镇",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

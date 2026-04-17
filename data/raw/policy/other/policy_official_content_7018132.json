@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7018132",
+  "normalized_projection": {
+    "title": "国务院关于《加快推进服务业扩大开放综合试点工作方案》的批复",
+    "issuer": "国务院",
+    "index_no": "000014349/2025-00041",
+    "subject_category": "商贸、海关、旅游\\其他",
+    "doc_no": "国函〔2025〕39号",
+    "publish_date": "2025-04-11",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7018132.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "商贸",
+      "海关",
+      "旅游",
+      "其他"
+    ],
+    "effective_date": "2025-04-08",
+    "abolish_date": "",
+    "summary": "原则同意《加快推进服务业扩大开放综合试点工作方案》，请认真组织实施。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7018132",
+    "title": "国务院关于《加快推进服务业扩大开放综合试点工作方案》的批复",
+    "content": "国务院关于《加快推进服务业扩大开放\n\n综合试点工作方案》的批复\n国函〔2025〕39号\n\n商务部：\n你部关于加快推进服务业扩大开放综合试点相关工作的请示收悉。现批复如下：\n一、原则同意《加快推进服务业扩大开放综合试点工作方案》（以下简称《工作方案》），请认真组织实施。\n二、《工作方案》实施要以习近平新时代中国特色社会主义思想为指导，全面贯彻党的二十大和二十届二中、三中全会精神，围绕进一步全面深化改革、推进中国式现代化、服务现代化经济体系建设和新质生产力发展需要，赋予新一轮服务业扩大开放综合试点新内容新任务，主动对接国际高标准经贸规则，深入开展改革创新探索，大胆试、大胆闯，有序扩大自主开放，释放超大规模市场潜力，积累更多可复制可推广经验，促进服务业高质量发展，为建设更高水平开放型经济新体制作出更大贡献。\n三、在已有试点地区基础上，将大连市、宁波市、厦门市、青岛市、深圳市、合肥市、福州市、西安市、苏州市等9个城市纳入试点范围。各试点地区要加强对《工作方案》实施的组织领导，进一步完善试点管理体制，优化协同联动、保障有力的工作机制，加强人才培养和高素质专业化管理队伍建设，推动试点任务落地落实，更好为全国服务业开放创新发展发挥引领作用。\n四、国务院有关部门要按照职责分工，积极支持服务业扩大开放综合试点工作。商务部要会同有关部门加强指导和协调推进，组织开展督促和评估工作，确保《工作方案》各项改革开放措施落实到位。\n五、需要暂时调整实施相关行政法规、国务院文件和经国务院批准的部门规章的部分规定的，按规定程序办理。国务院有关部门要根据《工作方案》相应调整本部门制定的规章和规范性文件。重大事项及时请示报告。\n国务院             \n2025年4月8日          \n（此件公开发布）",
+    "source": "中国政府网-国务院文件",
+    "publish_time": "2025-04-11",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7018132.htm",
+    "category": "商贸、海关、旅游\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_gwywj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "752"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7018132",
+    "title": "国务院关于《加快推进服务业扩大开放综合试点工作方案》的批复",
+    "source_name": "中国政府网-国务院文件",
+    "source_type": "gov_cn_gwywj",
+    "region_level": "national",
+    "publish_date": "2025-04-11",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7018132.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7018132.htm",
+    "source_feed": "gov_cn_gwywj",
+    "metadata_pairs": {
+      "索引号": "000014349/2025-00041",
+      "主题分类": "商贸、海关、旅游\\其他",
+      "发文机关": "国务院",
+      "成文日期": "2025年04月08日",
+      "标题": "国务院关于《加快推进服务业扩大开放综合试点工作方案》的批复",
+      "发文字号": "国函〔2025〕39号",
+      "发布日期": "2025年04月11日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7018132.html"
+  },
+  "raw_legal_doc": {}
+}

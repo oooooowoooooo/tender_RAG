@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7043762",
+  "normalized_projection": {
+    "title": "关于治理价格无序竞争维护良好市场价格秩序的公告",
+    "issuer": "国家发展改革委 市场监管总局",
+    "index_no": "未标注",
+    "subject_category": "市场监管、安全生产监管\\其他",
+    "doc_no": "中华人民共和国国家发展和改革委员会 国家市场监督管理总局公告2025年第4号",
+    "publish_date": "2025-10-10",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7043762.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "市场监管",
+      "安全生产监管",
+      "其他"
+    ],
+    "effective_date": "2025-09-28",
+    "abolish_date": "",
+    "summary": "价格竞争是市场竞争的重要方式之一，但无序竞争会对行业发展、产品创新、质量安全等造成负面影响，不利于国民经济健康发展。为规范市场价格行为，维护良好市场价格秩序，助力高质量发展，现就有关事项公告如下。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7043762",
+    "title": "关于治理价格无序竞争维护良好市场价格秩序的公告",
+    "content": "关于治理价格无序竞争维护良好市场价格秩序的公告\n中华人民共和国国家发展和改革委员会 国家市场监督管理总局公告 2025年第4号\n价格竞争是市场竞争的重要方式之一，但无序竞争会对行业发展、产品创新、质量安全等造成负面影响，不利于国民经济健康发展。为规范市场价格行为，维护良好市场价格秩序，助力高质量发展，现就有关事项公告如下。\n一、实行市场调节价的商品和服务，经营者应当按照《中华人民共和国价格法》规定，遵循公平、合法和诚实信用的原则，以生产经营成本和市场供求状况为基本依据，依法行使自主定价权，自觉维护市场价格秩序，共同营造公平竞争、有序竞争的市场环境。\n二、对价格无序竞争问题突出的重点行业，行业协会等有关机构在国家发展改革委、市场监管总局和行业主管部门指导下，可以调研评估行业平均成本，为经营者合理定价提供参考。\n三、发展改革、市场监管部门要会同行业主管部门加强政策宣贯，提示经营者依法合规经营，提升产品质量和服务水平。对涉嫌价格无序竞争的经营者进行提醒告诫，要求其自觉规范价格行为，严守价格竞争底线。\n四、发展改革、市场监管部门对提醒告诫后仍未规范价格行为的经营者予以重点关注，必要时开展成本调查、价格监督检查，发现价格违法违规问题的，依法予以查处。\n五、经营者应当严格遵守《中华人民共和国招标投标法》《中华人民共和国招标投标法实施条例》规定，自觉规范招标投标行为，不得以低于成本的报价竞标，保障产品和服务质量。\n六、行业协会应当严格遵守《中华人民共和国价格法》《中华人民共和国反垄断法》规定，促进行业自律，引导经营者共同维护行业公平竞争秩序。\n七、国家发展改革委、市场监管总局将会同有关部门密切监测市场价格竞争状况，维护重点领域价格秩序。充分发挥信用监管作用，依法依规实施失信惩戒。\n国家发展改革委\n市场监管总局\n2025年9月28日",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-10-10",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7043762.htm",
+    "category": "市场监管、安全生产监管\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "771"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7043762",
+    "title": "关于治理价格无序竞争维护良好市场价格秩序的公告",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-10-10",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7043762.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7043762.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于治理价格无序竞争维护良好市场价格秩序的公告",
+      "发文机关": "国家发展改革委 市场监管总局",
+      "发文字号": "中华人民共和国国家发展和改革委员会 国家市场监督管理总局公告2025年第4号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "市场监管、安全生产监管\\其他",
+      "公文种类": "公告",
+      "成文日期": "2025年09月28日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7043762.html"
+  },
+  "raw_legal_doc": {}
+}

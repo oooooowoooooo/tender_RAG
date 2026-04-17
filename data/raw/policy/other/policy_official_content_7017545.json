@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7017545",
+  "normalized_projection": {
+    "title": "国家金融监督管理总局关于调整保险资金权益类资产监管比例有关事项的通知",
+    "issuer": "金融监管总局",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\其他",
+    "doc_no": "金规〔2025〕12号",
+    "publish_date": "2025-04-08",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7017545.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "其他"
+    ],
+    "effective_date": "2025-04-08",
+    "abolish_date": "",
+    "summary": "为优化保险资产配置结构，发挥保险资金价值投资、长期投资优势，提升保险资金服务实体经济质效，现就有关事项通知如下。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7017545",
+    "title": "国家金融监督管理总局关于调整保险资金权益类资产监管比例有关事项的通知",
+    "content": "国家金融监督管理总局关于调整保险资金权益类资产监管比例有关事项的通知\n金规〔2025〕12号\n各金融监管局，各保险集团（控股）公司、保险公司、保险资产管理公司：\n为优化保险资产配置结构，发挥保险资金价值投资、长期投资优势，提升保险资金服务实体经济质效，现就有关事项通知如下：\n一、保险资金运用应当遵循安全性、流动性、收益性和资产负债匹配原则，分析各类账户资产的风险收益特征，合理安排各类资产配置比例，完善风险监测、控制和报告机制。\n二、保险公司（含保险集团（控股）公司，下同）权益类资产配置比例，调整为以下标准：\n（一）上季末综合偿付能力充足率低于100%的，权益类资产的账面余额不得高于本公司上季末总资产的10%；\n（二）上季末综合偿付能力充足率超过100%（含此数，下同）低于150%的，权益类资产账面余额不得高于本公司上季末总资产的20%；\n（三）上季末综合偿付能力充足率超过150%低于250%的，权益类资产账面余额不得高于本公司上季末总资产的30%；\n（四）上季末综合偿付能力充足率超过250%低于350%的，权益类资产账面余额不得高于本公司上季末总资产的40%；\n（五）上季末综合偿付能力充足率超过350%的，权益类资产账面余额不得高于本公司上季末总资产的50%。\n保险集团（控股）公司经营保险业务的，采用集团本级口径的综合偿付能力充足率，保险集团（控股）公司不经营保险业务的，采用集团合并口径的综合偿付能力充足率，国家金融监督管理总局认可的情形除外。\n三、保险公司投资单一创业投资基金的账面余额占该基金实缴规模的比例不得高于30%。\n四、保险公司开展个人税收递延型商业养老保险业务，其税延养老保险普通账户与其他保险产品普通账户合并计算投资比例，不再单独计算投资比例。\n五、原比例监管有关规定与本通知不一致的，以本通知为准。\n国家金融监督管理总局\n2025年4月8日",
+    "source": "金融监管总局网站",
+    "publish_time": "2025-04-08",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7017545.htm",
+    "category": "财政、金融、审计\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "789"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7017545",
+    "title": "国家金融监督管理总局关于调整保险资金权益类资产监管比例有关事项的通知",
+    "source_name": "金融监管总局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-04-08",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7017545.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7017545.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家金融监督管理总局关于调整保险资金权益类资产监管比例有关事项的通知",
+      "发文机关": "金融监管总局",
+      "发文字号": "金规〔2025〕12号",
+      "来源": "金融监管总局网站",
+      "主题分类": "财政、金融、审计\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年04月08日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7017545.html"
+  },
+  "raw_legal_doc": {}
+}

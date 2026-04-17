@@ -1,0 +1,62 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913210031407336362",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913210031407336362",
+    "enterprise_name": "江苏汇诚投资咨询管理有限公司",
+    "legal_representative": "王政",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "1994-12-12",
+    "registration_authority": "",
+    "registered_capital": "500万人民币",
+    "business_status": "存续",
+    "registered_address": "扬州市邗江北路68号",
+    "business_scope": "工程造价咨询（甲级资质）；工程招标代理（甲级资质）；工程咨询（甲级资质）；工程监理；项目管理；项目经济评价；房地产咨询；政府采购法规定的货物、工程和服务的政府采购项目代理业务及政府采购咨询服务业务（甲级资质）；全过程工程咨询。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "http://www.jshczx.com",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022AEEFZ00350",
+      "2022ANNGZ00558",
+      "2023ANNGZ00126"
+    ],
+    "roles": [
+      "agency",
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "4463",
+    "title": "江苏汇诚投资咨询管理有限公司",
+    "corporation": "王政",
+    "amount_raw": "500万人民币",
+    "event_time": "1994-12-12",
+    "manage_date": "1994-12-12 至 无固定期限",
+    "status": "存续",
+    "province": "江苏省",
+    "city": "扬州市",
+    "district": "邗江区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "USCC": "913210031407336362",
+    "TIN": "913210031407336362",
+    "registed_num": "321000000057394",
+    "insured_persons": "68",
+    "location": "扬州市邗江北路68号",
+    "source_url": "http://www.jshczx.com",
+    "content": "工程造价咨询（甲级资质）；工程招标代理（甲级资质）；工程咨询（甲级资质）；工程监理；项目管理；项目经济评价；房地产咨询；政府采购法规定的货物、工程和服务的政府采购项目代理业务及政府采购咨询服务业务（甲级资质）；全过程工程咨询。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "5000000"
+  }
+}

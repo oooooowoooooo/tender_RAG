@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7012521",
+  "normalized_projection": {
+    "title": "国家税务总局关于发布出口退税率文库2025A版的通知",
+    "issuer": "税务总局",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\税务",
+    "doc_no": "税总货劳函〔2025〕24号",
+    "publish_date": "2025-03-10",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7012521.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "税务"
+    ],
+    "effective_date": "2025-03-05",
+    "abolish_date": "",
+    "summary": "根据进出口税则及海关编码调整情况，国家税务总局编制了2025A版出口退税率文库（以下简称文库）。现将有关事项通知如下。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7012521",
+    "title": "国家税务总局关于发布出口退税率文库2025A版的通知",
+    "content": "国家税务总局关于发布出口退税率文库2025A版的通知\n税总货劳函〔2025〕24号\n国家税务总局各省、自治区、直辖市和计划单列市税务局，国家税务总局驻各地特派员办事处：\n根据进出口税则及海关编码调整情况，国家税务总局编制了2025A版出口退税率文库（以下简称文库）。现将有关事项通知如下：\n一、文库放置在国家税务总局可控FTP系统“程序发布”目录下。请各地及时下载，对出口退税审核系统进行文库升级，并将文库及时发放给出口企业。\n二、各地要严格执行出口退税率，严禁擅自改变出口退税率，一经发现，要追究相关人员责任。\n三、对执行中发现的问题，请及时报告国家税务总局（货物和劳务税司）。\n国家税务总局\n2025年3月5日",
+    "source": "国家税务总局网站",
+    "publish_time": "2025-03-10",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7012521.htm",
+    "category": "财政、金融、审计\\税务",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "307"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7012521",
+    "title": "国家税务总局关于发布出口退税率文库2025A版的通知",
+    "source_name": "国家税务总局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-10",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7012521.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7012521.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家税务总局关于发布出口退税率文库2025A版的通知",
+      "发文机关": "税务总局",
+      "发文字号": "税总货劳函〔2025〕24号",
+      "来源": "国家税务总局网站",
+      "主题分类": "财政、金融、审计\\税务",
+      "公文种类": "通知",
+      "成文日期": "2025年03月05日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7012521.html"
+  },
+  "raw_legal_doc": {}
+}

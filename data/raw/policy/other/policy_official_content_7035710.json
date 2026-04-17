@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7035710",
+  "normalized_projection": {
+    "title": "国家发展改革委 国家能源局关于印发《电力市场计量结算基本规则》的通知",
+    "issuer": "国家发展改革委 国家能源局",
+    "index_no": "未标注",
+    "subject_category": "国土资源、能源\\电力",
+    "doc_no": "发改能源规〔2025〕976号",
+    "publish_date": "2025-08-08",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7035710.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202508/P020250808530074868838.pdf"
+    ],
+    "keywords": [
+      "国土资源",
+      "能源",
+      "电力"
+    ],
+    "effective_date": "2025-07-18",
+    "abolish_date": "",
+    "summary": "按照加快建设全国统一电力市场要求，为加强电力市场计量结算管理，我们组织制定了《电力市场计量结算基本规则》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7035710",
+    "title": "国家发展改革委 国家能源局关于印发《电力市场计量结算基本规则》的通知",
+    "content": "国家发展改革委 国家能源局关于印发《电力市场计量结算基本规则》的通知\n发改能源规〔2025〕976号\n各省、自治区、直辖市及新疆生产建设兵团发展改革委、能源局，北京市城市管理委员会，天津市、辽宁省、甘肃省工业和信息化局（厅）、重庆市经济和信息化委员会，国家能源局各派出机构，中国核工业集团有限公司、国家电网有限公司、中国南方电网有限责任公司、中国华能集团有限公司、中国大唐集团有限公司、中国华电集团有限公司、国家能源投资集团有限公司、国家电力投资集团公司、中国长江三峡集团有限公司、国家开发投资集团有限公司、中国广核集团有限公司、华润（集团）有限公司、内蒙古电力（集团）有限责任公司，北京、广州电力交易中心：\n按照加快建设全国统一电力市场要求，为加强电力市场计量结算管理，我们组织制定了《电力市场计量结算基本规则》。现印发给你们，请遵照执行。\n国家发展改革委\n国家能源局\n2025年7月18日\n附件：电力市场计量结算基本规则",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-08-08",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7035710.htm",
+    "category": "国土资源、能源\\电力",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "412"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7035710",
+    "title": "国家发展改革委 国家能源局关于印发《电力市场计量结算基本规则》的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-08-08",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7035710.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7035710.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家发展改革委 国家能源局关于印发《电力市场计量结算基本规则》的通知",
+      "发文机关": "国家发展改革委 国家能源局",
+      "发文字号": "发改能源规〔2025〕976号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "国土资源、能源\\电力",
+      "公文种类": "通知",
+      "成文日期": "2025年07月18日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202508/P020250808530074868838.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7035710.html"
+  },
+  "raw_legal_doc": {}
+}

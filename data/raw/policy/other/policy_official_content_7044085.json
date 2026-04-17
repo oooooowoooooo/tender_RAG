@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7044085",
+  "normalized_projection": {
+    "title": "关于印发《跨省跨区电力应急调度管理办法》的通知",
+    "issuer": "国家发展改革委 国家能源局",
+    "index_no": "未标注",
+    "subject_category": "国民经济管理、国有资产监管\\其他",
+    "doc_no": "发改运行规〔2025〕1193号",
+    "publish_date": "2025-10-13",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7044085.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251013468012035020.pdf"
+    ],
+    "keywords": [
+      "国民经济管理",
+      "国有资产监管",
+      "其他"
+    ],
+    "effective_date": "2025-09-09",
+    "abolish_date": "",
+    "summary": "为深入贯彻落实党的二十大和二十届三中全会精神，更好统筹发展和安全，加快规划建设新型能源体系，协同推进省间电力互济，保障电力安全稳定供应，根据《中华人民共和国能源法》《中华人民共和国电力法》《电网调度管理条例》等法律法规，我们制定了《跨省跨区电力应急调度管理办法》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7044085",
+    "title": "关于印发《跨省跨区电力应急调度管理办法》的通知",
+    "content": "关于印发《跨省跨区电力应急调度管理办法》的通知\n发改运行规〔2025〕1193号\n各省、自治区、直辖市发展改革委、能源局，北京市城管委，天津市、辽宁省、上海市、重庆市、甘肃省工信厅（经信委），中国核工业集团有限公司、国家电网有限公司、中国南方电网有限责任公司、中国华能集团有限公司、中国大唐集团有限公司、中国华电集团有限公司、国家电力投资集团有限公司、中国长江三峡集团有限公司、国家能源投资集团有限责任公司、中国广核集团有限公司、国投电力控股股份有限公司、华润电力控股有限公司，北京电力交易中心、广州电力交易中心：\n为深入贯彻落实党的二十大和二十届三中全会精神，更好统筹发展和安全，加快规划建设新型能源体系，协同推进省间电力互济，保障电力安全稳定供应，根据《中华人民共和国能源法》《中华人民共和国电力法》《电网调度管理条例》等法律法规，我们制定了《跨省跨区电力应急调度管理办法》。现印发给你们，请遵照执行。\n国家发展改革委\n国家能源局\n2025年9月9日\n\n附件：\n  跨省跨区电力应急调度管理办法.pdf \n  跨省跨区电力应急调度管理办法.ofd",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-10-13",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7044085.htm",
+    "category": "国民经济管理、国有资产监管\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "475"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7044085",
+    "title": "关于印发《跨省跨区电力应急调度管理办法》的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-10-13",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7044085.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7044085.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《跨省跨区电力应急调度管理办法》的通知",
+      "发文机关": "国家发展改革委 国家能源局",
+      "发文字号": "发改运行规〔2025〕1193号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "国民经济管理、国有资产监管\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年09月09日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251013468012035020.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7044085.html"
+  },
+  "raw_legal_doc": {}
+}

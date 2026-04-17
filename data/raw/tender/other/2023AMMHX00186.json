@@ -1,0 +1,83 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023AMMHX00186",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "中标"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023AMMHX00186",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "中标"
+    ],
+    "publish_time": "2023-12-11 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 巢湖"
+    ],
+    "tenderer_or_purchaser": [
+      "巢湖市农业技术推广中心"
+    ],
+    "agency": [
+      "国华工程科技（集团）有限责任公司"
+    ],
+    "budget_or_bid_amount": [
+      "680000.0",
+      "265000.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231211/02c585ad-cedd-43b9-93bf-cbdfb9b3d1aa.html?ztbtab=002002004&biaoduanguid=160ed85e-4046-4dac-b3e2-36005c029684",
+    "attachment_paths": [],
+    "candidate_company_names": [
+      "江苏宁录科技股份有限公司"
+    ],
+    "winner_company_name": [
+      "江苏宁录科技股份有限公司"
+    ],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:299",
+      "project_id": "2023AMMHX00186",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231211/02c585ad-cedd-43b9-93bf-cbdfb9b3d1aa.html?ztbtab=002002004&biaoduanguid=160ed85e-4046-4dac-b3e2-36005c029684",
+      "type": "政府采购",
+      "stage": "中标",
+      "event_time": "2023-12-11",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "巢湖",
+      "category": "政府",
+      "sub_category": "货物",
+      "budget_amount": "680000.0",
+      "purchaser": "巢湖市农业技术推广中心",
+      "agency": "国华工程科技（集团）有限责任公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "江苏宁录科技股份有限公司",
+      "bid_amount": "265000.0",
+      "bid_date": "2023-12-21",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \" \n \", \"content\": \"原公告的采购项目编号：\n\n原公告的采购项目名称：\n\n首次公告日期：\n\n更正事项：\n□采购公告□采购文件\n采购结果\n\n更正内容：\n\n（\n1）中标（成交）信息\n\n供应商名称：\n\n供应商地址：\n\n中标（成交）金额：\n（\n2）主要标的信息\n{\"1\": [\"序号\", \"1\", \"2\"], \"2\": [\"名称\", \"▲稻纵卷叶螟性诱剂诱芯\", \"▲二化螟性诱剂诱芯\"], \"3\": [\"品牌\", \"宁录生态\", \"宁录生态\"], \"4\": [\"规格型号\", \"PVC 毛细管\", \"PVC 毛细管\"], \"5\": [\"数量\", \"50000枚\", \"30000枚\"], \"6\": [\"单价\", \"3.50元\", \"3.00元\"], \"table_style\": 2}\n\n（\n3）评审专家名单：王林攀,韩松,赵玉良\n\n（\n4）代理服务收费标准及金额：\n成交服务费收费标准按合肥公共资源交易管理协会文件（合公协〔\n2023〕03号）文件规定收取；收费金额：人民币\n叁仟玖佰柒拾伍元整\n\n（\n5）公告期限：自本公告发布之日起1个工作日。\n\n更正日期：\n2023年12\n月\n21日\n三、其他补充事宜\n\n（一）若供应商对上述结果有异议\n,可在成交公告发布之日起七个工作日内通过电子交易系统或以书面形式在工作时间(周一至周五,上午9:00-12:00,下午13:00-17:00,节假日休息)向国华工程科技（集团）有限责任公司提出质疑,质疑材料递交地址:巢湖市半汤路中央领域小区2#楼,联系人：潘工，联系电话:13905651131。\n\n若供应商对质疑处理意见有异议，可以通过网上投诉系统或以书面形式向巢湖市财政局提出投诉，投诉函中应明确提出自身权益受到损害的事实与理由，联系电话：\n0551-82367013。\n\n（二）质疑提起的条件及不予受理的情形\n\n根据《中华人民共和国政府采购法》、《中华人民共和国政府采购法实施条例》、财政部《政府采购质疑和投诉办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n\n（\n1）质疑应以电子交易系统或书面形式实名提出，电子交易系统或书面质疑材料应当包括以下内容：\n\n1、质疑人的名称、地址、邮编、联系人及联系电话；\n\n2、采购人名称、项目名称、项目编号、包别号（如有）；\n\n3、被质疑人名称；\n\n4、具体的质疑事项、基本事实及必要的证明材料；\n\n5、明确的请求及主张；\n\n6、必要的法律依据；\n\n7、提起质疑的日期。\n\n质疑人为法人或者其他组织的，应当由法定代表人或其委托代理人（需有委托授权书）签字并加盖公章。\n\n（\n2）有下列情形之一的，不予受理：\n\n1、提起质疑的主体不是参与该政府采购项目活动的供应商；\n\n2、提起质疑的时间超过规定时限的；\n\n3、质疑材料不完整的；\n\n4、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n\n5、对其他供应商的投标文件详细内容质疑，无法提供合法来源渠道的；\n\n6、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n\n巢湖市农业技术推广中心\n2023年中央财政农业防灾减灾资金（农作物重大病虫害防控）项目采购绿色防控示范物资（1包）（二次）项目中标通知书已发出，请中标（成交）供应商登录电子交易系统自行下载电子中标（成交）通知书。\n\n名称：巢湖市农业技术推广中心\n\n地址：巢湖市巢湖南路\n22号巢湖农业大楼\n\n联系方式：\n13865299133\n\n名称：国华工程科技（集团）有限责任公司\n\n地址：巢湖市半汤路中央领域小区\n2#楼\n\n联系方式：潘工\n\n13905651131\n\n3.项目联系方式\n\n项目联系人：涂工\n\n电话：\n15956594603\n\n1.招标文件正文\n\n2.无重大违法记录声明函、无不良信用记录声明函\n\n3.主要成交标的承诺函\n\n4.中小企业声明函\n\n5.安徽合肥公共资源交易中心网上投诉操作手册-投标人\n\n\", \"attachments\": [{\"file_name\": \"安徽合肥公共资源交易中心网上投诉操作手册-投标人.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=2422e69d-a121-4e00-85fe-850c1ed102c1&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=6662d93f-536c-426b-980a-1bc42b4736a1&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"无重大违法记录声明函、无不良信用记录声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=9ec1204a-28d9-488e-ba07-dec4d95d6403&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"中小企业声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=cd9e16a2-36a4-4e34-98f1-f901eb856ab2&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"主要成交标的承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=eabec8fe-0f34-4895-b1f7-f4add570f401&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}, {\"title\": \"巢湖市农业技术推广中心2023年中央财政农业防灾减灾资金（农作物重大病虫害防控）项目采购绿色防控示范物资（1包）（二次）成交结果公告\", \"content\": \"\n\n巢湖市农业技术推广中心2023年中央财政农业防灾减灾资金（农作物重大病虫害防控）项目采购绿色防控示范物资（1包）（二次）成交结果公告\n\n一、项目编号:\n2023AMMHX00186\n\n二、项目名称:\n巢湖市农业技术推广中心2023年中央财政农业防灾减灾资金（农作物重大病虫害防控）项目采购绿色防控示范物资（1包）（二次）\n\n三、中标（成交）信息\n\n供应商名称：铜陵市禾彰机电设备有限公司\n\n供应商地址：安徽省铜陵市枞阳县枞阳镇狮峰山小区33栋103室\n\n中标（成交）金额：贰拾伍万贰仟元整(￥252000.00元)\n\n四、主要标的信息\n{\"1\": [\"序号\", \"1\", \"2\"], \"2\": [\"名称\", \"▲稻纵卷叶螟性诱剂诱芯\", \"▲二化螟性诱剂诱芯\"], \"3\": [\"品牌\", \"锐龙\", \"锐龙\"], \"4\": [\"规格型号\", \"RL-2335\", \"RL-2338\"], \"5\": [\"数量\", \"50000枚\", \"30000枚\"], \"6\": [\"单价\", \"3.12元\", \"3.2元\"], \"table_style\": 2}\n\n序号\n\n名称\n\n品牌\n\n规格型号\n\n数量\n\n单价\n\n1\n\n▲稻纵卷叶螟性诱剂诱芯\n\n锐龙\n\nRL-2335\n\n50000枚\n\n3.12元\n\n2\n\n▲二化螟性诱剂诱芯\n\n锐龙\n\nRL-2338\n\n30000枚\n\n3.2元\n\n五、评审专家（单一来源采购人员）名单\n\n王林攀,韩松,赵玉良\n\n六、代理服务收费标准及金额\n\n成交服务费收费标准按合肥公共资源交易管理协会文件（合公协〔2023〕03号）文件规定收取；收费金额：人民币叁仟柒佰捌拾元整\n\n七、公告期限\n\n自本公告发布之日起1个工作日。\n\n八、其他补充事宜\n\n（一）若供应商对上述结果有异议，可在中标（成交）公告发布之日起七个工作日内以电子交易系统或书面形式在工作时间（周一至周五，上午8:00-12:00，下午14:30-17:30，节假日休息）向提出质疑（异议），质疑材料递交地址：巢湖市半汤路中央领域小区2#楼房101铺，联系人：潘工，联系电话：13905651131。\n若供应商对质疑处理意见有异议，可在规定时间内通过网上投诉系统或以书面形式向巢湖市财政局提出投诉，投诉函中应明确提出自身权益受到损害的事实和理由，联系电话：0551-82367013\n（二）质疑提起的条件及不予受理的情形\n根据《中华人民共和国政府采购法》、《中华人民共和国政府采购法实施条例》、《安徽省政府采购供应商质疑处理办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n（1）质疑应以电子交易系统或书面形式实名提出，电子交易系统或书面质疑材料应当包括以下内容：\n1、质疑人的名称、地址、邮编、联系人及联系电话；\n2、质疑项目的名称、编号、包别号（如有）；\n3、被质疑人名称；\n4、具体的质疑事项、基本事实及必要的证明材料；\n5、明确的请求及主张；\n6、必要的法律依据；\n7、提起质疑的日期。\n质疑人为自然人的，应当由本人签字；质疑人为法人或者其他组织的，应当由法定代表人、主要负责人，或者其授权代表签字或者盖章，并加盖公章。\n（2）有下列情形之一的，不予受理：\n1、提起质疑的主体不是参与该政府采购项目活动的供应商；\n2、提起质疑的时间超过规定时限的；\n3、质疑材料不完整的；\n4、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n5、对其他供应商的投标文件详细内容质疑，无法提供合法来源渠道的；\n6、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n巢湖市农业技术推广中心2023年中央财政农业防灾减灾资金（农作物重大病虫害防控）项目采购绿色防控示范物资（1包）（二次）项目中标通知书已发出，请中标（成交）供应商登录电子交易系统自行下载电子中标（成交）通知书。\n\n九、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：巢湖市农业技术推广中心\n\n地址：巢湖市巢湖南路22号巢湖农业大楼\n\n联系方式：13865299133\n\n2.采购代理机构信息\n\n名称：国华工程科技（集团）有限责任公司\n\n地址：巢湖市半汤路中央领域小区2#楼\n\n联系方式：潘工 13905651131\n\n3.项目联系方式\n\n项目联系人：涂工\n\n电话：15956594603\n\n\", \"attachments\": [{\"file_name\": \"中小企业声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=788f99b1-d2ce-40ad-9931-8505f714d0b0&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"安徽合肥公共资源交易中心网上投诉操作手册-投标人.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=91e834bc-f3bc-4708-a9ce-b14f1714551c&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"无重大违法记录声明函、无不良信用记录声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=b4e95a4f-ba35-45cc-882e-495fdcd5d3e7&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"主要成交标的承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=d736a93b-72d5-443a-ae5e-355ea6e5fa12&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=df5b057f-56a8-4297-ad8e-340667976baf&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "6107",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

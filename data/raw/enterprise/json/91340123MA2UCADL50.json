@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340123MA2UCADL50",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340123MA2UCADL50",
+    "enterprise_name": "安徽安之联建设工程管理有限公司",
+    "legal_representative": "杨林",
+    "entity_type": "有限责任公司(自然人独资)",
+    "established_date": "3/12/2019 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "5000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥西县桃花工业园拓展区盛万食品产业园17幢3层301室",
+    "business_scope": "工程管理服务，工程监理，工程建设项目招标代理服务，物业服务，工程造价专业咨询服务，会计、审计及税务服务，建筑工程，市政工程设计服务，建筑装饰工程，室内外装饰装修工程，园林绿化工程，广告制作服务，项目策划与公关服务，其他清洁服务，专业保洁服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 3,
+    "selected_project_ids": [
+      "2023ASSBZ00043"
+    ],
+    "all_linked_project_ids": [
+      "2023ASSBZ00043",
+      "2023ASSFN00179"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽安之联建设工程管理有限公司",
+    "business_status": "开业",
+    "legal_representative": "杨林",
+    "registered_capital": "5000000",
+    "paid_in_capital": "0",
+    "establishment_date": "3/12/2019 00:00:00",
+    "approval_date": "3/12/2019 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "phone": "18297991300",
+    "additional_phones": "0551-68755561,13865903626",
+    "email": "355708382@qq.com",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91340123MA2UCADL50",
+    "taxpayer_identification_number": "91340123MA2UCADL50",
+    "business_registration_number": "340123000282037",
+    "organization_code": "MA2UCADL-5",
+    "insured_personnel_count": "17",
+    "company_type": "有限责任公司(自然人独资)",
+    "industry": "专业技术服务业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市肥西县桃花工业园拓展区盛万食品产业园17幢3层301室",
+    "latest_annual_report_address": "安徽省合肥市肥西县桃花工业园拓展区盛万食品产业 园17幢3层301室",
+    "website": "-",
+    "business_scope": "工程管理服务，工程监理，工程建设项目招标代理服务，物业服务，工程造价专业咨询服务，会计、审计及税务服务，建筑工程，市政工程设计服务，建筑装饰工程，室内外装饰装修工程，园林绿化工程，广告制作服务，项目策划与公关服务，其他清洁服务，专业保洁服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

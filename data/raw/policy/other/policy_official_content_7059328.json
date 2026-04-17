@@ -1,0 +1,70 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7059328",
+  "normalized_projection": {
+    "title": "关于发布国家生态环境标准《环境空气质量指数（AQI）技术规定》《环境空气质量评价技术规范》的公告",
+    "issuer": "生态环境部",
+    "index_no": "未标注",
+    "subject_category": "城乡建设、环境保护\\环境监测、保护与治理",
+    "doc_no": "〔2026〕14号",
+    "publish_date": "2026-02-25",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7059328.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260225353657575243.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260225353657897882.pdf"
+    ],
+    "keywords": [
+      "城乡建设",
+      "环境保护",
+      "环境监测",
+      "保护与治理"
+    ],
+    "effective_date": "2026-02-14",
+    "abolish_date": "",
+    "summary": "为贯彻《中华人民共和国环境保护法》和《中华人民共和国大气污染防治法》，保护和改善生态环境，保障公众健康，向公众提供健康指引，规范环境空气质量监测和评价工作，现批准《环境空气质量指数（AQI）技术规定》《环境空气质量评价技术规范》两项标准为国家生态环境标准，并予发布。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7059328",
+    "title": "关于发布国家生态环境标准《环境空气质量指数（AQI）技术规定》《环境空气质量评价技术规范》的公告",
+    "content": "关于发布国家生态环境标准《环境空气质量指数（AQI）技术规定》《环境空气质量评价技术规范》的公告\n〔2026〕14号\n为贯彻《中华人民共和国环境保护法》和《中华人民共和国大气污染防治法》，保护和改善生态环境，保障公众健康，向公众提供健康指引，规范环境空气质量监测和评价工作，现批准《环境空气质量指数（AQI）技术规定》《环境空气质量评价技术规范》两项标准为国家生态环境标准，并予发布。\n标准名称、编号如下：\n一、《环境空气质量指数（AQI）技术规定》（HJ 633—2026）\n二、《环境空气质量评价技术规范》（HJ 663—2026）\n以上标准自2026年3月1日起实施。自标准实施之日起，《环境空气质量指数（AQI）技术规定（试行）》（HJ 633—2012）和《环境空气质量评价技术规范（试行）》（HJ 663—2013）废止。\n以上标准内容可在生态环境部网站查询。\n特此公告。\n生态环境部\n2026年2月14日",
+    "source": "生态环境部网站",
+    "publish_time": "2026-02-25",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7059328.htm",
+    "category": "城乡建设、环境保护\\环境监测、保护与治理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "409"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7059328",
+    "title": "关于发布国家生态环境标准《环境空气质量指数（AQI）技术规定》《环境空气质量评价技术规范》的公告",
+    "source_name": "生态环境部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-02-25",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7059328.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7059328.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于发布国家生态环境标准《环境空气质量指数（AQI）技术规定》《环境空气质量评价技术规范》的公告",
+      "发文机关": "生态环境部",
+      "发文字号": "〔2026〕14号",
+      "来源": "生态环境部网站",
+      "主题分类": "城乡建设、环境保护\\环境监测、保护与治理",
+      "公文种类": "公告",
+      "成文日期": "2026年02月14日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260225353657575243.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260225353657897882.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7059328.html"
+  },
+  "raw_legal_doc": {}
+}

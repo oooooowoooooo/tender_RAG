@@ -1,0 +1,66 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100667943138N",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100667943138N",
+    "enterprise_name": "合肥工投工业科技发展有限公司",
+    "legal_representative": "房逸靖",
+    "entity_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "established_date": "14/11/2007 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "1500000000",
+    "business_status": "开业",
+    "registered_address": "合肥市庐阳工业区工投研发楼10到12层",
+    "business_scope": "高新技术产品、新材料、新能源的研制、开发、技术服务及咨询，科技工业园开发、建设、经营、管理，开发产品的销售；房地产开发、销售、租赁；工程建设项目的建设管理、服务咨询，物业管理。（涉及许可项目凭有效许可证经营）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 77,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023BFFGZ02374"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥工投工业科技发展有限公司",
+    "business_status": "开业",
+    "legal_representative": "房逸靖",
+    "registered_capital": "1500000000",
+    "paid_in_capital": "1500000000",
+    "establishment_date": "14/11/2007 00:00:00",
+    "approval_date": "20/10/2022 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐阳区",
+    "phone": "0551-65670905",
+    "additional_phones": "0551-65679200,0551-65679202,63870880,0551-65678165,0551-63498818",
+    "email": "hfgtgydc@163.com",
+    "additional_emails": "250937891@qq.com",
+    "unified_social_credit_code": "91340100667943138N",
+    "taxpayer_identification_number": "91340100667943138N",
+    "business_registration_number": "340123000004190",
+    "organization_code": "66794313-8",
+    "insured_personnel_count": "128",
+    "company_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "industry": "房地产业",
+    "former_name": "合肥工投工业地产有限公司",
+    "registered_address": "合肥市庐阳工业区工投研发楼10到12层",
+    "latest_annual_report_address": "合肥市庐阳工业区工投研发楼10-12层",
+    "website": "www.hfgtgydc.com",
+    "business_scope": "高新技术产品、新材料、新能源的研制、开发、技术服务及咨询，科技工业园开发、建设、经营、管理，开发产品的销售；房地产开发、销售、租赁；工程建设项目的建设管理、服务咨询，物业管理。（涉及许可项目凭有效许可证经营）",
+    "match_status": "成功"
+  }
+}

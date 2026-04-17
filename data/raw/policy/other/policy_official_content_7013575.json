@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7013575",
+  "normalized_projection": {
+    "title": "工业和信息化部关于印发《通信建设工程安全生产管理规定》的通知",
+    "issuer": "工业和信息化部",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\信息产业（含电信）",
+    "doc_no": "工信部通信〔2025〕51号",
+    "publish_date": "2025-03-14",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7013575.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250314548529715148.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "信息产业（含电信）"
+    ],
+    "effective_date": "2025-03-05",
+    "abolish_date": "",
+    "summary": "为贯彻落实《中华人民共和国安全生产法》，进一步加强通信建设工程安全生产工作，工业和信息化部对《通信建设工程安全生产管理规定》（工信部通信〔2015〕406号）进行了修订。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7013575",
+    "title": "工业和信息化部关于印发《通信建设工程安全生产管理规定》的通知",
+    "content": "工业和信息化部关于印发《通信建设工程安全生产管理规定》的通知\n工信部通信〔2025〕51号\n各省、自治区、直辖市通信管理局，中国电信集团有限公司、中国移动通信集团有限公司、中国联合网络通信集团有限公司、中国广播电视网络集团有限公司、中国铁塔股份有限公司，各有关单位：\n为贯彻落实《中华人民共和国安全生产法》，进一步加强通信建设工程安全生产工作，工业和信息化部对《通信建设工程安全生产管理规定》（工信部通信〔2015〕406号）进行了修订，现印发给你们，请遵照执行。\n各地通信管理局要结合通信建设市场发展的实际情况，将《通信建设工程安全生产管理规定》作为强化监管的重要依据，进一步加强安全隐患排查治理，压紧压实相关建设单位主体责任，全面开展督导检查，筑牢安全生产防线，以高水平安全支撑信息通信业高质量发展。\n工业和信息化部\n2025年3月5日\n\n通信建设工程安全生产管理规定",
+    "source": "工业和信息化部网站",
+    "publish_time": "2025-03-14",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7013575.htm",
+    "category": "工业、交通\\信息产业（含电信）",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "386"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7013575",
+    "title": "工业和信息化部关于印发《通信建设工程安全生产管理规定》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-14",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7013575.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7013575.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "工业和信息化部关于印发《通信建设工程安全生产管理规定》的通知",
+      "发文机关": "工业和信息化部",
+      "发文字号": "工信部通信〔2025〕51号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\信息产业（含电信）",
+      "公文种类": "通知",
+      "成文日期": "2025年03月05日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250314548529715148.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7013575.html"
+  },
+  "raw_legal_doc": {}
+}

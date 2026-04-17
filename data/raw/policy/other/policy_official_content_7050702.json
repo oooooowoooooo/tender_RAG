@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7050702",
+  "normalized_projection": {
+    "title": "市场监管总局关于公布工业产品生产许可证实施细则通则及24种产品生产许可证实施细则的公告",
+    "issuer": "市场监管总局",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\其他",
+    "doc_no": "2025年第49号",
+    "publish_date": "2025-12-09",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7050702.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251209532129988915.zip"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "其他"
+    ],
+    "effective_date": "2025-12-05",
+    "abolish_date": "",
+    "summary": "为贯彻落实党的二十大和二十届历次全会精神，进一步强化高风险产品质量安全源头治理，根据《中华人民共和国工业产品生产许可证管理条例》《中华人民共和国工业产品生产许可证管理条例实施办法》等规定，市场监管总局组织修订了《工业产品生产许可证实施细则通则》及钢筋混凝土用热轧钢筋等24种产品生产许可证实施细则，现予公告。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7050702",
+    "title": "市场监管总局关于公布工业产品生产许可证实施细则通则及24种产品生产许可证实施细则的公告",
+    "content": "市场监管总局关于公布工业产品生产许可证实施细则通则及24种产品生产许可证实施细则的公告\n2025年第49号\n为贯彻落实党的二十大和二十届历次全会精神，进一步强化高风险产品质量安全源头治理，根据《中华人民共和国工业产品生产许可证管理条例》《中华人民共和国工业产品生产许可证管理条例实施办法》等规定，市场监管总局组织修订了《工业产品生产许可证实施细则通则》及钢筋混凝土用热轧钢筋等24种产品生产许可证实施细则，现予公告。新颁布的通则和细则自2026年4月1日起实施，原通则及相应细则同时废止。\n各省、自治区、直辖市和新疆生产建设兵团市场监管部门要认真贯彻实施，依法加强对发证产品和生产企业的监督管理。\n附件：工业产品生产许可证实施细则通则及24种产品生产许可证实施细则\n市场监管总局\n2025年12月5日",
+    "source": "市场监管总局网站",
+    "publish_time": "2025-12-09",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7050702.htm",
+    "category": "工业、交通\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "350"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7050702",
+    "title": "市场监管总局关于公布工业产品生产许可证实施细则通则及24种产品生产许可证实施细则的公告",
+    "source_name": "市场监管总局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-12-09",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7050702.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7050702.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "市场监管总局关于公布工业产品生产许可证实施细则通则及24种产品生产许可证实施细则的公告",
+      "发文机关": "市场监管总局",
+      "发文字号": "2025年第49号",
+      "来源": "市场监管总局网站",
+      "主题分类": "工业、交通\\其他",
+      "公文种类": "公告",
+      "成文日期": "2025年12月05日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251209532129988915.zip"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7050702.html"
+  },
+  "raw_legal_doc": {}
+}

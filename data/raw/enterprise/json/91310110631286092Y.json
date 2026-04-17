@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91310110631286092Y",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91310110631286092Y",
+    "enterprise_name": "上海正弘建设工程顾问有限公司",
+    "legal_representative": "郭辰健",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "9/8/1999 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "8000000",
+    "business_status": "开业",
+    "registered_address": "上海市辽源西路107号",
+    "business_scope": "一般项目：工程造价咨询业务；工程管理服务；招投标代理服务；政府采购代理服务；工程技术服务（规划管理、勘察、设计、监理除外）；财务咨询；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；软件开发；信息技术咨询服务；信息系统集成服务；互联网数据服务；数据处理服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 3,
+    "selected_project_ids": [
+      "2023BFWBZ02667"
+    ],
+    "all_linked_project_ids": [
+      "2023ANNFZ00080",
+      "2023AYYBZ00030",
+      "2023BFWBZ02667"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "上海正弘建设工程顾问有限公司",
+    "business_status": "开业",
+    "legal_representative": "郭辰健",
+    "registered_capital": "8000000",
+    "paid_in_capital": "8000000",
+    "establishment_date": "9/8/1999 00:00:00",
+    "approval_date": "11/7/2024 00:00:00",
+    "business_term": "-",
+    "province": "上海市",
+    "city": "市辖区",
+    "district": "杨浦区",
+    "phone": "18779370225",
+    "additional_phones": "18221379318,0771-2779276,0771-5351903,0773-8658603,15121008595",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91310110631286092Y",
+    "taxpayer_identification_number": "91310110631286092Y",
+    "business_registration_number": "310110000188446",
+    "organization_code": "63128609-2",
+    "insured_personnel_count": "125",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "former_name": "上海正弘工程造价咨询有限公司",
+    "registered_address": "上海市辽源西路107号",
+    "latest_annual_report_address": "上海市徐汇区斜土路1223号5楼",
+    "website": "www.zhenghong.net.cn",
+    "business_scope": "一般项目：工程造价咨询业务；工程管理服务；招投标代理服务；政府采购代理服务；工程技术服务（规划管理、勘察、设计、监理除外）；财务咨询；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；软件开发；信息技术咨询服务；信息系统集成服务；互联网数据服务；数据处理服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）",
+    "match_status": "成功"
+  }
+}

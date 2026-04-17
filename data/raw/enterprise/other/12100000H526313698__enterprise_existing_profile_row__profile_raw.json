@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "12100000H526313698",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "国家无线电监测中心检测中心",
+  "raw_profile": {
+    "record_id": "3022",
+    "title": "国家无线电监测中心检测中心",
+    "corporation": "胡之源",
+    "amount_raw": "30000万",
+    "event_time": "2016-12-15",
+    "manage_date": "-",
+    "status": "正常",
+    "province": "北京市",
+    "city": "-",
+    "district": "石景山区",
+    "type": "-",
+    "industry": "专业技术服务业",
+    "USCC": "12100000H526313698",
+    "TIN": "12100000H526313698",
+    "registed_num": "-",
+    "insured_persons": "-",
+    "location": "北京市石景山区实兴大街30号院15号楼",
+    "source_url": "-",
+    "content": "为维护电波秩序提供检测服务。无线电发射设备型号核准检测无线电局域网产品强制性产品认证检测电磁兼容分析、认证与测试无线电产品国际认证测试检测设备和系统研制与开发相关业务培训与咨询服务",
+    "search_text": "",
+    "capital_value": "300000000"
+  }
+}

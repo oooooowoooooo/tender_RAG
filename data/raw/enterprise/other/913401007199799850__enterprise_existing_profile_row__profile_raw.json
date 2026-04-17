@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "913401007199799850",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "安徽商信政通信息技术股份有限公司",
+  "raw_profile": {
+    "record_id": "1211",
+    "title": "安徽商信政通信息技术股份有限公司",
+    "corporation": "许建兵",
+    "amount_raw": "5176.1036万人民币",
+    "event_time": "2000-07-10",
+    "manage_date": "2000-07-10 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "合肥新站高新技术产业开发区",
+    "type": "股份有限公司(非上市、自然人投资或控股)",
+    "industry": "互联网和相关服务",
+    "USCC": "913401007199799850",
+    "TIN": "913401007199799850",
+    "registed_num": "340106000028327",
+    "insured_persons": "228",
+    "location": "合肥市高新区望江西路800号创新产业园一期A4幢501",
+    "source_url": "http://www.suncn.com.cn",
+    "content": "计算机软硬件开发、生产、销售；系统集成、网络服务；互联网信息服务（除新闻、出版、教育、医疗保健、药品、医疗器械和电子公告等以外的互联网信息服务）；项目咨询、投资、管理；网上从事订票、订房业务；自有房屋租赁（除房地产经纪）。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "51761036"
+  }
+}

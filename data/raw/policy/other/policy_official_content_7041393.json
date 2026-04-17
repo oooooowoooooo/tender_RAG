@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7041393",
+  "normalized_projection": {
+    "title": "工业和信息化部 商务部 市场监管总局关于印发 《轻工业稳增长工作方案（2025—2026年）》的通知",
+    "issuer": "工业和信息化部 商务部 市场监管总局",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\轻工纺织",
+    "doc_no": "工信部联消费〔2025〕176号",
+    "publish_date": "2025-09-19",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7041393.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250919589202820393.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "轻工纺织"
+    ],
+    "effective_date": "2025-08-21",
+    "abolish_date": "",
+    "summary": "为贯彻落实党中央、国务院决策部署，发挥轻工业支撑带动作用，助力实现工业经济发展主要预期目标，制定本方案。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7041393",
+    "title": "工业和信息化部 商务部 市场监管总局关于印发 《轻工业稳增长工作方案（2025—2026年）》的通知",
+    "content": "工业和信息化部 商务部 市场监管总局\n关于印发《轻工业稳增长工作方案（2025—2026年）》的通知\n工信部联消费〔2025〕176号\n各省、自治区、直辖市、计划单列市及新疆生产建设兵团工业和信息化、商务、市场监管主管部门：\n现将《轻工业稳增长工作方案（2025—2026年）》印发给你们，请结合实际认真抓好落实。\n工业和信息化部\n商务部\n市场监管总局\n2025年8月21日\n轻工业稳增长工作方案（2025—2026年）",
+    "source": "工业和信息化部网站",
+    "publish_time": "2025-09-19",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7041393.htm",
+    "category": "工业、交通\\轻工纺织",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "210"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7041393",
+    "title": "工业和信息化部 商务部 市场监管总局关于印发 《轻工业稳增长工作方案（2025—2026年）》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-09-19",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7041393.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7041393.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "工业和信息化部 商务部 市场监管总局关于印发 《轻工业稳增长工作方案（2025—2026年）》的通知",
+      "发文机关": "工业和信息化部 商务部 市场监管总局",
+      "发文字号": "工信部联消费〔2025〕176号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\轻工纺织",
+      "公文种类": "通知",
+      "成文日期": "2025年08月21日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250919589202820393.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7041393.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7057665",
+  "normalized_projection": {
+    "title": "工业和信息化部 科技部 住房城乡建设部 市场监管总局 国家知识产权局关于印发科技服务业标准体系建设指南（2025版）的通知",
+    "issuer": "工业和信息化部 科技部 住房城乡建设部 市场监管总局 国家知识产权局",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\其他",
+    "doc_no": "工信部联科〔2026〕15号",
+    "publish_date": "2026-02-10",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7057665.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260210664243492994.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "其他"
+    ],
+    "effective_date": "2026-01-15",
+    "abolish_date": "",
+    "summary": "为贯彻落实《工业和信息化部等九部门关于加快推进科技服务业高质量发展的实施意见》，加强科技服务业标准化工作系统谋划，切实发挥标准对推动科技服务业高质量发展的支撑引领作用，我们组织编制了《科技服务业标准体系建设指南（2025版）》。现印发给你们，请结合实际抓好落实。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7057665",
+    "title": "工业和信息化部 科技部 住房城乡建设部 市场监管总局 国家知识产权局关于印发科技服务业标准体系建设指南（2025版）的通知",
+    "content": "工业和信息化部 科技部 住房城乡建设部 市场监管总局 国家知识产权局关于印发科技服务业标准体系建设指南（2025版）的通知\n工信部联科〔2026〕15号\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化主管部门、科技厅（委、局）、住建厅（委）、市场监管局（厅、委）、知识产权局，有关行业协会、标准化技术组织、标准化专业机构：\n为贯彻落实《工业和信息化部等九部门关于加快推进科技服务业高质量发展的实施意见》，加强科技服务业标准化工作系统谋划，切实发挥标准对推动科技服务业高质量发展的支撑引领作用，我们组织编制了《科技服务业标准体系建设指南（2025版）》。现印发给你们，请结合实际抓好落实。\n工业和信息化部\n科技部\n住房城乡建设部\n市场监管总局\n国家知识产权局\n2026年1月15日\n附件：科技服务业标准体系建设指南（2025版）",
+    "source": "工业和信息化部网站",
+    "publish_time": "2026-02-10",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7057665.htm",
+    "category": "工业、交通\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "371"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7057665",
+    "title": "工业和信息化部 科技部 住房城乡建设部 市场监管总局 国家知识产权局关于印发科技服务业标准体系建设指南（2025版）的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-02-10",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7057665.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7057665.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "工业和信息化部 科技部 住房城乡建设部 市场监管总局 国家知识产权局关于印发科技服务业标准体系建设指南（2025版）的通知",
+      "发文机关": "工业和信息化部 科技部 住房城乡建设部 市场监管总局 国家知识产权局",
+      "发文字号": "工信部联科〔2026〕15号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\其他",
+      "公文种类": "通知",
+      "成文日期": "2026年01月15日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260210664243492994.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7057665.html"
+  },
+  "raw_legal_doc": {}
+}

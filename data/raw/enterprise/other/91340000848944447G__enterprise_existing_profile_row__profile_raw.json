@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "91340000848944447G",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "中国人民财产保险股份有限公司安徽省分公司",
+  "raw_profile": {
+    "record_id": "557",
+    "title": "中国人民财产保险股份有限公司安徽省分公司",
+    "corporation": "李冰凌",
+    "amount_raw": "-",
+    "event_time": "1996-09-18",
+    "manage_date": "1996-09-18 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "-",
+    "type": "股份有限公司分公司(上市、国有控股)",
+    "industry": "保险业",
+    "USCC": "91340000848944447G",
+    "TIN": "91340000848944447G",
+    "registed_num": "340000000015111",
+    "insured_persons": "459",
+    "location": "安徽省合肥市滨湖新区南京路2677号中国人保财险华东中心(西院)D座",
+    "source_url": "http://218.22.4.20",
+    "content": "许可经营项目：财产损失保险、责任保险、信用保险、意外伤害保险、短期健康保险、保证保险等人民币或外币保险业务；与上述业务相关的再保险业务；各类财产保险、意外伤害保险、短期健康保险及其再保险的服务与咨询业务；代理保险机构办理有关业务；国家法律、法规允许的投资和资金运用业务；国家法律法规规定的或国家保险监管机构批准的其他业务。",
+    "search_text": "",
+    "capital_value": "0"
+  }
+}

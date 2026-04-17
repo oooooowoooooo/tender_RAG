@@ -1,0 +1,62 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100689758435M",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100689758435M",
+    "enterprise_name": "安徽省鑫源祥生物技术有限公司",
+    "legal_representative": "王毕云",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "2009-05-20",
+    "registration_authority": "",
+    "registered_capital": "500万人民币",
+    "business_status": "存续",
+    "registered_address": "合肥市包河区宿松路与南二环路交口西南角金鼎商务中心A座801室",
+    "business_scope": "生物技术开发、技术咨询、技术转让及技术服务；生物试剂、生命科学用试剂和系统产品、实验室耗材、仪器设备及配件、化工产品及化学试剂（除危险品）、体外诊断试剂、医疗器械（一类）、日用百货、五金交电、建材、工艺美术品、计算机及外部设备、橡塑制品销售；园林绿化、消防工程，各类商品和技术的进出口业务（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023ANNHJ00467"
+    ],
+    "all_linked_project_ids": [
+      "2023AMMHX00053",
+      "2023ANNHJ00467"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "408",
+    "title": "安徽省鑫源祥生物技术有限公司",
+    "corporation": "王毕云",
+    "amount_raw": "500万人民币",
+    "event_time": "2009-05-20",
+    "manage_date": "2009-05-20 至 2029-05-19",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "研究和试验发展",
+    "USCC": "91340100689758435M",
+    "TIN": "91340100689758435M",
+    "registed_num": "340100000281235",
+    "insured_persons": "9",
+    "location": "合肥市包河区宿松路与南二环路交口西南角金鼎商务中心A座801室",
+    "source_url": "-",
+    "content": "生物技术开发、技术咨询、技术转让及技术服务；生物试剂、生命科学用试剂和系统产品、实验室耗材、仪器设备及配件、化工产品及化学试剂（除危险品）、体外诊断试剂、医疗器械（一类）、日用百货、五金交电、建材、工艺美术品、计算机及外部设备、橡塑制品销售；园林绿化、消防工程，各类商品和技术的进出口业务（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "5000000"
+  }
+}

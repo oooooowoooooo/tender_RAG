@@ -1,0 +1,66 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7037917",
+  "normalized_projection": {
+    "title": "国家卫生健康委办公厅关于印发安宁疗护实践指南（2025年版）的通知",
+    "issuer": "国家卫生健康委办公厅",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\卫生",
+    "doc_no": "国卫办医政函〔2025〕332号",
+    "publish_date": "2025-08-26",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7037917.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202508/P020250826774380068182.doc"
+    ],
+    "keywords": [
+      "卫生",
+      "体育"
+    ],
+    "effective_date": "2025-08-01",
+    "abolish_date": "",
+    "summary": "为进一步推动各地安宁疗护发展，规范安宁疗护实践行为，我委组织对2017年印发的《安宁疗护实践指南（试行）》（国卫办医发〔2017〕5号）进行了修订，形成了《安宁疗护实践指南（2025年版）》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7037917",
+    "title": "国家卫生健康委办公厅关于印发安宁疗护实践指南（2025年版）的通知",
+    "content": "国家卫生健康委办公厅关于印发安宁疗护实践指南（2025年版）的通知\n国卫办医政函〔2025〕332号\n各省、自治区、直辖市及新疆生产建设兵团卫生健康委：\n为进一步推动各地安宁疗护发展，规范安宁疗护实践行为，我委组织对2017年印发的《安宁疗护实践指南（试行）》（国卫办医发〔2017〕5号）进行了修订，形成了《安宁疗护实践指南（2025年版）》。现印发给你们，请参照执行。\n本通知自印发之日起施行，《安宁疗护实践指南（试行）》同步废止。\n附件：安宁疗护实践指南（2025年版）\n国家卫生健康委办公厅\n2025年8月1日",
+    "source": "国家卫生健康委网站",
+    "publish_time": "2025-08-26",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7037917.htm",
+    "category": "卫生、体育\\卫生",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "259"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7037917",
+    "title": "国家卫生健康委办公厅关于印发安宁疗护实践指南（2025年版）的通知",
+    "source_name": "国家卫生健康委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-08-26",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7037917.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7037917.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家卫生健康委办公厅关于印发安宁疗护实践指南（2025年版）的通知",
+      "发文机关": "国家卫生健康委办公厅",
+      "发文字号": "国卫办医政函〔2025〕332号",
+      "来源": "国家卫生健康委网站",
+      "主题分类": "卫生、体育\\卫生",
+      "公文种类": "通知",
+      "成文日期": "2025年08月01日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202508/P020250826774380068182.doc"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7037917.html"
+  },
+  "raw_legal_doc": {}
+}

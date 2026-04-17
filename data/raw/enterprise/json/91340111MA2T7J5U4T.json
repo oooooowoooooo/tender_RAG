@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340111MA2T7J5U4T",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340111MA2T7J5U4T",
+    "enterprise_name": "安徽川冉建设工程有限公司",
+    "legal_representative": "吴伟",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "9/11/2018 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "100000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥东县石塘镇招商园A3001室",
+    "business_scope": "房屋建筑工程；市政公用工程；公路工程；水利水电工程；地基与基础工程；土石方工程；公路路基工程；通信工程；垃圾填埋场工程；公路路面工程；公路交通工程；建筑机电安装工程；建筑装饰装修工程；钢结构工程；建筑幕墙工程；建筑防水工程；防腐保温工程；模板脚手架工程；消防设施工程；电气（子）与智能化工程；安防监控工程；环保工程；管道工程；电力工程；桥梁工程；预应力工程；园林古建筑工程；园林绿化工程；城市及道路照明工程；体育场地设施工程；特种专业工程；起重设备安装工程；劳务分包；标牌广告牌设计与制作安装；建材销售；健材及体育用品销售；苗木花卉销售；机械设备销售及租赁；影像制品销售；校园文化建设；智慧校园建设工程。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 3,
+    "selected_project_ids": [
+      "2023BFSGZ02463"
+    ],
+    "all_linked_project_ids": [
+      "2023ACCGZ00075",
+      "2023BFLGZ01931",
+      "2023BFSGZ02463"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽川冉建设工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "吴伟",
+    "registered_capital": "100000000",
+    "paid_in_capital": "100000000",
+    "establishment_date": "9/11/2018 00:00:00",
+    "approval_date": "31/5/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥东县",
+    "phone": "0551-65669669",
+    "additional_phones": "18255128460",
+    "email": "786656053@qq.com",
+    "additional_emails": "871301610@qq.com,825416205@qq.com,716888004@qq.com",
+    "unified_social_credit_code": "91340111MA2T7J5U4T",
+    "taxpayer_identification_number": "91340111MA2T7J5U4T",
+    "business_registration_number": "340194000235150",
+    "organization_code": "MA2T7J5U-4",
+    "insured_personnel_count": "21",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "土木工程建筑业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市肥东县石塘镇招商园A3001室",
+    "latest_annual_report_address": "安徽省合肥市肥东县镇西路与浍水路交口",
+    "website": "-",
+    "business_scope": "房屋建筑工程；市政公用工程；公路工程；水利水电工程；地基与基础工程；土石方工程；公路路基工程；通信工程；垃圾填埋场工程；公路路面工程；公路交通工程；建筑机电安装工程；建筑装饰装修工程；钢结构工程；建筑幕墙工程；建筑防水工程；防腐保温工程；模板脚手架工程；消防设施工程；电气（子）与智能化工程；安防监控工程；环保工程；管道工程；电力工程；桥梁工程；预应力工程；园林古建筑工程；园林绿化工程；城市及道路照明工程；体育场地设施工程；特种专业工程；起重设备安装工程；劳务分包；标牌广告牌设计与制作安装；建材销售；健材及体育用品销售；苗木花卉销售；机械设备销售及租赁；影像制品销售；校园文化建设；智慧校园建设工程。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

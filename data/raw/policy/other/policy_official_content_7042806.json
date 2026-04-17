@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7042806",
+  "normalized_projection": {
+    "title": "国家文物局办公室 国家林草局办公室 住房城乡建设部办公厅关于公布第一批“国保单位·古树名木”协同保护名录的通知",
+    "issuer": "国家文物局办公室 国家林草局办公室 住房城乡建设部办公厅",
+    "index_no": "未标注",
+    "subject_category": "文化、广电、新闻出版\\文物",
+    "doc_no": "办保发〔2025〕8号",
+    "publish_date": "2025-09-29",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042806.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "文化",
+      "广电",
+      "新闻出版",
+      "文物"
+    ],
+    "effective_date": "2025-09-22",
+    "abolish_date": "",
+    "summary": "为深入贯彻落实习近平总书记关于文化遗产保护传承的重要论述和重要指示批示精神，协同推进文物和古树名木系统性保护，国家文物局、国家林草局、住房城乡建设部组织开展“国保单位·古树名木”协同保护对象推荐工作，确定了第一批“国保单位·古树名木”协同保护名录，现予公布。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7042806",
+    "title": "国家文物局办公室 国家林草局办公室 住房城乡建设部办公厅关于公布第一批“国保单位·古树名木”协同保护名录的通知",
+    "content": "国家文物局办公室 国家林草局办公室 住房城乡建设部办公厅关于公布第一批“国保单位·古树名木”协同保护名录的通知\n办保发〔2025〕8号\n各省、自治区、直辖市文物、林草、住房城乡建设（园林绿化）行政主管部门，新疆生产建设兵团文物局、林草局、住房城乡建设局：\n为深入贯彻落实习近平总书记关于文化遗产保护传承的重要论述和重要指示批示精神，协同推进文物和古树名木系统性保护，国家文物局、国家林草局、住房城乡建设部组织开展“国保单位·古树名木”协同保护对象推荐工作，确定了第一批“国保单位·古树名木”协同保护名录，现予公布。\n请各地文物、林草、住房城乡建设部门共同做好第一批“国保单位·古树名木”协同保护对象的全面保护、科学管护和深入阐释工作。\n特此通知。\n附件：第一批“国保单位·古树名木”协同保护名录\n国家文物局办公室\n国家林草局办公室\n住房城乡建设部办公厅\n2025年9月22日\n附件",
+    "source": "国家文物局网站",
+    "publish_time": "2025-09-29",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042806.htm",
+    "category": "文化、广电、新闻出版\\文物",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "390"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7042806",
+    "title": "国家文物局办公室 国家林草局办公室 住房城乡建设部办公厅关于公布第一批“国保单位·古树名木”协同保护名录的通知",
+    "source_name": "国家文物局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-09-29",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042806.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042806.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家文物局办公室 国家林草局办公室 住房城乡建设部办公厅关于公布第一批“国保单位·古树名木”协同保护名录的通知",
+      "发文机关": "国家文物局办公室 国家林草局办公室 住房城乡建设部办公厅",
+      "发文字号": "办保发〔2025〕8号",
+      "来源": "国家文物局网站",
+      "主题分类": "文化、广电、新闻出版\\文物",
+      "公文种类": "通知",
+      "成文日期": "2025年09月22日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7042806.html"
+  },
+  "raw_legal_doc": {}
+}

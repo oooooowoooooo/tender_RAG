@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913400007467971596",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913400007467971596",
+    "enterprise_name": "安徽省天然气开发股份有限公司",
+    "legal_representative": "吴海",
+    "entity_type": "股份有限公司(中外合资、上市)",
+    "established_date": "14/2/2003 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "478219266",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市包河工业园大连路9号",
+    "business_scope": "建设、经营和管理全省天然气支干线管网；参与城市天然气管网开发建设和经营管理；代表安徽省向上游购买天然气资源，向城市管网和大用户销售天然气；开发天然气、煤层气及其它能源应用和相关项目，包括液化气（LNG）、压缩天然气（CNG）、天然气汽车加气站；从事其它与上述业务相关或辅助的业务。（该公司原为内资企业，2005年8月24日变更为中外合资经营企业，2012年12月28日变更为外资股份公司）。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 32,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022AFWGZ02755",
+      "2022BFABZ02814",
+      "2022BFBGZ02807",
+      "2022BFFGZ02829"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽省天然气开发股份有限公司",
+    "business_status": "开业",
+    "legal_representative": "吴海",
+    "registered_capital": "478219266",
+    "paid_in_capital": "252000000",
+    "establishment_date": "14/2/2003 00:00:00",
+    "approval_date": "27/4/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "phone": "0561-4652360",
+    "additional_phones": "15256545661,15855293102,0564-2780333,17355293610,0551-2225657",
+    "email": "ahtrqgs@vip.163.com",
+    "additional_emails": "antrqgs@vip.163.com",
+    "unified_social_credit_code": "913400007467971596",
+    "taxpayer_identification_number": "913400007467971596",
+    "business_registration_number": "340000400002674",
+    "organization_code": "74679715-9",
+    "insured_personnel_count": "1177",
+    "company_type": "股份有限公司(中外合资、上市)",
+    "industry": "燃气生产和供应业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市包河工业园大连路9号",
+    "latest_annual_report_address": "安徽省合肥市包河工业园大连路9号",
+    "website": "www.ahtrq.com",
+    "business_scope": "建设、经营和管理全省天然气支干线管网；参与城市天然气管网开发建设和经营管理；代表安徽省向上游购买天然气资源，向城市管网和大用户销售天然气；开发天然气、煤层气及其它能源应用和相关项目，包括液化气（LNG）、压缩天然气（CNG）、天然气汽车加气站；从事其它与上述业务相关或辅助的业务。（该公司原为内资企业，2005年8月24日变更为中外合资经营企业，2012年12月28日变更为外资股份公司）。",
+    "match_status": "成功"
+  }
+}

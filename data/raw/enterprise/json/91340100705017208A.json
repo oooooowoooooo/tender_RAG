@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100705017208A",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100705017208A",
+    "enterprise_name": "安徽金海迪尔信息技术有限责任公司",
+    "legal_representative": "顾爱华",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "15/3/2001 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "10050000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市高新区将军岭路与皖水路交叉口创新产业园3期A1栋西区3楼、4楼",
+    "business_scope": "计算机技术、电子技术、工业自动化控制系统技术的开发、产品研发、生产、销售；系统集成、物联网应用系统软件开发、技术咨询、服务；网络工程；安全技术防范工程的设计、施工、维修；安全技术产品的开发、销售；电气成套设备代理销售；供水及水处理工程设计、施工、维修；供水设备及水处理设备代理销售；水文水资源工程设计、施工、维修；水文水资源设备代理销售及软件设计、开发；节水灌溉工程；给排水工程；节水灌溉设备、给排水设备代理销售；通信工程；信设备代理销通售；水质化验、实验室设备代理销售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 5,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023AFFAZ01915",
+      "2023ANNAZ00490",
+      "2023BFFHZ00513",
+      "2023DFAAZ02324",
+      "2023IFAAZ01420"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽金海迪尔信息技术有限责任公司",
+    "business_status": "开业",
+    "legal_representative": "顾爱华",
+    "registered_capital": "10050000",
+    "paid_in_capital": "10050000",
+    "establishment_date": "15/3/2001 00:00:00",
+    "approval_date": "6/6/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "13856068166",
+    "additional_phones": "0551-75395138,0551-65323773,0551-65323771,0551-65395138,13955154821",
+    "email": "admin@jhtvwall.com",
+    "additional_emails": "424307826@qq.com",
+    "unified_social_credit_code": "91340100705017208A",
+    "taxpayer_identification_number": "91340100705017208A",
+    "business_registration_number": "340106000005220",
+    "organization_code": "70501720-8",
+    "insured_personnel_count": "87",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "科技推广和应用服务业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市高新区将军岭路与皖水路交叉口创新产业园3期A1栋西区3楼、4楼",
+    "latest_annual_report_address": "安徽省合肥市高新区将军岭路与皖水路交叉路口创新产业园3期A1栋西区3楼、4楼",
+    "website": "www.jhdr.com.cn",
+    "business_scope": "计算机技术、电子技术、工业自动化控制系统技术的开发、产品研发、生产、销售；系统集成、物联网应用系统软件开发、技术咨询、服务；网络工程；安全技术防范工程的设计、施工、维修；安全技术产品的开发、销售；电气成套设备代理销售；供水及水处理工程设计、施工、维修；供水设备及水处理设备代理销售；水文水资源工程设计、施工、维修；水文水资源设备代理销售及软件设计、开发；节水灌溉工程；给排水工程；节水灌溉设备、给排水设备代理销售；通信工程；信设备代理销通售；水质化验、实验室设备代理销售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

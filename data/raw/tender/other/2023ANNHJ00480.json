@@ -1,0 +1,83 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023ANNHJ00480",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "中标"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023ANNHJ00480",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "中标"
+    ],
+    "publish_time": "2023-12-04 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 庐江"
+    ],
+    "tenderer_or_purchaser": [
+      "安徽省庐江县中医院"
+    ],
+    "agency": [
+      "安徽夹山工程咨询有限公司"
+    ],
+    "budget_or_bid_amount": [
+      "1500000.0",
+      "1213000.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231204/ad986ee0-4491-4651-acf1-7e6f664a0850.html?ztbtab=002002004&biaoduanguid=76cd148c-c1f5-4244-ab3d-1c1bbba3ae29",
+    "attachment_paths": [],
+    "candidate_company_names": [
+      "安徽通民医疗设备有限公司"
+    ],
+    "winner_company_name": [
+      "安徽通民医疗设备有限公司"
+    ],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:12439",
+      "project_id": "2023ANNHJ00480",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231204/ad986ee0-4491-4651-acf1-7e6f664a0850.html?ztbtab=002002004&biaoduanguid=76cd148c-c1f5-4244-ab3d-1c1bbba3ae29",
+      "type": "政府采购",
+      "stage": "中标",
+      "event_time": "2023-12-04",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "庐江",
+      "category": "医院",
+      "sub_category": "货物",
+      "budget_amount": "1500000.0",
+      "purchaser": "安徽省庐江县中医院",
+      "agency": "安徽夹山工程咨询有限公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "安徽通民医疗设备有限公司",
+      "bid_amount": "1213000.0",
+      "bid_date": "2023-12-08",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"庐江县中医院全数字化高端彩色多普勒超声诊断系统采购项目中标（成交）结果公告\", \"content\": \"\n\n庐江县中医院全数字化高端彩色多普勒超声诊断系统采购项目中标（成交）结果公告\n\n一、项目编号:\n2023ANNHJ00480\n\n二、项目名称:\n庐江县中医院全数字化高端彩色多普勒超声诊断系统采购项目\n\n三、中标（成交）信息\n\n供应商名称：安徽通民医疗设备有限公司\n\n供应商地址：安徽省合肥市庐阳区阜阳北路与北城大道交口创智天地A2-2002室\n\n中标（成交）金额：壹佰贰拾壹万叁仟元整(￥1213000.00元)\n\n四、主要标的信息\n{\"1\": [\"序号\", \"1\"], \"2\": [\"货物名称\", \"全数字化高端彩 \\n 色多普勒超声诊 \\n 断系统\"], \"3\": [\"品牌\", \"GE\"], \"4\": [\"规格型号\", \"LOGIQ Fortis \\n Power\"], \"5\": [\"数量\", \"1套\"], \"6\": [\"单价\", \"1436600.00\"], \"7\": [\"备注\", \"/\"], \"table_style\": 2}\n\n序号\n\n货物名称\n\n品牌\n\n规格型号\n\n数量\n\n单价\n\n备注\n\n1\n\n全数字化高端彩\n\n色多普勒超声诊\n\n断系统\n\nGE\n\nLOGIQ Fortis\n\nPower\n\n1套\n\n1436600.00\n\n/\n\n（\n1）其他主要标的信息详见本公告附件；\n{\"1\": [\"序号\", \"1\"], \"2\": [\"货物名称\", \"全数字化高端彩 \\n 色多普勒超声诊 \\n 断系统\"], \"3\": [\"品牌\", \"GE\"], \"4\": [\"规格型号\", \"LOGIQ Fortis \\n Power\"], \"5\": [\"数量\", \"1套\"], \"6\": [\"单价\", \"1436600.00\"], \"7\": [\"备注\", \"/\"], \"table_style\": 2}\n\n（\n2）如与附件不一致的，以公示附件中主要中标（成交）标的承诺函为准。\n\n五、评审专家（单一来源采购人员）名单\n\n吴卉,王晓璇,江流\n\n六、代理服务收费标准及金额\n\n详见采购文件中标（成交）服务费\n\n七、公告期限\n\n自本公告发布之日起1个工作日。\n\n八、其他补充事宜\n\n此\n项目中标\n（\n成交\n）\n通知书已\n随结果公告\n发出，请中标（成交）供应商登录电子交易\n服务\n系统自行下载领取\n。\n\n若投标供应商对上述结果有异议，可在中标（成交）公告发布之日起七个工作日内通过电子交易系统或以书面形式在工作时间（周一至周五，上午\n8:00-12:00，下午14:30-17:30，节假日休息）向招标（采购）人提出质疑（异议），质疑材料递交地址：见本公告采购人信息。联系电话：见本公告采购人信息。\n\n若投标供应商对质疑处理意见有异议，可在规定时间内通过网上投诉系统或以书面形式向庐江县财政局提出投诉，联系人：\n吴\n工，联系电话：\n0551-87388071【采购人为合肥行政区域以外单位的项目：向采购人所在地财政部门（公共资源交易监督管理部门）提出投诉】。\n\n质疑提起的条件及不予受理的情形\n如下\n：\n\n根据《中华人民共和国政府采购法》、《中华人民共和国政府采购法实施条例》、《安徽省政府采购供应商质疑处理办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n\n（一）质疑应以书面形式实名提出，书面质疑材料应当包括以下内容：\n\n1、质疑人的名称、地址、邮编、联系人及联系电话；\n\n2、质疑项目的名称、编号、包别号（如有）；\n\n3、被质疑人名称；\n\n4、具体的质疑事项、基本事实及必要的证明材料；\n\n5、明确的请求及主张；\n\n6、必要的法律依据；\n\n7、提起质疑的日期。\n\n质疑人为自然人的，应当由本人签字；质疑人为法人或者其他组织的，应当由法定代表人、主要负责人，或者其授权代表签字或者盖章，并加盖公章。\n\n（二）有下列情形之一的，不予受理：\n\n1、提起质疑的主体不是参与该政府采购项目活动的\n投标\n供应商；\n\n2、提起质疑的时间超过规定时限的；\n\n3、质疑材料不完整的；\n\n4、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n\n5、对其他供应商的投标\n响应\n文件详细内容质疑，无法提供合法来源渠道的；\n\n6、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n\n九、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：安徽省庐江县中医院\n\n地址：合肥市庐江县庐城镇周瑜大道350号\n\n联系方式：18756550930\n\n2.采购代理机构信息\n\n名称：安徽夹山工程咨询有限公司\n\n地址：合肥市庐江县白湖镇裴岗街道8号\n\n联系方式：18156091068\n\n3.项目联系方式\n\n项目联系人：李燕\n\n电话：18156091068\n\n累计办理时间：\n0天0小时49分10秒\n\n招标代理机构提交\n\n提交节点：\n\n2023-12-08\n\n交易中心见证\n\n办理状态：\n\n通过\n\n办理时间：\n\n2023-12-08\n\n办理用时：\n\n0天0小时49分\n\n\", \"attachments\": [{\"file_name\": \"中小企业声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=55009f61-86c4-4530-8ce6-2e2246af86e7&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"主要成交标的承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=7c2ff90d-85dc-40e1-bb0b-a09569f45916&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"无重大违法记录声明函和无不良信用记录声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=caf5c8f5-b774-4f0e-9d65-397182332448&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=d7a423ec-6cc6-4185-a709-8879ca06e422&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "3134",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

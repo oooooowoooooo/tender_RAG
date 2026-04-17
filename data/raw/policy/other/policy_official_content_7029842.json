@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7029842",
+  "normalized_projection": {
+    "title": "工业和信息化部办公厅印发《关于深入推进工业和信息化绿色低碳标准化工作的实施方案》的通知",
+    "issuer": "工业和信息化部办公厅",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\信息产业（含电信）",
+    "doc_no": "工信厅科〔2025〕33号",
+    "publish_date": "2025-06-28",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7029842.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202506/P020250628456360953067.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "信息产业（含电信）"
+    ],
+    "effective_date": "2025-06-13",
+    "abolish_date": "",
+    "summary": "为切实发挥标准对工业和信息化绿色低碳领域的引领和支撑作用，健全完善绿色低碳标准体系，我部组织编制了《关于深入推进工业和信息化绿色低碳标准化工作的实施方案》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7029842",
+    "title": "工业和信息化部办公厅印发《关于深入推进工业和信息化绿色低碳标准化工作的实施方案》的通知",
+    "content": "工业和信息化部办公厅印发《关于深入推进工业和信息化绿色低碳标准化工作的实施方案》的通知\n工信厅科〔2025〕33号\n各省、自治区、直辖市工业和信息化主管部门，有关行业协会、标准化技术组织和专业机构：\n为切实发挥标准对工业和信息化绿色低碳领域的引领和支撑作用，健全完善绿色低碳标准体系，我部组织编制了《关于深入推进工业和信息化绿色低碳标准化工作的实施方案》，现印发给你们。请结合本地区、本行业、本领域实际，在标准化工作中贯彻执行。\n工业和信息化部办公厅\n2025年6月13日",
+    "source": "工业和信息化部网站",
+    "publish_time": "2025-06-28",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7029842.htm",
+    "category": "工业、交通\\信息产业（含电信）",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "236"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7029842",
+    "title": "工业和信息化部办公厅印发《关于深入推进工业和信息化绿色低碳标准化工作的实施方案》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-06-28",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7029842.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7029842.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "工业和信息化部办公厅印发《关于深入推进工业和信息化绿色低碳标准化工作的实施方案》的通知",
+      "发文机关": "工业和信息化部办公厅",
+      "发文字号": "工信厅科〔2025〕33号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\信息产业（含电信）",
+      "公文种类": "通知",
+      "成文日期": "2025年06月13日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202506/P020250628456360953067.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7029842.html"
+  },
+  "raw_legal_doc": {}
+}

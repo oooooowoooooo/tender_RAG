@@ -1,0 +1,73 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91420000757013137P",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91420000757013137P",
+    "enterprise_name": "中建三局集团有限公司",
+    "legal_representative": "陈卫国",
+    "entity_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "established_date": "29/12/2003 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "15318000000",
+    "business_status": "开业",
+    "registered_address": "武汉市关山路552号",
+    "business_scope": "各类建筑工程总承包、施工、咨询、建筑技术开发与转让、机械设备租赁、路桥建设，建筑工程、人防工程设计，商品混凝土的生产和批发；园林绿化工程；爆破作业设计施工（四级，有效期至2022年8月21日）；建筑材料（设备）销售；机电设备销售；污水处理设备销售及环保设备销售。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 7,
+    "selected_project_ids": [
+      "2023AFWGZ02466"
+    ],
+    "all_linked_project_ids": [
+      "2023AFWGZ02466",
+      "2023ANNGZ00379",
+      "2023BFCGZ01224",
+      "2023DFAGZ01718",
+      "2023DFWGZ01180",
+      "2023DFWGZ02238"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "中建三局集团有限公司",
+    "business_status": "开业",
+    "legal_representative": "陈卫国",
+    "registered_capital": "15318000000",
+    "paid_in_capital": "15048000000",
+    "establishment_date": "29/12/2003 00:00:00",
+    "approval_date": "5/6/2023 00:00:00",
+    "business_term": "-",
+    "province": "湖北省",
+    "city": "武汉市",
+    "district": "洪山区",
+    "phone": "18690258182",
+    "additional_phones": "13182246628,18580743679,15122070764,18108633936,13821201950",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91420000757013137P",
+    "taxpayer_identification_number": "91420000757013137P",
+    "business_registration_number": "420000400000435",
+    "organization_code": "75701313-7",
+    "insured_personnel_count": "13910",
+    "company_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "industry": "房屋建筑业",
+    "former_name": "中建三局建设工程股份有限公司",
+    "registered_address": "武汉市关山路552号",
+    "latest_annual_report_address": "武汉市关山路552号",
+    "website": "www.cscec3bsh.com",
+    "business_scope": "各类建筑工程总承包、施工、咨询、建筑技术开发与转让、机械设备租赁、路桥建设，建筑工程、人防工程设计，商品混凝土的生产和批发；园林绿化工程；爆破作业设计施工（四级，有效期至2022年8月21日）；建筑材料（设备）销售；机电设备销售；污水处理设备销售及环保设备销售。",
+    "match_status": "成功"
+  }
+}

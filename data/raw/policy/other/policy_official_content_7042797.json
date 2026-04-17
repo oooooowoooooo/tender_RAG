@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7042797",
+  "normalized_projection": {
+    "title": "工业和信息化部办公厅关于印发《纺织服装创意设计领航集聚区建设指引》的通知",
+    "issuer": "工业和信息化部",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\轻工纺织",
+    "doc_no": "工信厅消费〔2025〕49号",
+    "publish_date": "2025-09-29",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042797.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250929531834088034.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "轻工纺织"
+    ],
+    "effective_date": "2025-09-26",
+    "abolish_date": "",
+    "summary": "为加快培育纺织行业新质生产力，深入实施消费品工业“三品”战略，推动创意设计要素赋能纺织工业转型升级，根据《纺织工业提质升级实施方案（2023—2025年）》，我部组织编制了《纺织服装创意设计领航集聚区建设指引》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7042797",
+    "title": "工业和信息化部办公厅关于印发《纺织服装创意设计领航集聚区建设指引》的通知",
+    "content": "工业和信息化部办公厅关于印发《纺织服装创意设计领航集聚区建设指引》的通知\n工信厅消费〔2025〕49号\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化主管部门：\n为加快培育纺织行业新质生产力，深入实施消费品工业“三品”战略，推动创意设计要素赋能纺织工业转型升级，根据《纺织工业提质升级实施方案（2023—2025年）》，我部组织编制了《纺织服装创意设计领航集聚区建设指引》。现印发给你们，请结合实际，认真抓好落实。\n工业和信息化部办公厅\n2025年9月26日\n纺织服装创意设计领航集聚区建设指引",
+    "source": "工业和信息化部网站",
+    "publish_time": "2025-09-29",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042797.htm",
+    "category": "工业、交通\\轻工纺织",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "255"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7042797",
+    "title": "工业和信息化部办公厅关于印发《纺织服装创意设计领航集聚区建设指引》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-09-29",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042797.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042797.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "工业和信息化部办公厅关于印发《纺织服装创意设计领航集聚区建设指引》的通知",
+      "发文机关": "工业和信息化部",
+      "发文字号": "工信厅消费〔2025〕49号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\轻工纺织",
+      "公文种类": "通知",
+      "成文日期": "2025年09月26日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250929531834088034.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7042797.html"
+  },
+  "raw_legal_doc": {}
+}

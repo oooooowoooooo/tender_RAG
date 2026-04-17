@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7057794",
+  "normalized_projection": {
+    "title": "关于印发国家基本药物目录管理办法的通知",
+    "issuer": "国家卫生健康委 国家发展改革委 工业和信息化部 财政部 商务部 市场监管总局 国家医保局 国家中医药局 国家疾控局 国家药监局 中央军委后勤保障部",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "国卫药政发〔2026〕2号",
+    "publish_date": "2026-02-11",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7057794.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260211717885459555.docx"
+    ],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2026-01-27",
+    "abolish_date": "",
+    "summary": "为巩固完善国家基本药物制度，健全国家基本药物目录遴选管理机制，国家卫生健康委、国家发展改革委、工业和信息化部、财政部、商务部、市场监管总局、国家医保局、国家中医药局、国家疾控局、国家药监局和中央军委后勤保障部依照相关法律规定对《国家基本药物目录管理办法》进行了修订。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7057794",
+    "title": "关于印发国家基本药物目录管理办法的通知",
+    "content": "关于印发国家基本药物目录管理办法的通知\n国卫药政发〔2026〕2号\n各省、自治区、直辖市及新疆生产建设兵团卫生健康委、发展改革委、工业和信息化主管部门、财政厅（局）、商务厅（局）、市场监管局、医保局、中医药局、疾控局、药监局：\n为巩固完善国家基本药物制度，健全国家基本药物目录遴选管理机制，国家卫生健康委、国家发展改革委、工业和信息化部、财政部、商务部、市场监管总局、国家医保局、国家中医药局、国家疾控局、国家药监局和中央军委后勤保障部依照相关法律规定对《国家基本药物目录管理办法》进行了修订。现印发给你们，请遵照执行。\n附件：国家基本药物目录管理办法\n国家卫生健康委 国家发展改革委\n工业和信息化部 财政部\n商务部 市场监管总局\n国家医保局 国家中医药局\n国家疾控局 国家药监局\n中央军委后勤保障部\n2026年1月27日",
+    "source": "国家卫生健康委网站",
+    "publish_time": "2026-02-11",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7057794.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "361"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7057794",
+    "title": "关于印发国家基本药物目录管理办法的通知",
+    "source_name": "国家卫生健康委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-02-11",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7057794.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7057794.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发国家基本药物目录管理办法的通知",
+      "发文机关": "国家卫生健康委 国家发展改革委 工业和信息化部 财政部 商务部 市场监管总局 国家医保局 国家中医药局 国家疾控局 国家药监局 中央军委后勤保障部",
+      "发文字号": "国卫药政发〔2026〕2号",
+      "来源": "国家卫生健康委网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "通知",
+      "成文日期": "2026年01月27日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260211717885459555.docx"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7057794.html"
+  },
+  "raw_legal_doc": {}
+}

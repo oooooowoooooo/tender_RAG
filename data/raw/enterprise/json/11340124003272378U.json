@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "11340124003272378U",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "11340124003272378U",
+    "enterprise_name": "庐江县白湖镇人民政府",
+    "legal_representative": "张蓓",
+    "entity_type": "-",
+    "established_date": "18/1/2018 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "庐江县白湖镇裴岗街道8号",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 188,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022ANNZN00441",
+      "2023ANNZN00061",
+      "2023ANNZN00355",
+      "2023ANNZN00401"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "庐江县白湖镇人民政府",
+    "business_status": "开业",
+    "legal_representative": "张蓓",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "18/1/2018 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐江县",
+    "phone": "13856530768",
+    "additional_phones": "0551-87580061,15357719073,0551-82566829,13956679735,13505650632",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "11340124003272378U",
+    "taxpayer_identification_number": "11340124003272378U",
+    "business_registration_number": "-",
+    "organization_code": "00327237-8",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "庐江县白湖镇裴岗街道8号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

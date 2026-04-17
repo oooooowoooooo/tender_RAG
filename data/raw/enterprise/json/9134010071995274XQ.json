@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9134010071995274XQ",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9134010071995274XQ",
+    "enterprise_name": "安徽百大合家福连锁超市股份有限公司",
+    "legal_representative": "邓鸿",
+    "entity_type": "其他股份有限公司(非上市)",
+    "established_date": "2000-06-15",
+    "registration_authority": "",
+    "registered_capital": "18000万人民币",
+    "business_status": "存续",
+    "registered_address": "安徽省合肥市沿河路118号",
+    "business_scope": "预包装食品（含冷藏冷冻食品）销售、散装食品（含冷藏冷冻食品、含散装熟食）销售、保健食品销售、婴幼儿配方乳粉销售、其他婴幼儿配方食品销售、热食类食品制售、冷食类食品制售、生食类食品制售、糕点类食品制售、自制饮品制售、其他类食品制售；酒、卷烟零售、农副产品、餐饮服务（现场制售：面点、熟食、豆制品、泡菜、中餐）；农产品收购；日用百货、针纺织品、家用电器及电子产品、通讯器材销售；家具、文体用品、五金车件、化工产品（除危险品）、建筑材料、劳保用品、汽车（除小轿车）及配件、摩托车及配件、花卉、玩具、宠物用品销售、自行车、电动车、服装、黄金制品、珠宝首饰零售；自营和代理各类商品的进出口业务（国家限定和禁止企业经营商品除外）；医疗器械销售（除国家限制项目）、音像制品、图书；儿童娱乐服务；彩扩服务；房屋租赁、场地出租（涉及许可在许可证有效期内经营）；停车场服务项目；特殊医学用途配方食品销售；网络表演；为本超市销售产品提供配送服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "http://www.joymart.cc/",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 45,
+    "selected_project_ids": [
+      "2023AGGHJ00171",
+      "2023BFFFZ02612"
+    ],
+    "all_linked_project_ids": [
+      "2022AGGHN00119",
+      "2022AYYHZ00158",
+      "2022BFFFZ02539",
+      "2022BFFFZ02556",
+      "2022BFFFZ02788",
+      "2023AGGHJ00171",
+      "2023BFFFZ02612",
+      "2023BFFHZ02046"
+    ],
+    "roles": [
+      "purchaser",
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "472",
+    "title": "安徽百大合家福连锁超市股份有限公司",
+    "corporation": "邓鸿",
+    "amount_raw": "18000万人民币",
+    "event_time": "2000-06-15",
+    "manage_date": "2000-06-15 至 2085-12-31",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "-",
+    "type": "其他股份有限公司(非上市)",
+    "industry": "零售业",
+    "USCC": "9134010071995274XQ",
+    "TIN": "9134010071995274XQ",
+    "registed_num": "340100000218706",
+    "insured_persons": "2498",
+    "location": "安徽省合肥市沿河路118号",
+    "source_url": "http://www.joymart.cc/",
+    "content": "预包装食品（含冷藏冷冻食品）销售、散装食品（含冷藏冷冻食品、含散装熟食）销售、保健食品销售、婴幼儿配方乳粉销售、其他婴幼儿配方食品销售、热食类食品制售、冷食类食品制售、生食类食品制售、糕点类食品制售、自制饮品制售、其他类食品制售；酒、卷烟零售、农副产品、餐饮服务（现场制售：面点、熟食、豆制品、泡菜、中餐）；农产品收购；日用百货、针纺织品、家用电器及电子产品、通讯器材销售；家具、文体用品、五金车件、化工产品（除危险品）、建筑材料、劳保用品、汽车（除小轿车）及配件、摩托车及配件、花卉、玩具、宠物用品销售、自行车、电动车、服装、黄金制品、珠宝首饰零售；自营和代理各类商品的进出口业务（国家限定和禁止企业经营商品除外）；医疗器械销售（除国家限制项目）、音像制品、图书；儿童娱乐服务；彩扩服务；房屋租赁、场地出租（涉及许可在许可证有效期内经营）；停车场服务项目；特殊医学用途配方食品销售；网络表演；为本超市销售产品提供配送服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "180000000"
+  }
+}

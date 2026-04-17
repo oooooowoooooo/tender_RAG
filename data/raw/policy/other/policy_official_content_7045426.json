@@ -1,0 +1,68 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7045426",
+  "normalized_projection": {
+    "title": "财政部 海关总署 税务总局关于调整风力发电等增值税政策的公告",
+    "issuer": "财政部 海关总署 税务总局",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\税务",
+    "doc_no": "2025年第10号",
+    "publish_date": "2025-10-23",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045426.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251023526921207186.pdf"
+    ],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "税务"
+    ],
+    "effective_date": "2025-10-17",
+    "abolish_date": "",
+    "summary": "自2025年11月1日起至2027年12月31日，对纳税人销售自产的利用海上风力生产的电力产品，实行增值税即征即退50%的政策。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7045426",
+    "title": "财政部 海关总署 税务总局关于调整风力发电等增值税政策的公告",
+    "content": "财政部 海关总署 税务总局关于调整风力发电等增值税政策的公告\n财政部 海关总署 税务总局公告2025年第10号\n现就调整风力发电等增值税政策有关事项公告如下：\n一、自2025年11月1日起至2027年12月31日，对纳税人销售自产的利用海上风力生产的电力产品，实行增值税即征即退50%的政策。\n二、2025年10月31日前已正式商业投产的核电机组，继续按照《财政部 国家税务总局关于核电行业税收政策有关问题的通知》（财税〔2008〕38号）有关增值税规定执行；2025年10月31日前国务院已核准但尚未正式商业投产的核电机组，核力发电企业生产销售电力产品，自正式商业投产次月起10个年度内，实行增值税先征后退政策，退税比例为已入库税款的50%，其他增值税规定继续按照《财政部 国家税务总局关于核电行业税收政策有关问题的通知》（财税〔2008〕38号）执行。2025年11月1日后核准的核电机组，不再实行增值税先征后退政策。\n三、现行规定与本公告不一致的，以本公告为准。《财政部 国家税务总局关于风力发电增值税政策的通知》（财税〔2015〕74号）等文件规定自2025年11月1日起废止，具体见附件。\n特此公告。\n附件：废止文件和条款目录.pdf\n财政部 海关总署 税务总局\n2025年10月17日",
+    "source": "税务总局网站",
+    "publish_time": "2025-10-23",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045426.htm",
+    "category": "财政、金融、审计\\税务",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "548"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7045426",
+    "title": "财政部 海关总署 税务总局关于调整风力发电等增值税政策的公告",
+    "source_name": "税务总局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-10-23",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045426.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045426.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "财政部 海关总署 税务总局关于调整风力发电等增值税政策的公告",
+      "发文机关": "财政部 海关总署 税务总局",
+      "发文字号": "2025年第10号",
+      "来源": "税务总局网站",
+      "主题分类": "财政、金融、审计\\税务",
+      "公文种类": "公告",
+      "成文日期": "2025年10月17日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251023526921207186.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7045426.html"
+  },
+  "raw_legal_doc": {}
+}

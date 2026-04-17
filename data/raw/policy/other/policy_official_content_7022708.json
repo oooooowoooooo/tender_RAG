@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7022708",
+  "normalized_projection": {
+    "title": "中国人民银行关于下调个人住房公积金贷款利率的通知",
+    "issuer": "中国人民银行",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\银行",
+    "doc_no": "未标注",
+    "publish_date": "2025-05-07",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7022708.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "银行"
+    ],
+    "effective_date": "2025-05-07",
+    "abolish_date": "",
+    "summary": "中国人民银行决定，自2025年5月8日起，下调个人住房公积金贷款利率0.25个百分点，5年以下（含5年）和5年以上首套个人住房公积金贷款利率分别调整为2.1%和2.6%，5年以下（含5年）和5年以上第二套个人住房公积金贷款利率分别调整为不低于2.525%和3.075%。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7022708",
+    "title": "中国人民银行关于下调个人住房公积金贷款利率的通知",
+    "content": "中国人民银行关于下调个人住房公积金贷款利率的通知\n中国人民银行上海总部，各省、自治区、直辖市及计划单列市分行；各政策性银行、国有商业银行，中国邮政储蓄银行，各股份制商业银行：\n中国人民银行决定，自2025年5月8日起，下调个人住房公积金贷款利率0.25个百分点，5年以下（含5年）和5年以上首套个人住房公积金贷款利率分别调整为2.1%和2.6%，5年以下（含5年）和5年以上第二套个人住房公积金贷款利率分别调整为不低于2.525%和3.075%。\n中国人民银行\n2025年5月7日",
+    "source": "中国人民银行网站",
+    "publish_time": "2025-05-07",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7022708.htm",
+    "category": "财政、金融、审计\\银行",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "240"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7022708",
+    "title": "中国人民银行关于下调个人住房公积金贷款利率的通知",
+    "source_name": "中国人民银行网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-05-07",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7022708.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7022708.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "中国人民银行关于下调个人住房公积金贷款利率的通知",
+      "发文机关": "中国人民银行",
+      "来源": "中国人民银行网站",
+      "主题分类": "财政、金融、审计\\银行",
+      "公文种类": "通知",
+      "成文日期": "2025年05月07日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7022708.html"
+  },
+  "raw_legal_doc": {}
+}

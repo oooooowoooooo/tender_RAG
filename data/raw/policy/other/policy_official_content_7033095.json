@@ -1,0 +1,69 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7033095",
+  "normalized_projection": {
+    "title": "农业农村部办公厅关于推介发布2025年农业主导品种主推技术的通知",
+    "issuer": "农业农村部办公厅",
+    "index_no": "未标注",
+    "subject_category": "农业、林业、水利\\农业、畜牧业、渔业",
+    "doc_no": "农办科〔2025〕8号",
+    "publish_date": "2025-07-22",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7033095.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250722341908671238.pdf"
+    ],
+    "keywords": [
+      "农业",
+      "林业",
+      "水利",
+      "畜牧业",
+      "渔业"
+    ],
+    "effective_date": "2025-04-14",
+    "abolish_date": "",
+    "summary": "为贯彻落实中央经济工作会议、中央农村工作会议精神和中央一号文件部署要求，加快农业科技成果大面积推广应用，发挥科技对粮食等重要农产品稳产保供的支撑作用，农业农村部组织遴选出2025年农业重大引领性技术10项、主导品种133个、主推技术143项，现予推介发布。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7033095",
+    "title": "农业农村部办公厅关于推介发布2025年农业主导品种主推技术的通知",
+    "content": "农业农村部办公厅关于推介发布2025年农业主导品种主推技术的通知\n农办科〔2025〕8号\n各省、自治区、直辖市及计划单列市农业农村（农牧）、畜牧兽医、农垦、渔业厅（局、委），新疆生产建设兵团农业农村局，有关单位：\n为贯彻落实中央经济工作会议、中央农村工作会议精神和中央一号文件部署要求，加快农业科技成果大面积推广应用，发挥科技对粮食等重要农产品稳产保供的支撑作用，农业农村部组织遴选出2025年农业重大引领性技术10项、主导品种133个、主推技术143项，现予推介发布。\n各地农业农村部门要切实加大主导品种主推技术推广应用力度，充分发挥现代农业科技试验示范基地的引领带动作用，依托多元农技推广服务体系和现代农业产业技术体系，积极开展主导品种主推技术的集成示范和推广应用，引导带动广大农户和新型农业经营主体应用先进适用技术，不断提高技术到位率，为粮油作物大面积单产提升和多元化食物供给提供坚实科技支撑。\n附件：\n  1.2025年农业重大引领性技术\n  2.2025年农业主导品种\n  3.2025年农业主推技术\n农业农村部办公厅\n2025年4月14日\n附件：农办科〔2025〕8号附件",
+    "source": "农业农村部网站",
+    "publish_time": "2025-07-22",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7033095.htm",
+    "category": "农业、林业、水利\\农业、畜牧业、渔业",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "492"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7033095",
+    "title": "农业农村部办公厅关于推介发布2025年农业主导品种主推技术的通知",
+    "source_name": "农业农村部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-07-22",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7033095.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7033095.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "农业农村部办公厅关于推介发布2025年农业主导品种主推技术的通知",
+      "发文机关": "农业农村部办公厅",
+      "发文字号": "农办科〔2025〕8号",
+      "来源": "农业农村部网站",
+      "主题分类": "农业、林业、水利\\农业、畜牧业、渔业",
+      "公文种类": "通知",
+      "成文日期": "2025年04月14日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250722341908671238.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7033095.html"
+  },
+  "raw_legal_doc": {}
+}

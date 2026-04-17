@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7044251",
+  "normalized_projection": {
+    "title": "国家发展改革委关于印发《节能降碳中央预算内投资专项管理办法》的通知",
+    "issuer": "国家发展改革委",
+    "index_no": "未标注",
+    "subject_category": "国民经济管理、国有资产监管\\其他",
+    "doc_no": "发改环资规〔2025〕1228号",
+    "publish_date": "2025-10-14",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7044251.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251014419322049864.pdf"
+    ],
+    "keywords": [
+      "国民经济管理",
+      "国有资产监管",
+      "其他"
+    ],
+    "effective_date": "2025-09-19",
+    "abolish_date": "",
+    "summary": "本专项支持重点行业领域节能降碳、煤炭消费清洁替代、循环经济助力降碳、低碳零碳负碳示范、碳达峰碳中和基础能力建设等方向。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7044251",
+    "title": "国家发展改革委关于印发《节能降碳中央预算内投资专项管理办法》的通知",
+    "content": "国家发展改革委关于印发《节能降碳中央预算内投资专项管理办法》的通知\n发改环资规〔2025〕1228号\n中直管理局，国管局，各省、自治区、直辖市及计划单列市、新疆生产建设兵团发展改革委：\n为加强和规范节能降碳专项中央预算内投资管理，高质量推进项目建设，提高资金使用效益，我们制定了《节能降碳中央预算内投资专项管理办法》，现予印发，请遵照执行。\n国家发展改革委\n2025年9月19日\n  附件：\n  节能降碳中央预算内投资专项管理办法.pdf\n  节能降碳中央预算内投资专项管理办法.ofd",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-10-14",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7044251.htm",
+    "category": "国民经济管理、国有资产监管\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "243"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7044251",
+    "title": "国家发展改革委关于印发《节能降碳中央预算内投资专项管理办法》的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-10-14",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7044251.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7044251.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家发展改革委关于印发《节能降碳中央预算内投资专项管理办法》的通知",
+      "发文机关": "国家发展改革委",
+      "发文字号": "发改环资规〔2025〕1228号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "国民经济管理、国有资产监管\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年09月19日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251014419322049864.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7044251.html"
+  },
+  "raw_legal_doc": {}
+}

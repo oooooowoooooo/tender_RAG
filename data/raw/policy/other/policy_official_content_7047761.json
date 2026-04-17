@@ -1,0 +1,69 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7047761",
+  "normalized_projection": {
+    "title": "中华人民共和国农业农村部公告 第964号",
+    "issuer": "农业农村部",
+    "index_no": "未标注",
+    "subject_category": "农业、林业、水利\\农业、畜牧业、渔业",
+    "doc_no": "中华人民共和国农业农村部公告第964号",
+    "publish_date": "2025-11-11",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047761.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251111363884414765.pdf"
+    ],
+    "keywords": [
+      "农业",
+      "林业",
+      "水利",
+      "畜牧业",
+      "渔业"
+    ],
+    "effective_date": "2025-10-28",
+    "abolish_date": "",
+    "summary": "为落实《中华人民共和国畜牧法》、《种畜禽生产经营许可管理办法》等有关规定，加强种畜禽生产经营许可评审管理，规范种畜禽生产经营许可行为，农业农村部制定了《种畜禽生产经营许可审查规范》，现予公布，自发布之日起施行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7047761",
+    "title": "中华人民共和国农业农村部公告 第964号",
+    "content": "中华人民共和国农业农村部公告\n第964号\n为落实《中华人民共和国畜牧法》、《种畜禽生产经营许可管理办法》等有关规定，加强种畜禽生产经营许可评审管理，规范种畜禽生产经营许可行为，农业农村部制定了《种畜禽生产经营许可审查规范》，现予公布，自发布之日起施行。\n特此公告。\n农业农村部\n2025年10月28日\n附件：农业农村部公告964号-种畜禽生产经营许可审查规范",
+    "source": "农业农村部网站",
+    "publish_time": "2025-11-11",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047761.htm",
+    "category": "农业、林业、水利\\农业、畜牧业、渔业",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "179"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7047761",
+    "title": "中华人民共和国农业农村部公告 第964号",
+    "source_name": "农业农村部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-11-11",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047761.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047761.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "中华人民共和国农业农村部公告 第964号",
+      "发文机关": "农业农村部",
+      "发文字号": "中华人民共和国农业农村部公告第964号",
+      "来源": "农业农村部网站",
+      "主题分类": "农业、林业、水利\\农业、畜牧业、渔业",
+      "公文种类": "公告",
+      "成文日期": "2025年10月28日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251111363884414765.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7047761.html"
+  },
+  "raw_legal_doc": {}
+}

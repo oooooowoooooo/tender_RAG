@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340104MA2T7U3G7A",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340104MA2T7U3G7A",
+    "enterprise_name": "安徽文业建设工程有限公司",
+    "legal_representative": "韩梅高",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "13/11/2018 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "10000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥东县店埠镇安乐路88号A-322室",
+    "business_scope": "建筑工程、路桥工程、市政工程、水利水电工程、金属门窗工程、建筑幕墙工程、防水防腐保温工程、建筑装修装饰工程、机场跑道工程、钢结构工程、园林绿化工程、城市照明工程、矿山工程、地基与基础工程、环保工程设计与施工；建筑劳务分包（除劳务派遣）；机械设备租赁；货物专用运输（含冷藏、保鲜）、普通道路货物运输；物流方案设计；装卸搬运、物流配送（快递业务除外）；汽车租赁；汽车零部件销售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023AMMGZ00160"
+    ],
+    "all_linked_project_ids": [
+      "2023AMMGZ00160",
+      "2023AYYGZ00088"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽文业建设工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "韩梅高",
+    "registered_capital": "10000000",
+    "paid_in_capital": "0",
+    "establishment_date": "13/11/2018 00:00:00",
+    "approval_date": "6/6/2024 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥东县",
+    "phone": "15956900293",
+    "additional_phones": "18905691505,13385602521",
+    "email": "16114651682@qq.com",
+    "additional_emails": "zy44148@sina.com,717610857@qq.com,1066426063@qq.com",
+    "unified_social_credit_code": "91340104MA2T7U3G7A",
+    "taxpayer_identification_number": "91340104MA2T7U3G7A",
+    "business_registration_number": "340104000242603",
+    "organization_code": "MA2T7U3G-7",
+    "insured_personnel_count": "10",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "土木工程建筑业",
+    "former_name": "安徽平衿建筑工程有限公司",
+    "registered_address": "安徽省合肥市肥东县店埠镇安乐路88号A-322室",
+    "latest_annual_report_address": "安徽省肥东县",
+    "website": "-",
+    "business_scope": "建筑工程、路桥工程、市政工程、水利水电工程、金属门窗工程、建筑幕墙工程、防水防腐保温工程、建筑装修装饰工程、机场跑道工程、钢结构工程、园林绿化工程、城市照明工程、矿山工程、地基与基础工程、环保工程设计与施工；建筑劳务分包（除劳务派遣）；机械设备租赁；货物专用运输（含冷藏、保鲜）、普通道路货物运输；物流方案设计；装卸搬运、物流配送（快递业务除外）；汽车租赁；汽车零部件销售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "11340124003272423W",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "11340124003272423W",
+    "enterprise_name": "庐江县矾山镇人民政府",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "11/10/2018 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "庐江县矾山镇和谐大道1号",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 3,
+    "all_tender_frequency": 242,
+    "selected_project_ids": [
+      "2023AEEBZ00360",
+      "2023ANNGZ00531",
+      "2023ANNGZ00568"
+    ],
+    "all_linked_project_ids": [
+      "2022ANNZN00422",
+      "2023AEEBZ00360",
+      "2023ANNAZ00495",
+      "2023ANNFJ00024",
+      "2023ANNFJ00025",
+      "2023ANNGZ00482",
+      "2023ANNGZ00531",
+      "2023ANNGZ00568"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "庐江县矾山镇人民政府",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "11/10/2018 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐江县",
+    "phone": "13395692623",
+    "additional_phones": "18715601979,17775376642,18269751016,15656542963,13156555554",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "11340124003272423W",
+    "taxpayer_identification_number": "11340124003272423W",
+    "business_registration_number": "-",
+    "organization_code": "00327242-3",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "庐江县矾山镇和谐大道1号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

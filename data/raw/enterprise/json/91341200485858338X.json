@@ -1,0 +1,72 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91341200485858338X",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91341200485858338X",
+    "enterprise_name": "阜阳市水利水电建设集团有限公司",
+    "legal_representative": "刘保忠",
+    "entity_type": "有限责任公司(国有独资)",
+    "established_date": "19/7/1989 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "139800000",
+    "business_status": "开业",
+    "registered_address": "安徽省阜阳市颍州区港口路16号",
+    "business_scope": "水利水电工程施工总承包壹级，房屋建筑工程施工总承包贰级，市政公用工程施工总承包叁级，土石方工程施工，钢结构工程施工，土地开发整理施工，土地复垦、规划设计、地质灾害治理、石漠化治理、河湖治理、水土保持，建筑钢结构生产加工，PC构件生产加工。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 5,
+    "selected_project_ids": [
+      "2023IFAGZ02687"
+    ],
+    "all_linked_project_ids": [
+      "2022ACCGZ00286",
+      "2022ANNGZ00566",
+      "2023IFAGZ01373",
+      "2023IFAGZ01421",
+      "2023IFAGZ02687"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "阜阳市水利水电建设集团有限公司",
+    "business_status": "开业",
+    "legal_representative": "刘保忠",
+    "registered_capital": "139800000",
+    "paid_in_capital": "139800000",
+    "establishment_date": "19/7/1989 00:00:00",
+    "approval_date": "19/5/2022 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "阜阳市",
+    "district": "颍州区",
+    "phone": "0558-2201365",
+    "additional_phones": "0558-2201361,13605586328,0558-8620101,0558-6780155,0558-2290536",
+    "email": "fysjgs@sohu.com",
+    "additional_emails": "fysjgc@sohu.com,122609477@qq.com,fysjhfgs@163.com,fysjjy@163.com,787319547@qq.com",
+    "unified_social_credit_code": "91341200485858338X",
+    "taxpayer_identification_number": "91341200485858338X",
+    "business_registration_number": "341200000032280",
+    "organization_code": "48585833-8",
+    "insured_personnel_count": "267",
+    "company_type": "有限责任公司(国有独资)",
+    "industry": "电力、热力生产和供应业",
+    "former_name": "-",
+    "registered_address": "安徽省阜阳市颍州区港口路16号",
+    "latest_annual_report_address": "安徽省阜阳市颍州区港口路16号",
+    "website": "www.fysjgs.com",
+    "business_scope": "水利水电工程施工总承包壹级，房屋建筑工程施工总承包贰级，市政公用工程施工总承包叁级，土石方工程施工，钢结构工程施工，土地开发整理施工，土地复垦、规划设计、地质灾害治理、石漠化治理、河湖治理、水土保持，建筑钢结构生产加工，PC构件生产加工。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

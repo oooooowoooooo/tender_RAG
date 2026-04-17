@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7051834",
+  "normalized_projection": {
+    "title": "民航局关于印发民航空管基本服务收费清算管理办法的通知",
+    "issuer": "中国民航局",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\民航",
+    "doc_no": "民航发〔2025〕26号",
+    "publish_date": "2025-12-16",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7051834.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251216478226401202.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "民航"
+    ],
+    "effective_date": "2025-12-11",
+    "abolish_date": "",
+    "summary": "为加强民航空管基本服务收费清算管理，规范清算程序，提高管理效率，确保资金安全，根据有关法律制度规定，结合中国民航实际以及国际惯例，制定本办法。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7051834",
+    "title": "民航局关于印发民航空管基本服务收费清算管理办法的通知",
+    "content": "民航局关于印发民航空管基本服务收费清算管理办法的通知\n民航发〔2025〕26号\n民航各地区管理局，各运输（通用）航空公司，空管局、运行监控中心、清算中心：\n现将《民航空管基本服务收费清算管理办法》印发给你们，请遵照执行。\n中国民用航空局\n2025年12月11日\n附件：民航空管基本服务收费清算管理办法",
+    "source": "中国民航局网站",
+    "publish_time": "2025-12-16",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7051834.htm",
+    "category": "工业、交通\\民航",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "150"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7051834",
+    "title": "民航局关于印发民航空管基本服务收费清算管理办法的通知",
+    "source_name": "中国民航局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-12-16",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7051834.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7051834.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "民航局关于印发民航空管基本服务收费清算管理办法的通知",
+      "发文机关": "中国民航局",
+      "发文字号": "民航发〔2025〕26号",
+      "来源": "中国民航局网站",
+      "主题分类": "工业、交通\\民航",
+      "公文种类": "通知",
+      "成文日期": "2025年12月11日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251216478226401202.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7051834.html"
+  },
+  "raw_legal_doc": {}
+}

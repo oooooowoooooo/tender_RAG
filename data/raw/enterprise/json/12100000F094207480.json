@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "12100000F094207480",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "12100000F094207480",
+    "enterprise_name": "淮河水利委员会水文局（信息中心）",
+    "legal_representative": "钱名开",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "13100000",
+    "business_status": "开业",
+    "registered_address": "安徽省蚌埠市东海大道3055号",
+    "business_scope": "为淮河建设提供水文服务。 水文监测 水文预报 气象信息服务 水文水资源评价论证 水文信息管理 淮委水文自动测报系统和计算机网络系统建设 相关技术开发与人才培训",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 6,
+    "selected_project_ids": [
+      "2023IFWGZ02487"
+    ],
+    "all_linked_project_ids": [
+      "2023IFWAZ02161",
+      "2023IFWGZ02160",
+      "2023IFWGZ02487"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "淮河水利委员会水文局（信息中心）",
+    "business_status": "开业",
+    "legal_representative": "钱名开",
+    "registered_capital": "13100000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "2017-09-01 至 2022-09-01",
+    "province": "安徽省",
+    "city": "蚌埠市",
+    "district": "蚌埠市",
+    "phone": "0552-30932152",
+    "additional_phones": "0552-30922903,0552-3093140,0552-3093672,0552-30934052,0552-3093415",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "12100000F094207480",
+    "taxpayer_identification_number": "12100000F094207480",
+    "business_registration_number": "-",
+    "organization_code": "F0942074-8",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "安徽省蚌埠市东海大道3055号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "为淮河建设提供水文服务。 水文监测 水文预报 气象信息服务 水文水资源评价论证 水文信息管理 淮委水文自动测报系统和计算机网络系统建设 相关技术开发与人才培训",
+    "match_status": "成功"
+  }
+}

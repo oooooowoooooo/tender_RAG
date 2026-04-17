@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913401001492314218",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913401001492314218",
+    "enterprise_name": "合肥瑶海建筑安装工程有限责任公司",
+    "legal_representative": "姚大煌",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "10/3/1993 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "50500000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市瑶海区北二环路156号竹溪大厦11楼1-10室",
+    "business_scope": "房屋建筑工程施工总承包壹级；市政公用工程施工总承包壹级；地基与基础工程专业承包叁级；建筑装饰装修工程专业承包叁级；土石方工程专业承包叁级；起重设备安装工程专业承包叁级；建筑防水工程专业承包叁级（在资质证许可范围内经营）；房屋出租。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 5,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023ACCGZ00228",
+      "2023ADDGZ00210",
+      "2023BFJGZ01138",
+      "2023BFYGZ00939",
+      "2023DFWGZ01028"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥瑶海建筑安装工程有限责任公司",
+    "business_status": "开业",
+    "legal_representative": "姚大煌",
+    "registered_capital": "50500000",
+    "paid_in_capital": "22710000",
+    "establishment_date": "10/3/1993 00:00:00",
+    "approval_date": "29/11/2021 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "瑶海区",
+    "phone": "13956950492",
+    "additional_phones": "0551-64287878,13866186573,13855190596,4288029,0551-4227878",
+    "email": "249302409@qq.com",
+    "additional_emails": "709280343@qq.com,1493535084@qq.com",
+    "unified_social_credit_code": "913401001492314218",
+    "taxpayer_identification_number": "913401001492314218",
+    "business_registration_number": "340108000008181",
+    "organization_code": "14923142-1",
+    "insured_personnel_count": "44",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "-",
+    "former_name": "合肥瑶海建筑安装工程公司",
+    "registered_address": "安徽省合肥市瑶海区北二环路156号竹溪大厦11楼1-10室",
+    "latest_annual_report_address": "合肥市北二环路156号竹溪大厦11楼",
+    "website": "www.ahyhja.com",
+    "business_scope": "房屋建筑工程施工总承包壹级；市政公用工程施工总承包壹级；地基与基础工程专业承包叁级；建筑装饰装修工程专业承包叁级；土石方工程专业承包叁级；起重设备安装工程专业承包叁级；建筑防水工程专业承包叁级（在资质证许可范围内经营）；房屋出租。",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023ANNZN00451",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "中标"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023ANNZN00451",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "中标"
+    ],
+    "publish_time": "2023-11-06 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 庐江"
+    ],
+    "tenderer_or_purchaser": [
+      "庐江县泥河镇人民政府"
+    ],
+    "agency": [
+      "安徽夹山工程咨询有限公司"
+    ],
+    "budget_or_bid_amount": [
+      "3000000.0",
+      "1800000.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231106/881e858d-b581-4377-9421-c4b50387ee97.html?ztbtab=002002004&biaoduanguid=e748910a-91f4-46e6-93b0-7b316e58cabb",
+    "attachment_paths": [],
+    "candidate_company_names": [
+      "安徽翌晨建设有限公司"
+    ],
+    "winner_company_name": [
+      "安徽翌晨建设有限公司"
+    ],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:873",
+      "project_id": "2023ANNZN00451",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231106/881e858d-b581-4377-9421-c4b50387ee97.html?ztbtab=002002004&biaoduanguid=e748910a-91f4-46e6-93b0-7b316e58cabb",
+      "type": "政府采购",
+      "stage": "中标",
+      "event_time": "2023-11-06",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "庐江",
+      "category": "政府",
+      "sub_category": "工程",
+      "budget_amount": "3000000.0",
+      "purchaser": "庐江县泥河镇人民政府",
+      "agency": "安徽夹山工程咨询有限公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "安徽翌晨建设有限公司",
+      "bid_amount": "1800000.0",
+      "bid_date": "2023-11-17",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"泥河镇长文里生态农业连栋大棚项目中标（成交）结果公告\", \"content\": \"\n\n泥河镇长文里生态农业连栋大棚项目中标（成交）结果公告\n\n一、项目编号:\n2023ANNZN00451\n\n二、项目名称:\n泥河镇长文里生态农业连栋大棚项目\n\n三、中标（成交）信息\n\n供应商名称：安徽翌晨建设有限公司\n\n供应商地址：安徽省合肥市庐江县白湖镇陶冲村大院村民组15号\n\n中标（成交）金额：壹佰捌拾万元整(￥1800000.00元)\n\n四、主要标的信息\n{\"table_style\": 1}\n\n名称\n\n泥河镇长文里生态农业连栋大棚项目\n\n施工范围\n\n泥河镇长文里生态农业连栋大棚项目全部施工内容\n\n施工工期\n\n40日历天\n\n项目经理\n\n慈龙国\n\n执业证书信息\n\n专业：建筑工程\n\n编号：皖\n\n234080914460\n\n（\n1）其他主要标的信息详见本公告附件；\n{\"table_style\": 1}\n\n（\n2）如与附件不一致的，以公示附件中主要中标（成交）标的承诺函为准。\n\n五、评审专家（单一来源采购人员）名单\n\n徐永红,赵海军,王宇梅\n\n六、代理服务收费标准及金额\n\n详见采购文件中标（成交）服务费\n\n七、公告期限\n\n自本公告发布之日起1个工作日。\n\n八、其他补充事宜\n\n此\n项目中标\n（\n成交\n）\n通知书已\n随结果公告\n发出，请中标（成交）供应商登录电子交易\n服务\n系统自行下载领取\n。\n\n若投标供应商对上述结果有异议，可在中标（成交）公告发布之日起七个工作日内通过电子交易系统或以书面形式在工作时间（周一至周五，上午\n8:00-12:00，下午14:30-17:30，节假日休息）向招标（采购）人提出质疑（异议），质疑材料递交地址：见本公告采购人信息。联系电话：见本公告采购人信息。\n\n若投标供应商对质疑处理意见有异议，可在规定时间内通过网上投诉系统或以书面形式向庐江县财政局提出投诉，联系人：\n吴\n工，联系电话：\n0551-87388071【采购人为合肥行政区域以外单位的项目：向采购人所在地财政部门（公共资源交易监督管理部门）提出投诉】。\n\n质疑提起的条件及不予受理的情形\n如下\n：\n\n根据《中华人民共和国政府采购法》、《中华人民共和国政府采购法实施条例》、《安徽省政府采购供应商质疑处理办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n\n（一）质疑应以书面形式实名提出，书面质疑材料应当包括以下内容：\n\n1、质疑人的名称、地址、邮编、联系人及联系电话；\n\n2、质疑项目的名称、编号、包别号（如有）；\n\n3、被质疑人名称；\n\n4、具体的质疑事项、基本事实及必要的证明材料；\n\n5、明确的请求及主张；\n\n6、必要的法律依据；\n\n7、提起质疑的日期。\n\n质疑人为自然人的，应当由本人签字；质疑人为法人或者其他组织的，应当由法定代表人、主要负责人，或者其授权代表签字或者盖章，并加盖公章。\n\n（二）有下列情形之一的，不予受理：\n\n1、提起质疑的主体不是参与该政府采购项目活动的\n投标\n供应商；\n\n2、提起质疑的时间超过规定时限的；\n\n3、质疑材料不完整的；\n\n4、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n\n5、对其他供应商的投标\n响应\n文件详细内容质疑，无法提供合法来源渠道的；\n\n6、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n\n九、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：庐江县泥河镇人民政府\n\n地址：合肥市庐江县泥河镇海神大道1号\n\n联系方式：13696790911\n\n2.采购代理机构信息\n\n名称：安徽夹山工程咨询有限公司\n\n地址：合肥市庐江县白湖镇裴岗街道8号\n\n联系方式：18156091068\n\n3.项目联系方式\n\n项目联系人：李燕\n\n电话：18156091068\n\n累计办理时间：\n0天0小时34分10秒\n\n招标代理机构提交\n\n提交节点：\n\n2023-11-17\n\n交易中心见证\n\n办理状态：\n\n通过\n\n办理时间：\n\n2023-11-17\n\n办理用时：\n\n0天0小时34分\n\n\", \"attachments\": [{\"file_name\": \"业绩承诺函.jpg\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=82657f44-76db-4208-bc9f-7e06a2b8baaa&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"无重大违法记录声明函和无不良信用记录声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=856cb299-27e0-4896-bf68-4153a77081b1&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"主要成交标的承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=98bb62e1-051e-4e7e-b7dc-5bf74f600d13&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=b6755423-2f88-4d68-a217-2632623d549f&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"中小企业声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=e09cf0e2-db61-433e-97dc-0a39f2f729a6&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "2975",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

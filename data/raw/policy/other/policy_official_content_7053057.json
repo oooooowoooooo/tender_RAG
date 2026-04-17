@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7053057",
+  "normalized_projection": {
+    "title": "市场监管总局关于发布《食品添加剂生产许可审查细则（2025版）》的公告",
+    "issuer": "市场监管总局",
+    "index_no": "未标注",
+    "subject_category": "市场监管、安全生产监管\\食品药品监管",
+    "doc_no": "2025年第55号",
+    "publish_date": "2025-12-29",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053057.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251229732998133696.pdf"
+    ],
+    "keywords": [
+      "市场监管",
+      "安全生产监管",
+      "食品药品监管"
+    ],
+    "effective_date": "2025-12-23",
+    "abolish_date": "",
+    "summary": "为规范食品添加剂生产许可工作，加强对食品添加剂生产企业的监督管理，依据《中华人民共和国食品安全法》《中华人民共和国食品安全法实施条例》《食品生产许可管理办法》（市场监管总局令第24号）等法律法规、部门规章和食品安全国家标准，市场监管总局组织制定了《食品添加剂生产许可审查细则（2025版）》，现予公告，自发布之日起施行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7053057",
+    "title": "市场监管总局关于发布《食品添加剂生产许可审查细则（2025版）》的公告",
+    "content": "市场监管总局关于发布《食品添加剂生产许可审查细则（2025版）》的公告\n2025年第55号\n为规范食品添加剂生产许可工作，加强对食品添加剂生产企业的监督管理，依据《中华人民共和国食品安全法》《中华人民共和国食品安全法实施条例》《食品生产许可管理办法》（市场监管总局令第24号）等法律法规、部门规章和食品安全国家标准，市场监管总局组织制定了《食品添加剂生产许可审查细则（2025版）》，现予公告，自发布之日起施行。\n市场监管总局\n2025年12月23日\n附件下载\n市场监管总局关于发布《食品添加剂生产许可审查细则（2025版）》的公告.pdf",
+    "source": "市场监管总局网站",
+    "publish_time": "2025-12-29",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053057.htm",
+    "category": "市场监管、安全生产监管\\食品药品监管",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "270"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7053057",
+    "title": "市场监管总局关于发布《食品添加剂生产许可审查细则（2025版）》的公告",
+    "source_name": "市场监管总局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-12-29",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053057.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053057.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "市场监管总局关于发布《食品添加剂生产许可审查细则（2025版）》的公告",
+      "发文机关": "市场监管总局",
+      "发文字号": "2025年第55号",
+      "来源": "市场监管总局网站",
+      "主题分类": "市场监管、安全生产监管\\食品药品监管",
+      "公文种类": "公告",
+      "成文日期": "2025年12月23日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251229732998133696.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7053057.html"
+  },
+  "raw_legal_doc": {}
+}

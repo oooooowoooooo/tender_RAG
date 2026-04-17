@@ -1,0 +1,67 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913401005578226340",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913401005578226340",
+    "enterprise_name": "合肥金葡萄文化旅游投资有限公司",
+    "legal_representative": "张俊侠",
+    "entity_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "established_date": "24/6/2010 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "20000000",
+    "business_status": "开业",
+    "registered_address": "合肥市包河区花园大道与环圩西路交口东南侧",
+    "business_scope": "文化旅游项目投资、开发及运营；文化旅游项目管理；集体资产管理；公共文化场馆运营管理服务；旅游产品开发及销售；会务服务；会展服务；国内广告设计、制作、代理及发布；文化艺术活动组织；食用农产品生产及销售；食品加工及销售；袋装种子、农药、化肥、预包装食品、散装食品、办公用品、工艺品、家具、电器销售；环卫清洁服务；建筑装饰工程及设计；交通设施安装工程；污水处理工程；劳务服务；渣土清运及管理；物业管理；餐饮管理；园林绿化工程；市政工程；建设工程设计及监理；土地租赁；电影放映。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 22,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022AYYGZ00096",
+      "2022BFBGZ02547"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥金葡萄文化旅游投资有限公司",
+    "business_status": "开业",
+    "legal_representative": "张俊侠",
+    "registered_capital": "20000000",
+    "paid_in_capital": "20000000",
+    "establishment_date": "24/6/2010 00:00:00",
+    "approval_date": "6/8/2020 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "phone": "18815692725",
+    "additional_phones": "18255131558,0551-63812981,0551-64857555,0551-64857513,18756305566",
+    "email": "1056697367@qq.com",
+    "additional_emails": "853107412@qq.com",
+    "unified_social_credit_code": "913401005578226340",
+    "taxpayer_identification_number": "913401005578226340",
+    "business_registration_number": "340100000424568",
+    "organization_code": "55782263-4",
+    "insured_personnel_count": "32",
+    "company_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "industry": "文化艺术业",
+    "former_name": "合肥金葡萄文化旅游开发有限公司",
+    "registered_address": "合肥市包河区花园大道与环圩西路交口东南侧",
+    "latest_annual_report_address": "合肥市包河区花园大道与环圩西路交口东南侧",
+    "website": "www.daweishengtailvyou.com.cn",
+    "business_scope": "文化旅游项目投资、开发及运营；文化旅游项目管理；集体资产管理；公共文化场馆运营管理服务；旅游产品开发及销售；会务服务；会展服务；国内广告设计、制作、代理及发布；文化艺术活动组织；食用农产品生产及销售；食品加工及销售；袋装种子、农药、化肥、预包装食品、散装食品、办公用品、工艺品、家具、电器销售；环卫清洁服务；建筑装饰工程及设计；交通设施安装工程；污水处理工程；劳务服务；渣土清运及管理；物业管理；餐饮管理；园林绿化工程；市政工程；建设工程设计及监理；土地租赁；电影放映。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

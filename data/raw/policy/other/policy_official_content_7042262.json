@@ -1,0 +1,80 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7042262",
+  "normalized_projection": {
+    "title": "关于发布《职业性减压病诊断标准》等8项国家职业卫生标准的通告",
+    "issuer": "国家卫生健康委",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\卫生",
+    "doc_no": "国卫通〔2025〕11号",
+    "publish_date": "2025-09-25",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042262.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925512851499138.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925512851616536.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925512851739535.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925512851901975.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925512852103989.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925512852226159.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925512852326869.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925512852436355.pdf"
+    ],
+    "keywords": [
+      "卫生",
+      "体育"
+    ],
+    "effective_date": "2025-09-04",
+    "abolish_date": "",
+    "summary": "现发布《职业性减压病诊断标准》等8项国家职业卫生标准，编号和名称如下。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7042262",
+    "title": "关于发布《职业性减压病诊断标准》等8项国家职业卫生标准的通告",
+    "content": "关于发布《职业性减压病诊断标准》等8项国家职业卫生标准的通告\n国卫通〔2025〕11号\n现发布《职业性减压病诊断标准》等8项国家职业卫生标准，编号和名称如下：\n一、强制性国家职业卫生标准\nGBZ 24—2025 职业性减压病诊断标准（代替GBZ 24—2017）\nGBZ 42—2025 职业性急性四氯化碳中毒诊断标准（代替GBZ 42—2002）\nGBZ 83—2025 职业性砷中毒诊断标准（代替GBZ 83—2013）\n二、推荐性国家职业卫生标准\nGBZT 189.9—2025 工作场所物理因素测量标准第9部分：手传振动（代替GBZ/T 189.9—2007）\nGBZT 192.1—2025 工作场所空气中粉尘测定标准第1部分：总粉尘浓度（代替GBZ/T 192.1—2007）\nGBZT 192.2—2025 工作场所空气中粉尘测定标准第2部分：呼吸性粉尘浓度（代替GBZ/T 192.2—2007）\nGBZT 230—2025 工作场所毒物危害程度分级标准（代替GBZ/T 230—2010）\nGBZT 338—2025 尿中汞测定标准冷原子吸收光谱法（代替WS/T 25—1996、WS/T 27—1996）\n上述强制性标准自2026年8月1日起施行，GBZ 24—2017、GBZ 42—2002、GBZ 3—2013同时废止。\n上述推荐性标准自2026年2月1日起施行，GBZ/T 189.9—2007、GBZ/T 192.1—2007、GBZ/T 192.2—2007、GBZ/T 230—2010、WS/T 25—1996、WS/T 27—1996同时废止。\n特此通告。\n国家卫生健康委\n2025年9月4日",
+    "source": "国家卫生健康委网站",
+    "publish_time": "2025-09-25",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042262.htm",
+    "category": "卫生、体育\\卫生",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "715"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7042262",
+    "title": "关于发布《职业性减压病诊断标准》等8项国家职业卫生标准的通告",
+    "source_name": "国家卫生健康委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-09-25",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042262.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042262.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于发布《职业性减压病诊断标准》等8项国家职业卫生标准的通告",
+      "发文机关": "国家卫生健康委",
+      "发文字号": "国卫通〔2025〕11号",
+      "来源": "国家卫生健康委网站",
+      "主题分类": "卫生、体育\\卫生",
+      "公文种类": "通告",
+      "成文日期": "2025年09月04日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925512851499138.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925512851616536.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925512851739535.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925512851901975.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925512852103989.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925512852226159.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925512852326869.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925512852436355.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7042262.html"
+  },
+  "raw_legal_doc": {}
+}

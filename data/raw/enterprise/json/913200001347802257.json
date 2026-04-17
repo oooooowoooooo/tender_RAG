@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913200001347802257",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913200001347802257",
+    "enterprise_name": "江苏苏美达成套设备工程有限公司",
+    "legal_representative": "王伟",
+    "entity_type": "有限责任公司",
+    "established_date": "26/12/1997 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "185000000",
+    "business_status": "开业",
+    "registered_address": "南京市长江路１９８号十二楼",
+    "business_scope": "许可项目：建设工程设计；第三类医疗器械经营；建设工程施工；建筑劳务分包；农药批发（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）\n一般项目：技术进出口；进出口代理；环境保护专用设备销售；机械电气设备销售；电工仪器仪表销售；电气设备销售；金属材料销售；机械设备销售；管道运输设备销售；电子专用设备销售；化工产品销售（不含许可类化工产品）；汽车新车销售；软件开发；信息系统集成服务；信息系统运行维护服务；信息技术咨询服务；第一类医疗器械销售；第二类医疗器械销售；规划设计管理；固体废物治理；水污染治理；土壤污染治理与修复服务；噪声与振动控制服务；对外承包工程；工程管理服务；货物进出口（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023BFMAZ02578"
+    ],
+    "all_linked_project_ids": [
+      "2023BFFAZ01981",
+      "2023BFMAZ02578"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "江苏苏美达成套设备工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "王伟",
+    "registered_capital": "185000000",
+    "paid_in_capital": "185000000",
+    "establishment_date": "26/12/1997 00:00:00",
+    "approval_date": "19/2/2024 00:00:00",
+    "business_term": "-",
+    "province": "江苏省",
+    "city": "南京市",
+    "district": "玄武区",
+    "phone": "025-84531912",
+    "additional_phones": "025-84531200,15047667686,025-84407400,025-84527913,0516-88328786",
+    "email": "complete@sumec.com.cn",
+    "additional_emails": "gefei@sumec.com.cn,chengtao@sumec.com.cn",
+    "unified_social_credit_code": "913200001347802257",
+    "taxpayer_identification_number": "913200001347802257",
+    "business_registration_number": "320000000010969",
+    "organization_code": "13478022-5",
+    "insured_personnel_count": "240",
+    "company_type": "有限责任公司",
+    "industry": "生态保护和环境治理业",
+    "former_name": "-",
+    "registered_address": "南京市长江路１９８号十二楼",
+    "latest_annual_report_address": "南京市长江路198号十二楼",
+    "website": "www.sumec.com",
+    "business_scope": "许可项目：建设工程设计；第三类医疗器械经营；建设工程施工；建筑劳务分包；农药批发（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）\n一般项目：技术进出口；进出口代理；环境保护专用设备销售；机械电气设备销售；电工仪器仪表销售；电气设备销售；金属材料销售；机械设备销售；管道运输设备销售；电子专用设备销售；化工产品销售（不含许可类化工产品）；汽车新车销售；软件开发；信息系统集成服务；信息系统运行维护服务；信息技术咨询服务；第一类医疗器械销售；第二类医疗器械销售；规划设计管理；固体废物治理；水污染治理；土壤污染治理与修复服务；噪声与振动控制服务；对外承包工程；工程管理服务；货物进出口（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）",
+    "match_status": "成功"
+  }
+}

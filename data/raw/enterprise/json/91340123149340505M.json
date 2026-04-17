@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340123149340505M",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340123149340505M",
+    "enterprise_name": "肥西县建筑工程有限公司",
+    "legal_representative": "韩正平",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "12/6/1996 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "23600000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥西县上派镇巢湖南路32号",
+    "business_scope": "许可项目：建设工程施工；施工专业作业；住宅室内装饰装修；建筑物拆除作业（爆破作业除外）；建筑劳务分包（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）一般项目：土石方工程施工；体育场地设施工程施工；园林绿化工程施工；金属门窗工程施工；城乡市容管理；工程管理服务；专业保洁、清洗、消毒服务；建筑物清洁服务；家政服务；物业管理；租赁服务（不含许可类租赁服务）；市场营销策划；房地产经纪；广告制作；办公服务；建筑材料销售；劳务服务（不含劳务派遣）（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023BFFGZ00624",
+      "2023BFFGZ00749",
+      "2023BFFGZ00981",
+      "2023BFFGZ01807"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "肥西县建筑工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "韩正平",
+    "registered_capital": "23600000",
+    "paid_in_capital": "23600000",
+    "establishment_date": "12/6/1996 00:00:00",
+    "approval_date": "9/9/2022 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "phone": "0551-68850035",
+    "additional_phones": "0551-68841715,0551-68841528,0551-68852548",
+    "email": "2478228368@qq.com.cn",
+    "additional_emails": "24782283682@qq.com.cn,2478228368@qq.com",
+    "unified_social_credit_code": "91340123149340505M",
+    "taxpayer_identification_number": "91340123149340505M",
+    "business_registration_number": "340123000029991",
+    "organization_code": "14934050-5",
+    "insured_personnel_count": "136",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "租赁业",
+    "former_name": "肥西县建筑工程有限责任公司",
+    "registered_address": "安徽省合肥市肥西县上派镇巢湖南路32号",
+    "latest_annual_report_address": "肥西县上派镇巢湖南路32号",
+    "website": "-",
+    "business_scope": "许可项目：建设工程施工；施工专业作业；住宅室内装饰装修；建筑物拆除作业（爆破作业除外）；建筑劳务分包（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）一般项目：土石方工程施工；体育场地设施工程施工；园林绿化工程施工；金属门窗工程施工；城乡市容管理；工程管理服务；专业保洁、清洗、消毒服务；建筑物清洁服务；家政服务；物业管理；租赁服务（不含许可类租赁服务）；市场营销策划；房地产经纪；广告制作；办公服务；建筑材料销售；劳务服务（不含劳务派遣）（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）",
+    "match_status": "成功"
+  }
+}

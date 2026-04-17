@@ -1,0 +1,73 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7015682",
+  "normalized_projection": {
+    "title": "国家药监局 国家卫生健康委关于颁布2025年版《中华人民共和国药典》的公告",
+    "issuer": "国家药监局 国家卫生健康委",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "2025年第29号",
+    "publish_date": "2025-03-26",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015682.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250326411104895580.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250326411105071581.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250326411105232461.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250326411105316270.pdf"
+    ],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2025-03-20",
+    "abolish_date": "",
+    "summary": "根据《中华人民共和国药品管理法》，2025年版《中华人民共和国药典》（以下简称《中国药典》）经第十二届药典委员会执行委员会全体会议审议通过，现予颁布，自2025年10月1日起施行。2025年版《中国药典》目录见附件。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7015682",
+    "title": "国家药监局 国家卫生健康委关于颁布2025年版《中华人民共和国药典》的公告",
+    "content": "国家药监局 国家卫生健康委关于颁布2025年版《中华人民共和国药典》的公告\n（2025年第29号）\n根据《中华人民共和国药品管理法》，2025年版《中华人民共和国药典》（以下简称《中国药典》）经第十二届药典委员会执行委员会全体会议审议通过，现予颁布，自2025年10月1日起施行。2025年版《中国药典》目录见附件。\n特此公告。\n附件：\n1.2025年版《中国药典》一部目录.pdf\n2.2025年版《中国药典》二部目录.pdf\n3.2025年版《中国药典》三部目录.pdf\n4.2025年版《中国药典》四部目录.pdf\n\n国家药监局\n国家卫生健康委\n2025年3月20日",
+    "source": "国家药监局网站",
+    "publish_time": "2025-03-26",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015682.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "286"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7015682",
+    "title": "国家药监局 国家卫生健康委关于颁布2025年版《中华人民共和国药典》的公告",
+    "source_name": "国家药监局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-26",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015682.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015682.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家药监局 国家卫生健康委关于颁布2025年版《中华人民共和国药典》的公告",
+      "发文机关": "国家药监局 国家卫生健康委",
+      "发文字号": "2025年第29号",
+      "来源": "国家药监局网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "公告",
+      "成文日期": "2025年03月20日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250326411104895580.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250326411105071581.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250326411105232461.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250326411105316270.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7015682.html"
+  },
+  "raw_legal_doc": {}
+}

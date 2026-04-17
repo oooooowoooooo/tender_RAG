@@ -1,0 +1,68 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7014183",
+  "normalized_projection": {
+    "title": "农业农村部 国家卫生健康委 工业和信息化部关于印发《中国食物与营养发展纲要（2025—2030年）》的通知",
+    "issuer": "农业农村部 国家卫生健康委 工业和信息化部",
+    "index_no": "未标注",
+    "subject_category": "农业、林业、水利\\其他",
+    "doc_no": "农科技发〔2025〕1号",
+    "publish_date": "2025-03-18",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014183.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250318329338974446.pdf"
+    ],
+    "keywords": [
+      "农业",
+      "林业",
+      "水利",
+      "其他"
+    ],
+    "effective_date": "2025-02-27",
+    "abolish_date": "",
+    "summary": "为统筹食物与营养协调发展，支撑健康中国建设，制定本纲要。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7014183",
+    "title": "农业农村部 国家卫生健康委 工业和信息化部关于印发《中国食物与营养发展纲要（2025—2030年）》的通知",
+    "content": "农业农村部 国家卫生健康委 工业和信息化部关于印发《中国食物与营养发展纲要（2025—2030年）》的通知\n农科技发〔2025〕1号\n各省、自治区、直辖市人民政府，国家发展改革委、教育部、科技部、民政部、司法部、财政部、人力资源社会保障部、自然资源部、商务部、应急管理部、市场监管总局、国家粮食和储备局、国家林草局、国家中医药局、国家疾控局：\n经国务院同意，现将《中国食物与营养发展纲要（2025—2030年）》印发给你们，请认真贯彻落实。\n农业农村部\n国家卫生健康委\n工业和信息化部\n2025年2月27日\n附件：中国食物与营养发展纲要（2025—2030年）",
+    "source": "农业农村部网站",
+    "publish_time": "2025-03-18",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014183.htm",
+    "category": "农业、林业、水利\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "280"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7014183",
+    "title": "农业农村部 国家卫生健康委 工业和信息化部关于印发《中国食物与营养发展纲要（2025—2030年）》的通知",
+    "source_name": "农业农村部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-18",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014183.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014183.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "农业农村部 国家卫生健康委 工业和信息化部关于印发《中国食物与营养发展纲要（2025—2030年）》的通知",
+      "发文机关": "农业农村部 国家卫生健康委 工业和信息化部",
+      "发文字号": "农科技发〔2025〕1号",
+      "来源": "农业农村部网站",
+      "主题分类": "农业、林业、水利\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年02月27日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250318329338974446.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7014183.html"
+  },
+  "raw_legal_doc": {}
+}

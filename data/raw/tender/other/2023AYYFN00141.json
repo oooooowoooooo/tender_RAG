@@ -1,0 +1,78 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023AYYFN00141",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "终止"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023AYYFN00141",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "终止"
+    ],
+    "publish_time": "2023-12-11 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 瑶海"
+    ],
+    "tenderer_or_purchaser": [
+      "合肥市瑶海区红光街道办事处"
+    ],
+    "agency": [
+      "合肥市瑶海区公共资源交易项目管理有限公司"
+    ],
+    "budget_or_bid_amount": [
+      "311139.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231211/a6fe9359-3d6d-4960-9dc0-dd4c81b72114.html?ztbtab=002002004&biaoduanguid=c13cb8d6-fe2e-42a5-9cac-3389269a1e62",
+    "attachment_paths": [],
+    "candidate_company_names": [],
+    "winner_company_name": [],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:269",
+      "project_id": "2023AYYFN00141",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231211/a6fe9359-3d6d-4960-9dc0-dd4c81b72114.html?ztbtab=002002004&biaoduanguid=c13cb8d6-fe2e-42a5-9cac-3389269a1e62",
+      "type": "政府采购",
+      "stage": "终止",
+      "event_time": "2023-12-11",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "瑶海",
+      "category": "企业",
+      "sub_category": "服务",
+      "budget_amount": "311139.0",
+      "purchaser": "合肥市瑶海区红光街道办事处",
+      "agency": "合肥市瑶海区公共资源交易项目管理有限公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "",
+      "bid_amount": "",
+      "bid_date": "",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"安装公司和省二建公司生活区物业管理服务终止公告\", \"content\": \"\n\n安装公司和省二建公司生活区物业管理服务终止公告\n\n一、项目基本情况\n\n采购项目编号：2023AYYFN00141\n\n采购项目名称：安装公司和省二建公司生活区物业管理服务\n\n二、项目终止的原因\n\n终止原因：有效供应商不足规定数量，本次采购终止。\n\n三、其他补充事宜\n\n无\n\n四、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：合肥市瑶海区红光街道办事处\n\n地址：合肥市瑶海区枞阳路301号\n\n联系方式：0551-64532160\n\n2.采购代理机构信息\n\n名称：合肥市瑶海区公共资源交易项目管理有限公司\n\n地址：合肥市瑶海区芜湖路2号坝上街环球中心综合楼7楼\n\n联系方式：0551-64498334\n\n3.项目联系方式\n\n项目联系人：张工\n\n电话：0551-64498334\n\n累计办理时间：\n0天0小时16分51秒\n\n招标代理机构提交\n\n提交节点：\n\n2023-12-22\n\n交易中心见证\n\n办理状态：\n\n通过\n\n办理时间：\n\n2023-12-22\n\n办理用时：\n\n0天0小时16分\n\n\", \"attachments\": [{\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=30980316-fc5f-4655-90a1-7d0a229f4833&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "783",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

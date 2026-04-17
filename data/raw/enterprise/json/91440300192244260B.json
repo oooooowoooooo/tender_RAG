@@ -1,0 +1,67 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91440300192244260B",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91440300192244260B",
+    "enterprise_name": "深圳市建筑设计研究总院有限公司",
+    "legal_representative": "廖凯",
+    "entity_type": "有限责任公司（法人独资）",
+    "established_date": "1993-09-11",
+    "registration_authority": "",
+    "registered_capital": "8000万人民币",
+    "business_status": "存续",
+    "registered_address": "深圳市福田区振华路八号",
+    "business_scope": "一般经营项目是：建筑工程设计（含从事相应等级和范围的建筑装饰工程设计、建筑幕墙工程设计、轻型钢结构工程设计、建筑智能化系统设计、照明工程设计、消防设施工程设计等六大类专项工程设计业务）；并可从事以上资质证书许可范围内相应的建筑工程总承包业务以及项目管理和相关的技术与管理服务；城市规划编制；市政工程设计；风景园林工程设计；工程咨询；建筑工程监理；图文处理。经营范围以登记机关核准登记的为准。工程管理服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动），许可经营项目是：工程造价咨询业务。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）",
+    "source_url": "http://fourstars.net.cn",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 10,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022AGGFN00120",
+      "2023AFGBZ01098",
+      "2023AFGBZ01233",
+      "2023AGGBZ00060",
+      "2023BFFGZ00566",
+      "2023BFGBZ01583",
+      "2023BFGBZ01663",
+      "2023BFJGZ01929",
+      "2023BFLGZ01141"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "1283",
+    "title": "深圳市建筑设计研究总院有限公司",
+    "corporation": "廖凯",
+    "amount_raw": "8000万人民币",
+    "event_time": "1993-09-11",
+    "manage_date": "1993-09-11 至 无固定期限",
+    "status": "存续",
+    "province": "广东省",
+    "city": "深圳市",
+    "district": "福田区",
+    "type": "有限责任公司（法人独资）",
+    "industry": "专业技术服务业",
+    "USCC": "91440300192244260B",
+    "TIN": "91440300192244260B",
+    "registed_num": "440301102970677",
+    "insured_persons": "0",
+    "location": "深圳市福田区振华路八号",
+    "source_url": "http://fourstars.net.cn",
+    "content": "一般经营项目是：建筑工程设计（含从事相应等级和范围的建筑装饰工程设计、建筑幕墙工程设计、轻型钢结构工程设计、建筑智能化系统设计、照明工程设计、消防设施工程设计等六大类专项工程设计业务）；并可从事以上资质证书许可范围内相应的建筑工程总承包业务以及项目管理和相关的技术与管理服务；城市规划编制；市政工程设计；风景园林工程设计；工程咨询；建筑工程监理；图文处理。经营范围以登记机关核准登记的为准。工程管理服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动），许可经营项目是：工程造价咨询业务。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）",
+    "search_text": "",
+    "capital_value": "80000000"
+  }
+}

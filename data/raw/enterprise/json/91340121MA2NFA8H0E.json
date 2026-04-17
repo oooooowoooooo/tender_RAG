@@ -1,0 +1,67 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340121MA2NFA8H0E",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340121MA2NFA8H0E",
+    "enterprise_name": "合肥北城国有资产管理有限责任公司",
+    "legal_representative": "阮怀峰",
+    "entity_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "established_date": "17/3/2017 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "100000000",
+    "business_status": "开业",
+    "registered_address": "长丰县水湖镇丽水河畔S-1楼商业用房",
+    "business_scope": "从事授权范围内的国有资产管理和资本运作；实施项目投资管理和资产收益管理、建筑垃圾和渣土处置以及动产、不动产经营租赁；酒店管理、餐饮管理；住宿服务；会议服务、商务信息咨询。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 11,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023ACCBZ00250",
+      "2023AFCGZ02250"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥北城国有资产管理有限责任公司",
+    "business_status": "开业",
+    "legal_representative": "阮怀峰",
+    "registered_capital": "100000000",
+    "paid_in_capital": "30000000",
+    "establishment_date": "17/3/2017 00:00:00",
+    "approval_date": "3/4/2024 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "长丰县",
+    "phone": "0551-66398315",
+    "additional_phones": "17356550596,0551-69016524,15256072299,0551-69016522,15051803524",
+    "email": "409426153@qq.com",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91340121MA2NFA8H0E",
+    "taxpayer_identification_number": "91340121MA2NFA8H0E",
+    "business_registration_number": "340121000110064",
+    "organization_code": "MA2NFA8H-0",
+    "insured_personnel_count": "12",
+    "company_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "industry": "商务服务业",
+    "former_name": "-",
+    "registered_address": "长丰县水湖镇丽水河畔S-1楼商业用房",
+    "latest_annual_report_address": "长丰县水湖镇丽水河畔S-1楼商业用房",
+    "website": "-",
+    "business_scope": "从事授权范围内的国有资产管理和资本运作；实施项目投资管理和资产收益管理、建筑垃圾和渣土处置以及动产、不动产经营租赁；酒店管理、餐饮管理；住宿服务；会议服务、商务信息咨询。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

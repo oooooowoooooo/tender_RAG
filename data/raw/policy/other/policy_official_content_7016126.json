@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7016126",
+  "normalized_projection": {
+    "title": "工业和信息化部等十部门关于印发《铝产业高质量发展实施方案（2025—2027年）》的通知",
+    "issuer": "工业和信息化部等",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\其他",
+    "doc_no": "工信部联原〔2025〕62号",
+    "publish_date": "2025-03-28",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7016126.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250328468744908316.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "其他"
+    ],
+    "effective_date": "2025-03-11",
+    "abolish_date": "",
+    "summary": "现将《铝产业高质量发展实施方案（2025—2027年）》印发给你们，请结合实际认真抓好落实。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7016126",
+    "title": "工业和信息化部等十部门关于印发《铝产业高质量发展实施方案（2025—2027年）》的通知",
+    "content": "工业和信息化部等十部门关于印发《铝产业高质量发展实施方案（2025—2027年）》的通知\n工信部联原〔2025〕62号\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化、发展改革、自然资源、生态环境、商务、应急管理、国资、市场监管主管部门，海关总署广东分署、各直属海关，国家矿山安监局各省级局：\n现将《铝产业高质量发展实施方案（2025—2027年）》印发给你们，请结合实际认真抓好落实。\n工业和信息化部\n国家发展改革委\n自然资源部\n生态环境部\n商务部\n应急管理部\n国务院国资委\n海关总署\n市场监管总局\n国家矿山安监局\n2025年3月11日",
+    "source": "工业和信息化部网站",
+    "publish_time": "2025-03-28",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7016126.htm",
+    "category": "工业、交通\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "277"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7016126",
+    "title": "工业和信息化部等十部门关于印发《铝产业高质量发展实施方案（2025—2027年）》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-28",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7016126.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7016126.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "工业和信息化部等十部门关于印发《铝产业高质量发展实施方案（2025—2027年）》的通知",
+      "发文机关": "工业和信息化部等",
+      "发文字号": "工信部联原〔2025〕62号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年03月11日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250328468744908316.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7016126.html"
+  },
+  "raw_legal_doc": {}
+}

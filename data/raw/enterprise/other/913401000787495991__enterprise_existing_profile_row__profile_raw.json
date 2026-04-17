@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "913401000787495991",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "合肥艾图爱体育用品有限公司",
+  "raw_profile": {
+    "record_id": "2251",
+    "title": "合肥艾图爱体育用品有限公司",
+    "corporation": "张颖",
+    "amount_raw": "200万人民币",
+    "event_time": "2013-10-09",
+    "manage_date": "2013-10-09 至 2033-09-30",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "批发业",
+    "USCC": "913401000787495991",
+    "TIN": "913401000787495991",
+    "registed_num": "340100000850478",
+    "insured_persons": "6",
+    "location": "合肥市包河区芜湖路135号",
+    "source_url": "-",
+    "content": "体育用品、服装、鞋帽、箱包、健身器材、文体用品、日用百货、运动器材、办公设备、电子产品、数码产品、计算机软硬件及配件、办公产品、塑料制品、卫生产品、保健用品、消毒产品（除危品）、家用电器、针纺织品、皮革制品、工艺礼品、医疗器材、化妆品、不锈钢制品、玻璃制品、五金交电及配件、雨具、自行车、玩具、劳保用品批发兼零售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "2000000"
+  }
+}

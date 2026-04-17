@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "91340100336791889B",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "合肥政文国际会展管理有限公司",
+  "raw_profile": {
+    "record_id": "3036",
+    "title": "合肥政文国际会展管理有限公司",
+    "corporation": "文良武",
+    "amount_raw": "500万人民币",
+    "event_time": "2015-04-28",
+    "manage_date": "2015-04-28 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "合肥经济技术开发区",
+    "type": "有限责任公司（非自然人投资或控股的法人独资）",
+    "industry": "商务服务业",
+    "USCC": "91340100336791889B",
+    "TIN": "91340100336791889B",
+    "registed_num": "340100001241067",
+    "insured_persons": "126",
+    "location": "安徽省合肥市经济技术开发区合安路与繁华大道交口安徽省国际会展中心",
+    "source_url": "http://hfhuizhan.com",
+    "content": "承办会议展览展示及相关服务；展具、场地租赁；电脑图文、展厅的设计、制作；平面、环境艺术设计；室内装饰工程；水电安装；国内广告的设计、制作、代理、发布；酒店管理；餐饮服务；停车场服务；日用百货销售；线上会展软件开发、云上展厅搭建及数据分析运营。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "5000000"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "12340000485319959Y",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "12340000485319959Y",
+    "enterprise_name": "安徽理工大学",
+    "legal_representative": "袁亮",
+    "entity_type": "事业单位营业",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "1303600000",
+    "business_status": "开业",
+    "registered_address": "淮南市田家庵区",
+    "business_scope": "培养高等学历人才",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 19,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023DFAAZ02017",
+      "2023DFAGZ02145",
+      "2023JFAGZ01873"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽理工大学",
+    "business_status": "开业",
+    "legal_representative": "袁亮",
+    "registered_capital": "1303600000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "2018-06-22 至 2023-06-22",
+    "province": "安徽省",
+    "city": "淮南市",
+    "district": "田家庵区",
+    "phone": "19955490267",
+    "additional_phones": "17755497345,13685548614,0554-6639216,0554-6668564,13966671768",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "12340000485319959Y",
+    "taxpayer_identification_number": "12340000485319959Y",
+    "business_registration_number": "-",
+    "organization_code": "48531995-9",
+    "insured_personnel_count": "-",
+    "company_type": "事业单位营业",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "淮南市田家庵区",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "培养高等学历人才",
+    "match_status": "成功"
+  }
+}

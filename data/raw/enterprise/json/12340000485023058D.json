@@ -1,0 +1,71 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "12340000485023058D",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "12340000485023058D",
+    "enterprise_name": "安徽能源技术学校",
+    "legal_representative": "林葆春",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "18973000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市新站区高教基地淮海大道与文忠路交叉口东南角",
+    "business_scope": "为地方煤矿培养中专人才、技术工人，承担地方国有煤矿干部培训。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [
+      "2023BFAHZ02712"
+    ],
+    "all_linked_project_ids": [
+      "2022BFAFN02820",
+      "2022BFAHN02763",
+      "2023BFAHZ02712",
+      "2023BFAZN01531"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽能源技术学校",
+    "business_status": "开业",
+    "legal_representative": "林葆春",
+    "registered_capital": "18973000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "2019-10-08 至 2024-10-08",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "合肥市",
+    "phone": "010-59435085",
+    "additional_phones": "0551-62610186,15155350788,0551-5551082,0551-65199501,18856093049",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "12340000485023058D",
+    "taxpayer_identification_number": "12340000485023058D",
+    "business_registration_number": "-",
+    "organization_code": "48502305-8",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市新站区高教基地淮海大道与文忠路交叉口东南角",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "为地方煤矿培养中专人才、技术工人，承担地方国有煤矿干部培训。",
+    "match_status": "成功"
+  }
+}

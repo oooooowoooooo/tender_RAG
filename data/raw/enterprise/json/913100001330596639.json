@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913100001330596639",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913100001330596639",
+    "enterprise_name": "上海连成（集团）有限公司",
+    "legal_representative": "张锡淼",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "2/8/1993 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "208000000",
+    "business_status": "开业",
+    "registered_address": "嘉定区江桥镇曹安路3616号-3618号",
+    "business_scope": "企业投资，企业收购、兼并，资产管理、国内贸易（除专项审批外），投资咨询，水泵及控制箱、阀门、机械配件的生产销售、安装，机电设备安装，成套给排水设备、智慧泵房及水务系统、一体化污水处理设备、水处理设备、换热器、空气净化设备、环保设备的研发、设计，从事环保专业领域内技术开发、技术咨询、技术转让、技术服务，自产产品及技术的出口，生产及科研所需的原辅材料、仪器仪表、机械设备、零配件及技术的进口（国家限定经营和禁止进出口的商品及技术除外）进料加工。\n【依法须经批准的项目，经相关部门批准后方可开展经营活动】",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 3,
+    "selected_project_ids": [
+      "2023DFAAZ02544"
+    ],
+    "all_linked_project_ids": [
+      "2023DFAAZ02544",
+      "2023IFAAZ01497",
+      "2023IFWAZ02089"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "上海连成（集团）有限公司",
+    "business_status": "开业",
+    "legal_representative": "张锡淼",
+    "registered_capital": "208000000",
+    "paid_in_capital": "208000000",
+    "establishment_date": "2/8/1993 00:00:00",
+    "approval_date": "21/8/2019 00:00:00",
+    "business_term": "1993-08-02 至 2032-06-10",
+    "province": "上海市",
+    "city": "市辖区",
+    "district": "嘉定区",
+    "phone": "025-84712955",
+    "additional_phones": "2060067,0911-7090902,15797861744,0315-3195560,0431-81284800",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "913100001330596639",
+    "taxpayer_identification_number": "913100001330596639",
+    "business_registration_number": "310000000022495",
+    "organization_code": "13305966-3",
+    "insured_personnel_count": "1046",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "商务服务业",
+    "former_name": "-",
+    "registered_address": "嘉定区江桥镇曹安路3616号-3618号",
+    "latest_annual_report_address": "上海市嘉定区曹安公路3616号",
+    "website": "www.lcpumps.com",
+    "business_scope": "企业投资，企业收购、兼并，资产管理、国内贸易（除专项审批外），投资咨询，水泵及控制箱、阀门、机械配件的生产销售、安装，机电设备安装，成套给排水设备、智慧泵房及水务系统、一体化污水处理设备、水处理设备、换热器、空气净化设备、环保设备的研发、设计，从事环保专业领域内技术开发、技术咨询、技术转让、技术服务，自产产品及技术的出口，生产及科研所需的原辅材料、仪器仪表、机械设备、零配件及技术的进口（国家限定经营和禁止进出口的商品及技术除外）进料加工。\n【依法须经批准的项目，经相关部门批准后方可开展经营活动】",
+    "match_status": "成功"
+  }
+}

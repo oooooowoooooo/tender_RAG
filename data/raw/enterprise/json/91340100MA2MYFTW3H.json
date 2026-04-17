@@ -1,0 +1,67 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100MA2MYFTW3H",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100MA2MYFTW3H",
+    "enterprise_name": "合肥恒创智能科技有限公司",
+    "legal_representative": "蔚鹏",
+    "entity_type": "其他有限责任公司",
+    "established_date": "3/8/2016 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "2500000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市经济技术开发区清潭路693号中德合作创新园9号楼",
+    "business_scope": "许可项目：房地产开发经营（依法须经批准的项目，经相关部门批准后方可开展经营活动）一般项目：智能机器人的研发；机械设备研发；汽车零部件研发；智能控制系统集成；园区管理服务；土地使用权租赁；住房租赁；非居住房地产租赁；机械设备租赁；仓储设备租赁服务；办公设备租赁服务；以自有资金从事投资活动；信息咨询服务（不含许可类信息咨询服务）；企业管理咨询；财务咨询；供应链管理服务；会议及展览服务；普通货物仓储服务（不含危险化学品等需许可审批的项目）（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 43,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023BFJGZ01691",
+      "2023BFJGZ02156"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥恒创智能科技有限公司",
+    "business_status": "开业",
+    "legal_representative": "蔚鹏",
+    "registered_capital": "2500000000",
+    "paid_in_capital": "2200000000",
+    "establishment_date": "3/8/2016 00:00:00",
+    "approval_date": "20/11/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "0551-63508589",
+    "additional_phones": "63508595,67703704,0551-63876331,18226644223,0551-63876390",
+    "email": "HaihengHC@163.com",
+    "additional_emails": "9278535@qq.com,hy410431786@qq.com,82325351@qq.com,345653608@qq.com,375651379@qq.com",
+    "unified_social_credit_code": "91340100MA2MYFTW3H",
+    "taxpayer_identification_number": "91340100MA2MYFTW3H",
+    "business_registration_number": "340194000108934",
+    "organization_code": "MA2MYFTW-3",
+    "insured_personnel_count": "19",
+    "company_type": "其他有限责任公司",
+    "industry": "通用设备制造业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市经济技术开发区清潭路693号中德合作创新园9号楼",
+    "latest_annual_report_address": "中德合作创新园9号楼",
+    "website": "-",
+    "business_scope": "许可项目：房地产开发经营（依法须经批准的项目，经相关部门批准后方可开展经营活动）一般项目：智能机器人的研发；机械设备研发；汽车零部件研发；智能控制系统集成；园区管理服务；土地使用权租赁；住房租赁；非居住房地产租赁；机械设备租赁；仓储设备租赁服务；办公设备租赁服务；以自有资金从事投资活动；信息咨询服务（不含许可类信息咨询服务）；企业管理咨询；财务咨询；供应链管理服务；会议及展览服务；普通货物仓储服务（不含危险化学品等需许可审批的项目）（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）",
+    "match_status": "成功"
+  }
+}

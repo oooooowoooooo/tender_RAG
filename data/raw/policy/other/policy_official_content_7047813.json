@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7047813",
+  "normalized_projection": {
+    "title": "国家药监局关于优化境外生产药品补充申请审评审批程序试点工作的通知",
+    "issuer": "国家药监局",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "国药监药注〔2025〕17号",
+    "publish_date": "2025-11-11",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047813.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2025-11-06",
+    "abolish_date": "",
+    "summary": "国家药监局批复同意的优化药品补充申请审评审批程序改革试点省级药品监管部门可以为行政区域内境内责任人的境外生产化学药品重大变更在申报前提供前置服务。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7047813",
+    "title": "国家药监局关于优化境外生产药品补充申请审评审批程序试点工作的通知",
+    "content": "国家药监局关于优化境外生产药品补充申请审评审批程序试点工作的通知\n国药监药注〔2025〕17号\n北京、天津、河北、辽宁、上海、江苏、浙江、安徽、江西、山东、广东、重庆、四川、陕西省（市）药品监督管理局：\n为贯彻落实《国务院办公厅关于全面深化药品医疗器械监管改革促进医药产业高质量发展的意见》（国办发〔2024〕53号）要求，优化外商投资环境，提高药品审评审批质效，保障人民群众用药可及，国家药监局在优化药品补充申请审评审批程序改革试点工作基础上，决定进一步优化境外生产药品补充申请审评审批程序。现将有关事宜通知如下：\n一、国家药监局批复同意的优化药品补充申请审评审批程序改革试点省级药品监管部门（以下简称“试点单位”）可以为行政区域内境内责任人的境外生产化学药品重大变更在申报前提供前置服务。境外生产药品上市许可持有人（以下简称“持有人”）完成重大变更研究后，境内责任人可以向所在行政区域试点单位提出前置服务申请。\n二、试点单位负责为行政区域内境内责任人提出的前置服务申请提供前置指导和立卷服务；中国食品药品检定研究院负责组织前置注册检验工作，由试点单位会同行政区域内口岸药品检验机构实施前置注册检验。\n三、试点单位结束前置服务后，持有人向国家药监局药品审评中心提出药品补充申请。药品补充申请受理后，药审中心按照相关原则研判是否需要启动境外注册核查。如需启动境外注册核查，由国家药监局食品药品审核查验中心负责组织开展核查工作。\n四、经过前置服务的境外生产化学药品补充申请，符合申报要求且无需启动境外注册核查的，审评时限由200个工作日缩短为60个工作日。\n国家药品监督管理局\n2025年11月6日",
+    "source": "国家药监局网站",
+    "publish_time": "2025-11-11",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047813.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "698"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7047813",
+    "title": "国家药监局关于优化境外生产药品补充申请审评审批程序试点工作的通知",
+    "source_name": "国家药监局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-11-11",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047813.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047813.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家药监局关于优化境外生产药品补充申请审评审批程序试点工作的通知",
+      "发文机关": "国家药监局",
+      "发文字号": "国药监药注〔2025〕17号",
+      "来源": "国家药监局网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "通知",
+      "成文日期": "2025年11月06日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7047813.html"
+  },
+  "raw_legal_doc": {}
+}

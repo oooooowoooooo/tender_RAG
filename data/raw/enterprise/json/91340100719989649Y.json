@@ -1,0 +1,72 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100719989649Y",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100719989649Y",
+    "enterprise_name": "合肥高新建设投资集团有限公司",
+    "legal_representative": "王强",
+    "entity_type": "有限责任公司(国有独资)",
+    "established_date": "30/4/1991 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "8300000000",
+    "business_status": "开业",
+    "registered_address": "合肥市高新区望江西路860号6楼",
+    "business_scope": "房地产开发、销售；投资兴办高新技术产业，开发、生产、经营高新技术产品，市政基础设施和配套服务设施的开发、建设，国有土地开发、整理，商贸服务、仓储运输、物资供应、设备销售、信息咨询及承办展览、培训业务。（应经行政许可的凭许可证经营）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 5,
+    "selected_project_ids": [
+      "2023AFGGZ02509"
+    ],
+    "all_linked_project_ids": [
+      "2023AFGBZ02009",
+      "2023AFGBZ02010",
+      "2023AFGBZ02011",
+      "2023AFGGZ02509",
+      "2023AGGWZ00102"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥高新建设投资集团有限公司",
+    "business_status": "开业",
+    "legal_representative": "王强",
+    "registered_capital": "8300000000",
+    "paid_in_capital": "6545000000",
+    "establishment_date": "30/4/1991 00:00:00",
+    "approval_date": "4/3/2024 00:00:00",
+    "business_term": "1991-04-30 至 2041-04-30",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "0311-45620000",
+    "additional_phones": "0551-65328613,15927519343,0311-22600000,0551-65327103,0311-21460000",
+    "email": "673270432@qq.com",
+    "additional_emails": "285269571@qq.com,dengzz@gxjt.com,gxjt@hfgxjt.com",
+    "unified_social_credit_code": "91340100719989649Y",
+    "taxpayer_identification_number": "91340100719989649Y",
+    "business_registration_number": "340106000012783",
+    "organization_code": "71998964-9",
+    "insured_personnel_count": "58",
+    "company_type": "有限责任公司(国有独资)",
+    "industry": "建筑装饰、装修和其他建筑业",
+    "former_name": "-",
+    "registered_address": "合肥市高新区望江西路860号6楼",
+    "latest_annual_report_address": "合肥市高新区望江西路860号6楼",
+    "website": "www.hfgxjt.cn",
+    "business_scope": "房地产开发、销售；投资兴办高新技术产业，开发、生产、经营高新技术产品，市政基础设施和配套服务设施的开发、建设，国有土地开发、整理，商贸服务、仓储运输、物资供应、设备销售、信息咨询及承办展览、培训业务。（应经行政许可的凭许可证经营）",
+    "match_status": "成功"
+  }
+}

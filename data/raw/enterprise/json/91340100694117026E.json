@@ -1,0 +1,71 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100694117026E",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100694117026E",
+    "enterprise_name": "合肥金域园林有限公司",
+    "legal_representative": "凌旭",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "4/9/2009 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "41000000",
+    "business_status": "开业",
+    "registered_address": "安徽长丰双凤经济开发区蒙城北路西侧北城世纪城（B7区）颐徽苑S2幢104室",
+    "business_scope": "园林绿化工程施工；园林景观工程设计及养护；道路、公园绿化养护及保洁；苗木、花卉种植、销售；园林病虫害防治；园林、农林机械租赁、销售及维修；园林古建筑工程施工；市政公用工程施工；公路工程施工；水利水电工程施工；城市及道路照明亮化工程设计及施工，体育场地设施工程施工；环保工程施工；物业管理服务；道路清扫、垃圾清运、卫生保洁服务；建筑装饰工程设计与施工；河湖整治工程施工；环境治理及生态修复工程施工；消防设施工程设计及施工；工程造价咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 7,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022ALLGN00087",
+      "2023ACCZN00059",
+      "2023ACCZN00102",
+      "2023ALLFZ00009",
+      "2023BFAFN00388",
+      "2023BFFGZ00171"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥金域园林有限公司",
+    "business_status": "开业",
+    "legal_representative": "凌旭",
+    "registered_capital": "41000000",
+    "paid_in_capital": "0",
+    "establishment_date": "4/9/2009 00:00:00",
+    "approval_date": "9/5/2020 00:00:00",
+    "business_term": "2009-09-04 至 2029-09-03",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "长丰县",
+    "phone": "13856953350",
+    "additional_phones": "13805699893,15209837933,13965030979,18205653645,13515642530",
+    "email": "787320916@qq.com",
+    "additional_emails": "610872250@qq.com,48681223@qq.com",
+    "unified_social_credit_code": "91340100694117026E",
+    "taxpayer_identification_number": "91340100694117026E",
+    "business_registration_number": "340100000352525",
+    "organization_code": "69411702-6",
+    "insured_personnel_count": "17",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "软件和信息技术服务业",
+    "former_name": "合肥梦织网络科技有限公司",
+    "registered_address": "安徽长丰双凤经济开发区蒙城北路西侧北城世纪城（B7区）颐徽苑S2幢104室",
+    "latest_annual_report_address": "安徽长丰县经济开发区蒙城北路西侧北城世纪城（B7区）颐徽苑S2幢104室",
+    "website": "-",
+    "business_scope": "园林绿化工程施工；园林景观工程设计及养护；道路、公园绿化养护及保洁；苗木、花卉种植、销售；园林病虫害防治；园林、农林机械租赁、销售及维修；园林古建筑工程施工；市政公用工程施工；公路工程施工；水利水电工程施工；城市及道路照明亮化工程设计及施工，体育场地设施工程施工；环保工程施工；物业管理服务；道路清扫、垃圾清运、卫生保洁服务；建筑装饰工程设计与施工；河湖整治工程施工；环境治理及生态修复工程施工；消防设施工程设计及施工；工程造价咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

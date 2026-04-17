@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7054660",
+  "normalized_projection": {
+    "title": "工业和信息化部关于印发《推动工业互联网平台高质量发展行动方案（2026—2028年）》的通知",
+    "issuer": "工业和信息化部",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\信息产业（含电信）",
+    "doc_no": "工信部信发〔2025〕276号",
+    "publish_date": "2026-01-13",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054660.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260113710349619214.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "信息产业（含电信）"
+    ],
+    "effective_date": "2025-12-29",
+    "abolish_date": "",
+    "summary": "为深入贯彻党中央、国务院有关决策部署，加快工业互联网创新发展，工业和信息化部组织编制了《推动工业互联网平台高质量发展行动方案（2026—2028年）》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7054660",
+    "title": "工业和信息化部关于印发《推动工业互联网平台高质量发展行动方案（2026—2028年）》的通知",
+    "content": "工业和信息化部\n关于印发《推动工业互联网平台高质量发展行动方案（2026—2028年）》的通知\n工信部信发〔2025〕276号\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化主管部门，有关单位：\n为深入贯彻党中央、国务院有关决策部署，加快工业互联网创新发展，工业和信息化部组织编制了《推动工业互联网平台高质量发展行动方案（2026—2028年）》。现印发给你们，请结合实际抓好落实。\n工业和信息化部\n2025年12月29日\n推动工业互联网平台高质量发展行动方案（2026—2028年）",
+    "source": "工业和信息化部网站",
+    "publish_time": "2026-01-13",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054660.htm",
+    "category": "工业、交通\\信息产业（含电信）",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "250"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7054660",
+    "title": "工业和信息化部关于印发《推动工业互联网平台高质量发展行动方案（2026—2028年）》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-01-13",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054660.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054660.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "工业和信息化部关于印发《推动工业互联网平台高质量发展行动方案（2026—2028年）》的通知",
+      "发文机关": "工业和信息化部",
+      "发文字号": "工信部信发〔2025〕276号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\信息产业（含电信）",
+      "公文种类": "通知",
+      "成文日期": "2025年12月29日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260113710349619214.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7054660.html"
+  },
+  "raw_legal_doc": {}
+}

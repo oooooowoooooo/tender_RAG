@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7035049",
+  "normalized_projection": {
+    "title": "国家医疗保障局办公室关于印发《基本医保基金即时结算经办规程（试行）》的通知",
+    "issuer": "国家医保局办公室",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "医保办发〔2025〕13号",
+    "publish_date": "2025-08-03",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7035049.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2025-07-25",
+    "abolish_date": "",
+    "summary": "文件下载链接：国家医疗保障局办公室关于印发《基本医保基金即时结算经办规程（试行）》的通知.txt"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7035049",
+    "title": "国家医疗保障局办公室关于印发《基本医保基金即时结算经办规程（试行）》的通知",
+    "content": "文件下载链接：国家医疗保障局办公室关于印发《基本医保基金即时结算经办规程（试行）》的通知.txt",
+    "source": "国家医保局网站",
+    "publish_time": "2025-08-03",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7035049.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "48"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7035049",
+    "title": "国家医疗保障局办公室关于印发《基本医保基金即时结算经办规程（试行）》的通知",
+    "source_name": "国家医保局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-08-03",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7035049.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7035049.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家医疗保障局办公室关于印发《基本医保基金即时结算经办规程（试行）》的通知",
+      "发文机关": "国家医保局办公室",
+      "发文字号": "医保办发〔2025〕13号",
+      "来源": "国家医保局网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "通知",
+      "成文日期": "2025年07月25日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7035049.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100148973095E",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100148973095E",
+    "enterprise_name": "安徽安兴装饰工程有限责任公司",
+    "legal_representative": "陶余桐",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "19/8/1996 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "158000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市蜀山区黄山中路439号",
+    "business_scope": "建筑工程、市政公用工程、建筑装修装饰工程、建筑幕墙工程、电子与智能化工程、防水防腐保温工程、钢结构工程、建筑机电安装工程、城市照明及亮化工程、展览工程、安全技术防范工程设计与施工；门窗工程制作及安装、建筑劳务、技术开发与技术转让、灯饰装饰设计与施工，园林绿化、环境、雕塑艺术设计与施工；弱电系统、消防、管道设备安装、施工；办公设备家具生产及销售；建筑材料、装饰材料销售；广告策划及标识标牌制作。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022BFBGZ02648",
+      "2023AMMZN00126",
+      "2023BFAZN02384",
+      "2023BFFZN00056"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽安兴装饰工程有限责任公司",
+    "business_status": "开业",
+    "legal_representative": "陶余桐",
+    "registered_capital": "158000000",
+    "paid_in_capital": "0",
+    "establishment_date": "19/8/1996 00:00:00",
+    "approval_date": "1/11/2017 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "18010909995",
+    "additional_phones": "18130216788,0551-3663694,0562-2129060,0551-65215585,0551-65215581",
+    "email": "123456@qq.com",
+    "additional_emails": "3096214824@qq.com,3096214828@qq.com,63120243@qq.com,ahaxzs@163.com",
+    "unified_social_credit_code": "91340100148973095E",
+    "taxpayer_identification_number": "91340100148973095E",
+    "business_registration_number": "340000000015443",
+    "organization_code": "14897309-5",
+    "insured_personnel_count": "0",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "建筑装饰、装修和其他建筑业",
+    "former_name": "安徽安兴建设装饰设计工程有限责任公司",
+    "registered_address": "安徽省合肥市蜀山区黄山中路439号",
+    "latest_annual_report_address": "安徽省合肥市蜀山区黄山中路439号",
+    "website": "-",
+    "business_scope": "建筑工程、市政公用工程、建筑装修装饰工程、建筑幕墙工程、电子与智能化工程、防水防腐保温工程、钢结构工程、建筑机电安装工程、城市照明及亮化工程、展览工程、安全技术防范工程设计与施工；门窗工程制作及安装、建筑劳务、技术开发与技术转让、灯饰装饰设计与施工，园林绿化、环境、雕塑艺术设计与施工；弱电系统、消防、管道设备安装、施工；办公设备家具生产及销售；建筑材料、装饰材料销售；广告策划及标识标牌制作。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

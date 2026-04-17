@@ -1,0 +1,77 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "113401210030044372",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "113401210030044372",
+    "enterprise_name": "长丰县罗塘乡人民政府",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "长丰县罗塘乡水庄路中段",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 130,
+    "selected_project_ids": [
+      "2023ACCFZ00496"
+    ],
+    "all_linked_project_ids": [
+      "2023ACCFZ00496",
+      "2023ACCHX00053",
+      "2023ACCHX00057",
+      "2023ACCHZ00250",
+      "2023ACCHZ00268",
+      "2023ACCHZ00301",
+      "2023ACCZN00049",
+      "2023ACCZN00288",
+      "2023ACCZN00324",
+      "2023ACCZN00437"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "长丰县罗塘乡人民政府",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "长丰县",
+    "phone": "0551-66501303",
+    "additional_phones": "13515602004,13965109028,0551-66509458,13625641510,0551-66509171",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "113401210030044372",
+    "taxpayer_identification_number": "113401210030044372",
+    "business_registration_number": "-",
+    "organization_code": "00300443-7",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "长丰县罗塘乡水庄路中段",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

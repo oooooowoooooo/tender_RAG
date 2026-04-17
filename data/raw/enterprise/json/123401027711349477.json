@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "123401027711349477",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "123401027711349477",
+    "enterprise_name": "合肥市瑶海区绿化养护管理处",
+    "legal_representative": "吴瑜",
+    "entity_type": "事业单位营业",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "14790000",
+    "business_status": "开业",
+    "registered_address": "合肥市瑶海区肥东路与长江东路交口南100米",
+    "business_scope": "负责辖区道路绿化等公共绿化的养护管理、绿化投诉受理及应急抢险等工作。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 35,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022AYYZJ00163",
+      "2023AYYBZ00083",
+      "2023AYYFN00002",
+      "2023AYYFN00007",
+      "2023AYYFN00017"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥市瑶海区绿化养护管理处",
+    "business_status": "开业",
+    "legal_representative": "吴瑜",
+    "registered_capital": "14790000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "2021-05-20 至 2026-05-20",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "瑶海区",
+    "phone": "0551-64460393",
+    "additional_phones": "0551-64460051,18019985936,0551-64690285,15056050964,13856969648",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "123401027711349477",
+    "taxpayer_identification_number": "123401027711349477",
+    "business_registration_number": "事证第134010200036号",
+    "organization_code": "77113494-7",
+    "insured_personnel_count": "-",
+    "company_type": "事业单位营业",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "合肥市瑶海区肥东路与长江东路交口南100米",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "负责辖区道路绿化等公共绿化的养护管理、绿化投诉受理及应急抢险等工作。",
+    "match_status": "成功"
+  }
+}

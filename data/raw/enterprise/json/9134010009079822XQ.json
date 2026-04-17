@@ -1,0 +1,74 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9134010009079822XQ",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9134010009079822XQ",
+    "enterprise_name": "安徽鼎晖建设工程有限公司",
+    "legal_representative": "纪明宗",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "23/1/2014 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "67890000",
+    "business_status": "开业",
+    "registered_address": "合肥市肥东县包公镇政府办公楼430室",
+    "business_scope": "建筑工程施工总承包；公路工程、桥梁工程、电力工程、机电工程、地质灾害治理工程、园林绿化工程、市政公用工程、水利工程、环保、节能与防腐工程、外墙保温工程、公路交通工程、公路路面工程、公路路基工程、城市道路照明工程、体育场地设施工程、房屋修缮工程、结构补强工程、建筑物纠偏和平移工程、钢结构工程、地基基础工程、消防设施工程、古建筑工程、实验室通风及供气工程、自动化控制工程、洁净净化工程、恒温恒湿工程、辐射防护、磁屏蔽工程施工；园林景观、雕塑设计及施工；室内外装饰装修、建筑智能化、安全技术防范工程、实验室整体建设设计与施工；金属门窗、机电设备、标牌、灯箱安装；广告设计、制作、发布；计算机系统集成；展会设计、制作、布展；房屋拆迁、拆除；清扫保洁；护栏、交通设施销售、安装；施工劳务分包；建材、石材销售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 7,
+    "selected_project_ids": [
+      "2023BFAZN02524"
+    ],
+    "all_linked_project_ids": [
+      "2022ALLZN00213",
+      "2022AYYZN00153",
+      "2023ACCZN00335",
+      "2023ADDZN00288",
+      "2023AFAZN00394",
+      "2023AFSGZ00973",
+      "2023BFAZN02524"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽鼎晖建设工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "纪明宗",
+    "registered_capital": "67890000",
+    "paid_in_capital": "2000000",
+    "establishment_date": "23/1/2014 00:00:00",
+    "approval_date": "22/8/2022 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥东县",
+    "phone": "17505516685",
+    "additional_phones": "0556-8931069,0556-8978928,0551-62875977,18756087732,18697500921",
+    "email": "348025117@qq.com",
+    "additional_emails": "-",
+    "unified_social_credit_code": "9134010009079822XQ",
+    "taxpayer_identification_number": "9134010009079822XQ",
+    "business_registration_number": "340100000901725",
+    "organization_code": "09079822-X",
+    "insured_personnel_count": "38",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "房屋建筑业",
+    "former_name": "-",
+    "registered_address": "合肥市肥东县包公镇政府办公楼430室",
+    "latest_annual_report_address": "合肥市肥东县包公镇政府办公楼430室",
+    "website": "-",
+    "business_scope": "建筑工程施工总承包；公路工程、桥梁工程、电力工程、机电工程、地质灾害治理工程、园林绿化工程、市政公用工程、水利工程、环保、节能与防腐工程、外墙保温工程、公路交通工程、公路路面工程、公路路基工程、城市道路照明工程、体育场地设施工程、房屋修缮工程、结构补强工程、建筑物纠偏和平移工程、钢结构工程、地基基础工程、消防设施工程、古建筑工程、实验室通风及供气工程、自动化控制工程、洁净净化工程、恒温恒湿工程、辐射防护、磁屏蔽工程施工；园林景观、雕塑设计及施工；室内外装饰装修、建筑智能化、安全技术防范工程、实验室整体建设设计与施工；金属门窗、机电设备、标牌、灯箱安装；广告设计、制作、发布；计算机系统集成；展会设计、制作、布展；房屋拆迁、拆除；清扫保洁；护栏、交通设施销售、安装；施工劳务分包；建材、石材销售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

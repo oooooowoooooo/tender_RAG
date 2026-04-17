@@ -1,0 +1,70 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7016520",
+  "normalized_projection": {
+    "title": "国家发展改革委 中国人民银行关于印发《全国公共信用信息基础目录（2025年版）》和《全国失信惩戒措施基础清单（2025年版）》的通知",
+    "issuer": "国家发展改革委 中国人民银行",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\社会信用体系建设",
+    "doc_no": "发改财金规〔2025〕297号",
+    "publish_date": "2025-03-31",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7016520.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250331547359142696.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250331547359292970.pdf"
+    ],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "社会信用体系建设"
+    ],
+    "effective_date": "2025-03-14",
+    "abolish_date": "",
+    "summary": "为贯彻落实党中央、国务院关于推动社会信用体系高质量发展的决策部署，按照《中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要》《国务院办公厅关于进一步完善失信约束制度 构建诚信建设长效机制的指导意见》要求，国家发展改革委、中国人民银行会同社会信用体系建设部际联席会议成员单位和其他有关部门、单位，编制了《全国公共信用信息基础目录（2025年版）》和《全国失信惩戒措施基础清单（2025年版）》，现予印发实施。本通知自印发之日起施行，有效期二年，上一版同时废止。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7016520",
+    "title": "国家发展改革委 中国人民银行关于印发《全国公共信用信息基础目录（2025年版）》和《全国失信惩戒措施基础清单（2025年版）》的通知",
+    "content": "国家发展改革委 中国人民银行关于印发《全国公共信用信息基础目录（2025年版）》和《全国失信惩戒措施基础清单（2025年版）》的通知\n发改财金规〔2025〕297号\n中央和国家机关有关部门，各省、自治区、直辖市、新疆生产建设兵团社会信用体系建设牵头单位，有关人民团体，中国国家铁路集团有限公司：\n为贯彻落实党中央、国务院关于推动社会信用体系高质量发展的决策部署，按照《中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要》《国务院办公厅关于进一步完善失信约束制度 构建诚信建设长效机制的指导意见》要求，国家发展改革委、中国人民银行会同社会信用体系建设部际联席会议成员单位和其他有关部门、单位，编制了《全国公共信用信息基础目录（2025年版）》和《全国失信惩戒措施基础清单（2025年版）》，现予印发实施。本通知自印发之日起施行，有效期二年，上一版同时废止。\n国家发展改革委\n中国人民银行\n2025年3月14日\n附件：\n《全国公共信用信息基础目录（2025年版）》.pdf\n《全国失信惩戒措施基础清单（2025年版）》.pdf\n\n《全国公共信用信息基础目录（2025年版）》.ofd\n\n《全国失信惩戒措施基础清单（2025年版）》.ofd",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-03-31",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7016520.htm",
+    "category": "财政、金融、审计\\社会信用体系建设",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "528"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7016520",
+    "title": "国家发展改革委 中国人民银行关于印发《全国公共信用信息基础目录（2025年版）》和《全国失信惩戒措施基础清单（2025年版）》的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-31",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7016520.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7016520.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家发展改革委 中国人民银行关于印发《全国公共信用信息基础目录（2025年版）》和《全国失信惩戒措施基础清单（2025年版）》的通知",
+      "发文机关": "国家发展改革委 中国人民银行",
+      "发文字号": "发改财金规〔2025〕297号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "财政、金融、审计\\社会信用体系建设",
+      "公文种类": "通知",
+      "成文日期": "2025年03月14日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250331547359142696.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250331547359292970.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7016520.html"
+  },
+  "raw_legal_doc": {}
+}

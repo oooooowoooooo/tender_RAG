@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "91370100MA3CJ46J1E",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "道普信息技术有限公司",
+  "raw_profile": {
+    "record_id": "1524",
+    "title": "道普信息技术有限公司",
+    "corporation": "韩庆良",
+    "amount_raw": "5200万人民币",
+    "event_time": "2016-10-10",
+    "manage_date": "2016-10-10 至 无固定期限",
+    "status": "开业",
+    "province": "山东省",
+    "city": "济南市",
+    "district": "济南高新技术产业开发区",
+    "type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "industry": "软件和信息技术服务业",
+    "USCC": "91370100MA3CJ46J1E",
+    "TIN": "91370100MA3CJ46J1E",
+    "registed_num": "370127200191632",
+    "insured_persons": "222",
+    "location": "山东省济南市高新区银荷大厦B座406室",
+    "source_url": "http://topcio.com.cn",
+    "content": "信息技术服务；信息系统检验检测服务、测试评估服务；信息化规划服务；工程监理服务；审计服务；信息系统测评技术开发；信息技术咨询；信息技术推广；会议服务；企业管理咨询；非学历短期企业内部培训（不含发证、不含国家统一认可的教育类、职业证书类等前置许可培训）以及其他按法律、法规、国务院决定等规定未禁止和不需经营许可的项目。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "52000000"
+  }
+}

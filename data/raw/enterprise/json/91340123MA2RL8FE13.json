@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340123MA2RL8FE13",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340123MA2RL8FE13",
+    "enterprise_name": "安徽盛志项目管理有限公司",
+    "legal_representative": "张翠云",
+    "entity_type": "有限责任公司(自然人独资)",
+    "established_date": "3/4/2018 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "5000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥西县上派镇金寨南路与云谷路交口金云国际商业办公楼1614、1616室",
+    "business_scope": "工程项目管理与咨询，工程监理，可行性研究，环境影响评价，工程招标代理，项目经济评价报告编制和审核，建设工程概算、预算、工程结算、竣工结算的编制与审核，工程施工总承包，工程勘查与设计。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 3,
+    "selected_project_ids": [
+      "2023ASSBZ00042"
+    ],
+    "all_linked_project_ids": [
+      "2023ASSBZ00042",
+      "2023AYYFN00102",
+      "2023BFAZN02405"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽盛志项目管理有限公司",
+    "business_status": "开业",
+    "legal_representative": "张翠云",
+    "registered_capital": "5000000",
+    "paid_in_capital": "0",
+    "establishment_date": "3/4/2018 00:00:00",
+    "approval_date": "26/11/2021 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "phone": "15055162137",
+    "additional_phones": "-",
+    "email": "532701503@qq.com",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91340123MA2RL8FE13",
+    "taxpayer_identification_number": "91340123MA2RL8FE13",
+    "business_registration_number": "340123000199889",
+    "organization_code": "MA2RL8FE-1",
+    "insured_personnel_count": "16",
+    "company_type": "有限责任公司(自然人独资)",
+    "industry": "商务服务业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市肥西县上派镇金寨南路与云谷路交口金云国际商业办公楼1614、1616室",
+    "latest_annual_report_address": "安徽省合肥市肥西县上派镇金寨南路与云谷路交口金云国际商业办公楼1614、1616室",
+    "website": "-",
+    "business_scope": "工程项目管理与咨询，工程监理，可行性研究，环境影响评价，工程招标代理，项目经济评价报告编制和审核，建设工程概算、预算、工程结算、竣工结算的编制与审核，工程施工总承包，工程勘查与设计。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

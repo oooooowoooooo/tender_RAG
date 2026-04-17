@@ -1,0 +1,72 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "11340124003272618N",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "11340124003272618N",
+    "enterprise_name": "合肥市庐江县生态环境分局",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "庐江县庐城镇迎松路",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 11,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022ANNFZ00435",
+      "2023ANNFN00028",
+      "2023ANNFN00074",
+      "2023ANNFZ00043",
+      "2023ANNFZ00411",
+      "2023ANNGZ00504",
+      "2023BFFFN00278"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥市庐江县生态环境分局",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐江县",
+    "phone": "0551-87306165",
+    "additional_phones": "13605657340,0551-87303089,0551-87303317,0551-87306859,0551-87306128",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "11340124003272618N",
+    "taxpayer_identification_number": "11340124003272618N",
+    "business_registration_number": "-",
+    "organization_code": "00327261-8",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "庐江县庐城镇迎松路",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

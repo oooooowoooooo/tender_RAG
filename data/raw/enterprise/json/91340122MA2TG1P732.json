@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340122MA2TG1P732",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340122MA2TG1P732",
+    "enterprise_name": "安徽俊龙建设工程有限公司",
+    "legal_representative": "束佳佳",
+    "entity_type": "有限责任公司(自然人独资)",
+    "established_date": "25/2/2019 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "20000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥东县石塘镇石塘社区银桥街26号",
+    "business_scope": "建筑工程设计、施工；建筑装饰、幕墙工程设计、施工；土石方工程、建筑安装工程、市政工程、公路工程、路基路面工程、水利工程、玻璃幕墙安装工程、机电设备安装工程、园林绿化工程、景观工程、保温工程、电力工程设计及施工；电子与智能化设计及工程施工；安全技术防范工程、照明工程、钢结构安装工程施工；建筑劳务分包（劳务派遣除外）；水电安装；外墙清洗；保洁服务；玻璃制品、铝合金门窗、办公家具、陶瓷制品、卫生洁具、地板、五金交电、机械设备及配件、建筑材料、装饰材料、保温材料、不锈钢制品、日用百货批发、零售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023BBBGZ00091"
+    ],
+    "all_linked_project_ids": [
+      "2023BBBGZ00091"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽俊龙建设工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "束佳佳",
+    "registered_capital": "20000000",
+    "paid_in_capital": "0",
+    "establishment_date": "25/2/2019 00:00:00",
+    "approval_date": "13/10/2020 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥东县",
+    "phone": "13956929698",
+    "additional_phones": "19942439698,18715024009,18225890225",
+    "email": "1345949171@qq.com",
+    "additional_emails": "1835123706@qq.com,304954180@qq.com",
+    "unified_social_credit_code": "91340122MA2TG1P732",
+    "taxpayer_identification_number": "91340122MA2TG1P732",
+    "business_registration_number": "340122000244284",
+    "organization_code": "MA2TG1P7-3",
+    "insured_personnel_count": "15",
+    "company_type": "有限责任公司(自然人独资)",
+    "industry": "房屋建筑业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市肥东县石塘镇石塘社区银桥街26号",
+    "latest_annual_report_address": "安徽省合肥市肥东县石塘镇石塘社区银桥街26号",
+    "website": "-",
+    "business_scope": "建筑工程设计、施工；建筑装饰、幕墙工程设计、施工；土石方工程、建筑安装工程、市政工程、公路工程、路基路面工程、水利工程、玻璃幕墙安装工程、机电设备安装工程、园林绿化工程、景观工程、保温工程、电力工程设计及施工；电子与智能化设计及工程施工；安全技术防范工程、照明工程、钢结构安装工程施工；建筑劳务分包（劳务派遣除外）；水电安装；外墙清洗；保洁服务；玻璃制品、铝合金门窗、办公家具、陶瓷制品、卫生洁具、地板、五金交电、机械设备及配件、建筑材料、装饰材料、保温材料、不锈钢制品、日用百货批发、零售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91341802662908181R",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91341802662908181R",
+    "enterprise_name": "安徽嘉开工程项目管理有限公司",
+    "legal_representative": "许晶晶",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "22/5/2007 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "5000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥西县上派镇中派路奥林花园3幢204",
+    "business_scope": "工程项目管理及咨询；水利水电、道路、桥梁、水土保持工程建设及监理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 8,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023ACCBZ00187",
+      "2023ADDBZ00020",
+      "2023ADDBZ00192",
+      "2023AEEBZ00240",
+      "2023AFDBZ01775",
+      "2023ANNFN00030",
+      "2023IFABZ01354",
+      "2023IFABZ01450"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽嘉开工程项目管理有限公司",
+    "business_status": "开业",
+    "legal_representative": "许晶晶",
+    "registered_capital": "5000000",
+    "paid_in_capital": "0",
+    "establishment_date": "22/5/2007 00:00:00",
+    "approval_date": "13/3/2024 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "phone": "18656096770",
+    "additional_phones": "13956936744,0551-66379814,0563-2710387,18656988815,18655176167",
+    "email": "2285437822@qq.com",
+    "additional_emails": "XC20710387@163.com,XC2710387@163.com,xcsjfyh@shou.com",
+    "unified_social_credit_code": "91341802662908181R",
+    "taxpayer_identification_number": "91341802662908181R",
+    "business_registration_number": "342500000025109",
+    "organization_code": "66290818-1",
+    "insured_personnel_count": "6",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "水利管理业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市肥西县上派镇中派路奥林花园3幢204",
+    "latest_annual_report_address": "安徽省合肥市肥西县上派镇中派路奥林花园3幢204",
+    "website": "-",
+    "business_scope": "工程项目管理及咨询；水利水电、道路、桥梁、水土保持工程建设及监理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

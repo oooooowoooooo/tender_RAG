@@ -1,0 +1,74 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "911101087226182167",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "911101087226182167",
+    "enterprise_name": "赛尔网络有限公司",
+    "legal_representative": "吴建平",
+    "entity_type": "其他有限责任公司",
+    "established_date": "2000-12-28",
+    "registration_authority": "",
+    "registered_capital": "33386.5万人民币",
+    "business_status": "存续",
+    "registered_address": "北京市海淀区中关村东路1号院清华科技园8号楼B座赛尔大厦",
+    "business_scope": "从事第二类增值电信业务中的互联网接入服务业务、信息服务业务（不含固定网电话信息服务）；互联网信息服务；利用www.cer.net网站发布网络广告；移动网增值电信业务专项；利用互联网经营音像制品、游戏产品；利用“校园梦网”网站从事互联网视听节目服务；销售医疗器械Ⅲ类：医用X射线设备；Ⅱ类：医用光学器具、仪器及内窥镜设备；医用化验和基础设备器具；销售和灭菌设备及器具；利用互联网经营艺术品、演出剧（节）目、动画等其它文化产品；从事互联网文化产品的展览、比赛等活动；自营和代理各类商品及技术的进出口业务，但国家限定公司经营或禁止进出口的商品及技术除外；出租房屋；计算机系统服务。（市场主体依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "source_url": "http://www.cernet.com",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 4,
+    "all_tender_frequency": 11,
+    "selected_project_ids": [
+      "2023BFAFD02584",
+      "2023BFAFD02655",
+      "2023BFAFD02842",
+      "2023BFAFD02874"
+    ],
+    "all_linked_project_ids": [
+      "2022BFAFD02541",
+      "2022BFAFD02679",
+      "2023BFAFD00002",
+      "2023BFAFD00345",
+      "2023BFAFD01860",
+      "2023BFAFD02057",
+      "2023BFAFD02584",
+      "2023BFAFD02655",
+      "2023BFAFD02842",
+      "2023BFAFD02874",
+      "2023BFAFZ01443"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "21348",
+    "title": "赛尔网络有限公司",
+    "corporation": "吴建平",
+    "amount_raw": "33386.5万人民币",
+    "event_time": "2000-12-28",
+    "manage_date": "2000-12-28 至 2050-12-27",
+    "status": "存续",
+    "province": "北京市",
+    "city": "-",
+    "district": "海淀区",
+    "type": "其他有限责任公司",
+    "industry": "互联网和相关服务",
+    "USCC": "911101087226182167",
+    "TIN": "911101087226182167",
+    "registed_num": "110000001912561",
+    "insured_persons": "1217",
+    "location": "北京市海淀区中关村东路1号院清华科技园8号楼B座赛尔大厦",
+    "source_url": "http://www.cernet.com",
+    "content": "从事第二类增值电信业务中的互联网接入服务业务、信息服务业务（不含固定网电话信息服务）；互联网信息服务；利用www.cer.net网站发布网络广告；移动网增值电信业务专项；利用互联网经营音像制品、游戏产品；利用“校园梦网”网站从事互联网视听节目服务；销售医疗器械Ⅲ类：医用X射线设备；Ⅱ类：医用光学器具、仪器及内窥镜设备；医用化验和基础设备器具；销售和灭菌设备及器具；利用互联网经营艺术品、演出剧（节）目、动画等其它文化产品；从事互联网文化产品的展览、比赛等活动；自营和代理各类商品及技术的进出口业务，但国家限定公司经营或禁止进出口的商品及技术除外；出租房屋；计算机系统服务。（市场主体依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "search_text": "",
+    "capital_value": "333865000"
+  }
+}

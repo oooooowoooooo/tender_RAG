@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7039980",
+  "normalized_projection": {
+    "title": "国务院关于新建黄岩岛国家级自然保护区的批复",
+    "issuer": "国务院",
+    "index_no": "000014349/2025-00074",
+    "subject_category": "城乡建设、环境保护\\环境监测、保护与治理",
+    "doc_no": "国函〔2025〕87号",
+    "publish_date": "2025-09-10",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7039980.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "城乡建设",
+      "环境保护",
+      "环境监测",
+      "保护与治理"
+    ],
+    "effective_date": "2025-09-09",
+    "abolish_date": "",
+    "summary": "同意新建黄岩岛国家级自然保护区。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7039980",
+    "title": "国务院关于新建黄岩岛国家级自然保护区的批复",
+    "content": "国务院关于新建黄岩岛国家级自然保护区的批复\n国函〔2025〕87号\n\n自然资源部：\n你部关于报请新建黄岩岛国家级自然保护区的请示收悉。现批复如下：\n一、同意新建黄岩岛国家级自然保护区。建立黄岩岛国家级自然保护区，是维护黄岩岛自然生态系统多样性、稳定性、持续性的重要保障。有关部门和地方要严格执行《中华人民共和国自然保护区条例》和自然保护地建设管理等规定，严格落实生态环境保护责任，加强组织领导和协调配合，健全管理机构，强化对涉及自然保护区各类违法违规行为的监管执法力度，确保各项管理措施得到落实，不断提高国家级自然保护区建设和管理水平。\n二、黄岩岛国家级自然保护区的面积、范围和功能分区等由国家林草局另行公布。\n   国务院         \n2025年9月9日      \n（此件公开发布）",
+    "source": "中国政府网-国务院文件",
+    "publish_time": "2025-09-10",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7039980.htm",
+    "category": "城乡建设、环境保护\\环境监测、保护与治理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_gwywj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "346"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7039980",
+    "title": "国务院关于新建黄岩岛国家级自然保护区的批复",
+    "source_name": "中国政府网-国务院文件",
+    "source_type": "gov_cn_gwywj",
+    "region_level": "national",
+    "publish_date": "2025-09-10",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7039980.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7039980.htm",
+    "source_feed": "gov_cn_gwywj",
+    "metadata_pairs": {
+      "索引号": "000014349/2025-00074",
+      "主题分类": "城乡建设、环境保护\\环境监测、保护与治理",
+      "发文机关": "国务院",
+      "成文日期": "2025年09月09日",
+      "标题": "国务院关于新建黄岩岛国家级自然保护区的批复",
+      "发文字号": "国函〔2025〕87号",
+      "发布日期": "2025年09月10日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7039980.html"
+  },
+  "raw_legal_doc": {}
+}

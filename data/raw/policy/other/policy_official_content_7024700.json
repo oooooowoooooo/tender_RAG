@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7024700",
+  "normalized_projection": {
+    "title": "关于印发《美丽河湖保护与建设行动方案（2025—2027年）》的通知",
+    "issuer": "生态环境部 国家发展改革委 财政部 住房城乡建设部 水利部 农业农村部 国家林草局",
+    "index_no": "未标注",
+    "subject_category": "国土资源、能源\\水资源",
+    "doc_no": "环水体〔2025〕38号",
+    "publish_date": "2025-05-21",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7024700.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250521626276197289.pdf"
+    ],
+    "keywords": [
+      "国土资源",
+      "能源",
+      "水资源"
+    ],
+    "effective_date": "2025-05-16",
+    "abolish_date": "",
+    "summary": "关于印发《美丽河湖保护与建设行动方案（2025—2027年）》的通知\n环水体〔2025〕38号\n各省、自治区、直辖市人民政府，新疆生产建设兵团，科技部、工业和信息化部、交通运输部、应急管理部、市场监管总局：\n《美丽河湖保护与建设行动方案（2025—2027年）》已经国务院同意，现印发给你们，请认真贯彻执行。\n生态环境部\n国家发展改革委\n财政部\n住房城乡建设部\n水利部\n农业农村部\n国家林草局\n2025年5月16日"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7024700",
+    "title": "关于印发《美丽河湖保护与建设行动方案（2025—2027年）》的通知",
+    "content": "关于印发《美丽河湖保护与建设行动方案（2025—2027年）》的通知\n环水体〔2025〕38号\n各省、自治区、直辖市人民政府，新疆生产建设兵团，科技部、工业和信息化部、交通运输部、应急管理部、市场监管总局：\n《美丽河湖保护与建设行动方案（2025—2027年）》已经国务院同意，现印发给你们，请认真贯彻执行。\n生态环境部\n国家发展改革委\n财政部\n住房城乡建设部\n水利部\n农业农村部\n国家林草局\n2025年5月16日",
+    "source": "生态环境部网站",
+    "publish_time": "2025-05-21",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7024700.htm",
+    "category": "国土资源、能源\\水资源",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "207"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7024700",
+    "title": "关于印发《美丽河湖保护与建设行动方案（2025—2027年）》的通知",
+    "source_name": "生态环境部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-05-21",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7024700.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7024700.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《美丽河湖保护与建设行动方案（2025—2027年）》的通知",
+      "发文机关": "生态环境部 国家发展改革委 财政部 住房城乡建设部 水利部 农业农村部 国家林草局",
+      "发文字号": "环水体〔2025〕38号",
+      "来源": "生态环境部网站",
+      "主题分类": "国土资源、能源\\水资源",
+      "公文种类": "通知",
+      "成文日期": "2025年05月16日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250521626276197289.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7024700.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,68 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7059989",
+  "normalized_projection": {
+    "title": "商务部等7部门公告2026年第8号公布《鼓励进口服务目录》",
+    "issuer": "商务部 国家发展改革委 工业和信息化部 生态环境部 住房城乡建设部 国家卫生健康委 国家知识产权局",
+    "index_no": "未标注",
+    "subject_category": "商贸、海关、旅游\\对外经贸合作",
+    "doc_no": "商务部公告2026年第8号",
+    "publish_date": "2026-02-28",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7059989.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260228396292379061.pdf"
+    ],
+    "keywords": [
+      "商贸",
+      "海关",
+      "旅游",
+      "对外经贸合作"
+    ],
+    "effective_date": "2026-02-10",
+    "abolish_date": "",
+    "summary": "为贯彻落实党中央、国务院关于主动扩大优质服务进口的有关决策部署，商务部、国家发展改革委、工业和信息化部、生态环境部、住房城乡建设部、国家卫生健康委、国家知识产权局等部门调整了《鼓励进口服务目录》，现予以公布。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7059989",
+    "title": "商务部等7部门公告2026年第8号公布《鼓励进口服务目录》",
+    "content": "商务部等7部门公告2026年第8号公布《鼓励进口服务目录》\n商务部公告2026年第8号\n为贯彻落实党中央、国务院关于主动扩大优质服务进口的有关决策部署，商务部、国家发展改革委、工业和信息化部、生态环境部、住房城乡建设部、国家卫生健康委、国家知识产权局等部门调整了《鼓励进口服务目录》，现予以公布。商务部、国家发展改革委、财政部、生态环境部、国家知识产权局2019年第14号公告同时废止。\n商务部 国家发展改革委 工业和信息化部\n生态环境部 住房城乡建设部\n国家卫生健康委 国家知识产权局\n2026年2月10日\n鼓励进口服务目录.pdf",
+    "source": "商务部网站",
+    "publish_time": "2026-02-28",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7059989.htm",
+    "category": "商贸、海关、旅游\\对外经贸合作",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "267"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7059989",
+    "title": "商务部等7部门公告2026年第8号公布《鼓励进口服务目录》",
+    "source_name": "商务部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-02-28",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7059989.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202602/content_7059989.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "商务部等7部门公告2026年第8号公布《鼓励进口服务目录》",
+      "发文机关": "商务部 国家发展改革委 工业和信息化部 生态环境部 住房城乡建设部 国家卫生健康委 国家知识产权局",
+      "发文字号": "商务部公告2026年第8号",
+      "来源": "商务部网站",
+      "主题分类": "商贸、海关、旅游\\对外经贸合作",
+      "公文种类": "公告",
+      "成文日期": "2026年02月10日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202602/P020260228396292379061.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7059989.html"
+  },
+  "raw_legal_doc": {}
+}

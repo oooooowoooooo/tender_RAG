@@ -1,0 +1,69 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7031581",
+  "normalized_projection": {
+    "title": "海关总署公告2025年第140号（关于有条件恢复日本部分地区水产品进口的公告）",
+    "issuer": "海关总署",
+    "index_no": "未标注",
+    "subject_category": "商贸、海关、旅游\\海关",
+    "doc_no": "2025年第140号",
+    "publish_date": "2025-07-01",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7031581.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250711406503233220.doc",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250711406503321793.pdf"
+    ],
+    "keywords": [
+      "商贸",
+      "海关",
+      "旅游"
+    ],
+    "effective_date": "2025-06-29",
+    "abolish_date": "",
+    "summary": "在持续开展针对日本福岛核污染水排海的长期国际监测和中方独立取样监测且结果未见异常，日本政府承诺保障输华水产品质量安全的前提下，根据我国食品安全法律法规和世界贸易组织《实施卫生与植物卫生措施协定》有关原则，为维护消费者合法权益，中方决定有条件恢复日本部分地区水产品（含食用水生动物，下同）进口。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7031581",
+    "title": "海关总署公告2025年第140号（关于有条件恢复日本部分地区水产品进口的公告）",
+    "content": "海关总署公告\n2025年第140号\n在持续开展针对日本福岛核污染水排海的长期国际监测和中方独立取样监测且结果未见异常，日本政府承诺保障输华水产品质量安全的前提下，根据我国食品安全法律法规和世界贸易组织《实施卫生与植物卫生措施协定》有关原则，为维护消费者合法权益，中方决定有条件恢复日本部分地区水产品（含食用水生动物，下同）进口。具体事项公告如下：\n一、即日起恢复部分原产地为日本的水产品进口，福岛县、群马县、栃木县、茨城县、宫城县、新潟县、长野县、埼玉县、东京都、千叶县等10个都县除外。\n二、日本输华水产品企业应当符合我国进口食品境外生产企业注册管理等相关规定。已暂停进口的水产品生产企业应当重新申请在华注册，获得注册之日起生产的水产品方可输华；对于食用水生动物，其养殖、包装企业也应当重新申请在华注册，完成注册登记之日起方可开展输华贸易。\n三、日本水产品进口申报时，应提交日本官方出具的卫生证书、放射性物质检测合格证明和产区证明。\n四、海关对日本输华水产品实施严格监管，一旦发现不符合我国相关法律法规和食品安全标准，或日方未能有效履行官方监管责任，将及时采取控制措施，切实保护我国民众的健康安全。\n海关总署2023年第103号公告同时废止。\n特此公告。\n海关总署\n2025年6月29日\n公告下载链接：\n海关总署关于有条件恢复日本部分地区水产品进口的公告\n海关总署关于有条件恢复日本部分地区水产品进口的公告",
+    "source": "海关总署网站",
+    "publish_time": "2025-07-01",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7031581.htm",
+    "category": "商贸、海关、旅游\\海关",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "604"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7031581",
+    "title": "海关总署公告2025年第140号（关于有条件恢复日本部分地区水产品进口的公告）",
+    "source_name": "海关总署网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-07-01",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7031581.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7031581.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "海关总署公告2025年第140号（关于有条件恢复日本部分地区水产品进口的公告）",
+      "发文机关": "海关总署",
+      "发文字号": "2025年第140号",
+      "来源": "海关总署网站",
+      "主题分类": "商贸、海关、旅游\\海关",
+      "公文种类": "公告",
+      "成文日期": "2025年06月29日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250711406503233220.doc",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250711406503321793.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7031581.html"
+  },
+  "raw_legal_doc": {}
+}

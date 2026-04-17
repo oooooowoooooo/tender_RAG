@@ -1,0 +1,62 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7032812",
+  "normalized_projection": {
+    "title": "国务院国资委关于组建中国雅江集团有限公司的公告",
+    "issuer": "国务院国资委",
+    "index_no": "未标注",
+    "subject_category": "国民经济管理、国有资产监管\\国有资产监管",
+    "doc_no": "国务院国有资产监督管理委员会公告2025年第1号",
+    "publish_date": "2025-07-20",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7032812.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "国民经济管理",
+      "国有资产监管"
+    ],
+    "effective_date": "2025-07-19",
+    "abolish_date": "",
+    "summary": "经国务院批准，组建中国雅江集团有限公司，由国务院国有资产监督管理委员会代表国务院履行出资人职责，列入国务院国有资产监督管理委员会履行出资人职责的企业名单。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7032812",
+    "title": "国务院国资委关于组建中国雅江集团有限公司的公告",
+    "content": "国务院国有资产监督管理委员会\n公  告\n2025年第1号\n国务院国资委关于组建中国雅江集团有限公司的公告\n经国务院批准，组建中国雅江集团有限公司，由国务院国有资产监督管理委员会代表国务院履行出资人职责，列入国务院国有资产监督管理委员会履行出资人职责的企业名单。\n\n国务院国资委\n2025年7月19日",
+    "source": "国务院国资委网站",
+    "publish_time": "2025-07-20",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7032812.htm",
+    "category": "国民经济管理、国有资产监管\\国有资产监管",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "149"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7032812",
+    "title": "国务院国资委关于组建中国雅江集团有限公司的公告",
+    "source_name": "国务院国资委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-07-20",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7032812.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7032812.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国务院国资委关于组建中国雅江集团有限公司的公告",
+      "发文机关": "国务院国资委",
+      "发文字号": "国务院国有资产监督管理委员会公告2025年第1号",
+      "来源": "国务院国资委网站",
+      "主题分类": "国民经济管理、国有资产监管\\国有资产监管",
+      "公文种类": "公告",
+      "成文日期": "2025年07月19日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7032812.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,73 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "12340000485222866K",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "12340000485222866K",
+    "enterprise_name": "安徽省淮河河道管理局",
+    "legal_representative": "杨冰",
+    "entity_type": "事业单位营业",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "172760000",
+    "business_status": "开业",
+    "registered_address": "安徽省蚌埠市解放一路116号",
+    "business_scope": "淮河河道管理",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 30,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022AEEAZ00489",
+      "2022AFFBZ02903",
+      "2022AFWGZ02873",
+      "2022ANNBZ00578",
+      "2022ANNGZ00580",
+      "2022BBBBZ00290",
+      "2022BFJAZ02765",
+      "2022BFLBZ02876"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽省淮河河道管理局",
+    "business_status": "开业",
+    "legal_representative": "杨冰",
+    "registered_capital": "172760000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "2021-05-31 至 2026-05-31",
+    "province": "安徽省",
+    "city": "蚌埠市",
+    "district": "蚌埠市",
+    "phone": "0552-4931923",
+    "additional_phones": "18405528894,13063218081,0552-3918029,0552-3092295,0552-4931801",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "12340000485222866K",
+    "taxpayer_identification_number": "12340000485222866K",
+    "business_registration_number": "-",
+    "organization_code": "48522286-6",
+    "insured_personnel_count": "-",
+    "company_type": "事业单位营业",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "安徽省蚌埠市解放一路116号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "淮河河道管理",
+    "match_status": "成功"
+  }
+}

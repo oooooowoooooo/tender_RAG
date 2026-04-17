@@ -1,0 +1,80 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "12340000485000614R",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "12340000485000614R",
+    "enterprise_name": "安徽医学高等专科学校",
+    "legal_representative": "郑为超",
+    "entity_type": "事业单位营业",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "598133000",
+    "business_status": "开业",
+    "registered_address": "合肥市芙蓉路632号",
+    "business_scope": "医学高等专科教育",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 45,
+    "selected_project_ids": [
+      "2023AFAFZ02494",
+      "2023BFAHX02817"
+    ],
+    "all_linked_project_ids": [
+      "2022BFAFZ02818",
+      "2022BFAHD02427",
+      "2022BFAHZ02390",
+      "2023AFAFZ02494",
+      "2023BFAFZ01335",
+      "2023BFAFZ01469",
+      "2023BFAFZ01662",
+      "2023BFAHX02817",
+      "2023BFAHZ00987",
+      "2023BFAHZ01934",
+      "2023BFAHZ02070"
+    ],
+    "roles": [
+      "purchaser",
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽医学高等专科学校",
+    "business_status": "开业",
+    "legal_representative": "郑为超",
+    "registered_capital": "598133000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "2021-04-08 至 2026-04-08",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "合肥市",
+    "phone": "0551-66223645",
+    "additional_phones": "0551-63818211,0551-65860136,0551-62861790,0551-63818351,13865517553",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "12340000485000614R",
+    "taxpayer_identification_number": "12340000485000614R",
+    "business_registration_number": "-",
+    "organization_code": "48500061-4",
+    "insured_personnel_count": "-",
+    "company_type": "事业单位营业",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "合肥市芙蓉路632号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "医学高等专科教育",
+    "match_status": "成功"
+  }
+}

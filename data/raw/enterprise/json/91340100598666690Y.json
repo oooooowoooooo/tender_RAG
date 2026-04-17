@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100598666690Y",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100598666690Y",
+    "enterprise_name": "安徽先河建筑工程有限公司",
+    "legal_representative": "周飞",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "18/6/2012 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "160000000",
+    "business_status": "开业",
+    "registered_address": "合肥市包河区上海路与太原路交口中建智立方二期九号楼四层",
+    "business_scope": "公路工程施工；市政公用工程施工；水利水电工程施工；机电安装工程施工；桥梁工程施工；城市及道路照明工程施工；园林绿化工程施工；土石方工程；土地整理施工；环保工程施工；消防工程施工；体育场场地施工；房屋建筑工程；建筑装饰装修工程；电力工程；输变电工程；电子与智能化工程；隧道工程；钢结构工程；地基与基础工程；花卉、苗木、盆景种植与销售；机械设备租赁；公路交通设施、标志、标线、标牌制作；交通信号灯及系统安装；工程设计、咨询及项目管理；建筑劳务分包；公路养护工程。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022ACCFZ00449",
+      "2023ACCFN00251",
+      "2023ACCFZ00453",
+      "2023AEEGZ00089"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽先河建筑工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "周飞",
+    "registered_capital": "160000000",
+    "paid_in_capital": "160000000",
+    "establishment_date": "18/6/2012 00:00:00",
+    "approval_date": "15/11/2019 00:00:00",
+    "business_term": "2012-06-18 至 2032-06-18",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "phone": "0551-63482870",
+    "additional_phones": "0556-5991156,0311-89681169,0551-62882901,0551-62882902,0311-85288387",
+    "email": "642473875@qq.com",
+    "additional_emails": "449332911@qq.com,449332911@99.com,5172761@qq.com",
+    "unified_social_credit_code": "91340100598666690Y",
+    "taxpayer_identification_number": "91340100598666690Y",
+    "business_registration_number": "340100000664855",
+    "organization_code": "59866669-0",
+    "insured_personnel_count": "50",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "土木工程建筑业",
+    "former_name": "-",
+    "registered_address": "合肥市包河区上海路与太原路交口中建智立方二期九号楼四层",
+    "latest_annual_report_address": "合肥市包河区上海路与太原路交口中建智立方二期九号楼四层",
+    "website": "-",
+    "business_scope": "公路工程施工；市政公用工程施工；水利水电工程施工；机电安装工程施工；桥梁工程施工；城市及道路照明工程施工；园林绿化工程施工；土石方工程；土地整理施工；环保工程施工；消防工程施工；体育场场地施工；房屋建筑工程；建筑装饰装修工程；电力工程；输变电工程；电子与智能化工程；隧道工程；钢结构工程；地基与基础工程；花卉、苗木、盆景种植与销售；机械设备租赁；公路交通设施、标志、标线、标牌制作；交通信号灯及系统安装；工程设计、咨询及项目管理；建筑劳务分包；公路养护工程。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

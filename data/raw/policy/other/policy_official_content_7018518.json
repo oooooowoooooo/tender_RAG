@@ -1,0 +1,71 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7018518",
+  "normalized_projection": {
+    "title": "全国爱卫会关于将健康体重管理行动等3个行动纳入健康中国行动的通知",
+    "issuer": "全国爱国卫生运动委员会",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\其他",
+    "doc_no": "全爱卫发〔2025〕2号",
+    "publish_date": "2025-04-14",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7018518.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250414516764835736.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250414516764975995.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250414516765123320.pdf"
+    ],
+    "keywords": [
+      "卫生",
+      "体育",
+      "其他"
+    ],
+    "effective_date": "2025-04-02",
+    "abolish_date": "",
+    "summary": "2019年，国务院印发《关于实施健康中国行动的意见》，启动实施健康中国行动15个专项行动。结合健康中国建设工作实际和健康中国行动推进情况，决定将健康体重管理行动、健康乡村建设行动和中医药健康促进行动纳入健康中国行动。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7018518",
+    "title": "全国爱卫会关于将健康体重管理行动等3个行动纳入健康中国行动的通知",
+    "content": "全国爱卫会关于将健康体重管理行动等3个行动纳入健康中国行动的通知\n全爱卫发〔2025〕2号\n各省、自治区、直辖市及新疆生产建设兵团爱卫会，全国爱卫会各成员单位，中央网信办、工业和信息化部、金融监管总局、国家统计局、中国气象局：\n为深入贯彻习近平总书记关于健康中国建设的重要论述精神，认真落实党中央、国务院决策部署，加快推进健康中国建设，2019年，国务院印发《关于实施健康中国行动的意见》，启动实施健康中国行动15个专项行动。结合健康中国建设工作实际和健康中国行动推进情况，决定将健康体重管理行动、健康乡村建设行动和中医药健康促进行动纳入健康中国行动，请你们将新增的3个行动与其他15个专项行动统筹推进。\n附件：\n1.健康体重管理行动\n2.健康乡村建设行动\n3.中医药健康促进行动\n全国爱国卫生运动委员会\n2025年4月2日\n（信息公开形式：主动公开）",
+    "source": "国家卫生健康委网站",
+    "publish_time": "2025-04-14",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7018518.htm",
+    "category": "卫生、体育\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "376"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7018518",
+    "title": "全国爱卫会关于将健康体重管理行动等3个行动纳入健康中国行动的通知",
+    "source_name": "国家卫生健康委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-04-14",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7018518.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7018518.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "全国爱卫会关于将健康体重管理行动等3个行动纳入健康中国行动的通知",
+      "发文机关": "全国爱国卫生运动委员会",
+      "发文字号": "全爱卫发〔2025〕2号",
+      "来源": "国家卫生健康委网站",
+      "主题分类": "卫生、体育\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年04月02日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250414516764835736.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250414516764975995.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250414516765123320.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7018518.html"
+  },
+  "raw_legal_doc": {}
+}

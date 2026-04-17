@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913401007647578715",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913401007647578715",
+    "enterprise_name": "安徽省中灏工程咨询有限公司",
+    "legal_representative": "沈晖",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "7/7/2004 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "8000000",
+    "business_status": "开业",
+    "registered_address": "合肥市长江西路551号鼎金大厦1701室",
+    "business_scope": "一般项目：工程造价咨询业务；招投标代理服务；工程管理服务（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）许可项目：建设工程监理；文物保护工程监理（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 8,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022ANNBZ00587",
+      "2023DFABZ00630"
+    ],
+    "roles": [
+      "agency",
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽省中灏工程咨询有限公司",
+    "business_status": "开业",
+    "legal_representative": "沈晖",
+    "registered_capital": "8000000",
+    "paid_in_capital": "8000000",
+    "establishment_date": "7/7/2004 00:00:00",
+    "approval_date": "24/2/2022 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "13505502828",
+    "additional_phones": "0551-68850112,13955025958,13965959536,13965967712,13955037028",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "913401007647578715",
+    "taxpayer_identification_number": "913401007647578715",
+    "business_registration_number": "340000000006179",
+    "organization_code": "76475787-1",
+    "insured_personnel_count": "65",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "former_name": "-",
+    "registered_address": "合肥市长江西路551号鼎金大厦1701室",
+    "latest_annual_report_address": "合肥市长江西路551号鼎金大厦1701室",
+    "website": "-",
+    "business_scope": "一般项目：工程造价咨询业务；招投标代理服务；工程管理服务（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）许可项目：建设工程监理；文物保护工程监理（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

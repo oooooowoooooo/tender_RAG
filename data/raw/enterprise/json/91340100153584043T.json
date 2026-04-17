@@ -1,0 +1,66 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100153584043T",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100153584043T",
+    "enterprise_name": "安徽皖维高新材料股份有限公司",
+    "legal_representative": "吴福胜",
+    "entity_type": "股份有限公司(上市、外商投资企业投资)",
+    "established_date": "23/5/1997 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "2156908366",
+    "business_status": "开业",
+    "registered_address": "安徽省巢湖市巢维路56号",
+    "business_scope": "许可经营项目：水泥用石灰石开采，氧气、溶解乙炔、醋酸乙烯、电石、工业乙酸酐、工业冰乙酸、乙醛、醋酸甲酯的生产和销售（只限于在生产厂区范围内销售本企业生产的上述产品）。    一般经营项目：各种高低聚合度和醇解度的PVA系列产品、高强高模聚乙烯醇纤维、超高强高模PVA短纤及长丝、PVA水溶性纤维、聚乙烯醇薄膜、PVB树脂、可再分散性乳胶粉、粘合剂用相关产品、聚乙烯醇强力纱、涤纶纤维、聚脂切片、聚醋酸乙烯乳液、高档面料、水泥、石灰制造、销售，工业与民用建筑工程施工三级（限建筑分公司经营），设备安装，机械加工，铁路轨道衡计量经营；建筑用石料、水泥用混合材、化工产品的生产与销售；自营及代理各类商品和技术的进出口业务（除国家限定企业经营或禁止进出口的商品和技术）（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 5,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023AMWGZ00152"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽皖维高新材料股份有限公司",
+    "business_status": "开业",
+    "legal_representative": "吴福胜",
+    "registered_capital": "2156908366",
+    "paid_in_capital": "1925890000",
+    "establishment_date": "23/5/1997 00:00:00",
+    "approval_date": "14/6/2024 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "巢湖市",
+    "phone": "0551-82189460",
+    "additional_phones": "15256092425,13856510093,0551-82189233,0565-2317212,13956661308",
+    "email": "wwgs82189209@163.com",
+    "additional_emails": "qq@1828446808",
+    "unified_social_credit_code": "91340100153584043T",
+    "taxpayer_identification_number": "91340100153584043T",
+    "business_registration_number": "340000000003130",
+    "organization_code": "15358404-3",
+    "insured_personnel_count": "2565",
+    "company_type": "股份有限公司(上市、外商投资企业投资)",
+    "industry": "化学纤维制造业",
+    "former_name": "-",
+    "registered_address": "安徽省巢湖市巢维路56号",
+    "latest_annual_report_address": "皖维路56号",
+    "website": "www.wwgf.com.cn",
+    "business_scope": "许可经营项目：水泥用石灰石开采，氧气、溶解乙炔、醋酸乙烯、电石、工业乙酸酐、工业冰乙酸、乙醛、醋酸甲酯的生产和销售（只限于在生产厂区范围内销售本企业生产的上述产品）。    一般经营项目：各种高低聚合度和醇解度的PVA系列产品、高强高模聚乙烯醇纤维、超高强高模PVA短纤及长丝、PVA水溶性纤维、聚乙烯醇薄膜、PVB树脂、可再分散性乳胶粉、粘合剂用相关产品、聚乙烯醇强力纱、涤纶纤维、聚脂切片、聚醋酸乙烯乳液、高档面料、水泥、石灰制造、销售，工业与民用建筑工程施工三级（限建筑分公司经营），设备安装，机械加工，铁路轨道衡计量经营；建筑用石料、水泥用混合材、化工产品的生产与销售；自营及代理各类商品和技术的进出口业务（除国家限定企业经营或禁止进出口的商品和技术）（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

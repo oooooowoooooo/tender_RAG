@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7020558",
+  "normalized_projection": {
+    "title": "两部门关于印发国家智能制造标准体系建设指南（2024版）的通知",
+    "issuer": "工业和信息化部 国家标准委",
+    "index_no": "未标注",
+    "subject_category": "市场监管、安全生产监管\\标准",
+    "doc_no": "工信部联科〔2025〕60号",
+    "publish_date": "2025-04-23",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7020558.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250423441436067725.pdf"
+    ],
+    "keywords": [
+      "市场监管",
+      "安全生产监管",
+      "标准"
+    ],
+    "effective_date": "2025-03-07",
+    "abolish_date": "",
+    "summary": "我们组织编制了《国家智能制造标准体系建设指南（2024版）》。现印发给你们，请结合实际，抓好贯彻落实。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7020558",
+    "title": "两部门关于印发国家智能制造标准体系建设指南（2024版）的通知",
+    "content": "工业和信息化部 国家标准化管理委员会关于印发国家智能制造标准体系建设指南（2024版）的通知\n工信部联科〔2025〕60号\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化主管部门、市场监管局（厅、委），有关行业协会、标准化技术组织和专业机构：\n为贯彻落实《中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要》《国家标准化发展纲要》《“十四五”智能制造发展规划》，加强智能制造标准化工作顶层设计，切实发挥标准对推动智能制造高质量发展的引领作用，我们组织编制了《国家智能制造标准体系建设指南（2024版）》。现印发给你们，请结合实际，抓好贯彻落实。\n工业和信息化部\n国家标准化管理委员会\n2025年3月7日",
+    "source": "工业和信息化部网站",
+    "publish_time": "2025-04-23",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7020558.htm",
+    "category": "市场监管、安全生产监管\\标准",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "320"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7020558",
+    "title": "两部门关于印发国家智能制造标准体系建设指南（2024版）的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-04-23",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7020558.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7020558.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "两部门关于印发国家智能制造标准体系建设指南（2024版）的通知",
+      "发文机关": "工业和信息化部 国家标准委",
+      "发文字号": "工信部联科〔2025〕60号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "市场监管、安全生产监管\\标准",
+      "公文种类": "通知",
+      "成文日期": "2025年03月07日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250423441436067725.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7020558.html"
+  },
+  "raw_legal_doc": {}
+}

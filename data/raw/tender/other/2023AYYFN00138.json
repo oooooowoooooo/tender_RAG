@@ -1,0 +1,78 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023AYYFN00138",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "终止"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023AYYFN00138",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "终止"
+    ],
+    "publish_time": "2023-12-01 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 瑶海"
+    ],
+    "tenderer_or_purchaser": [
+      "合肥市瑶海区司法局"
+    ],
+    "agency": [
+      "合肥市瑶海区公共资源交易项目管理有限公司"
+    ],
+    "budget_or_bid_amount": [
+      "1200000.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231201/21fba375-9ca6-46a9-b8d3-504f0ad3543c.html?ztbtab=002002004&biaoduanguid=58cc3c5d-0de6-4e35-bce4-9ee7a520e82d",
+    "attachment_paths": [],
+    "candidate_company_names": [],
+    "winner_company_name": [],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:422",
+      "project_id": "2023AYYFN00138",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231201/21fba375-9ca6-46a9-b8d3-504f0ad3543c.html?ztbtab=002002004&biaoduanguid=58cc3c5d-0de6-4e35-bce4-9ee7a520e82d",
+      "type": "政府采购",
+      "stage": "终止",
+      "event_time": "2023-12-01",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "瑶海",
+      "category": "政府",
+      "sub_category": "服务",
+      "budget_amount": "1200000.0",
+      "purchaser": "合肥市瑶海区司法局",
+      "agency": "合肥市瑶海区公共资源交易项目管理有限公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "",
+      "bid_amount": "",
+      "bid_date": "",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"2024年瑶海区社区矫正社会服务终止公告\", \"content\": \"\n\n2024年瑶海区社区矫正社会服务终止公告\n\n一、项目基本情况\n\n采购项目编号：2023AYYFN00138\n\n采购项目名称：2024年瑶海区社区矫正社会服务\n\n二、项目终止的原因\n\n终止原因：有效供应商数量不足规定数量要求，本项目流标。\n\n三、其他补充事宜\n\n无\n\n四、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：合肥市瑶海区司法局\n\n地址：合肥市瑶海区和平路与一环路交口公共法律服务中心\n\n联系方式：0551-64498108\n\n2.采购代理机构信息\n\n名称：合肥市瑶海区公共资源交易项目管理有限公司\n\n地址：合肥市瑶海区芜湖路2号坝上街环球中心综合楼7楼\n\n联系方式：0551-64498334\n\n3.项目联系方式\n\n项目联系人：李工\n\n电话：0551-64498334\n\n累计办理时间：\n0天0小时6分52秒\n\n招标代理机构提交\n\n提交节点：\n\n2023-12-12\n\n交易中心见证\n\n办理状态：\n\n通过\n\n办理时间：\n\n2023-12-12\n\n办理用时：\n\n0天0小时6分\n\n\", \"attachments\": [{\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=9921f1b5-6d1d-4d2d-8273-7518b3aaa890&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "781",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

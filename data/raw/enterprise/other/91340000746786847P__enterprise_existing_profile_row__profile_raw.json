@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "91340000746786847P",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "安徽新媒体集团有限公司",
+  "raw_profile": {
+    "record_id": "3035",
+    "title": "安徽新媒体集团有限公司",
+    "corporation": "章理中",
+    "amount_raw": "8000万人民币",
+    "event_time": "2003-03-12",
+    "manage_date": "2003-03-12 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "-",
+    "type": "有限责任公司（非自然人投资或控股的法人独资）",
+    "industry": "互联网和相关服务",
+    "USCC": "91340000746786847P",
+    "TIN": "91340000746786847P",
+    "registed_num": "340000000014684",
+    "insured_persons": "321",
+    "location": "安徽省合肥市政务新区潜山路1469号",
+    "source_url": "http://www.anhuinews.com/",
+    "content": "许可经营项目：国际互联网新闻发布，经营安徽日报报业集团数字化版权资产，增值电信业务。一般经营项目：为电子产品、工艺品、百货、食用农产品网上销售提供服务，计算机软、硬集成、研发、维护、销售，网站设计、制作、维护。",
+    "search_text": "",
+    "capital_value": "80000000"
+  }
+}

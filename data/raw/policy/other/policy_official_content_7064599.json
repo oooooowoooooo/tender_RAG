@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7064599",
+  "normalized_projection": {
+    "title": "关于启用电子边境管理区通行证的公告",
+    "issuer": "​国家移民局（中国出入境管理局）",
+    "index_no": "未标注",
+    "subject_category": "商贸、海关、旅游\\其他",
+    "doc_no": "2026年第2号",
+    "publish_date": "2026-04-03",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202604/content_7064599.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "商贸",
+      "海关",
+      "旅游",
+      "其他"
+    ],
+    "effective_date": "2026-04-02",
+    "abolish_date": "",
+    "summary": "依照《国务院关于在线政务服务的若干规定》《中华人民共和国边境管理区通行证管理办法》，为了进一步便利人员申办边境管理区通行证，国家移民管理局（中华人民共和国出入境管理局）决定启用电子边境管理区通行证。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7064599",
+    "title": "关于启用电子边境管理区通行证的公告",
+    "content": "关于启用电子边境管理区通行证的公告\n2026年第2号\n依照《国务院关于在线政务服务的若干规定》《中华人民共和国边境管理区通行证管理办法》，为了进一步便利人员申办边境管理区通行证，国家移民管理局（中华人民共和国出入境管理局）决定启用电子边境管理区通行证。现公告如下：\n一、自2026年4月15日起，启用电子边境管理区通行证，同时停止签发纸质证件，已经签发的纸质证件在有效期内可以继续使用。\n二、年满16周岁以上中国内地居民可以通过国家移民管理局政务服务平台（“移民局12367”APP和微信、支付宝小程序）申请有效期三个月以内的电子边境管理区通行证。网上申请有困难的中国内地居民可以前往县级以上公安机关出入境管理机构或者指定的派出所现场申请。\n三、港澳台居民、华侨、外国人，偕行不满16周岁子女或者申请有效期一年的电子边境管理区通行证的中国内地居民，须前往县级以上公安机关出入境管理机构或者指定的派出所现场申请电子边境管理区通行证。\n四、申请人可以指定电子邮箱接收电子边境管理区通行证，或者由签发机关协助下载打印电子边境管理区通行证。\n五、电子边境管理区通行证应当与持证人居民身份证等有效身份证件同时使用。持证人在接受查验时，可以使用手机等移动通信终端出示电子边境管理区通行证，也可以出示电子边境管理区通行证打印件。\n如需进一步了解政策详情，请咨询12367服务平台。\n特此公告。\n国家移民管理局\n（中华人民共和国出入境管理局）\n2026年4月2日",
+    "source": "国家移民局网站",
+    "publish_time": "2026-04-03",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202604/content_7064599.htm",
+    "category": "商贸、海关、旅游\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "623"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7064599",
+    "title": "关于启用电子边境管理区通行证的公告",
+    "source_name": "国家移民局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-04-03",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202604/content_7064599.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202604/content_7064599.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于启用电子边境管理区通行证的公告",
+      "发文机关": "​国家移民局（中国出入境管理局）",
+      "发文字号": "2026年第2号",
+      "来源": "国家移民局网站",
+      "主题分类": "商贸、海关、旅游\\其他",
+      "公文种类": "公告",
+      "成文日期": "2026年04月02日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7064599.html"
+  },
+  "raw_legal_doc": {}
+}

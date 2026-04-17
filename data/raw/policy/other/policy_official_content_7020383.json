@@ -1,0 +1,68 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7020383",
+  "normalized_projection": {
+    "title": "教育部关于公布2024年度普通高等学校本科专业备案和审批结果及《普通高等学校本科专业目录（2025年）》的通知",
+    "issuer": "教育部",
+    "index_no": "未标注",
+    "subject_category": "科技、教育\\教育",
+    "doc_no": "教高函〔2025〕3号",
+    "publish_date": "2025-04-22",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7020383.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250422442967695709.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250422442968029828.pdf"
+    ],
+    "keywords": [
+      "科技",
+      "教育"
+    ],
+    "effective_date": "2025-04-01",
+    "abolish_date": "",
+    "summary": "教育部组织开展了2024年度普通高等学校本科专业设置和调整工作。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7020383",
+    "title": "教育部关于公布2024年度普通高等学校本科专业备案和审批结果及《普通高等学校本科专业目录（2025年）》的通知",
+    "content": "教育部关于公布2024年度普通高等学校本科专业备案和审批结果及《普通高等学校本科专业目录（2025年）》的通知\n教高函〔2025〕3号\n各省、自治区、直辖市教育厅（教委），新疆生产建设兵团教育局，有关部门（单位）教育司（局），部属各高等学校、部省合建各高等学校：\n按照教育部等五部门印发的《普通高等教育学科专业设置调整优化改革方案》（教高〔2023〕1号）有关要求，根据《普通高等学校本科专业设置管理规定》（教高〔2012〕9号）和《教育部办公厅关于进一步做好普通高等学校本科专业设置工作的通知》（教高厅〔2024〕1号）有关规定，教育部组织开展了2024年度普通高等学校本科专业设置和调整工作。\n经申报、公示、审核等程序，对各地各高校向教育部申请备案的专业予以备案；根据高等学校专业设置与教学指导委员会评议结果，确定了同意设置的国家控制布点专业和列入专业目录的新专业。现将备案和审批结果（附件1）、《普通高等学校本科专业目录（2025年）》（附件2）一并予以公布。请各地各高校加强对新设专业的建设和管理，不断提高人才培养质量。\n附件：\n1.2024年度普通高等学校本科专业备案和审批结果.pdf\n2.普通高等学校本科专业目录（2025年）.pdf\n教育部\n2025年4月1日",
+    "source": "教育部网站",
+    "publish_time": "2025-04-22",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7020383.htm",
+    "category": "科技、教育\\教育",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "538"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7020383",
+    "title": "教育部关于公布2024年度普通高等学校本科专业备案和审批结果及《普通高等学校本科专业目录（2025年）》的通知",
+    "source_name": "教育部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-04-22",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7020383.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7020383.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "教育部关于公布2024年度普通高等学校本科专业备案和审批结果及《普通高等学校本科专业目录（2025年）》的通知",
+      "发文机关": "教育部",
+      "发文字号": "教高函〔2025〕3号",
+      "来源": "教育部网站",
+      "主题分类": "科技、教育\\教育",
+      "公文种类": "通知",
+      "成文日期": "2025年04月01日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250422442967695709.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250422442968029828.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7020383.html"
+  },
+  "raw_legal_doc": {}
+}

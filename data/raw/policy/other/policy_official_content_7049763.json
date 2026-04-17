@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7049763",
+  "normalized_projection": {
+    "title": "交通运输部关于发布《城镇化地区公路交通安全设施设计规范》的公告",
+    "issuer": "交通运输部",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\公路",
+    "doc_no": "交通运输部公告2025年第65号",
+    "publish_date": "2025-11-28",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7049763.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251128452141264004.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "公路"
+    ],
+    "effective_date": "2025-11-20",
+    "abolish_date": "",
+    "summary": "现发布《城镇化地区公路交通安全设施设计规范》(JTG/T3381-04-2025)，作为公路工程推荐性行业标准，自2026年3月1日起施行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7049763",
+    "title": "交通运输部关于发布《城镇化地区公路交通安全设施设计规范》的公告",
+    "content": "交通运输部关于发布《城镇化地区公路交通安全设施设计规范》的公告\n交通运输部公告2025年第65号\n现发布《城镇化地区公路交通安全设施设计规范》(JTG/T3381-04-2025)，作为公路工程推荐性行业标准，自2026年3月1日起施行。《城镇化地区公路交通安全设施设计规范》(JTG/T3381-04-2025)的管理权和解释权归交通运输部，日常管理和解释工作由主编单位交通运输部公路科学研究院负责。\n请各有关单位注意在实践中总结经验，及时将发现的问题和修改建议函告交通运输部公路科学研究院(地址：北京市海淀区西土城路8号；邮政编码：100088)。\n特此公告。\n交通运输部\n2025年11月20日\n附件下载：\n城镇化地区公路交通安全设施设计规范（JTGT 3381-04—2025）.pdf",
+    "source": "交通运输部网站",
+    "publish_time": "2025-11-28",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7049763.htm",
+    "category": "工业、交通\\公路",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "347"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7049763",
+    "title": "交通运输部关于发布《城镇化地区公路交通安全设施设计规范》的公告",
+    "source_name": "交通运输部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-11-28",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7049763.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7049763.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "交通运输部关于发布《城镇化地区公路交通安全设施设计规范》的公告",
+      "发文机关": "交通运输部",
+      "发文字号": "交通运输部公告2025年第65号",
+      "来源": "交通运输部网站",
+      "主题分类": "工业、交通\\公路",
+      "公文种类": "公告",
+      "成文日期": "2025年11月20日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251128452141264004.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7049763.html"
+  },
+  "raw_legal_doc": {}
+}

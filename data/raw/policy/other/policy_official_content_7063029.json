@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7063029",
+  "normalized_projection": {
+    "title": "国家医保局 国家发展改革委 国家卫生健康委关于医保支持基层医疗卫生服务发展的指导意见",
+    "issuer": "国家医保局 国家发展改革委 国家卫生健康委",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "医保发〔2026〕7号",
+    "publish_date": "2026-03-17",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202603/content_7063029.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2026-03-09",
+    "abolish_date": "",
+    "summary": ""
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7063029",
+    "title": "国家医保局 国家发展改革委 国家卫生健康委关于医保支持基层医疗卫生服务发展的指导意见",
+    "content": "",
+    "source": "国家医保局网站",
+    "publish_time": "2026-03-17",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202603/content_7063029.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "0"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7063029",
+    "title": "国家医保局 国家发展改革委 国家卫生健康委关于医保支持基层医疗卫生服务发展的指导意见",
+    "source_name": "国家医保局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-03-17",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202603/content_7063029.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202603/content_7063029.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家医保局 国家发展改革委 国家卫生健康委关于医保支持基层医疗卫生服务发展的指导意见",
+      "发文机关": "国家医保局 国家发展改革委 国家卫生健康委",
+      "发文字号": "医保发〔2026〕7号",
+      "来源": "国家医保局网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "意见",
+      "成文日期": "2026年03月09日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7063029.html"
+  },
+  "raw_legal_doc": {}
+}

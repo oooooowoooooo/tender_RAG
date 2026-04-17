@@ -1,0 +1,83 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023ALLZN00158",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "中标"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023ALLZN00158",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "中标"
+    ],
+    "publish_time": "2023-12-14 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 庐阳"
+    ],
+    "tenderer_or_purchaser": [
+      "合肥市庐阳区城市管理局"
+    ],
+    "agency": [
+      "合肥庐阳合信公共资源交易项目管理有限公司"
+    ],
+    "budget_or_bid_amount": [
+      "960000.0",
+      "760000.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231214/898d0530-5add-4101-bd10-90b50c36cd18.html?ztbtab=002002004&biaoduanguid=9c670c4d-63c6-410a-a1aa-f3c3017036c5",
+    "attachment_paths": [],
+    "candidate_company_names": [
+      "安徽雨树建设工程有限公司"
+    ],
+    "winner_company_name": [
+      "安徽雨树建设工程有限公司"
+    ],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:196",
+      "project_id": "2023ALLZN00158",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231214/898d0530-5add-4101-bd10-90b50c36cd18.html?ztbtab=002002004&biaoduanguid=9c670c4d-63c6-410a-a1aa-f3c3017036c5",
+      "type": "政府采购",
+      "stage": "中标",
+      "event_time": "2023-12-14",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "庐阳",
+      "category": "政府",
+      "sub_category": "工程",
+      "budget_amount": "960000.0",
+      "purchaser": "合肥市庐阳区城市管理局",
+      "agency": "合肥庐阳合信公共资源交易项目管理有限公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "安徽雨树建设工程有限公司",
+      "bid_amount": "760000.0",
+      "bid_date": "2023-12-26",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"庐阳区2023年第一批拥堵点治理工程中标（成交）结果公告\", \"content\": \"\n\n庐阳区2023年第一批拥堵点治理工程中标（成交）结果公告\n\n一、项目编号:\n2023ALLZN00158\n\n二、项目名称:\n庐阳区2023年第一批拥堵点治理工程\n\n三、中标（成交）信息\n\n供应商名称：安徽雨树建设工程有限公司\n\n供应商地址：合肥市庐阳区阜阳北路948号中正国际广场2幢办1903\n\n中标（成交）金额：柒拾陆万元整(￥760000.00元)\n\n四、主要标的信息\n{\"table_style\": 1}\n\n项目名称\n\n庐阳区\n2023年第一批拥堵点治理工程\n\n施工范围\n\n按招标文件要求\n\n施工工期\n\n自签订合同之日起\n60天\n\n项目经理\n\n陈超方\n\n执业证书信息\n\n皖\n\n234080914149\n\n注：如与本公告附件内容不一致的，以附件主要中标（成交）标的承诺函为准。\n\n五、评审专家（单一来源采购人员）名单\n\n王家明，解辉，谈敏\n\n六、代理服务收费标准及金额\n\n1.代理服务收费标准：详见采购文件中标（成交）服务费。\n2.金额：6080元。\n\n七、公告期限\n\n自本公告发布之日起1个工作日。\n\n八、其他补充事宜\n\n若供应商对上述结果有异议，可在中标（成交）公告发布之日起七个工作日内以电子交易系统或书面形式在工作时间（周一至周五，上午\n8:00-11:30，下午14:30-17:30，节假日休息）向合肥庐阳合信公共资源交易项目管理有限公司提出质疑（异议），质疑材料递交地址：合肥市庐阳区濉溪路335号蓝钻尚界B座4楼，联系电话：0551-65633205。\n\n若供应商对质疑处理意见有异议，可在规定时间内通过网上投诉系统或以书面形式向合肥市庐阳区财政局提出投诉，联系人：金凤，联系电话：\n0551-65699705【采购人为合肥行政区域以外单位的项目：向采购人所在地财政部门（公共资源交易监督管理部门）提出投诉】。\n\n质疑提起的条件及不予受理的情形\n\n根据《中华人民共和国政府采购法》、《中华人民共和国政府采购法实施条例》、《安徽省政府采购供应商质疑处理办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n\n（一）质疑应以电子交易系统或书面形式实名提出，电子交易系统或书面质疑材料应当包括以下内容：\n\n1、质疑人的名称、地址、邮编、联系人及联系电话；\n\n2、质疑项目的名称、编号、包别号（如有）；\n\n3、被质疑人名称；\n\n4、具体的质疑事项、基本事实及必要的证明材料；\n\n5、明确的请求及主张；\n\n6、必要的法律依据；\n\n7、提起质疑的日期。\n\n质疑人为自然人的，应当由本人签字；质疑人为法人或者其他组织的，应当由法定代表人、主要负责人，或者其授权代表签字或者盖章，并加盖公章。\n\n（二）有下列情形之一的，不予受理：\n\n1、提起质疑的主体不是参与该政府采购项目活动的供应商；\n\n2、提起质疑的时间超过规定时限的；\n\n3、质疑材料不完整的；\n\n4、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n\n5、对其他供应商的投标文件详细内容质疑，无法提供合法来源渠道的；\n\n6、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n\n二、中标\n(成交)通知书发出情况\n\n庐阳区\n2023年第一批拥堵点治理工程项目中标通知书已发出，请中标（成交）供应商登录电子交易系统自行下载电子中标（成交）通知书。\n\n九、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：合肥市庐阳区城市管理局\n\n地址：合肥市庐阳区砀山路2199号公共卫生服务中心16楼\n\n联系方式：0551-68123552\n\n2.采购代理机构信息\n\n名称：合肥庐阳合信公共资源交易项目管理有限公司\n\n地址：合肥市庐阳区濉溪路335号蓝钻尚界B座4楼\n\n联系方式：0551-65633205\n\n3.项目联系方式\n\n项目联系人：王工\n\n电话：0551-65633205\n\n\", \"attachments\": [{\"file_name\": \"主要中标（成交）标的承诺函.docx\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=0128e0fe-deeb-4c88-877d-05aedcb68809&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"中标（成交）供应商评审情况表.doc\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=2db09738-5481-4628-8624-3c4e48466bc8&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"安徽合肥公共资源交易中心网上投诉操作手册-投标人.docx\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=cf661472-8c6e-4103-808f-ac14ab354f01&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"公示信息.docx\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=f6a9bef6-d8a8-4eed-8942-a4a93fe5584d&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=f8f6b720-8fd4-4cc3-b399-54e5027f2cfa&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "2942",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

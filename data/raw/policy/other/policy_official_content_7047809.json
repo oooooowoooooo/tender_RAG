@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7047809",
+  "normalized_projection": {
+    "title": "关于2026—2027年度乘用车企业平均燃料消耗量与新能源汽车积分管理有关事项的通知",
+    "issuer": "工业和信息化部",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\其他",
+    "doc_no": "工信部通装函〔2025〕294号",
+    "publish_date": "2025-11-11",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047809.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251111457355980901.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "其他"
+    ],
+    "effective_date": "2025-11-07",
+    "abolish_date": "",
+    "summary": "2026年度、2027年度的新能源汽车积分比例要求分别为48%和58%。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7047809",
+    "title": "关于2026—2027年度乘用车企业平均燃料消耗量与新能源汽车积分管理有关事项的通知",
+    "content": "关于2026—2027年度乘用车企业平均燃料消耗量与新能源汽车积分管理有关事项的通知\n工信部通装函〔2025〕294号\n各乘用车企业：\n为适应节能与新能源汽车产业发展需要，根据《乘用车企业平均燃料消耗量与新能源汽车积分并行管理办法》（工业和信息化部 财政部 商务部 海关总署 质检总局令 第44号）、《关于修改〈乘用车企业平均燃料消耗量与新能源汽车积分并行管理办法〉的决定》（工业和信息化部 财政部 商务部 海关总署 市场监督管理总局令 第53号）、《关于修改〈乘用车企业平均燃料消耗量与新能源汽车积分并行管理办法〉的决定》（工业和信息化部 财政部 商务部 海关总署 市场监督管理总局令 第64号）等规定，现就2026—2027年度乘用车企业平均燃料消耗量和新能源汽车积分管理有关事项通知如下：\n一、2026年度、2027年度的新能源汽车积分比例要求分别为48%和58%。\n二、对核算年度生产量2000辆以下并且生产、研发和运营保持独立的境内乘用车生产企业，进口量2000辆以下的获境外乘用车生产企业授权的进口乘用车供应企业，企业平均燃料消耗量较上一年度下降达到4%以上的，其达标值在《乘用车燃料消耗量评价方法及指标》（GB 27999）规定的企业平均燃料消耗量要求基础上放宽60%；下降2%以上不满4%的，其达标值放宽30%。\n三、乘用车企业核算新能源汽车积分达标值时，低油耗乘用车生产量或者进口量按照其数量的0.1倍计算。\n四、2026—2027年度的新能源乘用车车型积分按照《新能源乘用车车型积分计算方法》（见附件）确定。\n五、2026—2027年度企业平均燃料消耗量积分核算中，对标准配置循环外技术且具有循环外节能效果的车型，继续给予其燃料消耗量减免一定额度。新的循环外技术/装置积分核算规定发布前，按《关于2024—2025年度乘用车企业平均燃料消耗量与新能源汽车积分管理有关事项的通知》执行。\n特此通知。\n附件：新能源乘用车车型积分计算方法.pdf\n工业和信息化部\n2025年11月7日",
+    "source": "工业和信息化部网站",
+    "publish_time": "2025-11-11",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047809.htm",
+    "category": "工业、交通\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "849"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7047809",
+    "title": "关于2026—2027年度乘用车企业平均燃料消耗量与新能源汽车积分管理有关事项的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-11-11",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047809.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047809.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于2026—2027年度乘用车企业平均燃料消耗量与新能源汽车积分管理有关事项的通知",
+      "发文机关": "工业和信息化部",
+      "发文字号": "工信部通装函〔2025〕294号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年11月07日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251111457355980901.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7047809.html"
+  },
+  "raw_legal_doc": {}
+}

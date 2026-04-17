@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7039746",
+  "normalized_projection": {
+    "title": "国家药监局关于发布中药生产监督管理专门规定的公告",
+    "issuer": "国家药监局",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "2025年第79号",
+    "publish_date": "2025-09-09",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7039746.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250909398250635135.doc"
+    ],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2025-08-25",
+    "abolish_date": "",
+    "summary": "为全面贯彻落实《国务院办公厅关于全面深化药品医疗器械监管改革促进医药产业高质量发展的意见》（国办发〔2024〕53号）、《国务院办公厅关于提升中药质量促进中医药产业高质量发展的意见》（国办发〔2025〕11号），根据《中华人民共和国药品管理法》等法律法规，国家药监局组织制定了《中药生产监督管理专门规定》，现予发布，自2026年3月1日起施行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7039746",
+    "title": "国家药监局关于发布中药生产监督管理专门规定的公告",
+    "content": "国家药监局关于发布中药生产监督管理专门规定的公告\n2025年第79号\n为全面贯彻落实《国务院办公厅关于全面深化药品医疗器械监管改革促进医药产业高质量发展的意见》（国办发〔2024〕53号）、《国务院办公厅关于提升中药质量促进中医药产业高质量发展的意见》（国办发〔2025〕11号），根据《中华人民共和国药品管理法》等法律法规，国家药监局组织制定了《中药生产监督管理专门规定》，现予发布，自2026年3月1日起施行。\n特此公告。\n附件：中药生产监督管理专门规定\n国家药监局\n2025年8月25日",
+    "source": "国家药监局网站",
+    "publish_time": "2025-09-09",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7039746.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "246"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7039746",
+    "title": "国家药监局关于发布中药生产监督管理专门规定的公告",
+    "source_name": "国家药监局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-09-09",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7039746.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7039746.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家药监局关于发布中药生产监督管理专门规定的公告",
+      "发文机关": "国家药监局",
+      "发文字号": "2025年第79号",
+      "来源": "国家药监局网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "公告",
+      "成文日期": "2025年08月25日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250909398250635135.doc"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7039746.html"
+  },
+  "raw_legal_doc": {}
+}

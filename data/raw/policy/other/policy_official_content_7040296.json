@@ -1,0 +1,69 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7040296",
+  "normalized_projection": {
+    "title": "关于印发《新型储能规模化建设专项行动方案(2025—2027年)》的通知",
+    "issuer": "国家发展改革委 国家能源局",
+    "index_no": "未标注",
+    "subject_category": "国土资源、能源\\其他",
+    "doc_no": "发改能源〔2025〕1144号",
+    "publish_date": "2025-09-12",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7040296.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250912411822546143.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250912411822717481.zip"
+    ],
+    "keywords": [
+      "国土资源",
+      "能源",
+      "其他"
+    ],
+    "effective_date": "2025-08-27",
+    "abolish_date": "",
+    "summary": "为推动新型储能高质量发展，国家发展改革委、国家能源局研究制定了《新型储能规模化建设专项行动方案（2025—2027年）》。现予印发，请结合实际认真抓好贯彻落实。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7040296",
+    "title": "关于印发《新型储能规模化建设专项行动方案(2025—2027年)》的通知",
+    "content": "国家发展改革委 国家能源局关于印发《新型储能规模化建设专项行动方案（2025—2027年）》的通知\n发改能源〔2025〕1144号\n各省、自治区、直辖市及新疆生产建设兵团发展改革委、能源局，北京市城市管理委，国家能源局各派出机构，有关中央企业：\n为推动新型储能高质量发展，国家发展改革委、国家能源局研究制定了《新型储能规模化建设专项行动方案（2025—2027年）》。现予印发，请结合实际认真抓好贯彻落实。\n国家发展改革委\n国家能源局\n2025年8月27日\n附件：\n《新型储能规模化建设专项行动方案（2025—2027年）》.pdf\n《新型储能规模化建设专项行动方案（2025—2027年）》.zip",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-09-12",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7040296.htm",
+    "category": "国土资源、能源\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "300"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7040296",
+    "title": "关于印发《新型储能规模化建设专项行动方案(2025—2027年)》的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-09-12",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7040296.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7040296.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《新型储能规模化建设专项行动方案(2025—2027年)》的通知",
+      "发文机关": "国家发展改革委 国家能源局",
+      "发文字号": "发改能源〔2025〕1144号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "国土资源、能源\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年08月27日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250912411822546143.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250912411822717481.zip"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7040296.html"
+  },
+  "raw_legal_doc": {}
+}

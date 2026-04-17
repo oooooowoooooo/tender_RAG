@@ -1,0 +1,61 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100691061223N",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100691061223N",
+    "enterprise_name": "安徽远大现代教育装备有限公司",
+    "legal_representative": "陆黎明",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "2009-06-23",
+    "registration_authority": "",
+    "registered_capital": "1200万人民币",
+    "business_status": "存续",
+    "registered_address": "合肥市包河经济开发区繁华大道6878号盛景融城A区综合楼一楼",
+    "business_scope": "教学仪器、实验室装备及器材销售与安装；计算机软、硬件产品及耗材、网络及通讯设备、教学办公家具销售；网络工程；综合布线；防盗报警、广播、电视监控设备安装；教育咨询、学生课桌椅、音乐器材、体育器材、美术器材、卫浴洁具销售；计算机软件开发、销售及维护；心理咨询室设备销售；塑胶跑道、人造草皮销售与安装；录播设备销售与安装；建筑装修装饰工程、安全技术防范工程及消防设计与施工；公路交通工程施工与维护；建筑智能化系统工程设计、安装与调试；机电安装工程设计、施工与维护。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "http://www.ahyd-edu.com",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023ABBHJ00120",
+      "2023ABBHJ00136",
+      "2023ABBHN00121"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "1912",
+    "title": "安徽远大现代教育装备有限公司",
+    "corporation": "陆黎明",
+    "amount_raw": "1200万人民币",
+    "event_time": "2009-06-23",
+    "manage_date": "2009-06-23 至 2029-06-17",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "软件和信息技术服务业",
+    "USCC": "91340100691061223N",
+    "TIN": "91340100691061223N",
+    "registed_num": "340100000323805",
+    "insured_persons": "13",
+    "location": "合肥市包河经济开发区繁华大道6878号盛景融城A区综合楼一楼",
+    "source_url": "http://www.ahyd-edu.com",
+    "content": "教学仪器、实验室装备及器材销售与安装；计算机软、硬件产品及耗材、网络及通讯设备、教学办公家具销售；网络工程；综合布线；防盗报警、广播、电视监控设备安装；教育咨询、学生课桌椅、音乐器材、体育器材、美术器材、卫浴洁具销售；计算机软件开发、销售及维护；心理咨询室设备销售；塑胶跑道、人造草皮销售与安装；录播设备销售与安装；建筑装修装饰工程、安全技术防范工程及消防设计与施工；公路交通工程施工与维护；建筑智能化系统工程设计、安装与调试；机电安装工程设计、施工与维护。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "12000000"
+  }
+}

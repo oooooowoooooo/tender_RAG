@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91321000140718153P",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91321000140718153P",
+    "enterprise_name": "扬州市勘测设计研究院有限公司",
+    "legal_representative": "张松",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "20/12/1990 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "13330000",
+    "business_status": "开业",
+    "registered_address": "扬州市邗江区物港路28号",
+    "business_scope": "承担各类水利工程设计；市政工程设计；交通工程设计；水运工程设计；建筑工程和装饰设计；水利工程规划；工程勘察、测量；工程总承包；科技咨询、技术服务；工程建设监理；招标代理；工程项目代建；岩土检测；工程量测；混凝土检测；普通货物仓储；水环境治理；房屋租赁。（依法须经批准的项目，经相关部门批准后方可开展经营活动）许可项目：工程造价咨询业务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）一般项目：政府采购代理服务；信息系统集成服务；智能水务系统开发（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 5,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022ADDBZ00263",
+      "2022AEEBZ00465",
+      "2023ADDFN00028",
+      "2023AFDBZ00904",
+      "2023AFFBZ01548"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "扬州市勘测设计研究院有限公司",
+    "business_status": "开业",
+    "legal_representative": "张松",
+    "registered_capital": "13330000",
+    "paid_in_capital": "159960",
+    "establishment_date": "20/12/1990 00:00:00",
+    "approval_date": "11/7/2024 00:00:00",
+    "business_term": "-",
+    "province": "江苏省",
+    "city": "扬州市",
+    "district": "邗江区",
+    "phone": "0514-87622350",
+    "additional_phones": "18652408807,15705278033,15751621785,0514-87622319,0514-85815115",
+    "email": "2479307800@qq.com",
+    "additional_emails": "1164104087@qq.com",
+    "unified_social_credit_code": "91321000140718153P",
+    "taxpayer_identification_number": "91321000140718153P",
+    "business_registration_number": "321000000037460",
+    "organization_code": "14071815-3",
+    "insured_personnel_count": "266",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "former_name": "-",
+    "registered_address": "扬州市邗江区物港路28号",
+    "latest_annual_report_address": "扬州市勘测设计研究院有限公司",
+    "website": "www.yzedi.com",
+    "business_scope": "承担各类水利工程设计；市政工程设计；交通工程设计；水运工程设计；建筑工程和装饰设计；水利工程规划；工程勘察、测量；工程总承包；科技咨询、技术服务；工程建设监理；招标代理；工程项目代建；岩土检测；工程量测；混凝土检测；普通货物仓储；水环境治理；房屋租赁。（依法须经批准的项目，经相关部门批准后方可开展经营活动）许可项目：工程造价咨询业务（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）一般项目：政府采购代理服务；信息系统集成服务；智能水务系统开发（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）",
+    "match_status": "成功"
+  }
+}

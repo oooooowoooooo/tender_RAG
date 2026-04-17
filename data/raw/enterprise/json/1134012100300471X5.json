@@ -1,0 +1,83 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "1134012100300471X5",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "1134012100300471X5",
+    "enterprise_name": "长丰县水湖镇人民政府",
+    "legal_representative": "陈燕",
+    "entity_type": "-",
+    "established_date": "27/11/2018 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "长丰县水湖镇长丰路",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 244,
+    "selected_project_ids": [
+      "2023ACCZN00482"
+    ],
+    "all_linked_project_ids": [
+      "2022ACCFN00424",
+      "2022ACCFN00486",
+      "2022ACCZN00418",
+      "2022ACCZN00428",
+      "2023ACCFN00001",
+      "2023ACCFN00032",
+      "2023ACCHZ00272",
+      "2023ACCZN00115",
+      "2023ACCZN00248",
+      "2023ACCZN00270",
+      "2023ACCZN00308",
+      "2023ACCZN00311",
+      "2023ACCZN00339",
+      "2023ACCZN00401",
+      "2023ACCZN00482",
+      "2023BFCFZ00403"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "长丰县水湖镇人民政府",
+    "business_status": "开业",
+    "legal_representative": "陈燕",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "27/11/2018 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "长丰县",
+    "phone": "0551-66678079",
+    "additional_phones": "0551-62721975,0551-66671542,13865911502,0551-62721978,0551-66671899",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "1134012100300471X5",
+    "taxpayer_identification_number": "1134012100300471X5",
+    "business_registration_number": "未公示",
+    "organization_code": "00300471-X",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "长丰县水湖镇长丰路",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

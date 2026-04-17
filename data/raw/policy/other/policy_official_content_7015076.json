@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7015076",
+  "normalized_projection": {
+    "title": "关于印发儿童友好城市建设经验举措的通知",
+    "issuer": "国家发展改革委办公厅 国务院妇儿工委办公室 住房城乡建设部办公厅",
+    "index_no": "未标注",
+    "subject_category": "人口与计划生育、妇女儿童工作\\妇女儿童",
+    "doc_no": "发改办社会〔2025〕209号",
+    "publish_date": "2025-03-22",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015076.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250322524465639699.pdf"
+    ],
+    "keywords": [
+      "人口与计划生育",
+      "妇女儿童工作",
+      "妇女儿童"
+    ],
+    "effective_date": "2025-03-04",
+    "abolish_date": "",
+    "summary": "近期，国家发展改革委会同国务院妇儿工委办公室、住房城乡建设部对各地先行先试的政策措施进行了梳理研究，形成一批儿童友好城市建设经验举措，供各地根据实际情况参考借鉴。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7015076",
+    "title": "关于印发儿童友好城市建设经验举措的通知",
+    "content": "国家发展改革委办公厅 国务院妇儿工委办公室 住房城乡建设部办公厅关于印发儿童友好城市建设经验举措的通知\n发改办社会〔2025〕209号\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团发展改革委、妇儿工委办公室、住房城乡建设厅（委、局）：\n建设儿童友好城市是“十四五”规划《纲要》明确的重大工程。2021年，经国务院同意，国家发展改革委会同国务院妇儿工委办公室、住房城乡建设部等22个部门印发实施《关于推进儿童友好城市建设的指导意见》，在全国层面启动开展儿童友好城市建设。各地城市踊跃响应、积极贯彻儿童友好要求，不断凝聚社会共识，健全推进机制，强化资金投入，出台一批增进广大儿童及家庭福祉的社会政策，建设一批人民群众看到变化、得到实惠的儿童友好空间，涌现一批可复制可推广的经验做法。近期，国家发展改革委会同国务院妇儿工委办公室、住房城乡建设部对各地先行先试的政策措施进行了梳理研究，形成一批儿童友好城市建设经验举措，供各地根据实际情况参考借鉴。\n各地要结合自身实际，主动对标先进，跟进学习借鉴，及时总结在改革创新和实践探索中涌现出的好经验好做法，加强工作成果交流和复制推广，实现经验做法的创新性转化和差别化探索。各地发展改革、妇女儿童工作、住房城乡建设部门要加强组织领导和工作统筹，指导相关城市深化体制机制改革，完善建设路径模式，进一步提升建设质量成效。对于具有重大创新的建设模式和有益做法，及时向国家发展改革委、国务院妇儿工委办公室、住房城乡建设部报送。\n附件：儿童友好城市建设经验举措清单\n国家发展改革委办公厅\n国务院妇儿工委办公室\n住房城乡建设部办公厅\n2025年3月4日",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-03-22",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015076.htm",
+    "category": "人口与计划生育、妇女儿童工作\\妇女儿童",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "690"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7015076",
+    "title": "关于印发儿童友好城市建设经验举措的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-22",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015076.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015076.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发儿童友好城市建设经验举措的通知",
+      "发文机关": "国家发展改革委办公厅 国务院妇儿工委办公室 住房城乡建设部办公厅",
+      "发文字号": "发改办社会〔2025〕209号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "人口与计划生育、妇女儿童工作\\妇女儿童",
+      "公文种类": "通知",
+      "成文日期": "2025年03月04日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250322524465639699.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7015076.html"
+  },
+  "raw_legal_doc": {}
+}

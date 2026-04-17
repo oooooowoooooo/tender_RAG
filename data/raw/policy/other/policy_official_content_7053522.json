@@ -1,0 +1,69 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7053522",
+  "normalized_projection": {
+    "title": "关于印发《再生材料应用推广行动方案》的通知",
+    "issuer": "国家发展改革委 工业和信息化部 财政部 生态环境部 商务部 海关总署 市场监管总局",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\化工",
+    "doc_no": "发改环资〔2025〕1681号",
+    "publish_date": "2025-12-31",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053522.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251231765961943325.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251231765962103494.zip"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "化工"
+    ],
+    "effective_date": "2025-12-23",
+    "abolish_date": "",
+    "summary": "为全面贯彻党的二十大和二十届历次全会精神，认真落实党中央、国务院决策部署，加强再生材料应用推广，完善废弃物循环利用体系，促进循环经济发展，国家发展改革委、工业和信息化部、财政部、生态环境部、商务部、海关总署、市场监管总局等部门制定了《再生材料应用推广行动方案》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7053522",
+    "title": "关于印发《再生材料应用推广行动方案》的通知",
+    "content": "国家发展改革委等部门关于印发《再生材料应用推广行动方案》的通知\n发改环资〔2025〕1681号\n各省、自治区、直辖市、新疆生产建设兵团发展改革委、工业和信息化主管部门、财政厅（局）、生态环境厅（局）、商务厅（局）、市场监管局，海关总署广东分署、各直属海关：\n为全面贯彻党的二十大和二十届历次全会精神，认真落实党中央、国务院决策部署，加强再生材料应用推广，完善废弃物循环利用体系，促进循环经济发展，国家发展改革委、工业和信息化部、财政部、生态环境部、商务部、海关总署、市场监管总局等部门制定了《再生材料应用推广行动方案》。现印发给你们，请认真抓好落实。\n国家发展改革委\n工业和信息化部\n财政部\n生态环境部\n商务部\n海关总署\n市场监管总局\n2025年12月23日\n附件：\n《再生材料应用推广行动方案》.pdf\n《再生材料应用推广行动方案》.zip",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-12-31",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053522.htm",
+    "category": "工业、交通\\化工",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "371"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7053522",
+    "title": "关于印发《再生材料应用推广行动方案》的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-12-31",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053522.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053522.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《再生材料应用推广行动方案》的通知",
+      "发文机关": "国家发展改革委 工业和信息化部 财政部 生态环境部 商务部 海关总署 市场监管总局",
+      "发文字号": "发改环资〔2025〕1681号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "工业、交通\\化工",
+      "公文种类": "通知",
+      "成文日期": "2025年12月23日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251231765961943325.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251231765962103494.zip"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7053522.html"
+  },
+  "raw_legal_doc": {}
+}

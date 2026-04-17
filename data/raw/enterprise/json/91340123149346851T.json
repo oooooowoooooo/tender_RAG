@@ -1,0 +1,73 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340123149346851T",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340123149346851T",
+    "enterprise_name": "安徽省豪伟建设集团有限公司",
+    "legal_representative": "吴松",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "15/10/1996 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "150800000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥西县合派路卫星",
+    "business_scope": "建筑幕墙工程设计专项甲级；建筑幕墙工程专业承包壹级；建筑装饰工程设计专项甲级；建筑装饰工程专业承包壹级；金属门窗工程专业承包壹级；建筑金属屋（墙）面设计与施工壹级；展览工程企业资质壹级；钢结构工程专业承包贰级；电子与智能化工程专业承包贰级；建筑机电安装工程专业承包贰级；防水、防腐保温专业承包贰级；消防设施工程专业承包贰级；安全技术防范行业资质壹级；古建筑工程专业承包叁级；公路工程施工总承包叁级；公路路面工程专业承包叁级；公路路基工程专业承包叁级；吊栏安装；不锈钢、塑钢、铝合金门窗安装；建筑水电安装；城市及道路照明工程；防自然灾害工程；垃圾清扫；垃圾外运；实验室温房工程；建筑工程施工总承包；中国展览陈列工程设计与施工一体化壹级资质；水电水利工程施工总承包；电力工程施工总承包；通信工程施工总承包；机电工程施工总承包；地基基础工程专业承包；环保工程专业承包；输变电力工程专业承包；生活百货；家电维修；家具销售；建筑材料销售（不含黄沙、石子、石灰）；建筑门窗销售；防火门销售、安装；智能化技术服务及机电安装服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 5,
+    "selected_project_ids": [
+      "2023BFAGZ02543",
+      "2023BFLGZ02596"
+    ],
+    "all_linked_project_ids": [
+      "2023AEEGZ00285",
+      "2023AFAGZ01912",
+      "2023BFAGZ02543",
+      "2023BFLGZ02596",
+      "2023GFAGZ02370"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽省豪伟建设集团有限公司",
+    "business_status": "开业",
+    "legal_representative": "吴松",
+    "registered_capital": "150800000",
+    "paid_in_capital": "150800000",
+    "establishment_date": "15/10/1996 00:00:00",
+    "approval_date": "16/1/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "phone": "0551-65149582",
+    "additional_phones": "0551-62919788,0551-65149581,0555-2342735,18705633003,13805607715",
+    "email": "3949455@qq.com",
+    "additional_emails": "332030798@qq.com,leelulu@foxmail.com,119179479@qq.com",
+    "unified_social_credit_code": "91340123149346851T",
+    "taxpayer_identification_number": "91340123149346851T",
+    "business_registration_number": "340123000008529",
+    "organization_code": "14934685-1",
+    "insured_personnel_count": "50",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "建筑装饰、装修和其他建筑业",
+    "former_name": "安徽省豪伟装饰工程有限公司",
+    "registered_address": "安徽省合肥市肥西县合派路卫星",
+    "latest_annual_report_address": "安徽省合肥市包河区马鞍山南路200号和地大厦26楼",
+    "website": "www.ahhaowei.com",
+    "business_scope": "建筑幕墙工程设计专项甲级；建筑幕墙工程专业承包壹级；建筑装饰工程设计专项甲级；建筑装饰工程专业承包壹级；金属门窗工程专业承包壹级；建筑金属屋（墙）面设计与施工壹级；展览工程企业资质壹级；钢结构工程专业承包贰级；电子与智能化工程专业承包贰级；建筑机电安装工程专业承包贰级；防水、防腐保温专业承包贰级；消防设施工程专业承包贰级；安全技术防范行业资质壹级；古建筑工程专业承包叁级；公路工程施工总承包叁级；公路路面工程专业承包叁级；公路路基工程专业承包叁级；吊栏安装；不锈钢、塑钢、铝合金门窗安装；建筑水电安装；城市及道路照明工程；防自然灾害工程；垃圾清扫；垃圾外运；实验室温房工程；建筑工程施工总承包；中国展览陈列工程设计与施工一体化壹级资质；水电水利工程施工总承包；电力工程施工总承包；通信工程施工总承包；机电工程施工总承包；地基基础工程专业承包；环保工程专业承包；输变电力工程专业承包；生活百货；家电维修；家具销售；建筑材料销售（不含黄沙、石子、石灰）；建筑门窗销售；防火门销售、安装；智能化技术服务及机电安装服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

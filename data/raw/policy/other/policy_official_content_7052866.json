@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7052866",
+  "normalized_projection": {
+    "title": "国家发展改革委关于印发《低空经济及其核心产业统计分类（试行）》的通知",
+    "issuer": "国家发展改革委",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\其他",
+    "doc_no": "发改低空〔2025〕1676号",
+    "publish_date": "2025-12-26",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7052866.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251226805791741951.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "其他"
+    ],
+    "effective_date": "2025-12-22",
+    "abolish_date": "",
+    "summary": "为明确低空经济概念和范畴，明晰产业边界，根据低空经济阶段性特征和重点领域、重点环节，按照统计工作相关规定，编制形成《低空经济及其核心产业统计分类（试行）》。现印发你们，请按此执行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7052866",
+    "title": "国家发展改革委关于印发《低空经济及其核心产业统计分类（试行）》的通知",
+    "content": "国家发展改革委关于印发《低空经济及其核心产业统计分类（试行）》的通知\n发改低空〔2025〕1676号\n中央和国家机关有关部门，中央军委机关有关部门，各省、自治区、直辖市及计划单列市、新疆生产建设兵团发展改革委：\n为明确低空经济概念和范畴，明晰产业边界，根据低空经济阶段性特征和重点领域、重点环节，按照统计工作相关规定，编制形成《低空经济及其核心产业统计分类（试行）》。现印发你们，请按此执行。\n国家发展改革委\n2025年12月22日\n附件：\n《低空经济及其核心产业统计分类（试行）》.pdf\n《低空经济及其核心产业统计分类（试行）》.ofd",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-12-26",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7052866.htm",
+    "category": "工业、交通\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "270"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7052866",
+    "title": "国家发展改革委关于印发《低空经济及其核心产业统计分类（试行）》的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-12-26",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7052866.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7052866.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家发展改革委关于印发《低空经济及其核心产业统计分类（试行）》的通知",
+      "发文机关": "国家发展改革委",
+      "发文字号": "发改低空〔2025〕1676号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "工业、交通\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年12月22日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251226805791741951.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7052866.html"
+  },
+  "raw_legal_doc": {}
+}

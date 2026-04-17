@@ -1,0 +1,68 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7033415",
+  "normalized_projection": {
+    "title": "关于海南自由贸易港进口征税商品目录的通知",
+    "issuer": "财政部 海关总署 税务总局",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\税务",
+    "doc_no": "财关税〔2025〕13号",
+    "publish_date": "2025-07-23",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7033415.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250723546212625804.pdf"
+    ],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "税务"
+    ],
+    "effective_date": "2025-07-18",
+    "abolish_date": "",
+    "summary": "为稳步推进海南自由贸易港建设，经国务院同意，现将《财政部 海关总署 税务总局关于海南自由贸易港货物进出“一线”、“二线”及在岛内流通税收政策的通知》（财关税〔2025〕12号）中进口征税商品目录有关规定通知如下。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7033415",
+    "title": "关于海南自由贸易港进口征税商品目录的通知",
+    "content": "关于海南自由贸易港进口征税商品目录的通知\n财关税〔2025〕13号\n海南省人民政府，财政部海南监管局，海口海关，国家税务总局海南省税务局：\n为稳步推进海南自由贸易港建设，经国务院同意，现将《财政部 海关总署 税务总局关于海南自由贸易港货物进出“一线”、“二线”及在岛内流通税收政策的通知》（财关税〔2025〕12号）中进口征税商品目录有关规定通知如下：\n一、海南自由贸易港进口征税商品目录包括以下货物：\n（一）进口征税商品清单内货物，见附件。\n（二）实施贸易救济措施的货物。\n二、在全面评估、具备条件后，财政部、海关总署、税务总局会同有关部门结合相关税制改革、海南省实际需要和监管条件等，及时对进口征税商品目录进行调整。\n三、本通知自海南自由贸易港封关运作之日起施行。\n附件：进口征税商品清单\n财政部 海关总署 税务总局\n2025年7月18日",
+    "source": "财政部网站",
+    "publish_time": "2025-07-23",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7033415.htm",
+    "category": "财政、金融、审计\\税务",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "371"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7033415",
+    "title": "关于海南自由贸易港进口征税商品目录的通知",
+    "source_name": "财政部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-07-23",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7033415.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7033415.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于海南自由贸易港进口征税商品目录的通知",
+      "发文机关": "财政部 海关总署 税务总局",
+      "发文字号": "财关税〔2025〕13号",
+      "来源": "财政部网站",
+      "主题分类": "财政、金融、审计\\税务",
+      "公文种类": "通知",
+      "成文日期": "2025年07月18日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250723546212625804.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7033415.html"
+  },
+  "raw_legal_doc": {}
+}

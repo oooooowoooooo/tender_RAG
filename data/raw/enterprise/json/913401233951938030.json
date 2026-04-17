@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913401233951938030",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913401233951938030",
+    "enterprise_name": "安徽俏海建设工程有限公司",
+    "legal_representative": "姚月华",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "6/8/2014 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "11000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥西县上派镇人民西路翰林水岸11#1101室",
+    "business_scope": "水利水电工程；市政公用工程；房屋建筑工程；水运工程；公路工程；地基与基础工程；建筑装修装饰工程；隧道工程；金属结构制作安装工程；钢结构工程；机电安装工程；消防设施工程；城市绿化园林工程；施工绿化养护；园林古建筑工程；环保工程设计、施工、设备租赁；物业服务；土地开发整理；水利工程管护；保洁；垃圾清运。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023AEEGZ00189",
+      "2023AEEZN00032",
+      "2023AEEZN00368",
+      "2023BBBGZ00019"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽俏海建设工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "姚月华",
+    "registered_capital": "11000000",
+    "paid_in_capital": "11000000",
+    "establishment_date": "6/8/2014 00:00:00",
+    "approval_date": "26/4/2019 00:00:00",
+    "business_term": "2014-08-06 至 2064-08-05",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "phone": "0551-62857199",
+    "additional_phones": "13955189257,18155026883,13696546368,15375603155,18056053687",
+    "email": "421531409@qq.com",
+    "additional_emails": "421531409@pp.com,21149251@qq.com,646004937@qq.com",
+    "unified_social_credit_code": "913401233951938030",
+    "taxpayer_identification_number": "913401233951938030",
+    "business_registration_number": "340123000103443",
+    "organization_code": "39519380-3",
+    "insured_personnel_count": "18",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "土木工程建筑业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市肥西县上派镇人民西路翰林水岸11#1101室",
+    "latest_annual_report_address": "肥西县上派镇人民西路翰林水岸11＃1101室",
+    "website": "-",
+    "business_scope": "水利水电工程；市政公用工程；房屋建筑工程；水运工程；公路工程；地基与基础工程；建筑装修装饰工程；隧道工程；金属结构制作安装工程；钢结构工程；机电安装工程；消防设施工程；城市绿化园林工程；施工绿化养护；园林古建筑工程；环保工程设计、施工、设备租赁；物业服务；土地开发整理；水利工程管护；保洁；垃圾清运。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

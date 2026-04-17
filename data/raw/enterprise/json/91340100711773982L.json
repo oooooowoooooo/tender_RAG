@@ -1,0 +1,73 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100711773982L",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100711773982L",
+    "enterprise_name": "安徽江淮水利建设监理有限公司",
+    "legal_representative": "汤咏琴",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "4/11/1999 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "5000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市徽州大道183号九华山庄2号楼1302室",
+    "business_scope": "水利水电、水土保持、建筑、市政公用、公路、港口与航道、电力、通信、信息系统工程的监理、规划咨询、设计、造价咨询、评估咨询、施工、项目管理、全过程咨询；地质灾害治理工程的勘查、设计、咨询、施工、监理、项目管理；水利水电工程；物业管理；工程招标代理；采购代理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 9,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022ACCBZ00287",
+      "2022ACCFN00415",
+      "2022ANNFZ00411",
+      "2023ADDBZ00020",
+      "2023ADDBZ00192",
+      "2023AEEBZ00316",
+      "2023ANNBZ00453",
+      "2023IFABZ00741"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽江淮水利建设监理有限公司",
+    "business_status": "开业",
+    "legal_representative": "汤咏琴",
+    "registered_capital": "5000000",
+    "paid_in_capital": "2000000",
+    "establishment_date": "4/11/1999 00:00:00",
+    "approval_date": "29/5/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "phone": "0551-4657579",
+    "additional_phones": "0551-3652506,13522550829,13339289995,13013069938,17755198551",
+    "email": "ahjhsljl@163.com",
+    "additional_emails": "ahjhjl@163.com",
+    "unified_social_credit_code": "91340100711773982L",
+    "taxpayer_identification_number": "91340100711773982L",
+    "business_registration_number": "340000000033344",
+    "organization_code": "71177398-2",
+    "insured_personnel_count": "17",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市徽州大道183号九华山庄2号楼1302室",
+    "latest_annual_report_address": "安徽省合肥市徽州大道183号九华山庄2号楼1302",
+    "website": "www.ahjhsljsjl.com",
+    "business_scope": "水利水电、水土保持、建筑、市政公用、公路、港口与航道、电力、通信、信息系统工程的监理、规划咨询、设计、造价咨询、评估咨询、施工、项目管理、全过程咨询；地质灾害治理工程的勘查、设计、咨询、施工、监理、项目管理；水利水电工程；物业管理；工程招标代理；采购代理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

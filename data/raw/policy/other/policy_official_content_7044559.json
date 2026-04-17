@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7044559",
+  "normalized_projection": {
+    "title": "关于印发《电动汽车充电设施服务能力“三年倍增”行动方案(2025—2027年)》的通知",
+    "issuer": "国家发展改革委 国家能源局 工业和信息化部 住房城乡建设部 交通运输部 市场监管总局",
+    "index_no": "未标注",
+    "subject_category": "国民经济管理、国有资产监管\\其他",
+    "doc_no": "发改能源〔2025〕1250号",
+    "publish_date": "2025-10-15",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7044559.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251015833134832825.pdf"
+    ],
+    "keywords": [
+      "国民经济管理",
+      "国有资产监管",
+      "其他"
+    ],
+    "effective_date": "2025-09-24",
+    "abolish_date": "",
+    "summary": "到 2027 年底，在全国范围内建成 2800 万个充电设施，提供超\n3 亿千瓦的公共充电容量，满足超过 8000 万辆电动汽车充电需求，\n实现充电服务能力的翻倍增长。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7044559",
+    "title": "关于印发《电动汽车充电设施服务能力“三年倍增”行动方案(2025—2027年)》的通知",
+    "content": "国家发展改革委等部门关于印发《电动汽车充电设施服务能力“三年倍增”行动方案（2025—2027年）》的通知\n发改能源〔2025〕1250号\n各省、自治区、直辖市、新疆生产建设兵团发展改革委、能源局、工业和信息化主管部门、住房城乡建设主管部门、交通运输主管部门、市场监管部门，北京市城市管理委员会，国家电网有限公司、中国南方电网有限责任公司、内蒙古电力（集团）有限责任公司，中国电力企业联合会：\n为落实《提振消费专项行动方案》有关要求，加大力度完善电动汽车充电设施服务网络，提升消费品质，促进电动汽车更大范围内购置使用，国家发展改革委等部门研究制定了《电动汽车充电设施服务能力“三年倍增”行动方案（2025—2027年）》，现印发给你们，请认真组织落实。\n国家发展改革委\n国家能源局\n工业和信息化部\n住房城乡建设部\n交通运输部\n市场监管总局\n2025年9月24日\n  附件：\n  电动汽车充电设施服务能力“三年倍增”行动方案（2025—2027年）.pdf\n  电动汽车充电设施服务能力“三年倍增”行动方案（2025—2027年）.ofd",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-10-15",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7044559.htm",
+    "category": "国民经济管理、国有资产监管\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "468"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7044559",
+    "title": "关于印发《电动汽车充电设施服务能力“三年倍增”行动方案(2025—2027年)》的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-10-15",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7044559.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7044559.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《电动汽车充电设施服务能力“三年倍增”行动方案(2025—2027年)》的通知",
+      "发文机关": "国家发展改革委 国家能源局 工业和信息化部 住房城乡建设部 交通运输部 市场监管总局",
+      "发文字号": "发改能源〔2025〕1250号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "国民经济管理、国有资产监管\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年09月24日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251015833134832825.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7044559.html"
+  },
+  "raw_legal_doc": {}
+}

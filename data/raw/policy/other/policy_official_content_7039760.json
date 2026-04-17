@@ -1,0 +1,71 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7039760",
+  "normalized_projection": {
+    "title": "国家卫生健康委办公厅关于印发药事管理等3个专业医疗质量控制指标（2025年版）的通知",
+    "issuer": "国家卫生健康委办公厅",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "国卫办医政函〔2025〕333号",
+    "publish_date": "2025-09-09",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7039760.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250909414028134344.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250909414028369399.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250909414028471798.pdf"
+    ],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2025-08-04",
+    "abolish_date": "",
+    "summary": "为进一步加强医疗质量管理，规范临床诊疗行为，提升医疗服务同质化水平，我委组织对药事管理和临床检验专业医疗质量控制指标进行修订，新制定了核医学专业医疗质量控制指标，形成了药事管理等3个专业医疗质量控制指标（2025年版，详见附件1、2、3）。现印发给你们，供各级卫生健康行政部门、相关专业质控组织和医疗机构在医疗质量管理与控制工作中使用。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7039760",
+    "title": "国家卫生健康委办公厅关于印发药事管理等3个专业医疗质量控制指标（2025年版）的通知",
+    "content": "国家卫生健康委办公厅关于印发药事管理等3个专业医疗质量控制指标（2025年版）的通知\n国卫办医政函〔2025〕333号\n各省、自治区、直辖市及新疆生产建设兵团卫生健康委：\n为进一步加强医疗质量管理，规范临床诊疗行为，提升医疗服务同质化水平，我委组织对药事管理和临床检验专业医疗质量控制指标进行修订，新制定了核医学专业医疗质量控制指标，形成了药事管理等3个专业医疗质量控制指标（2025年版，详见附件1、2、3）。现印发给你们，供各级卫生健康行政部门、相关专业质控组织和医疗机构在医疗质量管理与控制工作中使用。\n本通知自印发之日起施行。2015年3月31日印发的《临床检验专业医疗质量控制指标（2015年版）》（国卫办医函〔2015〕252号）和2020年8月4日印发的《药事管理专业医疗质量控制指标（2020年版）》（国卫办医函〔2020〕654号）同时废止。\n  附件：\n  1.药事管理专业医疗质量控制指标（2025年版）\n  2.临床检验专业医疗质量控制指标（2025年版）\n  3.核医学专业医疗质量控制指标（2025年版）\n国家卫生健康委办公厅\n2025年8月4日\n（信息公开形式：主动公开）",
+    "source": "国家卫生健康委网站",
+    "publish_time": "2025-09-09",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7039760.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "501"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7039760",
+    "title": "国家卫生健康委办公厅关于印发药事管理等3个专业医疗质量控制指标（2025年版）的通知",
+    "source_name": "国家卫生健康委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-09-09",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7039760.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7039760.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家卫生健康委办公厅关于印发药事管理等3个专业医疗质量控制指标（2025年版）的通知",
+      "发文机关": "国家卫生健康委办公厅",
+      "发文字号": "国卫办医政函〔2025〕333号",
+      "来源": "国家卫生健康委网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "通知",
+      "成文日期": "2025年08月04日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250909414028134344.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250909414028369399.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250909414028471798.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7039760.html"
+  },
+  "raw_legal_doc": {}
+}

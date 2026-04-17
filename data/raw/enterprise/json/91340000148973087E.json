@@ -1,0 +1,78 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340000148973087E",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340000148973087E",
+    "enterprise_name": "安徽皖通高速公路股份有限公司",
+    "legal_representative": "汪小文",
+    "entity_type": "股份有限公司(台港澳与境内合资、上市)",
+    "established_date": "15/8/1996 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "1658610000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市望江西路520号",
+    "business_scope": "*高等级公路设计、建设、监理、收费、养护、施救、路产路权管理，仓储，公路建设经营咨询服务，房屋租赁，汽车及零配件以及高新技术产品的开发、生产、销售。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 89,
+    "selected_project_ids": [
+      "2023JFAGZ02430",
+      "2023JFAGZ02655"
+    ],
+    "all_linked_project_ids": [
+      "2023ASSBZ00019",
+      "2023BFFGZ00313",
+      "2023BFJBZ00606",
+      "2023JFAGZ00668",
+      "2023JFAGZ00930",
+      "2023JFAGZ00968",
+      "2023JFAGZ01983",
+      "2023JFAGZ02430",
+      "2023JFAGZ02655"
+    ],
+    "roles": [
+      "agency",
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽皖通高速公路股份有限公司",
+    "business_status": "开业",
+    "legal_representative": "汪小文",
+    "registered_capital": "1658610000",
+    "paid_in_capital": "1658610000",
+    "establishment_date": "15/8/1996 00:00:00",
+    "approval_date": "25/6/2024 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "0551-68166020",
+    "additional_phones": "0551-63738718,16533869763,0551-63738855,13855798044,13866526317",
+    "email": "fanhb010@ahjkjt.com",
+    "additional_emails": "fanhb010@aehc.com.cn,wt_hbfan@anhui-highway.com",
+    "unified_social_credit_code": "91340000148973087E",
+    "taxpayer_identification_number": "91340000148973087E",
+    "business_registration_number": "340000400002623",
+    "organization_code": "14897308-7",
+    "insured_personnel_count": "1302",
+    "company_type": "股份有限公司(台港澳与境内合资、上市)",
+    "industry": "道路运输业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市望江西路520号",
+    "latest_annual_report_address": "合肥市望江西路520号",
+    "website": "www.anhui-expressway.net",
+    "business_scope": "*高等级公路设计、建设、监理、收费、养护、施救、路产路权管理，仓储，公路建设经营咨询服务，房屋租赁，汽车及零配件以及高新技术产品的开发、生产、销售。",
+    "match_status": "成功"
+  }
+}

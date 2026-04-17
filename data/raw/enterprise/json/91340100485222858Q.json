@@ -1,0 +1,75 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100485222858Q",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100485222858Q",
+    "enterprise_name": "中水淮河规划设计研究有限公司",
+    "legal_representative": "伍宛生",
+    "entity_type": "有限责任公司(国有控股)",
+    "established_date": "17/1/1989 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "158000000",
+    "business_status": "开业",
+    "registered_address": "合肥市滨湖新区云谷路2588号",
+    "business_scope": "一般经营项目：水利水电工程规划、勘察、设计，工程咨询、水资源规划、调查评估、论证，建设项目洪水与环境影响评价，环境保护工程设计，水土保持方案编制，蓄水工程安全鉴定，工程造价，工业与民用建筑设计，市政工程设计，水利水电工程总承包，工程测量，基础处理，岩土工程施工，工程建设监理，设备监造，工程检测，招投标代理（以上项目凭资质证经营），计算机糸统与自动化设备开发与经营，汽车租赁服务（以上除生产、制造）。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 7,
+    "selected_project_ids": [
+      "2023AFAFN02538",
+      "2023IFABZ02607"
+    ],
+    "all_linked_project_ids": [
+      "2022DFAGZ02573",
+      "2023AFAFN02538",
+      "2023IFABZ02607",
+      "2023IFWAZ02089",
+      "2023IFWAZ02142",
+      "2023IFWGZ00690"
+    ],
+    "roles": [
+      "purchaser",
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "中水淮河规划设计研究有限公司",
+    "business_status": "开业",
+    "legal_representative": "伍宛生",
+    "registered_capital": "158000000",
+    "paid_in_capital": "158000000",
+    "establishment_date": "17/1/1989 00:00:00",
+    "approval_date": "29/12/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "phone": "65707515",
+    "additional_phones": "0551-65707516,13966054005,13401004852,0551-65707541,0552-3092558",
+    "email": "zshh@hrc.gov.cn",
+    "additional_emails": "cwhh@hrc.gov.cn,duanchp@hrc.gov.cn,1424020532@qq.com,shengreenw@sina.com,14240205322@qq.com,1424029532@qq.com",
+    "unified_social_credit_code": "91340100485222858Q",
+    "taxpayer_identification_number": "91340100485222858Q",
+    "business_registration_number": "340300000027963",
+    "organization_code": "48522285-8",
+    "insured_personnel_count": "228",
+    "company_type": "有限责任公司(国有控股)",
+    "industry": "研究和试验发展",
+    "former_name": "中水淮河工程有限责任公司",
+    "registered_address": "合肥市滨湖新区云谷路2588号",
+    "latest_annual_report_address": "安徽省合肥市滨湖新区云谷路2588号",
+    "website": "www.cwhh.com.cn",
+    "business_scope": "一般经营项目：水利水电工程规划、勘察、设计，工程咨询、水资源规划、调查评估、论证，建设项目洪水与环境影响评价，环境保护工程设计，水土保持方案编制，蓄水工程安全鉴定，工程造价，工业与民用建筑设计，市政工程设计，水利水电工程总承包，工程测量，基础处理，岩土工程施工，工程建设监理，设备监造，工程检测，招投标代理（以上项目凭资质证经营），计算机糸统与自动化设备开发与经营，汽车租赁服务（以上除生产、制造）。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

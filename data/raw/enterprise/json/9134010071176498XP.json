@@ -1,0 +1,77 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9134010071176498XP",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9134010071176498XP",
+    "enterprise_name": "安徽新城电力工程建设有限公司",
+    "legal_representative": "李志鹏",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "11/6/1999 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "110000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市蜀山区新产业园甘泉路398号",
+    "business_scope": "电力工程施工总承包；机电工程施工总承包；建筑工程施工总承包；市政公用工程施工总承包；输变电工程专业承包；城市及道路照明工程专业承包；电力设施承装类、承修类、承试类；设备安装及调试；配电工程运检及维护；电力设备、器材生产、销售；新能源及城市电网投资经营及建设；房屋租赁；物业管理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 10,
+    "selected_project_ids": [
+      "2023BFFAZ02752"
+    ],
+    "all_linked_project_ids": [
+      "2023AFAAZ01199",
+      "2023AFWAZ00661",
+      "2023AFWGZ00900",
+      "2023BFAGZ01674",
+      "2023BFBAZ01964",
+      "2023BFFAZ01611",
+      "2023BFFAZ02752",
+      "2023BFFGZ00429",
+      "2023BFFGZ01783",
+      "2023DFWAZ00078"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽新城电力工程建设有限公司",
+    "business_status": "开业",
+    "legal_representative": "李志鹏",
+    "registered_capital": "110000000",
+    "paid_in_capital": "110000000",
+    "establishment_date": "11/6/1999 00:00:00",
+    "approval_date": "29/8/2019 00:00:00",
+    "business_term": "1999-06-11 至 2030-06-10",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "15357703340",
+    "additional_phones": "0551-5534746,18956068398,0551-65305813,0551-65389618,0551-65389617",
+    "email": "634539278@qq.com",
+    "additional_emails": "634539278@QQ.COM,xcdljt@163.com",
+    "unified_social_credit_code": "9134010071176498XP",
+    "taxpayer_identification_number": "9134010071176498XP",
+    "business_registration_number": "340100000232962",
+    "organization_code": "71176498-X",
+    "insured_personnel_count": "49",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "建筑安装业",
+    "former_name": "合肥新城电力安装工程有限责任公司",
+    "registered_address": "安徽省合肥市蜀山区新产业园甘泉路398号",
+    "latest_annual_report_address": "合肥市蜀山区新产业园甘泉路398号",
+    "website": "www.xcdljt.cn",
+    "business_scope": "电力工程施工总承包；机电工程施工总承包；建筑工程施工总承包；市政公用工程施工总承包；输变电工程专业承包；城市及道路照明工程专业承包；电力设施承装类、承修类、承试类；设备安装及调试；配电工程运检及维护；电力设备、器材生产、销售；新能源及城市电网投资经营及建设；房屋租赁；物业管理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

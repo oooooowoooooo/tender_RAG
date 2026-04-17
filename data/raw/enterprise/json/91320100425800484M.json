@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91320100425800484M",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91320100425800484M",
+    "enterprise_name": "南京市园林规划设计院有限责任公司",
+    "legal_representative": "承钧",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "11/7/1991 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "35000000",
+    "business_status": "开业",
+    "registered_address": "南京市鼓楼区虎踞北路21号",
+    "business_scope": "园林规划与设计；建筑设计；文物遗产保护规划；市政公用工程设计；旅游规划设计；仿古建筑与古建筑修缮施工；园林绿化施工；市政工程施工；雕塑设计与施工；室内装饰工程设计施工；照明亮化工程设计施工；智能化工程设计施工；水环境治理设计施工；工程监理；林业工程勘察设计及施工；工程咨询；城乡规划编制。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023ANNGZ00561"
+    ],
+    "all_linked_project_ids": [
+      "2023ANNGZ00561"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "南京市园林规划设计院有限责任公司",
+    "business_status": "开业",
+    "legal_representative": "承钧",
+    "registered_capital": "35000000",
+    "paid_in_capital": "3049818",
+    "establishment_date": "11/7/1991 00:00:00",
+    "approval_date": "23/5/2024 00:00:00",
+    "business_term": "1991-07-11 至 2034-06-17",
+    "province": "江苏省",
+    "city": "南京市",
+    "district": "鼓楼区",
+    "phone": "025-83312819",
+    "additional_phones": "025-83312389,025-3701533,13951917895,0513-81993368,025-83716029",
+    "email": "5852114@qq.com",
+    "additional_emails": "njladi@163.com",
+    "unified_social_credit_code": "91320100425800484M",
+    "taxpayer_identification_number": "91320100425800484M",
+    "business_registration_number": "320100000119352",
+    "organization_code": "42580048-4",
+    "insured_personnel_count": "114",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "former_name": "南京市园林规划设计院",
+    "registered_address": "南京市鼓楼区虎踞北路21号",
+    "latest_annual_report_address": "南京市鼓楼区虎踞北路21号",
+    "website": "www.jslandscape.cn",
+    "business_scope": "园林规划与设计；建筑设计；文物遗产保护规划；市政公用工程设计；旅游规划设计；仿古建筑与古建筑修缮施工；园林绿化施工；市政工程施工；雕塑设计与施工；室内装饰工程设计施工；照明亮化工程设计施工；智能化工程设计施工；水环境治理设计施工；工程监理；林业工程勘察设计及施工；工程咨询；城乡规划编制。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

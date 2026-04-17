@@ -1,0 +1,71 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9131000013328457XD",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9131000013328457XD",
+    "enterprise_name": "同济大学建筑设计研究院（集团）有限公司",
+    "legal_representative": "汤朔宁",
+    "entity_type": "其他有限责任公司",
+    "established_date": "25/4/1995 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "60000000",
+    "business_status": "开业",
+    "registered_address": "上海市赤峰路65号",
+    "business_scope": "国内外工程勘察设计、工程咨询、工程管理服务、工程总承包、规划管理及其他专业技术服务，投资管理，对外派遣本行业的勘察、咨询、设计和监理劳务人员，从事货物及技术的进出口业务，从事数码科技及计算机技术领域内的技术开发、技术转让、技术咨询、技术服务，电脑图文设计制作。\n【依法须经批准的项目，经相关部门批准后方可开展经营活动】",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 6,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023AFWBZ01897",
+      "2023AFWBZ02214",
+      "2023AFXBZ00438",
+      "2023BFFBZ00123",
+      "2023BFFBZ01382",
+      "2023BFFGZ00863"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "同济大学建筑设计研究院（集团）有限公司",
+    "business_status": "开业",
+    "legal_representative": "汤朔宁",
+    "registered_capital": "60000000",
+    "paid_in_capital": "60000000",
+    "establishment_date": "25/4/1995 00:00:00",
+    "approval_date": "6/5/2021 00:00:00",
+    "business_term": "-",
+    "province": "上海市",
+    "city": "市辖区",
+    "district": "杨浦区",
+    "phone": "021-35375559",
+    "additional_phones": "021-35376000,13816401628,021-35375054,025-86636057,13462219837",
+    "email": "5xyj@tjad.cn",
+    "additional_emails": "-",
+    "unified_social_credit_code": "9131000013328457XD",
+    "taxpayer_identification_number": "9131000013328457XD",
+    "business_registration_number": "310110000102397",
+    "organization_code": "13328457-X",
+    "insured_personnel_count": "3614",
+    "company_type": "其他有限责任公司",
+    "industry": "专业技术服务业",
+    "former_name": "同济大学建筑设计研究院",
+    "registered_address": "上海市赤峰路65号",
+    "latest_annual_report_address": "上海市杨浦区四平路1230号",
+    "website": "www.tjad.cn",
+    "business_scope": "国内外工程勘察设计、工程咨询、工程管理服务、工程总承包、规划管理及其他专业技术服务，投资管理，对外派遣本行业的勘察、咨询、设计和监理劳务人员，从事货物及技术的进出口业务，从事数码科技及计算机技术领域内的技术开发、技术转让、技术咨询、技术服务，电脑图文设计制作。\n【依法须经批准的项目，经相关部门批准后方可开展经营活动】",
+    "match_status": "成功"
+  }
+}

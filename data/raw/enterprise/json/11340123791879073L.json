@@ -1,0 +1,73 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "11340123791879073L",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "11340123791879073L",
+    "enterprise_name": "肥西县铭传乡人民政府",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "肥西县铭传乡南分路街道",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 143,
+    "selected_project_ids": [
+      "2023AEEHN00439"
+    ],
+    "all_linked_project_ids": [
+      "2023AEEHN00333",
+      "2023AEEHN00439",
+      "2023AEEZN00076",
+      "2023AEEZN00259",
+      "2023AEEZN00279",
+      "2023AEEZN00360"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "肥西县铭传乡人民政府",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "phone": "13500507570",
+    "additional_phones": "13956029336,13956991709,15055133786,13866706098,18134518745",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "11340123791879073L",
+    "taxpayer_identification_number": "11340123791879073L",
+    "business_registration_number": "-",
+    "organization_code": "79187907-3",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "肥西县铭传乡南分路街道",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

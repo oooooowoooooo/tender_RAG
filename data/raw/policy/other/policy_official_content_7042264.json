@@ -1,0 +1,74 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7042264",
+  "normalized_projection": {
+    "title": "关于发布《职业性急性铀中毒诊断标准》等5项标准的通告",
+    "issuer": "国家卫生健康委",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\卫生",
+    "doc_no": "国卫通〔2025〕12号",
+    "publish_date": "2025-09-25",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042264.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925516327546324.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925516327703453.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925516327961458.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925516328240484.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925516328663970.pdf"
+    ],
+    "keywords": [
+      "卫生",
+      "体育"
+    ],
+    "effective_date": "2025-09-05",
+    "abolish_date": "",
+    "summary": "现发布《职业性急性铀中毒诊断标准》等5项标准，编号和名称如下。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7042264",
+    "title": "关于发布《职业性急性铀中毒诊断标准》等5项标准的通告",
+    "content": "关于发布《职业性急性铀中毒诊断标准》等5项标准的通告\n国卫通〔2025〕12号\n现发布《职业性急性铀中毒诊断标准》等5项标准，编号和名称如下：\n一、强制性国家职业卫生标准\nGBZ 108—2025 职业性急性铀中毒诊断标准（代替GBZ 108—2002）\nGBZ 215—2025 过量照射人员医学检查与处理标准（代替GBZ 215—2009）\nGBZ 339—2025 非医疗工作场所放射性危害因素检测标准\n二、强制性卫生行业标准\nWS 674—2025 医用电子直线加速器质量控制检测标准（代替WS 674—2020）\n三、推荐性卫生行业标准\nWST 850—2025 核事故场内医学应急准备与响应标准（代替GBZ/T 171—2006、GBZ/T 234—2010）\n上述4项强制性标准自2026年9月1日起施行，GBZ 108—2002、GBZ 215—2009、WS 674—2020同时废止。\n上述1项推荐性标准自2026年3月1日起施行，GBZ/T 171—2006、GBZ/T 234—2010同时废止。\n特此通告。\n国家卫生健康委\n2025年9月5日",
+    "source": "国家卫生健康委网站",
+    "publish_time": "2025-09-25",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042264.htm",
+    "category": "卫生、体育\\卫生",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "484"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7042264",
+    "title": "关于发布《职业性急性铀中毒诊断标准》等5项标准的通告",
+    "source_name": "国家卫生健康委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-09-25",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042264.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042264.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于发布《职业性急性铀中毒诊断标准》等5项标准的通告",
+      "发文机关": "国家卫生健康委",
+      "发文字号": "国卫通〔2025〕12号",
+      "来源": "国家卫生健康委网站",
+      "主题分类": "卫生、体育\\卫生",
+      "公文种类": "通告",
+      "成文日期": "2025年09月05日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925516327546324.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925516327703453.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925516327961458.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925516328240484.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250925516328663970.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7042264.html"
+  },
+  "raw_legal_doc": {}
+}

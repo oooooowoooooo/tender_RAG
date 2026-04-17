@@ -1,0 +1,82 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "12340000485004404A",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "12340000485004404A",
+    "enterprise_name": "安徽工业经济职业技术学院",
+    "legal_representative": "许卫",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "476050000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥梁园路1号",
+    "business_scope": "培养高等专科学历技术应用人才，促进科技文化发展。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 3,
+    "all_tender_frequency": 67,
+    "selected_project_ids": [
+      "2023BFAFN02672",
+      "2023BFAFZ02730",
+      "2023BFAHZ02488"
+    ],
+    "all_linked_project_ids": [
+      "2022BFAHZ02401",
+      "2022BFAHZ02471",
+      "2022BFAHZ02522",
+      "2022BFAHZ02531",
+      "2023BFAFN02672",
+      "2023BFAFZ02730",
+      "2023BFAHZ01431",
+      "2023BFAHZ01476",
+      "2023BFAHZ01924",
+      "2023BFAHZ01955",
+      "2023BFAHZ02293",
+      "2023BFAHZ02329",
+      "2023BFAHZ02488"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽工业经济职业技术学院",
+    "business_status": "开业",
+    "legal_representative": "许卫",
+    "registered_capital": "476050000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "2021-04-06 至 2026-04-06",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "合肥市",
+    "phone": "15375347982",
+    "additional_phones": "0551-63635509,15555690137,0551-63640226,0551-63646031,0551-63640387",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "12340000485004404A",
+    "taxpayer_identification_number": "12340000485004404A",
+    "business_registration_number": "-",
+    "organization_code": "48500440-4",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "安徽省合肥梁园路1号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "培养高等专科学历技术应用人才，促进科技文化发展。",
+    "match_status": "成功"
+  }
+}

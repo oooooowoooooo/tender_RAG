@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7021209",
+  "normalized_projection": {
+    "title": "工业和信息化部办公厅关于印发《智能制造典型场景参考指引（2025年版）》的通知",
+    "issuer": "工业和信息化部",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\其他",
+    "doc_no": "工信厅通装函〔2025〕155号",
+    "publish_date": "2025-04-27",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7021209.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250427538942317583.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "其他"
+    ],
+    "effective_date": "2025-04-19",
+    "abolish_date": "",
+    "summary": "为落实国务院办公厅印发的《制造业数字化转型行动方案》部署，按照《“十四五”智能制造发展规划》任务要求，打造智能制造“升级版”，结合智能制造最新实践和发展趋势，工业和信息化部组织编制了《智能制造典型场景参考指引（2025年版）》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7021209",
+    "title": "工业和信息化部办公厅关于印发《智能制造典型场景参考指引（2025年版）》的通知",
+    "content": "工业和信息化部办公厅关于印发《智能制造典型场景参考指引（2025年版）》的通知\n工信厅通装函〔2025〕155号\n各省、自治区、直辖市、计划单列市及新疆生产建设兵团工业和信息化主管部门，有关中央企业：\n为落实国务院办公厅印发的《制造业数字化转型行动方案》部署，按照《“十四五”智能制造发展规划》任务要求，打造智能制造“升级版”，结合智能制造最新实践和发展趋势，工业和信息化部组织编制了《智能制造典型场景参考指引（2025年版）》。现印发给你们，请参考做好智能工厂梯度培育、智能制造系统解决方案攻关、智能制造标准研制应用等相关工作，加快推进制造业数字化转型、智能化升级。\n工业和信息化部办公厅\n2025年4月19日",
+    "source": "工业和信息化部网站",
+    "publish_time": "2025-04-27",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7021209.htm",
+    "category": "工业、交通\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "306"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7021209",
+    "title": "工业和信息化部办公厅关于印发《智能制造典型场景参考指引（2025年版）》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-04-27",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7021209.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7021209.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "工业和信息化部办公厅关于印发《智能制造典型场景参考指引（2025年版）》的通知",
+      "发文机关": "工业和信息化部",
+      "发文字号": "工信厅通装函〔2025〕155号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年04月19日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250427538942317583.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7021209.html"
+  },
+  "raw_legal_doc": {}
+}

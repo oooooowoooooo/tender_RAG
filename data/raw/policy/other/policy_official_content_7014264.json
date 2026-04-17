@@ -1,0 +1,66 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7014264",
+  "normalized_projection": {
+    "title": "国家矿山安全监察局综合司关于印发《金属非金属地下矿山感知数据接入规范（试行）》的通知",
+    "issuer": "国家矿山安监局综合司",
+    "index_no": "未标注",
+    "subject_category": "国土资源、能源\\矿产",
+    "doc_no": "矿安综〔2024〕9号",
+    "publish_date": "2025-03-18",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014264.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250318476042092809.pdf"
+    ],
+    "keywords": [
+      "国土资源",
+      "能源",
+      "矿产"
+    ],
+    "effective_date": "2025-03-13",
+    "abolish_date": "",
+    "summary": "为加强和规范金属非金属地下矿山感知数据联网工作，国家矿山安全监察局组织制定了《金属非金属地下矿山感知数据接入规范（试行）》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7014264",
+    "title": "国家矿山安全监察局综合司关于印发《金属非金属地下矿山感知数据接入规范（试行）》的通知",
+    "content": "国家矿山安全监察局综合司\n关于印发《金属非金属地下矿山感知数据接入规范（试行）》的通知\n各省、自治区、直辖市应急管理厅（局），新疆生产建设兵团应急管理局，国家矿山安全监察局各省级局，各有关单位：\n为加强和规范金属非金属地下矿山感知数据联网工作，国家矿山安全监察局组织制定了《金属非金属地下矿山感知数据接入规范（试行）》，现印发给你们。请结合《国家矿山安全监察局综合司关于加快推进非煤矿山安全风险监测预警系统建设及联网工作的通知》（矿安综〔2024〕9号）有关要求，一并抓好贯彻落实。\n国家矿山安全监察局综合司\n2025年3月13日",
+    "source": "国家矿山安监局网站",
+    "publish_time": "2025-03-18",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014264.htm",
+    "category": "国土资源、能源\\矿产",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "265"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7014264",
+    "title": "国家矿山安全监察局综合司关于印发《金属非金属地下矿山感知数据接入规范（试行）》的通知",
+    "source_name": "国家矿山安监局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-18",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014264.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7014264.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家矿山安全监察局综合司关于印发《金属非金属地下矿山感知数据接入规范（试行）》的通知",
+      "发文机关": "国家矿山安监局综合司",
+      "来源": "国家矿山安监局网站",
+      "主题分类": "国土资源、能源\\矿产",
+      "公文种类": "通知",
+      "成文日期": "2025年03月13日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250318476042092809.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7014264.html"
+  },
+  "raw_legal_doc": {}
+}

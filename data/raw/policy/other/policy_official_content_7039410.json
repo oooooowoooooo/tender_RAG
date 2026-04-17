@@ -1,0 +1,82 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7039410",
+  "normalized_projection": {
+    "title": "关于发布《职业健康监护技术规范》等9项国家职业卫生标准的通告",
+    "issuer": "国家卫生健康委",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\卫生",
+    "doc_no": "国卫通〔2025〕10号",
+    "publish_date": "2025-09-06",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7039410.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581488346891.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581488910178.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581489100062.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581489417515.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581489633450.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581489948028.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581490834217.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581491146184.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581491347061.pdf"
+    ],
+    "keywords": [
+      "卫生",
+      "体育"
+    ],
+    "effective_date": "2025-08-20",
+    "abolish_date": "",
+    "summary": "现发布《职业健康监护技术规范》等9项国家职业卫生标准，编号和名称如下。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7039410",
+    "title": "关于发布《职业健康监护技术规范》等9项国家职业卫生标准的通告",
+    "content": "关于发布《职业健康监护技术规范》等9项国家职业卫生标准的通告\n国卫通〔2025〕10号\n现发布《职业健康监护技术规范》等9项国家职业卫生标准，编号和名称如下：\n一、强制性国家职业卫生标准\nGBZ 188—2025 职业健康监护技术规范（代替GBZ188—2014）\n二、推荐性国家职业卫生标准\nGBZ/T 196—2025 建设项目职业病危害预评价技术标准（代替GBZ/T196—2007）\nGBZ/T 229.1—2025 职业病危害作业分级标准第1部分：生产性粉尘（代替GBZ/T229.1—2010）\nGBZ/T 229.2—2025 职业病危害作业分级标准第2部分：化学物（代替GBZ/T229.2—2010）\nGBZ/T 229.3—2025 职业病危害作业分级标准第3部分：高温作业（代替GBZ/T229.3—2010）\nGBZ/T 300.166—2025 工作场所空气有毒物质测定标准第166部分：2-氨基吡啶\nGBZ/T 340—2025 工作场所粉尘危害预防控制指南\nGBZ/T 341—2025 工程爆破炮烟职业危害预防控制指南\nGBZ/T 342—2025 工作场所空气中呼吸性粉尘分级管理标准煤尘\n上述强制性标准自2026年8月1日起施行，GBZ 188—2014同时废止。\n上述推荐性标准自2026年2月1日起施行，GBZ/T 196—2007、GBZ/T 229.1—2010、GBZ/T 229.2—2010、GBZ/T 229.3—2010同时废止。\n特此通告。\n国家卫生健康委\n2025年8月20日",
+    "source": "国家卫生健康委网站",
+    "publish_time": "2025-09-06",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7039410.htm",
+    "category": "卫生、体育\\卫生",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "667"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7039410",
+    "title": "关于发布《职业健康监护技术规范》等9项国家职业卫生标准的通告",
+    "source_name": "国家卫生健康委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-09-06",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7039410.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7039410.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于发布《职业健康监护技术规范》等9项国家职业卫生标准的通告",
+      "发文机关": "国家卫生健康委",
+      "发文字号": "国卫通〔2025〕10号",
+      "来源": "国家卫生健康委网站",
+      "主题分类": "卫生、体育\\卫生",
+      "公文种类": "通告",
+      "成文日期": "2025年08月20日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581488346891.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581488910178.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581489100062.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581489417515.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581489633450.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581489948028.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581490834217.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581491146184.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250906581491347061.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7039410.html"
+  },
+  "raw_legal_doc": {}
+}

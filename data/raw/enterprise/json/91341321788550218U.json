@@ -1,0 +1,57 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91341321788550218U",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91341321788550218U",
+    "enterprise_name": "砀山县建设投资有限公司",
+    "legal_representative": "陈伦",
+    "entity_type": "有限责任公司（非自然人投资或控股的法人独资）",
+    "established_date": "2006-04-27",
+    "registration_authority": "",
+    "registered_capital": "20200万人民币",
+    "business_status": "存续",
+    "registered_address": "安徽省宿州市砀山县砀城镇金利工业园",
+    "business_scope": "城市基础设施、公用事业和基础产业的建设和营运；土地收购储备及开发经营；政府公共资源的特许经营；县域内企（事）业、产业及项目的融资、投资、委贷、咨询与评估服务；物业管理、房地产开发；企事业单位物资集中采购。（依法须经批准的项目，经相关部门批准后方可开展经营活动。）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 5,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "2098",
+    "title": "砀山县建设投资有限公司",
+    "corporation": "陈伦",
+    "amount_raw": "20200万人民币",
+    "event_time": "2006-04-27",
+    "manage_date": "2006-04-27 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "宿州市",
+    "district": "砀山县",
+    "type": "有限责任公司（非自然人投资或控股的法人独资）",
+    "industry": "资本市场服务",
+    "USCC": "91341321788550218U",
+    "TIN": "91341321788550218U",
+    "registed_num": "341321000005428",
+    "insured_persons": "0",
+    "location": "安徽省宿州市砀山县砀城镇金利工业园",
+    "source_url": "-",
+    "content": "城市基础设施、公用事业和基础产业的建设和营运；土地收购储备及开发经营；政府公共资源的特许经营；县域内企（事）业、产业及项目的融资、投资、委贷、咨询与评估服务；物业管理、房地产开发；企事业单位物资集中采购。（依法须经批准的项目，经相关部门批准后方可开展经营活动。）",
+    "search_text": "",
+    "capital_value": "202000000"
+  }
+}

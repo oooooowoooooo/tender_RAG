@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7042418",
+  "normalized_projection": {
+    "title": "工业和信息化部等7部门关于印发《石化化工行业稳增长工作方案（2025-2026年）》的通知",
+    "issuer": "工业和信息化部 生态环境部 应急管理部 中国人民银行 市场监管总局 金融监管总局 供销合作总社",
+    "index_no": "未标注",
+    "subject_category": "国土资源、能源\\石油与天然气",
+    "doc_no": "工信部联原〔2025〕195号",
+    "publish_date": "2025-09-26",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042418.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250926661004801972.pdf"
+    ],
+    "keywords": [
+      "国土资源",
+      "能源",
+      "石油与天然气"
+    ],
+    "effective_date": "2025-09-02",
+    "abolish_date": "",
+    "summary": "现将《石化化工行业稳增长工作方案（2025—2026年）》印发给你们，请结合实际认真抓好落实。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7042418",
+    "title": "工业和信息化部等7部门关于印发《石化化工行业稳增长工作方案（2025-2026年）》的通知",
+    "content": "工业和信息化部等7部门关于印发《石化化工行业稳增长工作方案（2025-2026年）》的通知\n工信部联原〔2025〕195号\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化、生态环境、应急管理、市场监管、金融监管主管部门，中国人民银行上海总部，各省、自治区、直辖市、计划单列市分行，各省、自治区、直辖市及计划单列市、新疆生产建设兵团供销合作社，有关中央企业，有关行业协会：\n现将《石化化工行业稳增长工作方案（2025—2026年）》印发给你们，请结合实际认真抓好落实。\n工业和信息化部\n生态环境部\n应急管理部\n中国人民银行\n市场监管总局\n金融监管总局\n供销合作总社\n2025年9月2日",
+    "source": "工业和信息化部网站",
+    "publish_time": "2025-09-26",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042418.htm",
+    "category": "国土资源、能源\\石油与天然气",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "299"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7042418",
+    "title": "工业和信息化部等7部门关于印发《石化化工行业稳增长工作方案（2025-2026年）》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-09-26",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042418.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7042418.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "工业和信息化部等7部门关于印发《石化化工行业稳增长工作方案（2025-2026年）》的通知",
+      "发文机关": "工业和信息化部 生态环境部 应急管理部 中国人民银行 市场监管总局 金融监管总局 供销合作总社",
+      "发文字号": "工信部联原〔2025〕195号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "国土资源、能源\\石油与天然气",
+      "公文种类": "通知",
+      "成文日期": "2025年09月02日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202509/P020250926661004801972.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7042418.html"
+  },
+  "raw_legal_doc": {}
+}

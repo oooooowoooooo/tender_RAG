@@ -1,0 +1,68 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7023840",
+  "normalized_projection": {
+    "title": "关于印发《国家发展改革委行政处罚裁量规则》的通知",
+    "issuer": "国家发展改革委办公厅",
+    "index_no": "未标注",
+    "subject_category": "综合政务\\其他",
+    "doc_no": "发改办法规规〔2025〕462号",
+    "publish_date": "2025-05-15",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7023840.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250515417828269482.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250515417828390233.zip"
+    ],
+    "keywords": [
+      "综合政务",
+      "其他"
+    ],
+    "effective_date": "2025-05-08",
+    "abolish_date": "",
+    "summary": "为规范国家发展改革委行政处罚裁量权行使，保护公民、法人或者其他组织的合法权益，根据《中华人民共和国行政处罚法》《企业投资项目核准和备案管理条例》《企业境外投资管理办法》等法律法规规章，我们制定了《国家发展改革委行政处罚裁量规则》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7023840",
+    "title": "关于印发《国家发展改革委行政处罚裁量规则》的通知",
+    "content": "国家发展改革委办公厅关于印发《国家发展改革委行政处罚裁量规则》的通知\n发改办法规规〔2025〕462号\n各厅、司、局、室，国家能源局综合司、国家数据局综合司：\n为规范国家发展改革委行政处罚裁量权行使，保护公民、法人或者其他组织的合法权益，根据《中华人民共和国行政处罚法》《企业投资项目核准和备案管理条例》《企业境外投资管理办法》等法律法规规章，我们制定了《国家发展改革委行政处罚裁量规则》。现印发给你们，请遵照执行。\n国家发展改革委办公厅\n2025年5月8日\n附件：\n《国家发展改革委行政处罚裁量规则》.pdf\n《国家发展改革委行政处罚裁量规则》.zip",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-05-15",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7023840.htm",
+    "category": "综合政务\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "277"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7023840",
+    "title": "关于印发《国家发展改革委行政处罚裁量规则》的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-05-15",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7023840.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7023840.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《国家发展改革委行政处罚裁量规则》的通知",
+      "发文机关": "国家发展改革委办公厅",
+      "发文字号": "发改办法规规〔2025〕462号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "综合政务\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年05月08日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250515417828269482.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250515417828390233.zip"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7023840.html"
+  },
+  "raw_legal_doc": {}
+}

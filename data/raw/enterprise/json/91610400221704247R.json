@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91610400221704247R",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91610400221704247R",
+    "enterprise_name": "中铁二十一局集团第三工程有限公司",
+    "legal_representative": "王飞",
+    "entity_type": "有限责任公司(国有独资)",
+    "established_date": "20/3/2002 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "1510000000",
+    "business_status": "开业",
+    "registered_address": "陕西省咸阳市渭城区迎宾路",
+    "business_scope": "一般项目：承接总公司工程建设业务；土石方工程施工；对外承包工程；机械设备租赁；家具安装和维修服务；渔港渔船泊位建设；金属门窗工程施工；家用电器安装服务；普通机械设备安装服务（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：爆破作业；各类工程建设活动；房屋建筑和市政基础设施项目工程总承包；施工专业作业；建筑劳务分包；测绘服务；检验检测服务；建筑智能化工程施工；燃气燃烧器具安装、维修；电气安装服务；民用核安全设备安装；住宅室内装饰装修；建筑物拆除作业（爆破作业除外）；消防设施工程施工；地质灾害治理工程施工（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023BFAGZ02457"
+    ],
+    "all_linked_project_ids": [
+      "2023BFAGZ02457"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "中铁二十一局集团第三工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "王飞",
+    "registered_capital": "1510000000",
+    "paid_in_capital": "601000000",
+    "establishment_date": "20/3/2002 00:00:00",
+    "approval_date": "10/2/2023 00:00:00",
+    "business_term": "-",
+    "province": "陕西省",
+    "city": "咸阳市",
+    "district": "渭城区",
+    "phone": "029-32871739",
+    "additional_phones": "029-32874767,023-61811250,17755955599,18191146111,0910-33784950",
+    "email": "361771383@QQ.com",
+    "additional_emails": "OA213@126.com",
+    "unified_social_credit_code": "91610400221704247R",
+    "taxpayer_identification_number": "91610400221704247R",
+    "business_registration_number": "610400100000907",
+    "organization_code": "22170424-7",
+    "insured_personnel_count": "1684",
+    "company_type": "有限责任公司(国有独资)",
+    "industry": "土木工程建筑业",
+    "former_name": "中铁二十局集团第三工程有限公司",
+    "registered_address": "陕西省咸阳市渭城区迎宾路",
+    "latest_annual_report_address": "咸阳市渭城区迎宾路",
+    "website": "www.cr213.com",
+    "business_scope": "一般项目：承接总公司工程建设业务；土石方工程施工；对外承包工程；机械设备租赁；家具安装和维修服务；渔港渔船泊位建设；金属门窗工程施工；家用电器安装服务；普通机械设备安装服务（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）。许可项目：爆破作业；各类工程建设活动；房屋建筑和市政基础设施项目工程总承包；施工专业作业；建筑劳务分包；测绘服务；检验检测服务；建筑智能化工程施工；燃气燃烧器具安装、维修；电气安装服务；民用核安全设备安装；住宅室内装饰装修；建筑物拆除作业（爆破作业除外）；消防设施工程施工；地质灾害治理工程施工（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以审批结果为准）。",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023ACCFZ00481",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "终止"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023ACCFZ00481",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "终止"
+    ],
+    "publish_time": "2023-11-14 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 长丰"
+    ],
+    "tenderer_or_purchaser": [
+      "长丰县杜集镇人民政府"
+    ],
+    "agency": [
+      "长丰县公共资源交易有限责任公司"
+    ],
+    "budget_or_bid_amount": [
+      "5346000.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231114/156bbb18-909b-41fc-815e-8656cc512ddf.html?ztbtab=002002004&biaoduanguid=1364d312-6d3c-4a3c-85fa-57bd65e4777a",
+    "attachment_paths": [],
+    "candidate_company_names": [],
+    "winner_company_name": [],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:539",
+      "project_id": "2023ACCFZ00481",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231114/156bbb18-909b-41fc-815e-8656cc512ddf.html?ztbtab=002002004&biaoduanguid=1364d312-6d3c-4a3c-85fa-57bd65e4777a",
+      "type": "政府采购",
+      "stage": "终止",
+      "event_time": "2023-11-14",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "长丰",
+      "category": "政府",
+      "sub_category": "服务",
+      "budget_amount": "5346000.0",
+      "purchaser": "长丰县杜集镇人民政府",
+      "agency": "长丰县公共资源交易有限责任公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "",
+      "bid_amount": "",
+      "bid_date": "",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"杜集镇沛河养老服务中心购买服务项目终止公告\", \"content\": \"\n\n杜集镇沛河养老服务中心购买服务项目终止公告\n\n一、项目基本情况\n\n采购项目编号：2023ACCFZ00481\n\n采购项目名称：杜集镇沛河养老服务中心购买服务项目\n\n二、项目终止的原因\n\n终止原因：有效投标人不足规定数量，本次采购终止。\n\n三、其他补充事宜\n\n无\n\n四、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：长丰县杜集镇人民政府\n\n地址：合肥市长丰县杜集镇鸟岛路\n\n联系方式：0551-66850967\n\n2.采购代理机构信息\n\n名称：长丰县公共资源交易有限责任公司\n\n地址：长丰县双墩镇阜阳北路与济河路交口北城综合服务中心北楼5楼\n\n联系方式：0551-62721979、0551-62723374\n\n3.项目联系方式\n\n项目联系人：叶育松\n\n电话：0551-62721979、0551-62723374\n\n累计办理时间：\n0天0小时26分57秒\n\n招标代理机构提交\n\n提交节点：\n\n2023-12-05\n\n交易中心见证\n\n办理状态：\n\n通过\n\n办理时间：\n\n2023-12-05\n\n办理用时：\n\n0天0小时26分\n\n\", \"attachments\": [{\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=b36663be-ac1c-4652-a663-5abf59aa88ed&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "802",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

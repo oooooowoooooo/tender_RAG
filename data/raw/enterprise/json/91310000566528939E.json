@@ -1,0 +1,73 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91310000566528939E",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91310000566528939E",
+    "enterprise_name": "中铁上海工程局集团有限公司",
+    "legal_representative": "王建营",
+    "entity_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "established_date": "8/12/2010 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "2300000000",
+    "business_status": "开业",
+    "registered_address": "上海市江场三路278号",
+    "business_scope": "许可项目：建设工程施工；建设工程设计；建设工程勘察；测绘服务；检验检测服务；预应力混凝土铁路桥梁简支梁产品生产；对外劳务合作；餐厨垃圾处理。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）\n一般项目：隔热和隔音材料制造；隔热和隔音材料销售；减振降噪设备制造；减振降噪设备销售；噪声与振动控制服务；水污染治理；生态恢复及生态保护服务；土壤污染治理与修复服务；园林绿化工程施工；固体废物治理；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；物业管理；货物进出口；技术进出口；国际货物运输代理；进出口代理；机械设备销售；建筑材料销售；机械设备租赁；专用设备修理；砼结构构件制造；砼结构构件销售；对外承包工程。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 8,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022DFQGZ02887",
+      "2023AFEGZ01560",
+      "2023AFEGZ01781",
+      "2023AFEGZ02171",
+      "2023AFGGZ01927",
+      "2023BFBGZ00767",
+      "2023BFBGZ00849",
+      "2023BFBGZ01437"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "中铁上海工程局集团有限公司",
+    "business_status": "开业",
+    "legal_representative": "王建营",
+    "registered_capital": "2300000000",
+    "paid_in_capital": "2300000000",
+    "establishment_date": "8/12/2010 00:00:00",
+    "approval_date": "22/8/2023 00:00:00",
+    "business_term": "-",
+    "province": "上海市",
+    "city": "市辖区",
+    "district": "静安区",
+    "phone": "13510464696",
+    "additional_phones": "18687903933,18677216517,15129749286,17629073560,19933396222",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91310000566528939E",
+    "taxpayer_identification_number": "91310000566528939E",
+    "business_registration_number": "310108000486438",
+    "organization_code": "56652893-9",
+    "insured_personnel_count": "1809",
+    "company_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "industry": "土木工程建筑业",
+    "former_name": "中铁上海工程局有限公司",
+    "registered_address": "上海市江场三路278号",
+    "latest_annual_report_address": "上海是宝山区富联路777号",
+    "website": "www.crecsh.com",
+    "business_scope": "许可项目：建设工程施工；建设工程设计；建设工程勘察；测绘服务；检验检测服务；预应力混凝土铁路桥梁简支梁产品生产；对外劳务合作；餐厨垃圾处理。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）\n一般项目：隔热和隔音材料制造；隔热和隔音材料销售；减振降噪设备制造；减振降噪设备销售；噪声与振动控制服务；水污染治理；生态恢复及生态保护服务；土壤污染治理与修复服务；园林绿化工程施工；固体废物治理；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；物业管理；货物进出口；技术进出口；国际货物运输代理；进出口代理；机械设备销售；建筑材料销售；机械设备租赁；专用设备修理；砼结构构件制造；砼结构构件销售；对外承包工程。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）",
+    "match_status": "成功"
+  }
+}

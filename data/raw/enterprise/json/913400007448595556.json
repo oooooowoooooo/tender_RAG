@@ -1,0 +1,73 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913400007448595556",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913400007448595556",
+    "enterprise_name": "安徽省现代农业工程设计研究院",
+    "legal_representative": "张明福",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "15/11/2002 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "5000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市黄山路468号易居时代公寓1幢1601室",
+    "business_scope": "工程设计、测绘、勘察、监理、咨询，项目管理，招标代理，造价咨询，土地开发复垦，境外投资工程规划设计（以上依法须经批准的项目经相关部门批准之后方可开展经营活动）。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 121,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023ACCBZ00242",
+      "2023AFAAZ02258",
+      "2023AFABZ00923",
+      "2023AFABZ01610",
+      "2023AFAGZ00787",
+      "2023DFWBZ00310"
+    ],
+    "roles": [
+      "agency",
+      "purchaser",
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽省现代农业工程设计研究院",
+    "business_status": "开业",
+    "legal_representative": "张明福",
+    "registered_capital": "5000000",
+    "paid_in_capital": "5000000",
+    "establishment_date": "15/11/2002 00:00:00",
+    "approval_date": "3/6/2024 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "13966751766",
+    "additional_phones": "0551-62617448,0551-65170106,17756580681,0551-2617448,18855227972",
+    "email": "532647387@qq.com",
+    "additional_emails": "ahxdnysjy@126.com",
+    "unified_social_credit_code": "913400007448595556",
+    "taxpayer_identification_number": "913400007448595556",
+    "business_registration_number": "340000000030578",
+    "organization_code": "74485955-5",
+    "insured_personnel_count": "42",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市黄山路468号易居时代公寓1幢1601室",
+    "latest_annual_report_address": "安徽省合肥市黄山路468号易居时代公寓1幢1601室",
+    "website": "-",
+    "business_scope": "工程设计、测绘、勘察、监理、咨询，项目管理，招标代理，造价咨询，土地开发复垦，境外投资工程规划设计（以上依法须经批准的项目经相关部门批准之后方可开展经营活动）。",
+    "match_status": "成功"
+  }
+}

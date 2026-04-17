@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7055453",
+  "normalized_projection": {
+    "title": "工业和信息化部关于印发《优质中小企业梯度培育管理办法》的通知",
+    "issuer": "工业和信息化部",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\其他",
+    "doc_no": "工信部企业〔2026〕2号",
+    "publish_date": "2026-01-20",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7055453.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260120620372851095.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "其他"
+    ],
+    "effective_date": "2026-01-04",
+    "abolish_date": "",
+    "summary": "为进一步加强优质中小企业梯度培育工作，促进中小企业专精特新发展，现将《优质中小企业梯度培育管理办法》印发给你们，请认真遵照执行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7055453",
+    "title": "工业和信息化部关于印发《优质中小企业梯度培育管理办法》的通知",
+    "content": "工业和信息化部关于印发《优质中小企业梯度培育管理办法》的通知\n工信部企业〔2026〕2号\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团中小企业主管部门：\n为进一步加强优质中小企业梯度培育工作，促进中小企业专精特新发展，现将《优质中小企业梯度培育管理办法》印发给你们，请认真遵照执行。\n工业和信息化部\n2026年1月4日",
+    "source": "工业和信息化部网站",
+    "publish_time": "2026-01-20",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7055453.htm",
+    "category": "工业、交通\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "162"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7055453",
+    "title": "工业和信息化部关于印发《优质中小企业梯度培育管理办法》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-01-20",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7055453.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7055453.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "工业和信息化部关于印发《优质中小企业梯度培育管理办法》的通知",
+      "发文机关": "工业和信息化部",
+      "发文字号": "工信部企业〔2026〕2号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\其他",
+      "公文种类": "通知",
+      "成文日期": "2026年01月04日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260120620372851095.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7055453.html"
+  },
+  "raw_legal_doc": {}
+}

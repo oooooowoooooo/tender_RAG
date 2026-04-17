@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "legal:128",
+  "normalized_projection": {
+    "title": "中央国家机关政府采购电子卖场运行规则(第4期)",
+    "issuer": "全国法规整理",
+    "index_no": "未标注",
+    "subject_category": "政府采购",
+    "doc_no": "国机采[2021]24号",
+    "publish_date": "2021-02-12",
+    "validity_status": "active",
+    "policy_level": "national",
+    "source_url": "未标注",
+    "attachment_paths": [],
+    "keywords": [],
+    "effective_date": "",
+    "abolish_date": "",
+    "summary": ""
+  },
+  "raw_doc": {
+    "id": "legal:128",
+    "title": "中央国家机关政府采购电子卖场运行规则(第4期)",
+    "content": "中央国家机关政府采购电子卖场运行规则(第4期)\n\n（2021年12月2日公布，国机采[2021]24号）\n\n根据《中央国家机关政府采购电子卖场管理办法》，中央国家机关政府采购中心将新增针对台式计算机及配件、便携式计算机及配件、服务器及配件、打印机及配件、复印机及配件、民用空调及配件、投影仪及配件、扫描仪及配件和多功能一体机及配件等一级品目及其下属二级、三级品目所有商品的价格监测规则，具体规定如下。\n\n一、电子卖场系统自动阻断截经销商、电商超过该商品所有实时报价中位价50%的报价。\n\n二、采购人下单商品价格超出该商品所有实时报价中位价的，系统将在采购人下单时给出相应提示进行预警。\n\n三、采购人下单商品价格超出该商品所有实时报价中位价10%的，系统将在采购人下单时给出相应提示并阻断交易。\n\n本期规则自公布之日起生效。",
+    "source": "全国法规整理",
+    "publish_time": "2-12-2021",
+    "url": "",
+    "category": "政府采购",
+    "project_type": "政府采购",
+    "region": "全国",
+    "region_level": "national",
+    "source_type": "curated_existing",
+    "corpus_tag": "national_baseline",
+    "word_count": "361"
+  },
+  "raw_meta": {
+    "id": "legal:128",
+    "title": "中央国家机关政府采购电子卖场运行规则(第4期)",
+    "publish_date": "2-12-2021",
+    "source_url": "",
+    "document_url": "",
+    "region": "全国",
+    "region_level": "national",
+    "category": "政府采购",
+    "project_type": "政府采购",
+    "source_type": "curated_existing",
+    "source_name": "全国法规整理",
+    "word_count": "361",
+    "corpus_tag": "national_baseline",
+    "upstream_table": "legal_documents",
+    "created_at": "2026-04-14 13:47:23"
+  },
+  "raw_legal_doc": {
+    "id": "128",
+    "title": "中央国家机关政府采购电子卖场运行规则(第4期)",
+    "publish_date": "2/12/2021",
+    "content": "### 中央国家机关政府采购电子卖场运行规则(第4期)\n\n（2021年12月2日公布，国机采[2021]24号）\n\n根据《中央国家机关政府采购电子卖场管理办法》，中央国家机关政府采购中心将新增针对台式计算机及配件、便携式计算机及配件、服务器及配件、打印机及配件、复印机及配件、民用空调及配件、投影仪及配件、扫描仪及配件和多功能一体机及配件等一级品目及其下属二级、三级品目所有商品的价格监测规则，具体规定如下。\n\n一、电子卖场系统自动阻断截经销商、电商超过该商品所有实时报价中位价50%的报价。\n\n二、采购人下单商品价格超出该商品所有实时报价中位价的，系统将在采购人下单时给出相应提示进行预警。\n\n三、采购人下单商品价格超出该商品所有实时报价中位价10%的，系统将在采购人下单时给出相应提示并阻断交易。\n\n本期规则自公布之日起生效。",
+    "status": "active",
+    "created_at": "19/10/2025 12:52:35",
+    "authority_level": "部门规章",
+    "category": "政府采购"
+  }
+}

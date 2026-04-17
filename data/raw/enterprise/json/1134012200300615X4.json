@@ -1,0 +1,74 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "1134012200300615X4",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "1134012200300615X4",
+    "enterprise_name": "肥东县白龙镇人民政府",
+    "legal_representative": "李凤志",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥东县白龙镇",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 98,
+    "selected_project_ids": [
+      "2023ADDHN00315",
+      "2023ADDZN00311"
+    ],
+    "all_linked_project_ids": [
+      "2022ADDHJ00376",
+      "2023ADDFD00228",
+      "2023ADDHN00315",
+      "2023ADDZJ00176",
+      "2023ADDZN00049",
+      "2023ADDZN00311"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "肥东县白龙镇人民政府",
+    "business_status": "开业",
+    "legal_representative": "李凤志",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥东县",
+    "phone": "13056924466",
+    "additional_phones": "0551-67921081,13695600980,0551-65617293,0551-67923872,0551-67735207",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "1134012200300615X4",
+    "taxpayer_identification_number": "1134012200300615X4",
+    "business_registration_number": "-",
+    "organization_code": "00300615-X",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市肥东县白龙镇",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

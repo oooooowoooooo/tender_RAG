@@ -1,0 +1,66 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100667936819D",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100667936819D",
+    "enterprise_name": "合肥新站建设投资有限公司",
+    "legal_representative": "李晓峰",
+    "entity_type": "有限责任公司(国有独资)",
+    "established_date": "8/11/2007 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "2285821900",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市新站区文忠路与学府路交口合肥智慧产业园A14号楼",
+    "business_scope": "房地产开发；城市基础设施、基础产业、能源、交通及市政公用事业项目投资、融资、建设、运营和管理；从事授权范围内国有资产经营管理和资本运作；实施项目投资管理、资产收益管理、产权监督管理、资产重组和经营；参与旧城、旧村改造及土地整理和熟化工作；对全资、控股、参股企业行使出资者权利；承担新站管委会授权的其他经营管理工作；房屋租赁；仓储服务（除危险品）。（涉及行政许可项目凭许可证经营）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 17,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023AXXBZ00048"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥新站建设投资有限公司",
+    "business_status": "开业",
+    "legal_representative": "李晓峰",
+    "registered_capital": "2285821900",
+    "paid_in_capital": "2085821900",
+    "establishment_date": "8/11/2007 00:00:00",
+    "approval_date": "7/9/2023 00:00:00",
+    "business_term": "2007-11-08 至 2037-11-07",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "瑶海区",
+    "phone": "13956000268",
+    "additional_phones": "0551-64283128,0551-4688872,0551-65777175,0551-65777083,0551-64280900",
+    "email": "306745551@qq.com",
+    "additional_emails": "306745551@QQ.COM,117515850@qq.com,117515850@QQ.com",
+    "unified_social_credit_code": "91340100667936819D",
+    "taxpayer_identification_number": "91340100667936819D",
+    "business_registration_number": "340108000004475",
+    "organization_code": "66793681-9",
+    "insured_personnel_count": "3",
+    "company_type": "有限责任公司(国有独资)",
+    "industry": "商务服务业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市新站区文忠路与学府路交口合肥智慧产业园A14号楼",
+    "latest_annual_report_address": "安微省合肥市新站区文忠路与学府路交口合肥智慧产业园A14号楼",
+    "website": "-",
+    "business_scope": "房地产开发；城市基础设施、基础产业、能源、交通及市政公用事业项目投资、融资、建设、运营和管理；从事授权范围内国有资产经营管理和资本运作；实施项目投资管理、资产收益管理、产权监督管理、资产重组和经营；参与旧城、旧村改造及土地整理和熟化工作；对全资、控股、参股企业行使出资者权利；承担新站管委会授权的其他经营管理工作；房屋租赁；仓储服务（除危险品）。（涉及行政许可项目凭许可证经营）",
+    "match_status": "成功"
+  }
+}

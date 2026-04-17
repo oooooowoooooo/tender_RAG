@@ -1,0 +1,81 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340111MA2U4EKC36",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340111MA2U4EKC36",
+    "enterprise_name": "安徽渡泽工程管理有限公司",
+    "legal_representative": "姚孝超",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "19/9/2019 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "50000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市庐江县台湾农民创业园管理委员会施湾村后村20号",
+    "business_scope": "工程项目管理；工程造价专业咨询服务；建筑工程管理及咨询；工程项目招标代理；建筑工程；工程勘察；工程监理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 3,
+    "all_tender_frequency": 24,
+    "selected_project_ids": [
+      "2023ANNFN00460",
+      "2023ANNFN00488",
+      "2023ANNZJ00452"
+    ],
+    "all_linked_project_ids": [
+      "2023ANNFN00296",
+      "2023ANNFN00306",
+      "2023ANNFN00460",
+      "2023ANNFN00488",
+      "2023ANNGZ00122",
+      "2023ANNGZ00225",
+      "2023ANNGZ00476",
+      "2023ANNHZ00304",
+      "2023ANNHZ00334",
+      "2023ANNZJ00144",
+      "2023ANNZJ00436",
+      "2023ANNZJ00452"
+    ],
+    "roles": [
+      "agency"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽渡泽工程管理有限公司",
+    "business_status": "开业",
+    "legal_representative": "姚孝超",
+    "registered_capital": "50000000",
+    "paid_in_capital": "0",
+    "establishment_date": "19/9/2019 00:00:00",
+    "approval_date": "19/4/2021 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐江县",
+    "phone": "15956528773",
+    "additional_phones": "15385152617,0551-87087189,18155156678,18225849794,15056256684",
+    "email": "1799403722@qq.com",
+    "additional_emails": "382097189@qq.com,2549544670@qq.com",
+    "unified_social_credit_code": "91340111MA2U4EKC36",
+    "taxpayer_identification_number": "91340111MA2U4EKC36",
+    "business_registration_number": "340111000476058",
+    "organization_code": "MA2U4EKC-3",
+    "insured_personnel_count": "0",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市庐江县台湾农民创业园管理委员会施湾村后村20号",
+    "latest_annual_report_address": "安徽省合肥市庐江县台湾农民创业园管理委员会施湾村后村20号",
+    "website": "-",
+    "business_scope": "工程项目管理；工程造价专业咨询服务；建筑工程管理及咨询；工程项目招标代理；建筑工程；工程勘察；工程监理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

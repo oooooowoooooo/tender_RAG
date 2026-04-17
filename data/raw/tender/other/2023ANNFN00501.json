@@ -1,0 +1,78 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023ANNFN00501",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "终止"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023ANNFN00501",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "终止"
+    ],
+    "publish_time": "2023-12-22 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 庐江"
+    ],
+    "tenderer_or_purchaser": [
+      "庐江县司法局"
+    ],
+    "agency": [
+      "安徽省鑫诚工程咨询有限公司"
+    ],
+    "budget_or_bid_amount": [
+      "300000.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231222/bbfe862e-43ba-4b10-8a05-c8134de52415.html?ztbtab=002002004&biaoduanguid=4da4bf15-d8b6-43bd-94d4-b1ecd4998b20",
+    "attachment_paths": [],
+    "candidate_company_names": [],
+    "winner_company_name": [],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:12530",
+      "project_id": "2023ANNFN00501",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231222/bbfe862e-43ba-4b10-8a05-c8134de52415.html?ztbtab=002002004&biaoduanguid=4da4bf15-d8b6-43bd-94d4-b1ecd4998b20",
+      "type": "政府采购",
+      "stage": "终止",
+      "event_time": "2023-12-22",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "庐江",
+      "category": "政府",
+      "sub_category": "服务",
+      "budget_amount": "300000.0",
+      "purchaser": "庐江县司法局",
+      "agency": "安徽省鑫诚工程咨询有限公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "",
+      "bid_amount": "",
+      "bid_date": "",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"社区矫正社工服务项目采购终止公告\", \"content\": \"\n\n社区矫正社工服务项目采购终止公告\n\n一、项目基本情况\n\n采购项目编号：2023ANNFN00501\n\n采购项目名称：社区矫正社工服务项目采购\n\n二、项目终止的原因\n\n第1包终止原因：对公开招标文件作实质响应的有效投标人不足三家，流标。\n\n三、其他补充事宜\n\n无\n\n四、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：庐江县司法局\n\n地址：安徽省合肥市庐江县庐城镇方塔路幸福大街C区8号\n\n联系方式：0551-87013696\n\n2.采购代理机构信息\n\n名称：安徽省鑫诚工程咨询有限公司\n\n地址：合肥市庐江县庐城镇晨光路17号\n\n联系方式：13865219506\n\n3.项目联系方式\n\n项目联系人：张宗爱\n\n电话：13865219506\n\n累计办理时间：\n0天0小时3分38秒\n\n招标代理机构提交\n\n提交节点：\n\n2024-01-02\n\n交易中心见证\n\n办理状态：\n\n通过\n\n办理时间：\n\n2024-01-02\n\n办理用时：\n\n0天0小时1分\n\n\", \"attachments\": [{\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=e00545f7-2ad0-453e-ba4a-645681a637e9&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "755",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

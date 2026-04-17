@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340123MA8NQEWKXG",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340123MA8NQEWKXG",
+    "enterprise_name": "肥西工投战新产业园管理有限公司",
+    "legal_representative": "杨志明",
+    "entity_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "established_date": "28/2/2022 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "200000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥西县经济开发区新型家园A9商业楼",
+    "business_scope": "一般项目：园区管理服务；商业综合体管理服务；公共事业管理服务；企业总部管理；人力资源服务（不含职业中介活动、劳务派遣服务）；企业管理咨询；物业管理；住房租赁；非居住房地产租赁；创业空间服务；知识产权服务（专利代理服务除外）；科技中介服务；土地整治服务；土石方工程施工；环境卫生管理（不含环境质量监测，污染源检查，城市生活垃圾、建筑垃圾、餐厨垃圾的处置服务）（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）许可项目：城市建筑垃圾处置（清运）；河道疏浚施工专业作业；建筑物拆除作业（爆破作业除外）（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023AEEAZ00343"
+    ],
+    "all_linked_project_ids": [
+      "2023AEEAZ00323",
+      "2023AEEAZ00343"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "肥西工投战新产业园管理有限公司",
+    "business_status": "开业",
+    "legal_representative": "杨志明",
+    "registered_capital": "200000000",
+    "paid_in_capital": "200000000",
+    "establishment_date": "28/2/2022 00:00:00",
+    "approval_date": "24/11/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "phone": "18255163989",
+    "additional_phones": "68896905,0551-68896985,15256638776,15956991692,18297881306",
+    "email": "fxgt001@feixigt.com",
+    "additional_emails": "2394928269@qq.com",
+    "unified_social_credit_code": "91340123MA8NQEWKXG",
+    "taxpayer_identification_number": "91340123MA8NQEWKXG",
+    "business_registration_number": "340123000423462",
+    "organization_code": "MA8NQEWK-X",
+    "insured_personnel_count": "33",
+    "company_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "industry": "商务服务业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市肥西县经济开发区新型家园A9商业楼",
+    "latest_annual_report_address": "安徽省合肥市肥西县经济开发区新型家园A9商业楼",
+    "website": "-",
+    "business_scope": "一般项目：园区管理服务；商业综合体管理服务；公共事业管理服务；企业总部管理；人力资源服务（不含职业中介活动、劳务派遣服务）；企业管理咨询；物业管理；住房租赁；非居住房地产租赁；创业空间服务；知识产权服务（专利代理服务除外）；科技中介服务；土地整治服务；土石方工程施工；环境卫生管理（不含环境质量监测，污染源检查，城市生活垃圾、建筑垃圾、餐厨垃圾的处置服务）（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）许可项目：城市建筑垃圾处置（清运）；河道疏浚施工专业作业；建筑物拆除作业（爆破作业除外）（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）",
+    "match_status": "成功"
+  }
+}

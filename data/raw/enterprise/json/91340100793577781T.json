@@ -1,0 +1,72 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100793577781T",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100793577781T",
+    "enterprise_name": "安徽金源工程检测有限公司",
+    "legal_representative": "王华奇",
+    "entity_type": "其他有限责任公司",
+    "established_date": "20/9/2006 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "9000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市经济技术开发区紫云路以南，桃源路以东独立式研发楼",
+    "business_scope": "地基基础工程检测，主体结构工程检测，建筑幕墙工程检测，钢结构工程检测，见证取样检测，水利工程检测。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 7,
+    "selected_project_ids": [
+      "2023ADDBZ00284"
+    ],
+    "all_linked_project_ids": [
+      "2022AFFBZ02902",
+      "2023ADDBZ00284",
+      "2023ANNFN00109",
+      "2023BFFBZ01184",
+      "2023IFABZ01352"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽金源工程检测有限公司",
+    "business_status": "开业",
+    "legal_representative": "王华奇",
+    "registered_capital": "9000000",
+    "paid_in_capital": "9000000",
+    "establishment_date": "20/9/2006 00:00:00",
+    "approval_date": "18/3/2024 00:00:00",
+    "business_term": "2006-09-20 至 2026-09-19",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "15855173073",
+    "additional_phones": "0551-63654310,0551-65223831,13903690528,15055873715,13605695125",
+    "email": "814887315@qq.com",
+    "additional_emails": "903881653@qq.com",
+    "unified_social_credit_code": "91340100793577781T",
+    "taxpayer_identification_number": "91340100793577781T",
+    "business_registration_number": "340100000180039",
+    "organization_code": "79357778-1",
+    "insured_personnel_count": "51",
+    "company_type": "其他有限责任公司",
+    "industry": "居民服务业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市经济技术开发区紫云路以南，桃源路以东独立式研发楼",
+    "latest_annual_report_address": "安徽省合肥市经济技术开发区紫云路以南桃源路以东独立式研发楼",
+    "website": "www.ahjygcjc.com",
+    "business_scope": "地基基础工程检测，主体结构工程检测，建筑幕墙工程检测，钢结构工程检测，见证取样检测，水利工程检测。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

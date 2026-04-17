@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100669478903C",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100669478903C",
+    "enterprise_name": "安徽左之岸建设工程有限公司",
+    "legal_representative": "吴义友",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "12/12/2007 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "51000000",
+    "business_status": "开业",
+    "registered_address": "合肥市包河区北京路439号合肥东泊中心901-907室",
+    "business_scope": "许可项目：建设工程施工；施工专业作业；住宅室内装饰装修；建设工程设计；建筑智能化系统设计；建筑劳务分包；建筑物拆除作业（爆破作业除外）；文物保护工程施工（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）一般项目：消防技术服务；园林绿化工程施工；金属门窗工程施工；室内木门窗安装服务；土石方工程施工；体育场地设施工程施工；安全技术防范系统设计施工服务；安全系统监控服务；会议及展览服务；房屋拆迁服务；建筑材料销售（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023AEEGZ00300",
+      "2023AFWGZ01123",
+      "2023AYYGZ00043",
+      "2023BFBGZ00323"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽左之岸建设工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "吴义友",
+    "registered_capital": "51000000",
+    "paid_in_capital": "6000000",
+    "establishment_date": "12/12/2007 00:00:00",
+    "approval_date": "6/12/2023 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "phone": "18156831191",
+    "additional_phones": "0551-64456199,13083004321,0556-5991154,13956989001,13966742895",
+    "email": "450511859@qq.com",
+    "additional_emails": "8853096@qq.com",
+    "unified_social_credit_code": "91340100669478903C",
+    "taxpayer_identification_number": "91340100669478903C",
+    "business_registration_number": "340108000006557",
+    "organization_code": "66947890-3",
+    "insured_personnel_count": "40",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "土木工程建筑业",
+    "former_name": "-",
+    "registered_address": "合肥市包河区北京路439号合肥东泊中心901-907室",
+    "latest_annual_report_address": "合肥市包河区北京路439号东泊中心901-907室",
+    "website": "www.zuozhian.com",
+    "business_scope": "许可项目：建设工程施工；施工专业作业；住宅室内装饰装修；建设工程设计；建筑智能化系统设计；建筑劳务分包；建筑物拆除作业（爆破作业除外）；文物保护工程施工（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）一般项目：消防技术服务；园林绿化工程施工；金属门窗工程施工；室内木门窗安装服务；土石方工程施工；体育场地设施工程施工；安全技术防范系统设计施工服务；安全系统监控服务；会议及展览服务；房屋拆迁服务；建筑材料销售（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）",
+    "match_status": "成功"
+  }
+}

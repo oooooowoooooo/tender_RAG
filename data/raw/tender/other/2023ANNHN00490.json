@@ -1,0 +1,83 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023ANNHN00490",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "中标"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023ANNHN00490",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "中标"
+    ],
+    "publish_time": "2023-12-11 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 庐江"
+    ],
+    "tenderer_or_purchaser": [
+      "安徽省庐江县人民医院"
+    ],
+    "agency": [
+      "安徽安天利信工程管理股份有限公司"
+    ],
+    "budget_or_bid_amount": [
+      "1200000.0",
+      "800000.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231212/f360f767-926d-4ed9-ac08-58c1805cb0f6.html?ztbtab=002002004&biaoduanguid=c0bfc484-7ead-405c-ab48-07b1c847c2de",
+    "attachment_paths": [],
+    "candidate_company_names": [
+      "合肥国卫软件有限公司"
+    ],
+    "winner_company_name": [
+      "合肥国卫软件有限公司"
+    ],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:266",
+      "project_id": "2023ANNHN00490",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231212/f360f767-926d-4ed9-ac08-58c1805cb0f6.html?ztbtab=002002004&biaoduanguid=c0bfc484-7ead-405c-ab48-07b1c847c2de",
+      "type": "政府采购",
+      "stage": "中标",
+      "event_time": "2023-12-11",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "庐江",
+      "category": "医院",
+      "sub_category": "货物",
+      "budget_amount": "1200000.0",
+      "purchaser": "安徽省庐江县人民医院",
+      "agency": "安徽安天利信工程管理股份有限公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "合肥国卫软件有限公司",
+      "bid_amount": "800000.0",
+      "bid_date": "2023-12-22",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"庐江县人民医院2023年健康体检系统采购（二次）中标（成交）结果公告\", \"content\": \"\n\n庐江县人民医院2023年健康体检系统采购（二次）中标（成交）结果公告\n\n一、项目编号:\n2023ANNHN00490\n\n二、项目名称:\n庐江县人民医院2023年健康体检系统采购（二次）\n\n三、中标（成交）信息\n\n供应商名称：合肥国卫软件有限公司\n\n供应商地址：合肥市高新区创新大道2800号创新产业园二期F1楼19层1907-1909室\n\n中标（成交）金额：捌拾万元整(￥800000.00元)\n\n四、主要标的信息\n{\"1\": [\"序号\", \"1\"], \"2\": [\"货物名称\", \"▲体检一体化 \\n 协作平台（县医 \\n 院本部及分院）\"], \"3\": [\"品牌及规格型号\", \"国卫 GW V1.0\"], \"4\": [\"数量\", \"1套\"], \"5\": [\"单价\", \"643500 元\"], \"table_style\": 2}\n\n序号\n\n货物名称\n\n品牌及规格型号\n\n数量\n\n单价\n\n1\n\n▲体检一体化\n\n协作平台（县医\n\n院本部及分院）\n\n国卫\n\nGW V1.0\n\n1套\n\n643500 元\n\n（1）\n\n其他主要标的信息详见本公告附件；\n{\"1\": [\"序号\", \"1\"], \"2\": [\"货物名称\", \"▲体检一体化 \\n 协作平台（县医 \\n 院本部及分院）\"], \"3\": [\"品牌及规格型号\", \"国卫 GW V1.0\"], \"4\": [\"数量\", \"1套\"], \"5\": [\"单价\", \"643500 元\"], \"table_style\": 2}\n\n（2）\n如与附件不一致的，以公示附件中主要中标（成交）标的承诺函为准。\n\n五、评审专家（单一来源采购人员）名单\n\n王群,周勇,朱杰\n\n六、代理服务收费标准及金额\n\n详见采购文件中中标（成交）服务费\n\n七、公告期限\n\n自本公告发布之日起1个工作日。\n\n八、其他补充事宜\n\n庐江县人民医院\n2023年健康体检系统采购（二次）\n中标通知书已发出，请中标（成交）供应商登录电子交易系统自行下载领取电子中标（成交）通知书。\n\n中标（成交）供应商评审总得分：\n88.67分\n\n若投标供应商对上述结果有异议，可在中标（成交）公告发布之日起七个工作日内通过电子交易系统或以书面形式在工作时间（周一至周五，上午\n8:00-12:00，下午14:30-17:30，节假日休息）向\n安徽安天利信工程管理股份有限公司\n提出质疑（异议），质疑材料递交地址：\n合肥市蜀山区祁门路\n1779号1410室\n。联系电话：\n15650671996\n。\n\n若投标供应商对质疑处理意见有异议，可在规定时间内通过网上投诉系统或以书面形式向庐江县财政局提出投诉，联系人：吴工，联系电话：\n0551-87388071【采购人为合肥行政区域以外单位的项目：向采购人所在地财政部门（公共资源交易监督管理部门）提出投诉】。\n\n质疑提起的条件及不予受理的情形\n\n根据《中华人民共和国政府采购法》、《中华人民共和国政府采购法实施条例》、《安徽省政府采购供应商质疑处理办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n\n（一）质疑应以电子交易系统或书面形式实名提出，电子交易系统或书面质疑材料应当包括以下内容：\n\n1、质疑人的名称、地址、邮编、联系人及联系电话；\n\n2、采购人名称、项目名称、项目编号、包别号（如有）；\n\n3、被质疑人名称；\n\n4、具体的质疑事项、基本事实及必要\n的证明材料；\n\n5、明确的请求及主张；\n\n6、必要的法律依据；\n\n7、提起质疑的日期。\n\n质疑人为自然人的，应当由本人签字；质疑人为法人或者其他组织的，应当由法定代表人、主要负责人，或者其授权代表签字或者盖章，并加盖公章。\n\n（二）有下列情形之一的，不予受理：\n\n1、提起质疑的主体不是参与该政府采购项目活动的供应商；\n\n2、提起质疑的时间超过规定时限的；\n\n3、质疑材料不完整的；\n\n4、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n\n5、对其他供应商的投标文件详细内容质疑，无法提供合法来源渠道的；\n\n6、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n\n九、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：安徽省庐江县人民医院\n\n地址：合肥市庐江县庐城镇文明中路32号\n\n联系方式：13856556326\n\n2.采购代理机构信息\n\n名称：安徽安天利信工程管理股份有限公司\n\n地址：合肥市政务区祁门路1779号\n\n联系方式：0551-63736269\n\n3.项目联系方式\n\n项目联系人：张工\n\n电话：15650671996\n\n累计办理时间：\n0天0小时14分12秒\n\n招标代理机构提交\n\n提交节点：\n\n2023-12-22\n\n交易中心见证\n\n办理状态：\n\n通过\n\n办理时间：\n\n2023-12-22\n\n办理用时：\n\n0天0小时14分\n\n\", \"attachments\": [{\"file_name\": \"磋商业绩承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=0a6c19b6-802d-48f1-b5ee-027d2e872307&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"发布稿-庐江县人民医院2023年健康体检系统采购（二次）竞争性磋商文件.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=5016978a-9463-42bc-b092-fd438d891f92&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"无重大违法记录声明函无不良信用记录声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=7b536ba1-ca1c-4197-87ce-5bfab3ce44f2&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"主要成交标的承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=b3310b39-f1d0-4b08-b467-336f74e0b162&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"中小企业声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=c900b315-9d28-4d17-82d4-eb14401f271b&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"安徽合肥公共资源交易中心网上投诉操作手册-投标人.docx\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=d86ef298-61bf-4ec7-8792-e96e6636ad1a&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "3634",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

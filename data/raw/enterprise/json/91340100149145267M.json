@@ -1,0 +1,71 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100149145267M",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100149145267M",
+    "enterprise_name": "中建国际工程有限公司",
+    "legal_representative": "秦崇瑞",
+    "entity_type": "有限责任公司(港澳台投资、非独资)",
+    "established_date": "17/6/1989 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "1500000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市经济技术开发区繁华大道8639号繁华大厦",
+    "business_scope": "工业与民用建筑施工；市政公用工程施工；公路工程施工；园林绿化工程施工；钢结构施工；水利水电施工；建筑装修装饰工程施工；防水防腐保温工程施工；地基基础工程施工；劳务分包；建筑材料、装饰材料、锅炉及配件、低压电器销售，房屋租赁；承包境外工业与民用建筑及境内国际招标工程；上述境外工程所需的设备、材料出口；自营和代理各类商品及技术的进出口业务（但国家限定公司经营或禁止进出口的商品及技术除外）；经营对销贸易和转口贸易。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [
+      "2023BFJGZ02602"
+    ],
+    "all_linked_project_ids": [
+      "2023BFJGZ01569",
+      "2023BFJGZ02602",
+      "2023BFNBZ00387",
+      "2023BFNBZ00828"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "中建国际工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "秦崇瑞",
+    "registered_capital": "1500000000",
+    "paid_in_capital": "1000000000",
+    "establishment_date": "17/6/1989 00:00:00",
+    "approval_date": "3/6/2024 00:00:00",
+    "business_term": "1989-06-17 至 2038-06-16",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "0551-64225796",
+    "additional_phones": "0551-66223842,0551-4216958,0551-66223841,13705694829,0551-64238019",
+    "email": "cscigc@cohl.com",
+    "additional_emails": "zjgjgc@cohl.com,1157906234@qq.com,1105558790@qq.com,275934402@qq.com",
+    "unified_social_credit_code": "91340100149145267M",
+    "taxpayer_identification_number": "91340100149145267M",
+    "business_registration_number": "340100000158381",
+    "organization_code": "14914526-7",
+    "insured_personnel_count": "239",
+    "company_type": "有限责任公司(港澳台投资、非独资)",
+    "industry": "房屋建筑业",
+    "former_name": "合肥市第二建筑安装有限公司",
+    "registered_address": "安徽省合肥市经济技术开发区繁华大道8639号繁华大厦",
+    "latest_annual_report_address": "安徽省合肥市经济技术开发区繁华大道8639号繁华 大厦",
+    "website": "csci.cscec.com",
+    "business_scope": "工业与民用建筑施工；市政公用工程施工；公路工程施工；园林绿化工程施工；钢结构施工；水利水电施工；建筑装修装饰工程施工；防水防腐保温工程施工；地基基础工程施工；劳务分包；建筑材料、装饰材料、锅炉及配件、低压电器销售，房屋租赁；承包境外工业与民用建筑及境内国际招标工程；上述境外工程所需的设备、材料出口；自营和代理各类商品及技术的进出口业务（但国家限定公司经营或禁止进出口的商品及技术除外）；经营对销贸易和转口贸易。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

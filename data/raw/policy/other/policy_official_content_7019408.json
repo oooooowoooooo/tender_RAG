@@ -1,0 +1,68 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7019408",
+  "normalized_projection": {
+    "title": "关于公布2025年一般国债、超长期特别国债发行有关安排的通知",
+    "issuer": "财政部办公厅",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\其他",
+    "doc_no": "财办库〔2025〕74号",
+    "publish_date": "2025-04-17",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7019408.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250417754656224416.xls"
+    ],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "其他"
+    ],
+    "effective_date": "2025-04-16",
+    "abolish_date": "",
+    "summary": "现公布2025年一般国债、超长期特别国债发行有关安排（见附件）。执行中如有变动，以届时国债发行文件为准。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7019408",
+    "title": "关于公布2025年一般国债、超长期特别国债发行有关安排的通知",
+    "content": "关于公布2025年一般国债、超长期特别国债发行有关安排的通知\n财办库〔2025〕74号\n记账式国债承销团成员、储蓄国债承销团成员，中央国债登记结算有限责任公司、中国证券登记结算有限责任公司、中国外汇交易中心、上海证券交易所、深圳证券交易所、北京证券交易所： \n现公布2025年一般国债、超长期特别国债发行有关安排（见附件）。执行中如有变动，以届时国债发行文件为准。 \n附件：2025年一般国债、超长期特别国债发行有关安排\n \n\n财政部办公厅\n2025年4月16日",
+    "source": "财政部网站",
+    "publish_time": "2025-04-17",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7019408.htm",
+    "category": "财政、金融、审计\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "231"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7019408",
+    "title": "关于公布2025年一般国债、超长期特别国债发行有关安排的通知",
+    "source_name": "财政部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-04-17",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7019408.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7019408.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于公布2025年一般国债、超长期特别国债发行有关安排的通知",
+      "发文机关": "财政部办公厅",
+      "发文字号": "财办库〔2025〕74号",
+      "来源": "财政部网站",
+      "主题分类": "财政、金融、审计\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年04月16日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250417754656224416.xls"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7019408.html"
+  },
+  "raw_legal_doc": {}
+}

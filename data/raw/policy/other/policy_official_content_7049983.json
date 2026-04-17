@@ -1,0 +1,65 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7049983",
+  "normalized_projection": {
+    "title": "农业农村部办公厅关于印发互联网经营农药专项治理行动方案的通知",
+    "issuer": "农业农村部办公厅",
+    "index_no": "未标注",
+    "subject_category": "农业、林业、水利\\农业、畜牧业、渔业",
+    "doc_no": "农办农〔2025〕22号",
+    "publish_date": "2025-12-01",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7049983.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "农业",
+      "林业",
+      "水利",
+      "畜牧业",
+      "渔业"
+    ],
+    "effective_date": "2025-11-20",
+    "abolish_date": "",
+    "summary": "为贯彻落实新修改的《农药经营许可管理办法》，进一步规范互联网经营农药行为，维护农药生产者、经营者和使用者的合法权益，特制定本方案。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7049983",
+    "title": "农业农村部办公厅关于印发互联网经营农药专项治理行动方案的通知",
+    "content": "农业农村部办公厅关于印发互联网经营农药专项治理行动方案的通知\n农办农〔2025〕22号\n各省、自治区、直辖市农业农村（农牧）厅（局、委），新疆生产建设兵团农业农村局：\n为贯彻落实新修改的《农药经营许可管理办法》，进一步加强互联网经营农药管理，制定《2026年互联网经营农药专项治理行动方案》，现印发你们，请结合实际抓好落实。\n附件：《2026年互联网经营农药专项治理行动方案》\n农业农村部办公厅\n2025年11月20日",
+    "source": "农业农村部网站",
+    "publish_time": "2025-12-01",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7049983.htm",
+    "category": "农业、林业、水利\\农业、畜牧业、渔业",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "209"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7049983",
+    "title": "农业农村部办公厅关于印发互联网经营农药专项治理行动方案的通知",
+    "source_name": "农业农村部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-12-01",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7049983.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7049983.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "农业农村部办公厅关于印发互联网经营农药专项治理行动方案的通知",
+      "发文机关": "农业农村部办公厅",
+      "发文字号": "农办农〔2025〕22号",
+      "来源": "农业农村部网站",
+      "主题分类": "农业、林业、水利\\农业、畜牧业、渔业",
+      "公文种类": "通知",
+      "成文日期": "2025年11月20日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7049983.html"
+  },
+  "raw_legal_doc": {}
+}

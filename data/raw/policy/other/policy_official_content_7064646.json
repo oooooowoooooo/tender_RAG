@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7064646",
+  "normalized_projection": {
+    "title": "工业和信息化部等十部门关于印发《人工智能科技伦理审查与服务办法（试行）》的通知",
+    "issuer": "工业和信息化部等",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\其他",
+    "doc_no": "工信部联科〔2026〕75号",
+    "publish_date": "2026-04-03",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202604/content_7064646.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202604/P020260403770545817293.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "其他"
+    ],
+    "effective_date": "2026-03-20",
+    "abolish_date": "",
+    "summary": "工业和信息化部等十部门近日联合印发《人工智能科技伦理审查与服务办法（试行）》，提出支持人工智能科技伦理审查技术创新，强化以技术手段防范人工智能科技伦理风险。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7064646",
+    "title": "工业和信息化部等十部门关于印发《人工智能科技伦理审查与服务办法（试行）》的通知",
+    "content": "工业和信息化部等十部门\n关于印发《人工智能科技伦理审查与服务办法（试行）》的通知\n工信部联科〔2026〕75号\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化、发展改革、教育、科技、农业农村、卫生健康、网信主管部门、科协，中国人民银行上海总部，各省、自治区、直辖市及计划单列市分行，中国科学院院属各单位，各有关单位：\n现将《人工智能科技伦理审查与服务办法（试行）》印发给你们，请结合实际认真抓好落实。\n工业和信息化部\n国家发展改革委\n教育部\n科技部\n农业农村部\n国家卫生健康委\n中国人民银行\n国家网信办\n中国科学院\n中国科协\n2026年3月20日\n人工智能科技伦理审查与服务办法（试行）",
+    "source": "工业和信息化部网站",
+    "publish_time": "2026-04-03",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202604/content_7064646.htm",
+    "category": "工业、交通\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "301"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7064646",
+    "title": "工业和信息化部等十部门关于印发《人工智能科技伦理审查与服务办法（试行）》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-04-03",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202604/content_7064646.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202604/content_7064646.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "工业和信息化部等十部门关于印发《人工智能科技伦理审查与服务办法（试行）》的通知",
+      "发文机关": "工业和信息化部等",
+      "发文字号": "工信部联科〔2026〕75号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\其他",
+      "公文种类": "通知",
+      "成文日期": "2026年03月20日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202604/P020260403770545817293.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7064646.html"
+  },
+  "raw_legal_doc": {}
+}

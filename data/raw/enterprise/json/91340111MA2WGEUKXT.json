@@ -1,0 +1,62 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340111MA2WGEUKXT",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340111MA2WGEUKXT",
+    "enterprise_name": "安徽穗通医疗器械贸易有限公司",
+    "legal_representative": "乔俊玲",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "2020-12-04",
+    "registration_authority": "",
+    "registered_capital": "2000万人民币",
+    "business_status": "存续",
+    "registered_address": "合肥市包河区徽州大道6669号滨湖时代广场C3幢504室",
+    "business_scope": "第一类医疗器械批发；第二类医疗器械批发；第三类医疗器械批发；医疗技术、医疗器械领域内的技术研发、技术咨询、技术服务；微波、射频、高频诊断治疗设备租赁；医用化验和基础设备器具租赁；临床检验分析仪器租赁；医用电泳仪租赁；生物技术推广服务；文具用品、服装、鞋帽、工艺品、体育用品、电子产品、计算机、软件及辅助设备、化妆品、食用农产品、日用品零售；个人卫生用品零售；计算机软硬件技术开发、技术咨询、技术服务；企业形象策划咨询；策划创意服务；国内广告设计、制作、代理、发布；智能农机装备销售；畜牧业机械批发；道路普通货运；房屋托管、房地产中介、房屋租赁代理服务；普通货物道路运输；设备销售；运输货物装卸活动。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023BFFFZ02485"
+    ],
+    "all_linked_project_ids": [
+      "2023BFFFZ01450",
+      "2023BFFFZ02485"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "1560",
+    "title": "安徽穗通医疗器械贸易有限公司",
+    "corporation": "乔俊玲",
+    "amount_raw": "2000万人民币",
+    "event_time": "2020-12-04",
+    "manage_date": "2020-12-04 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "研究和试验发展",
+    "USCC": "91340111MA2WGEUKXT",
+    "TIN": "91340111MA2WGEUKXT",
+    "registed_num": "340111000697460",
+    "insured_persons": "2",
+    "location": "合肥市包河区徽州大道6669号滨湖时代广场C3幢504室",
+    "source_url": "-",
+    "content": "第一类医疗器械批发；第二类医疗器械批发；第三类医疗器械批发；医疗技术、医疗器械领域内的技术研发、技术咨询、技术服务；微波、射频、高频诊断治疗设备租赁；医用化验和基础设备器具租赁；临床检验分析仪器租赁；医用电泳仪租赁；生物技术推广服务；文具用品、服装、鞋帽、工艺品、体育用品、电子产品、计算机、软件及辅助设备、化妆品、食用农产品、日用品零售；个人卫生用品零售；计算机软硬件技术开发、技术咨询、技术服务；企业形象策划咨询；策划创意服务；国内广告设计、制作、代理、发布；智能农机装备销售；畜牧业机械批发；道路普通货运；房屋托管、房地产中介、房屋租赁代理服务；普通货物道路运输；设备销售；运输货物装卸活动。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "20000000"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023AMMHX00177",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "中标"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023AMMHX00177",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "中标"
+    ],
+    "publish_time": "2023-11-13 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 巢湖"
+    ],
+    "tenderer_or_purchaser": [
+      "巢湖市疾病预防控制中心"
+    ],
+    "agency": [
+      "国华工程科技（集团）有限责任公司"
+    ],
+    "budget_or_bid_amount": [
+      "635000.0",
+      "625800.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231113/9b96776d-8b1d-446e-818f-e42a10254b24.html?ztbtab=002002004&biaoduanguid=d2b6178c-d2d1-4436-ac48-b2756e89764f",
+    "attachment_paths": [],
+    "candidate_company_names": [
+      "合肥赫思仪器设备有限公司"
+    ],
+    "winner_company_name": [
+      "合肥赫思仪器设备有限公司"
+    ],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:808",
+      "project_id": "2023AMMHX00177",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231113/9b96776d-8b1d-446e-818f-e42a10254b24.html?ztbtab=002002004&biaoduanguid=d2b6178c-d2d1-4436-ac48-b2756e89764f",
+      "type": "政府采购",
+      "stage": "中标",
+      "event_time": "2023-11-13",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "巢湖",
+      "category": "政府",
+      "sub_category": "货物",
+      "budget_amount": "635000.0",
+      "purchaser": "巢湖市疾病预防控制中心",
+      "agency": "国华工程科技（集团）有限责任公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "合肥赫思仪器设备有限公司",
+      "bid_amount": "625800.0",
+      "bid_date": "2023-11-22",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \" \n \", \"content\": \"原公告的采购项目编号：\n\n原公告的采购项目名称：\n\n首次公告日期：\n\n更正事项：\n□采购公告□采购文件\n采购结果\n\n更正内容：\n\n（\n1）中标（成交）信息\n\n供应商名称：\n\n供应商地址：\n\n中标（成交）金额：\n（\n2）主要标的信息\n{\"1\": [\"序号\", \"1\", \"2\", \"3\", \"4\", \"5\"], \"2\": [\"名称\", \"▲智能干式流量计（高流量校准计）\", \"▲防爆大流量粉尘采样器\", \"▲防爆高流量个体粉尘采样器\", \"▲电磁辐射分析仪\", \"▲万分之一天平\"], \"3\": [\"品牌\", \"深圳国技\", \"深圳国技\", \"深圳国技\", \"北京森馥\", \"梅特勒\"], \"4\": [\"规格型号\", \"EE-35\", \"DS-30\", \"EM-5000\", \"SEM-600\", \"MS204TS\"], \"5\": [\"数量\", \"1套\", \"6套\", \"6套\", \"1套\", \"1套\"], \"6\": [\"单价\", \"14300元\", \"11800元\", \"10800元\", \"149000元\", \"47800元\"], \"table_style\": 2}\n\n（\n3）评审专家名单：郑娟,徐景侠,叶正文\n\n（\n4）代理服务收费标准及金额：\n成交服务费收费标准按合肥公共资源交易管理协会文件（合公协〔\n2023〕03号）文件规定收取；收费金额：人民币\n玖仟叁佰捌拾柒元整\n\n（\n5）公告\n期限：自本公告发布之日起\n1个工作日。\n\n更正日期：\n2023年11\n月\n22日至2023年11月23日\n\n三、其他补充事宜\n\n（一）若供应商对上述结果有异议\n,可在成交公告发布之日起七个工作日内通过电子交易系统或以书面形式在工作时间(周一至周五,上午9:00-12:00,下午13:00-17:00,节假日休息)向国华工程科技（集团）有限责任公司提出质疑,质疑材料递交地址:巢湖市半汤路中央领域小区2#楼,联系人：潘工，联系电话:13905651131。\n\n若供应商对质疑处理意见有异议，可以通过网上投诉系统或以书面形式向巢湖市财政局提出投诉，投诉函中应明确提出自身权益受到损害的事实与理由，联系电话：\n0551-82367013。\n\n（二）质疑提起的条件及不予受理的情形\n\n根据《中华人民共和国政府采购法》、《中华人民共和国政府采购法实施条例》、财政部《政府采购质疑和投诉办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n\n（\n1）质疑应以书面形式实名提出，书面质疑材料应当包括以下内容：\n\n1、质疑人的名称、地址、邮编、联系人及联系电话；\n\n2、采购人名称、项目名称、项目编号、包别号（如有）；\n\n3、被质疑人名称；\n\n4、具体的质疑事项、基本事实及必要的证明材料；\n\n5、明确的请求及主张；\n\n6、必要的法律依据；\n\n7、提起质疑的日期。\n\n质疑人为法人或者其他组织的，应当由法定代表人或其委托代理人（需有委托授权书）签字并加盖公章。\n\n（\n2）有下列情形之一的，不予受理：\n\n1、提起质疑的主体不是参与该政府采购项目活动的供应商；\n\n2、提起质疑的时间超过规定时限的；\n\n3、质疑材料不完整的；\n\n4、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n\n5、对其他供应商的投标文件详细内容质疑，无法提供合法来源渠道的；\n\n6、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n\n巢湖市疾控中心\n2023年度采购检测设备项目中标通知书已发出，请中标（成交）供应商登录电子交易系统自行下载电子中标（成交）通知书。\n\n名称：巢湖市疾病预防控制中心\n\n地址：巢湖市裕溪路（裕溪路与健康东路交叉口往北约\n100米）\n\n联系方式：\n18956599569\n\n名称：国华工程科技（集团）有限责任公司\n\n地址：巢湖市半汤路中央领域小区\n2#楼\n\n联系方式：\n18130041850\n\n3.项目联系方式\n\n项目联系人：韦工\n\n电话：\n18130041850\n\n1.招标文件正文\n\n2.无重大违法记录声明函、无不良信用记录声明函\n\n3.主要成交标的承诺函\n\n4.安徽合肥公共资源交易中心网上投诉操作手册-投标人\n\n\", \"attachments\": [{\"file_name\": \"无重大违法记录声明函、无不良信用记录声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=053b98e6-6bd9-4788-8286-8c82d1a48a92&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"主要成交标的承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=08e841e5-8883-41cc-8aa3-fd95849f0e0e&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"安徽合肥公共资源交易中心网上投诉操作手册-投标人.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=eb788548-be7d-4dea-a439-5f38c2a24b61&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=ee343cc2-8b57-4491-af9d-0248a999d5ef&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}, {\"title\": \"巢湖市疾控中心2023年度采购检测设备成交结果公告\", \"content\": \"\n\n巢湖市疾控中心2023年度采购检测设备成交结果公告\n\n一、项目编号:\n2023AMMHX00177\n\n二、项目名称:\n巢湖市疾控中心2023年度采购检测设备\n\n三、中标（成交）信息\n\n供应商名称：深圳晓通仪器有限公司\n\n供应商地址：深圳市龙华区大浪街道新石社区石龙仔路10号默根时尚产业园1栋A898\n\n中标（成交）金额：伍拾伍万伍仟元整(￥555000.00元)\n\n四、主要标的信息\n{\"1\": [\"序号\", \"1\", \"2\", \"3\", \"4\", \"5\"], \"2\": [\"名称\", \"▲智能干式流量计（高流量校准计）\", \"▲防爆大流量粉尘采样器\", \"▲防爆高流量个体粉尘采样器\", \"▲电磁辐射分析仪\", \"▲万分之一天平\"], \"3\": [\"品牌\", \"晓通\", \"晓通\", \"晓通\", \"森馥\", \"梅特勒\"], \"4\": [\"规格型号\", \"DF-550XL\", \"PD-30\", \"STiP5000\", \"SEM-600\", \"XPR204\"], \"5\": [\"数量\", \"1套\", \"6套\", \"6套\", \"1套\", \"1套\"], \"6\": [\"单价\", \"13000元\", \"1200元\", \"10800元\", \"108000元\", \"35000元\"], \"table_style\": 2}\n\n序号\n\n名称\n\n品牌\n\n规格型号\n\n数量\n\n单价\n\n1\n\n▲智能干式流量计（高流量校准计）\n\n晓通\n\nDF-550XL\n\n1套\n\n13000元\n\n2\n\n▲防爆大流量粉尘采样器\n\n晓通\n\nPD-30\n\n6套\n\n1200元\n\n3\n\n▲防爆高流量个体粉尘采样器\n\n晓通\n\nSTiP5000\n\n6套\n\n10800元\n\n4\n\n▲电磁辐射分析仪\n\n森馥\n\nSEM-600\n\n1套\n\n108000元\n\n5\n\n▲万分之一天平\n\n梅特勒\n\nXPR204\n\n1套\n\n35000元\n\n五、评审专家（单一来源采购人员）名单\n\n郑娟,徐景侠,叶正文\n\n六、代理服务收费标准及金额\n\n成交服务费收费标准按合肥公共资源交易管理协会文件（合公协〔2023〕03号）文件规定收取；收费金额：人民币捌仟叁佰贰拾伍元整\n\n七、公告期限\n\n自本公告发布之日起1个工作日。\n\n八、其他补充事宜\n\n（一）若供应商对上述结果有异议\n,可在成交公告发布之日起七个工作日内通过电子交易系统或以书面形式在工作时间(周一至周五,上午9:00-12:00,下午13:00-17:00,节假日休息)向国华工程科技（集团）有限责任公司提出质疑,质疑材料递交地址:巢湖市半汤路中央领域小区2#楼,联系人：潘工，联系电话:13905651131。\n\n若供应商对质疑处理意见有异议，\n可以\n通过网上投诉系统或以书面形式向巢湖市\n财政局\n提出投诉，投诉函中应明确提出自身权益受到损害的事实与理由\n，联系电话：\n0551-82367013。\n\n（二）质疑提起的条件及不予受理的情形\n\n根据《中华人民共和国政府采购法》、《中华人民共和国政府采购法实施条例》、财政部《政府采购质疑和投诉办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n\n（\n1）质疑应以书面形式实名提出，书面质疑材料应当包括以下内容：\n\n1、质疑人的名称、地址、邮编、联系人及联系电话；\n\n2、采购人名称、项目名称、项目编号、包别号（如有）；\n\n3、被质疑人名称；\n\n4、具体的质疑事项、基本事实及必要的证明材料；\n\n5、明确的请求及主张；\n\n6、必要的法律依据；\n\n7、提起质疑的日期。\n\n质疑人为法人或者其他组织的，应当由法定代表人或其委托代理人（需有委托授权书）签字并加盖公章。\n\n（\n2）有下列情形之一的，不予受理：\n\n1、提起质疑的主体不是参与该政府采购项目活动的供应商；\n\n2、提起质疑的时间超过规定时限的；\n\n3、质疑材料不完整的；\n\n4、质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n\n5、对其他供应商的投标文件详细内容质疑，无法提供合法来源渠道的；\n\n6、质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n\n巢湖市疾控中心\n2023年度采购检测设备项目中标通知书已发出，请中标（成交）供应商登录电子交易系统自行下载电子中标（成交）通知书。\n\n九、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：巢湖市疾病预防控制中心\n\n地址：巢湖市裕溪路（裕溪路与健康东路交叉口往北约100米）\n\n联系方式：18956599569\n\n2.采购代理机构信息\n\n名称：国华工程科技（集团）有限责任公司\n\n地址：巢湖市半汤路中央领域小区2#楼房101铺\n\n联系方式：18130041850\n\n3.项目联系方式\n\n项目联系人：韦工\n\n电话：18130041850\n\n\", \"attachments\": [{\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=222bfdbf-3559-42a1-8787-e37ad47933a1&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"主要成交标的承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=4617800e-611e-4782-8fcb-f4322946e6c6&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"安徽合肥公共资源交易中心网上投诉操作手册-投标人.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=68eabfce-b4e1-461d-a116-9ea24d0337f7&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"无重大违法记录声明函、无不良信用记录声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=ebf9695a-50f8-4b2a-be69-67e3fa3e27a1&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "5856",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

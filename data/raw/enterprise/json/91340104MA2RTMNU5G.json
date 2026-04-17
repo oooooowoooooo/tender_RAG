@@ -1,0 +1,62 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340104MA2RTMNU5G",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340104MA2RTMNU5G",
+    "enterprise_name": "安徽爱丽斯康医疗器械有限公司",
+    "legal_representative": "董黎明",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "2018-06-20",
+    "registration_authority": "",
+    "registered_capital": "500万人民币",
+    "business_status": "存续",
+    "registered_address": "合肥市蜀山区蜀峰路558号中升融智科技园3号楼1201、1202室",
+    "business_scope": "医疗器械（凭许可证在有效期内经营）、医用电子仪器及设备、医用光学器具、仪器及设备、医用卫生材料及耗材、健康用品、卫生用品、电子产品、健身运动器材的销售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 5,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022BFFHZ02560",
+      "2023BFFFZ02191",
+      "2023BFFFZ02201",
+      "2023BFFFZ02221"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "2989",
+    "title": "安徽爱丽斯康医疗器械有限公司",
+    "corporation": "董黎明",
+    "amount_raw": "500万人民币",
+    "event_time": "2018-06-20",
+    "manage_date": "2018-06-20 至 2068-06-19",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "批发业",
+    "USCC": "91340104MA2RTMNU5G",
+    "TIN": "91340104MA2RTMNU5G",
+    "registed_num": "340104000153327",
+    "insured_persons": "10",
+    "location": "合肥市蜀山区蜀峰路558号中升融智科技园3号楼1201、1202室",
+    "source_url": "-",
+    "content": "医疗器械（凭许可证在有效期内经营）、医用电子仪器及设备、医用光学器具、仪器及设备、医用卫生材料及耗材、健康用品、卫生用品、电子产品、健身运动器材的销售。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "5000000"
+  }
+}

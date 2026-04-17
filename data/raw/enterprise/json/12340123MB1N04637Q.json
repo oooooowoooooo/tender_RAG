@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "12340123MB1N04637Q",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "12340123MB1N04637Q",
+    "enterprise_name": "肥西县农村公路管理服务中心",
+    "legal_representative": "张福权",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "4920000",
+    "business_status": "开业",
+    "registered_address": "肥西县上派镇巢湖南路31号",
+    "business_scope": "承担公路公益服务职责。全县农村公路的规划、建设、养护和管理工作。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 7,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022AEEFN00336",
+      "2023AEEFN00092",
+      "2023AEEZN00225",
+      "2023AEEZN00275"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "肥西县农村公路管理服务中心",
+    "business_status": "开业",
+    "legal_representative": "张福权",
+    "registered_capital": "4920000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "2022-02-17 至 2027-02-17",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥西县",
+    "phone": "0551-68842413",
+    "additional_phones": "13856932520,13721055816,13856016680",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "12340123MB1N04637Q",
+    "taxpayer_identification_number": "12340123MB1N04637Q",
+    "business_registration_number": "-",
+    "organization_code": "MB1N0463-7",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "肥西县上派镇巢湖南路31号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "承担公路公益服务职责。全县农村公路的规划、建设、养护和管理工作。",
+    "match_status": "成功"
+  }
+}

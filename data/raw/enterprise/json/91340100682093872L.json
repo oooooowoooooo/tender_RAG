@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100682093872L",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100682093872L",
+    "enterprise_name": "安徽省中瀚建设工程有限公司",
+    "legal_representative": "李晓飞",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "11/12/2008 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "100880000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市经济技术开发区翡翠路以西，金炉路以南港澳广场A 座17楼",
+    "business_scope": "许可项目：地质灾害治理工程施工；文物保护工程施工；建设工程施工；人防工程防护设备安装；电气安装服务；舞台工程施工；住宅室内装饰装修；建筑劳务分包；施工专业作业；建设工程监理；建设工程设计；路基路面养护作业；公路管理与养护；人防工程防护设备销售；公路工程监理；城市建筑垃圾处置（清运）；城市生活垃圾经营性服务；水利工程建设监理（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）一般项目：园林绿化工程施工；体育场地设施工程施工；普通机械设备安装服务；室内木门窗安装服务；土石方工程施工；金属门窗工程施工；家具安装和维修服务；家用电器安装服务；建筑物清洁服务；市政设施管理；工程管理服务；金属结构制造；工程技术服务（规划管理、勘察、设计、监理除外）；信息技术咨询服务；对外承包工程；消防器材销售；建设工程消防验收现场评定技术服务；建筑砌块制造；建筑废弃物再生技术研发；建筑砌块销售；灌溉服务；卫星遥感应用系统集成；白蚁防治服务；水利相关咨询服务（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 5,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022AEEGZ00472",
+      "2023AGGGZ00041",
+      "2023ANNGZ00229",
+      "2023ASSGZ00015",
+      "2023BFBGZ00945"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽省中瀚建设工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "李晓飞",
+    "registered_capital": "100880000",
+    "paid_in_capital": "100880000",
+    "establishment_date": "11/12/2008 00:00:00",
+    "approval_date": "13/11/2023 00:00:00",
+    "business_term": "2008-12-11 至 2038-12-10",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "0551-63538821",
+    "additional_phones": "13966750869,0551-82563663,0551-5320978,0551-2672758,0551-65735293",
+    "email": "285163966@qq.com",
+    "additional_emails": "787172752@qq.com,825985020@qq.com,muzi2009@vip.qq.com",
+    "unified_social_credit_code": "91340100682093872L",
+    "taxpayer_identification_number": "91340100682093872L",
+    "business_registration_number": "340107000010073",
+    "organization_code": "68209387-2",
+    "insured_personnel_count": "50",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "房屋建筑业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市经济技术开发区翡翠路以西，金炉路以南港澳广场A 座17楼",
+    "latest_annual_report_address": "安徽省合肥市经济技术开发区翡翠路以西，金炉路以南港澳广场A 座17楼",
+    "website": "www.ahzhjs.com",
+    "business_scope": "许可项目：地质灾害治理工程施工；文物保护工程施工；建设工程施工；人防工程防护设备安装；电气安装服务；舞台工程施工；住宅室内装饰装修；建筑劳务分包；施工专业作业；建设工程监理；建设工程设计；路基路面养护作业；公路管理与养护；人防工程防护设备销售；公路工程监理；城市建筑垃圾处置（清运）；城市生活垃圾经营性服务；水利工程建设监理（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）一般项目：园林绿化工程施工；体育场地设施工程施工；普通机械设备安装服务；室内木门窗安装服务；土石方工程施工；金属门窗工程施工；家具安装和维修服务；家用电器安装服务；建筑物清洁服务；市政设施管理；工程管理服务；金属结构制造；工程技术服务（规划管理、勘察、设计、监理除外）；信息技术咨询服务；对外承包工程；消防器材销售；建设工程消防验收现场评定技术服务；建筑砌块制造；建筑废弃物再生技术研发；建筑砌块销售；灌溉服务；卫星遥感应用系统集成；白蚁防治服务；水利相关咨询服务（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）",
+    "match_status": "成功"
+  }
+}

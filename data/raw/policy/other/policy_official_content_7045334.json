@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7045334",
+  "normalized_projection": {
+    "title": "市场监管总局关于发布《蛋制品生产许可审查细则（2025版）》的公告",
+    "issuer": "市场监管总局",
+    "index_no": "未标注",
+    "subject_category": "市场监管、安全生产监管\\食品药品监管",
+    "doc_no": "国家市场监督管理总局公告2025年第35号",
+    "publish_date": "2025-10-21",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045334.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251021797297759105.pdf"
+    ],
+    "keywords": [
+      "市场监管",
+      "安全生产监管",
+      "食品药品监管"
+    ],
+    "effective_date": "2025-09-18",
+    "abolish_date": "",
+    "summary": "为了严格规范蛋制品生产许可，加强蛋制品质量安全监管，根据《中华人民共和国食品安全法》《中华人民共和国食品安全法实施条例》《食品生产许可管理办法》（市场监管总局令第24号）等法律法规，市场监管总局组织制定了《蛋制品生产许可审查细则（2025版）》，现予发布，自2026年1月1日起施行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7045334",
+    "title": "市场监管总局关于发布《蛋制品生产许可审查细则（2025版）》的公告",
+    "content": "市场监管总局关于发布《蛋制品生产许可审查细则（2025版）》的公告\n国家市场监督管理总局公告2025年第35号\n为了严格规范蛋制品生产许可，加强蛋制品质量安全监管，根据《中华人民共和国食品安全法》《中华人民共和国食品安全法实施条例》《食品生产许可管理办法》（市场监管总局令第24号）等法律法规，市场监管总局组织制定了《蛋制品生产许可审查细则（2025版）》，现予发布，自2026年1月1日起施行。\n市场监管总局\n2025年9月18日\n附件下载：市场监管总局关于发布《蛋制品生产许可审查细则（2025版）》的公告",
+    "source": "市场监管总局网站",
+    "publish_time": "2025-10-21",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045334.htm",
+    "category": "市场监管、安全生产监管\\食品药品监管",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "255"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7045334",
+    "title": "市场监管总局关于发布《蛋制品生产许可审查细则（2025版）》的公告",
+    "source_name": "市场监管总局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-10-21",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045334.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045334.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "市场监管总局关于发布《蛋制品生产许可审查细则（2025版）》的公告",
+      "发文机关": "市场监管总局",
+      "发文字号": "国家市场监督管理总局公告2025年第35号",
+      "来源": "市场监管总局网站",
+      "主题分类": "市场监管、安全生产监管\\食品药品监管",
+      "公文种类": "公告",
+      "成文日期": "2025年09月18日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251021797297759105.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7045334.html"
+  },
+  "raw_legal_doc": {}
+}

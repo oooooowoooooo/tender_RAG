@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "113401000029918721",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "113401000029918721",
+    "enterprise_name": "合肥经济技术开发区建设发展局",
+    "legal_representative": "张兴龙",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "合肥经济技术开发区翡翠路398号",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 63,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022AJJFN00103",
+      "2023AJJFN00010",
+      "2023AJJFN00014",
+      "2023AJJFN00066",
+      "2023AJJFN00067"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥经济技术开发区建设发展局",
+    "business_status": "开业",
+    "legal_representative": "张兴龙",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "合肥市",
+    "phone": "0551-63886173",
+    "additional_phones": "0551-63886172,0551-63679229,0551-63886114,18655126977,13955126346",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "113401000029918721",
+    "taxpayer_identification_number": "113401000029918721",
+    "business_registration_number": "-",
+    "organization_code": "00299187-2",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "合肥经济技术开发区翡翠路398号",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

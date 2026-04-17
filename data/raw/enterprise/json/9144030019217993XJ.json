@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9144030019217993XJ",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9144030019217993XJ",
+    "enterprise_name": "深圳市晶宫建筑装饰集团有限公司",
+    "legal_representative": "王科",
+    "entity_type": "有限责任公司",
+    "established_date": "26/3/1985 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "108000000",
+    "business_status": "开业",
+    "registered_address": "深圳市福田区福保街道市花路14号盈福大厦六楼",
+    "business_scope": "承担各类建筑的室内、室外装饰装修工程的设计和施工；承担各类型建筑幕墙工程的设计与施工；承担机电设备安装工程（不含特种设备及其他限制项目）、建筑智能化工程、金属门窗工程、消防设施工程、钢结构工程、园林绿化工程的设计与施工；建筑材料、灯具、卫生洁具、家私的购销；自有物业的租赁和管理；投资兴办实业（具体项目另行申报）；国内贸易；经营进出口业务。（法律、行政法规、国务院决定禁止的项目除外，限制的项目须取得许可后方可经营）^承包与其实力、规模、业绩相适应的国外工程项目，对外派遣实施上述境外工程所需的劳务人员；建设工程施工。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 4,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023AFAGZ02168",
+      "2023BFFGZ00230",
+      "2023BFGGZ00975"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "深圳市晶宫建筑装饰集团有限公司",
+    "business_status": "开业",
+    "legal_representative": "王科",
+    "registered_capital": "108000000",
+    "paid_in_capital": "62350000",
+    "establishment_date": "26/3/1985 00:00:00",
+    "approval_date": "26/1/2024 00:00:00",
+    "business_term": "1985-03-26 至 2055-07-21",
+    "province": "广东省",
+    "city": "深圳市",
+    "district": "福田区",
+    "phone": "0755-84222303",
+    "additional_phones": "13929319757,18607269736,13760237036,0755-27659809,15602969898",
+    "email": "jgzs@jinggongzs.com",
+    "additional_emails": "mu.lin@jinggongzs.com,lm19946@163.com,821042527@qq.com",
+    "unified_social_credit_code": "9144030019217993XJ",
+    "taxpayer_identification_number": "9144030019217993XJ",
+    "business_registration_number": "440301102912564",
+    "organization_code": "19217993-X",
+    "insured_personnel_count": "0",
+    "company_type": "有限责任公司",
+    "industry": "建筑装饰、装修和其他建筑业",
+    "former_name": "深圳市晶宫设计装饰工程有限公司",
+    "registered_address": "深圳市福田区福保街道市花路14号盈福大厦六楼",
+    "latest_annual_report_address": "深圳市福田区福保街道市花路14号盈福大厦六楼",
+    "website": "www.jinggongzs.com",
+    "business_scope": "承担各类建筑的室内、室外装饰装修工程的设计和施工；承担各类型建筑幕墙工程的设计与施工；承担机电设备安装工程（不含特种设备及其他限制项目）、建筑智能化工程、金属门窗工程、消防设施工程、钢结构工程、园林绿化工程的设计与施工；建筑材料、灯具、卫生洁具、家私的购销；自有物业的租赁和管理；投资兴办实业（具体项目另行申报）；国内贸易；经营进出口业务。（法律、行政法规、国务院决定禁止的项目除外，限制的项目须取得许可后方可经营）^承包与其实力、规模、业绩相适应的国外工程项目，对外派遣实施上述境外工程所需的劳务人员；建设工程施工。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7045453",
+  "normalized_projection": {
+    "title": "工业和信息化部关于公布第七批国家工业遗产及通过复核的第三批国家工业遗产名单的通知",
+    "issuer": "工业和信息化部",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\其他",
+    "doc_no": "工信部政法函〔2025〕273号",
+    "publish_date": "2025-10-23",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045453.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251023673841327810.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251023673841442628.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "其他"
+    ],
+    "effective_date": "2025-10-17",
+    "abolish_date": "",
+    "summary": "为贯彻落实习近平总书记关于文化遗产保护传承的重要论述，加强工业遗产保护利用，根据《国家工业遗产管理办法》（工信部政法〔2023〕24号）和《工业和信息化部办公厅关于组织开展第七批国家工业遗产认定申报和第三批复核工作的通知》（工信厅政法函〔2025〕72号），经项目单位自愿申报、省级工业和信息化主管部门与中央企业初审推荐、形式审查、专家评审、现场核查及社会公示等程序，我部确定了第七批国家工业遗产和通过复核的第三批国家工业遗产名单，现予以公布。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7045453",
+    "title": "工业和信息化部关于公布第七批国家工业遗产及通过复核的第三批国家工业遗产名单的通知",
+    "content": "工业和信息化部关于公布第七批国家工业遗产及通过复核的第三批国家工业遗产名单的通知\n工信部政法函〔2025〕273号\n各省、自治区、直辖市及新疆生产建设兵团工业和信息化主管部门，有关中央企业：\n为贯彻落实习近平总书记关于文化遗产保护传承的重要论述，加强工业遗产保护利用，根据《国家工业遗产管理办法》（工信部政法〔2023〕24号）和《工业和信息化部办公厅关于组织开展第七批国家工业遗产认定申报和第三批复核工作的通知》（工信厅政法函〔2025〕72号），经项目单位自愿申报、省级工业和信息化主管部门与中央企业初审推荐、形式审查、专家评审、现场核查及社会公示等程序，我部确定了第七批国家工业遗产和通过复核的第三批国家工业遗产名单，现予以公布。\n请各地工业和信息化主管部门、有关中央企业加强工业遗产整体性系统性保护，加大资源保障，强化监督管理；积极推动工业遗产活化利用，探索“工业遗产+”科普教育、旅游休闲、产业重塑等新模式新业态；加大宣传推广力度，深入挖掘、系统展示工业遗产的价值内涵，营造全社会关心关注工业遗产的浓厚氛围。\n《工业和信息化部关于公布第三批国家工业遗产名单的通告》（工信部产业函〔2019〕403号）同时作废。\n附件：\n  1.第七批国家工业遗产名单\n  2.通过复核的第三批国家工业遗产名单\n工业和信息化部\n2025年10月17日",
+    "source": "工业和信息化部网站",
+    "publish_time": "2025-10-23",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045453.htm",
+    "category": "工业、交通\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "571"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7045453",
+    "title": "工业和信息化部关于公布第七批国家工业遗产及通过复核的第三批国家工业遗产名单的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-10-23",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045453.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202510/content_7045453.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "工业和信息化部关于公布第七批国家工业遗产及通过复核的第三批国家工业遗产名单的通知",
+      "发文机关": "工业和信息化部",
+      "发文字号": "工信部政法函〔2025〕273号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年10月17日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251023673841327810.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202510/P020251023673841442628.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7045453.html"
+  },
+  "raw_legal_doc": {}
+}

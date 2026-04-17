@@ -1,0 +1,66 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "1234018179187909X4",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "1234018179187909X4",
+    "enterprise_name": "巢湖市市政管理处",
+    "legal_representative": "鲍二军",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "420000",
+    "business_status": "开业",
+    "registered_address": "巢湖市世纪大道富达花园1号楼四层",
+    "business_scope": "管理城区内市政道路、桥梁、雨水管网等其它管理范围内市政设施；监管新建、改建、扩建市政工程；对城区内公共停车场、施工及其它占道行为进行监管；对破挖市政道路及城市桥梁附挂进行监管；监管各窨井设施产权责任单位落实管理、养护、维修职责，承担我市城市窨井应急处置工作。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 27,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023AMMFN00034"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "巢湖市市政管理处",
+    "business_status": "开业",
+    "legal_representative": "鲍二军",
+    "registered_capital": "420000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "2020-01-09 至 2025-01-09",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "巢湖市",
+    "phone": "13965687585",
+    "additional_phones": "0551-82631145,13956615464,13505657038,18956589966",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "1234018179187909X4",
+    "taxpayer_identification_number": "1234018179187909X4",
+    "business_registration_number": "-",
+    "organization_code": "79187909-X",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "巢湖市世纪大道富达花园1号楼四层",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "管理城区内市政道路、桥梁、雨水管网等其它管理范围内市政设施；监管新建、改建、扩建市政工程；对城区内公共停车场、施工及其它占道行为进行监管；对破挖市政道路及城市桥梁附挂进行监管；监管各窨井设施产权责任单位落实管理、养护、维修职责，承担我市城市窨井应急处置工作。",
+    "match_status": "成功"
+  }
+}

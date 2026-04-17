@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7046753",
+  "normalized_projection": {
+    "title": "关于印发《深化智慧城市发展推进全域数字化转型行动计划》的通知",
+    "issuer": "国家发展改革委 国家数据局 财政部 住房城乡建设部 自然资源部",
+    "index_no": "未标注",
+    "subject_category": "城乡建设、环境保护\\城市规划",
+    "doc_no": "发改数据〔2025〕1306号",
+    "publish_date": "2025-11-01",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7046753.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251101549934214409.pdf"
+    ],
+    "keywords": [
+      "城乡建设",
+      "环境保护",
+      "城市规划"
+    ],
+    "effective_date": "2025-10-14",
+    "abolish_date": "",
+    "summary": "为进一步深化智慧城市发展、推进全域数字化转型，充分发挥数据赋能城市经济社会发展作用，国家发展改革委、国家数据局、财政部、住房城乡建设部、自然资源部组织制定了《深化智慧城市发展 推进全域数字化转型行动计划》。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7046753",
+    "title": "关于印发《深化智慧城市发展推进全域数字化转型行动计划》的通知",
+    "content": "国家发展改革委等部门关于印发《深化智慧城市发展推进全域数字化转型行动计划》的通知\n发改数据〔2025〕1306号\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团发展改革委、数据管理部门、财政厅（局）、住房和城乡建设厅（委、管委、局）、城市管理委（局）、自然资源主管部门：\n为进一步深化智慧城市发展、推进全域数字化转型，充分发挥数据赋能城市经济社会发展作用，国家发展改革委、国家数据局、财政部、住房城乡建设部、自然资源部组织制定了《深化智慧城市发展 推进全域数字化转型行动计划》。现印发给你们，请遵照执行。\n国家发展改革委\n国家数据局\n财政部\n住房城乡建设部\n自然资源部\n2025年10月14日\n附件：深化智慧城市发展 推进全域数字化转型行动计划",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-11-01",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7046753.htm",
+    "category": "城乡建设、环境保护\\城市规划",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "324"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7046753",
+    "title": "关于印发《深化智慧城市发展推进全域数字化转型行动计划》的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-11-01",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7046753.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7046753.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《深化智慧城市发展推进全域数字化转型行动计划》的通知",
+      "发文机关": "国家发展改革委 国家数据局 财政部 住房城乡建设部 自然资源部",
+      "发文字号": "发改数据〔2025〕1306号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "城乡建设、环境保护\\城市规划",
+      "公文种类": "通知",
+      "成文日期": "2025年10月14日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251101549934214409.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7046753.html"
+  },
+  "raw_legal_doc": {}
+}

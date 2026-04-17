@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "12340100728521992X",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "12340100728521992X",
+    "enterprise_name": "合肥市气象局",
+    "legal_representative": "程文杰",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "30085000",
+    "business_status": "开业",
+    "registered_address": "合肥市大房郢水库坝下",
+    "business_scope": "提供气象预报资料、灾害性天气研究、促进经济发展",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 14,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022BFFFN02559",
+      "2023AFFHZ00381",
+      "2023BFFFD00609",
+      "2023BFFFN00522",
+      "2023BFFFN02317"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥市气象局",
+    "business_status": "开业",
+    "legal_representative": "程文杰",
+    "registered_capital": "30085000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "2018-10-12 至 2023-10-12",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "合肥市",
+    "phone": "13083409798",
+    "additional_phones": "18855180610,0551-63537950,0551-63537555,0551-65685012,0551-2290366",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "12340100728521992X",
+    "taxpayer_identification_number": "12340100728521992X",
+    "business_registration_number": "-",
+    "organization_code": "72852199-2",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "合肥市大房郢水库坝下",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "提供气象预报资料、灾害性天气研究、促进经济发展",
+    "match_status": "成功"
+  }
+}

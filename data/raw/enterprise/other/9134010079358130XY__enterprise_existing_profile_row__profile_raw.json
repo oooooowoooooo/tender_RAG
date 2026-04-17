@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "9134010079358130XY",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "安徽中天制冷空调工程有限公司",
+  "raw_profile": {
+    "record_id": "827",
+    "title": "安徽中天制冷空调工程有限公司",
+    "corporation": "潘永生",
+    "amount_raw": "6000万人民币",
+    "event_time": "2006-09-28",
+    "manage_date": "2006-09-28 至 2056-09-28",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "瑶海区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "建筑安装业",
+    "USCC": "9134010079358130XY",
+    "TIN": "9134010079358130XY",
+    "registed_num": "340000000019057",
+    "insured_persons": "70",
+    "location": "合肥市瑶海区新蚌埠路七里香榭花园7号楼102号",
+    "source_url": "http://www.ahztzl.com",
+    "content": "空调、制冷设备、计算机、通讯器材、家用电器、机电设备的销售、维修及安装，环保工程。",
+    "search_text": "",
+    "capital_value": "60000000"
+  }
+}

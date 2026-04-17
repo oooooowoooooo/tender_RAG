@@ -1,0 +1,63 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340800786525182B",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340800786525182B",
+    "enterprise_name": "安徽新锐公路工程有限责任公司",
+    "legal_representative": "朱永红",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "2006-04-04",
+    "registration_authority": "",
+    "registered_capital": "3001万人民币",
+    "business_status": "存续",
+    "registered_address": "安徽省安庆市茅青路中段",
+    "business_scope": "公路工程、公路养护工程、交通工程、市政公用工程、公路机电、园林绿化工程、水利水电工程、环保工程、消防工程、体育场工程、装饰装修工程、地基与基础工程、桥梁工程、隧道工程、钢结构工程、防水防腐工程、通讯工程施工；交通安全设施施工；交通标线施工；建筑劳务分包；机械设备租赁；沥青混凝土搅拌；交通标志杆、标志牌、护栏、隔离栅、声屏障、交通照明设备安装、销售；建材产品销售；工程咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "http://www.ahxrgl.com",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 3,
+    "selected_project_ids": [
+      "2023ANNFZ00449"
+    ],
+    "all_linked_project_ids": [
+      "2023AEEGZ00079",
+      "2023ANNFZ00416",
+      "2023ANNFZ00449"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "1479",
+    "title": "安徽新锐公路工程有限责任公司",
+    "corporation": "朱永红",
+    "amount_raw": "3001万人民币",
+    "event_time": "2006-04-04",
+    "manage_date": "2006-04-04 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "安庆市",
+    "district": "大观区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "土木工程建筑业",
+    "USCC": "91340800786525182B",
+    "TIN": "91340800786525182B",
+    "registed_num": "340800000009531",
+    "insured_persons": "55",
+    "location": "安徽省安庆市茅青路中段",
+    "source_url": "http://www.ahxrgl.com",
+    "content": "公路工程、公路养护工程、交通工程、市政公用工程、公路机电、园林绿化工程、水利水电工程、环保工程、消防工程、体育场工程、装饰装修工程、地基与基础工程、桥梁工程、隧道工程、钢结构工程、防水防腐工程、通讯工程施工；交通安全设施施工；交通标线施工；建筑劳务分包；机械设备租赁；沥青混凝土搅拌；交通标志杆、标志牌、护栏、隔离栅、声屏障、交通照明设备安装、销售；建材产品销售；工程咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "30010000"
+  }
+}

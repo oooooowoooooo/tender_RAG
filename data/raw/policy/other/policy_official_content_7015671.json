@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7015671",
+  "normalized_projection": {
+    "title": "市场监管总局办公厅关于印发《中介合同（示范文本）》的通知",
+    "issuer": "市场监管总局",
+    "index_no": "未标注",
+    "subject_category": "市场监管、安全生产监管\\标准",
+    "doc_no": "市监网监发〔2025〕18号",
+    "publish_date": "2025-03-26",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015671.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250326370886435139.pdf"
+    ],
+    "keywords": [
+      "市场监管",
+      "安全生产监管",
+      "标准"
+    ],
+    "effective_date": "2025-03-04",
+    "abolish_date": "",
+    "summary": "现将修订后的《中介合同（示范文本）》（GF—2025—2613）印发给你们，供社会公众参照使用。修订之前的原合同示范文本同时废止。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7015671",
+    "title": "市场监管总局办公厅关于印发《中介合同（示范文本）》的通知",
+    "content": "市场监管总局办公厅关于印发《中介合同（示范文本）》的通知\n市监网监发〔2025〕18号\n各省、自治区、直辖市和新疆生产建设兵团市场监管局（厅、委）：\n为落实《中华人民共和国民法典》有关规定，提升合同示范文本的专业性和规范性，市场监管总局对原工商总局制订的《居间合同（示范文本）》（GF—2000—1201）进行了修订。根据《中华人民共和国民法典》的最新表述，将原《居间合同（示范文本）》变更为《中介合同（示范文本）》。\n现将修订后的《中介合同（示范文本）》（GF—2025—2613）印发给你们，供社会公众参照使用。修订之前的原合同示范文本同时废止。\n市场监管总局办公厅\n2025年3月4日  \n\n（此件公开发布）\n附件：《中介合同（示范文本）》（GF—2025—2613）",
+    "source": "市场监管总局网站",
+    "publish_time": "2025-03-26",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015671.htm",
+    "category": "市场监管、安全生产监管\\标准",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "337"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7015671",
+    "title": "市场监管总局办公厅关于印发《中介合同（示范文本）》的通知",
+    "source_name": "市场监管总局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-26",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015671.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7015671.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "市场监管总局办公厅关于印发《中介合同（示范文本）》的通知",
+      "发文机关": "市场监管总局",
+      "发文字号": "市监网监发〔2025〕18号",
+      "来源": "市场监管总局网站",
+      "主题分类": "市场监管、安全生产监管\\标准",
+      "公文种类": "通知",
+      "成文日期": "2025年03月04日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250326370886435139.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7015671.html"
+  },
+  "raw_legal_doc": {}
+}

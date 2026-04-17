@@ -1,0 +1,71 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7017195",
+  "normalized_projection": {
+    "title": "海关总署公告2025年第43号（关于进出境人员行李物品申报有关事宜的公告）",
+    "issuer": "海关总署",
+    "index_no": "未标注",
+    "subject_category": "商贸、海关、旅游\\海关",
+    "doc_no": "2025年第43号",
+    "publish_date": "2025-04-04",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7017195.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250404445610774297.docx",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250404445611155608.doc",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250404445611224125.pdf"
+    ],
+    "keywords": [
+      "商贸",
+      "海关",
+      "旅游"
+    ],
+    "effective_date": "2025-03-31",
+    "abolish_date": "",
+    "summary": "进出境人员携带应向海关书面申报物品的，应当填写《中华人民共和国海关进出境人员行李物品申报单》，向海关书面申报，选择“红色通道”通关。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7017195",
+    "title": "海关总署公告2025年第43号（关于进出境人员行李物品申报有关事宜的公告）",
+    "content": "海关总署公告\n2025年第43号\n\n为便利进出境人员办理行李物品申报手续，现就有关事项公告如下：\n一、进出境人员携带应向海关书面申报物品的，应当填写《中华人民共和国海关进出境人员行李物品申报单》（以下称《申报单》，式样见附件），向海关书面申报，选择“红色通道”通关。\n二、进出境人员未携带应向海关书面申报物品的，无需填报《申报单》，选择“绿色通道”通关。\n三、进境人员有下列情形之一的，应当如实填报纸质《申报单》或电子申报数据，并接受海关验核，办理相应手续：\n（一）携带禁止进境物品的；\n（二）携带限制进境物品超过限额、限量要求或者应当提交许可证件以及其他证明材料的；\n（三）携带动植物、动植物产品和其他检疫物的；\n（四）携带血液等人体组织、病原微生物、生物制品等关系公共卫生安全的物品的；\n（五）携带受到检疫传染病污染或者存在传播检疫传染病风险的物品的；\n（六）携带超过规定数额货币现钞的；\n（七）携带超过规定免税数额或者限量要求物品的；\n（八）携带货物、货样、广告品的；\n（九）以分离运输方式运进行李物品的；\n（十）携带其他依法需要书面申报行李物品的。\n四、出境人员有下列情形之一的，应当如实填报纸质《申报单》或电子申报数据，并接受海关验核，办理相应手续：\n（一）携带禁止出境物品的；\n（二）携带限制出境物品超过限额、限量要求或者应当提交许可证件以及其他证明材料的；\n（三）携带货物、货样、广告品的；\n（四）携带血液等人体组织、病原微生物、生物制品等关系公共卫生安全的物品的；\n（五）携带受到检疫传染病污染或者存在传播检疫传染病风险的物品的；\n（六）携带超过规定数额货币现钞的；\n（七）携带其他依法需要书面申报行李物品的。\n五、进出境人员可以通过微信或支付宝“海关进出境人员指尖服务”小程序、互联网网页等渠道预先填写行李物品电子申报数据，进出境时，在申报台等指定地点确认相关数据，并接受海关验核，办理相应手续。\n六、携带暂时进出境的行李物品，需要向海关书面申报登记的，参照本公告第三条至第五条执行。\n本公告自2025年4月1日起施行。海关总署公告2007年第72号（关于在全国各对外开放口岸实行新的进出境旅客申报制度的公告）同时废止。\n特此公告。\n附件：中华人民共和国海关进出境人员行李物品申报单（式样）.docx\n海关总署\n2025年3月31日\n公告正文下载：\n海关总署关于进出境人员行李物品申报有关事宜的公告.doc\n海关总署关于进出境人员行李物品申报有关事宜的公告.pdf",
+    "source": "海关总署网站",
+    "publish_time": "2025-04-04",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7017195.htm",
+    "category": "商贸、海关、旅游\\海关",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "1041"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7017195",
+    "title": "海关总署公告2025年第43号（关于进出境人员行李物品申报有关事宜的公告）",
+    "source_name": "海关总署网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-04-04",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7017195.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7017195.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "海关总署公告2025年第43号（关于进出境人员行李物品申报有关事宜的公告）",
+      "发文机关": "海关总署",
+      "发文字号": "2025年第43号",
+      "来源": "海关总署网站",
+      "主题分类": "商贸、海关、旅游\\海关",
+      "公文种类": "公告",
+      "成文日期": "2025年03月31日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250404445610774297.docx",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250404445611155608.doc",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250404445611224125.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7017195.html"
+  },
+  "raw_legal_doc": {}
+}

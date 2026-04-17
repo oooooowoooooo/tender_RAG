@@ -1,0 +1,63 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340122772835200Y",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340122772835200Y",
+    "enterprise_name": "合肥雅利家具有限公司",
+    "legal_representative": "周先敏",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "2005-04-18",
+    "registration_authority": "",
+    "registered_capital": "8088万人民币",
+    "business_status": "存续",
+    "registered_address": "安徽省合肥市肥东县经济开发区祥和路北段东侧",
+    "business_scope": "办公家具、学校家具、酒店家具、幼儿家具、公共场所家具、医院家具、公寓家具、法庭家具、银行家具、实木家具、钢木家具、软体家具、定制家具、智能家具、橱柜的设计、研发、制造、运输、安装、销售及售后；木门、建材、卫浴、板材、钢材五金配件、厨房设备、办公设备、办公用品、办公耗材、体育健身器材的销售和售后；电子电器产品、音视频、教学仪器设备、音体美相关教育装备器材、实验室设备、计算机系统集成相关设计、安装、销售及售后；室内外装饰工程施工；仓储服务（除危险品）；普通货物运输。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 5,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022ANNHZ00469",
+      "2023AGGHN00130",
+      "2023AJJHZ00044",
+      "2023BFFHZ01522",
+      "2023BFFHZ01771"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "4544",
+    "title": "合肥雅利家具有限公司",
+    "corporation": "周先敏",
+    "amount_raw": "8088万人民币",
+    "event_time": "2005-04-18",
+    "manage_date": "2005-04-18 至 2035-12-30",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥东县",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "家具制造业",
+    "USCC": "91340122772835200Y",
+    "TIN": "91340122772835200Y",
+    "registed_num": "340100000221817",
+    "insured_persons": "6",
+    "location": "安徽省合肥市肥东县经济开发区祥和路北段东侧",
+    "source_url": "-",
+    "content": "办公家具、学校家具、酒店家具、幼儿家具、公共场所家具、医院家具、公寓家具、法庭家具、银行家具、实木家具、钢木家具、软体家具、定制家具、智能家具、橱柜的设计、研发、制造、运输、安装、销售及售后；木门、建材、卫浴、板材、钢材五金配件、厨房设备、办公设备、办公用品、办公耗材、体育健身器材的销售和售后；电子电器产品、音视频、教学仪器设备、音体美相关教育装备器材、实验室设备、计算机系统集成相关设计、安装、销售及售后；室内外装饰工程施工；仓储服务（除危险品）；普通货物运输。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "80880000"
+  }
+}

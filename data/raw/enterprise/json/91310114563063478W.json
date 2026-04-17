@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91310114563063478W",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91310114563063478W",
+    "enterprise_name": "寿宝机械（上海）有限公司",
+    "legal_representative": "邵兴文",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "26/9/2010 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "15000000",
+    "business_status": "开业",
+    "registered_address": "上海市嘉定区封周路655号14幢201室J2806",
+    "business_scope": "机械设备及配件、机电设备及配件、五金交电、电子产品、仪器仪表、润滑油的销售，从事货物和技术的进出口业务。 【依法须经批准的项目，经相关部门批准后方可开展经营活动】",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023AEEAZ00343"
+    ],
+    "all_linked_project_ids": [
+      "2023AEEAZ00343"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "寿宝机械（上海）有限公司",
+    "business_status": "开业",
+    "legal_representative": "邵兴文",
+    "registered_capital": "15000000",
+    "paid_in_capital": "60000",
+    "establishment_date": "26/9/2010 00:00:00",
+    "approval_date": "18/4/2024 00:00:00",
+    "business_term": "2010-09-26 至 2030-09-25",
+    "province": "上海市",
+    "city": "市辖区",
+    "district": "嘉定区",
+    "phone": "0898-66889777",
+    "additional_phones": "021-39515544,0898-6698988,0898-66889888,13845987767,13845645567",
+    "email": "shoubao@163.com",
+    "additional_emails": "shshoubao8@163.com,mobsou@163.com",
+    "unified_social_credit_code": "91310114563063478W",
+    "taxpayer_identification_number": "91310114563063478W",
+    "business_registration_number": "310114002184692",
+    "organization_code": "56306347-8",
+    "insured_personnel_count": "1",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "批发业",
+    "former_name": "宝气机械(上海)有限公司",
+    "registered_address": "上海市嘉定区封周路655号14幢201室J2806",
+    "latest_annual_report_address": "上海市嘉定区封周路655号14幢201室J2806",
+    "website": "-",
+    "business_scope": "机械设备及配件、机电设备及配件、五金交电、电子产品、仪器仪表、润滑油的销售，从事货物和技术的进出口业务。 【依法须经批准的项目，经相关部门批准后方可开展经营活动】",
+    "match_status": "成功"
+  }
+}

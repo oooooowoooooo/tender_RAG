@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7054861",
+  "normalized_projection": {
+    "title": "财政部 税务总局关于延续实施境外机构投资境内债券市场企业所得税、增值税政策的公告",
+    "issuer": "财政部 税务总局",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\税务",
+    "doc_no": "财政部 税务总局公告2026年第5号",
+    "publish_date": "2026-01-15",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054861.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "税务"
+    ],
+    "effective_date": "2026-01-13",
+    "abolish_date": "",
+    "summary": "自2026年1月1日起至2027年12月31日止，对境外机构投资境内债券市场取得的债券利息收入暂免征收企业所得税和增值税。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7054861",
+    "title": "财政部 税务总局关于延续实施境外机构投资境内债券市场企业所得税、增值税政策的公告",
+    "content": "财政部 税务总局关于延续实施境外机构投资境内债券市场企业所得税、增值税政策的公告\n财政部 税务总局公告2026年第5号\n为进一步推动债券市场对外开放，现将有关税收政策公告如下：\n自2026年1月1日起至2027年12月31日止，对境外机构投资境内债券市场取得的债券利息收入暂免征收企业所得税和增值税。\n上述暂免征收企业所得税的范围不包括境外机构在境内设立的机构、场所取得的与该机构、场所有实际联系的债券利息。\n特此公告。\n财政部 税务总局\n2026年1月13日",
+    "source": "税务总局网站",
+    "publish_time": "2026-01-15",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054861.htm",
+    "category": "财政、金融、审计\\税务",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "230"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7054861",
+    "title": "财政部 税务总局关于延续实施境外机构投资境内债券市场企业所得税、增值税政策的公告",
+    "source_name": "税务总局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-01-15",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054861.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054861.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "财政部 税务总局关于延续实施境外机构投资境内债券市场企业所得税、增值税政策的公告",
+      "发文机关": "财政部 税务总局",
+      "发文字号": "财政部 税务总局公告2026年第5号",
+      "来源": "税务总局网站",
+      "主题分类": "财政、金融、审计\\税务",
+      "公文种类": "公告",
+      "成文日期": "2026年01月13日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7054861.html"
+  },
+  "raw_legal_doc": {}
+}

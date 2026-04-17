@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "legal:129",
+  "normalized_projection": {
+    "title": "中央国家机关政府采购电子卖场运行规则(第5期)",
+    "issuer": "全国法规整理",
+    "index_no": "未标注",
+    "subject_category": "政府采购",
+    "doc_no": "国机采[2022]12号",
+    "publish_date": "2022-05-08",
+    "validity_status": "active",
+    "policy_level": "national",
+    "source_url": "未标注",
+    "attachment_paths": [],
+    "keywords": [],
+    "effective_date": "",
+    "abolish_date": "",
+    "summary": ""
+  },
+  "raw_doc": {
+    "id": "legal:129",
+    "title": "中央国家机关政府采购电子卖场运行规则(第5期)",
+    "content": "中央国家机关政府采购电子卖场运行规则(第5期)\n\n（2022年8月5日公布，国机采[2022]12号）\n\n根据《中央国家机关政府采购电子卖场管理办法》，结合电子卖场运营管理实际，现就经销商、电商违规违约行为和采购预警功能规定如下。\n\n一、经销商、电商因触发《中央国家机关政府采购电子卖场管理办法》违约情形被暂停交易资格，恢复权限后180天内再次因违规违约被第二次暂停电子卖场交易权限的，视为情节较为严重情形，中央国家机关政府采购中心将暂停其电子卖场交易权限6个月并予以公示。\n\n二、采购人下单时所购商品价格超出该商品所有实时报价中位价20%的，系统自动阻断该订单的生成。\n\n本期规则自公布之日起生效。",
+    "source": "全国法规整理",
+    "publish_time": "5-8-2022",
+    "url": "",
+    "category": "政府采购",
+    "project_type": "政府采购",
+    "region": "全国",
+    "region_level": "national",
+    "source_type": "curated_existing",
+    "corpus_tag": "national_baseline",
+    "word_count": "300"
+  },
+  "raw_meta": {
+    "id": "legal:129",
+    "title": "中央国家机关政府采购电子卖场运行规则(第5期)",
+    "publish_date": "5-8-2022",
+    "source_url": "",
+    "document_url": "",
+    "region": "全国",
+    "region_level": "national",
+    "category": "政府采购",
+    "project_type": "政府采购",
+    "source_type": "curated_existing",
+    "source_name": "全国法规整理",
+    "word_count": "300",
+    "corpus_tag": "national_baseline",
+    "upstream_table": "legal_documents",
+    "created_at": "2026-04-14 13:47:23"
+  },
+  "raw_legal_doc": {
+    "id": "129",
+    "title": "中央国家机关政府采购电子卖场运行规则(第5期)",
+    "publish_date": "5/8/2022",
+    "content": "### 中央国家机关政府采购电子卖场运行规则(第5期)\n\n（2022年8月5日公布，国机采[2022]12号）\n\n根据《中央国家机关政府采购电子卖场管理办法》，结合电子卖场运营管理实际，现就经销商、电商违规违约行为和采购预警功能规定如下。\n\n一、经销商、电商因触发《中央国家机关政府采购电子卖场管理办法》违约情形被暂停交易资格，恢复权限后180天内再次因违规违约被第二次暂停电子卖场交易权限的，视为情节较为严重情形，中央国家机关政府采购中心将暂停其电子卖场交易权限6个月并予以公示。\n\n二、采购人下单时所购商品价格超出该商品所有实时报价中位价20%的，系统自动阻断该订单的生成。\n\n本期规则自公布之日起生效。",
+    "status": "active",
+    "created_at": "19/10/2025 12:52:35",
+    "authority_level": "规范性文件",
+    "category": "政府采购"
+  }
+}

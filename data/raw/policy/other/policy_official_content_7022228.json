@@ -1,0 +1,69 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7022228",
+  "normalized_projection": {
+    "title": "关于印发《电力辅助服务市场基本规则》的通知",
+    "issuer": "国家发展改革委 国家能源局",
+    "index_no": "未标注",
+    "subject_category": "国土资源、能源\\电力",
+    "doc_no": "发改能源规〔2025〕411号",
+    "publish_date": "2025-05-02",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7022228.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250502358619916083.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250502359273236416.zip"
+    ],
+    "keywords": [
+      "国土资源",
+      "能源",
+      "电力"
+    ],
+    "effective_date": "2025-04-03",
+    "abolish_date": "",
+    "summary": "我们组织起草了《电力辅助服务市场基本规则》，现印发给你们，并就有关事项通知如下。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7022228",
+    "title": "关于印发《电力辅助服务市场基本规则》的通知",
+    "content": "国家发展改革委 国家能源局关于印发《电力辅助服务市场基本规则》的通知\n发改能源规〔2025〕411号\n各省、自治区、直辖市、新疆生产建设兵团发展改革委、能源局、经信委（工信委、工信厅），国家能源局各派出机构，国家电网有限公司、中国南方电网有限责任公司、中国华能集团有限公司、中国大唐集团有限公司、中国华电集团有限公司、国家能源投资集团有限公司、国家电力投资集团公司、中国节能环保集团有限公司、中国长江三峡集团有限公司、国家开发投资集团有限公司、中国核工业集团有限公司、中国广核集团有限公司、华润（集团）有限公司、内蒙古电力（集团）有限责任公司，北京、广州电力交易中心，有关发电企业：\n为贯彻落实加快建设全国统一电力市场要求，指导全国电力辅助服务市场建设，适应电力改革发展需要，根据《电力市场运行基本规则》（中华人民共和国国家发展和改革委员会2024年第20号令）、《国家发展改革委、国家能源局关于加快建设全国统一电力市场体系的指导意见》（发改体改〔2022〕118号）、《国家发展改革委、国家能源局关于建立健全电力辅助服务市场价格机制的通知》（发改价格〔2024〕196号）等有关规定，我们组织起草了《电力辅助服务市场基本规则》（以下简称《规则》），现印发给你们，并就有关事项通知如下。\n一、国家能源局派出机构会同省级价格、能源主管部门要根据《规则》和发改价格〔2024〕196号文件等有关规定，及时组织市场运营机构制修订辅助服务市场实施细则，维护统一的公平竞争制度，确保与《规则》要求一致。\n二、电力现货市场连续运行的地区，要完善现货市场规则，适当放宽市场限价，引导实现调峰功能，调峰及顶峰、调峰容量等具有类似功能的市场不再运行。\n三、国家能源局派出机构要会同省级价格主管部门等单位组织对电力辅助服务市场运行、资金使用、执行效果等情况进行年度评估。重大问题及时报告国家发展改革委、国家能源局。\n国家发展改革委\n国家能源局\n2025年4月3日\n附件：\n电力辅助服务市场基本规则.pdf\n电力辅助服务市场基本规则.zip",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-05-02",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7022228.htm",
+    "category": "国土资源、能源\\电力",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "859"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7022228",
+    "title": "关于印发《电力辅助服务市场基本规则》的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-05-02",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7022228.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7022228.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《电力辅助服务市场基本规则》的通知",
+      "发文机关": "国家发展改革委 国家能源局",
+      "发文字号": "发改能源规〔2025〕411号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "国土资源、能源\\电力",
+      "公文种类": "通知",
+      "成文日期": "2025年04月03日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250502358619916083.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250502359273236416.zip"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7022228.html"
+  },
+  "raw_legal_doc": {}
+}

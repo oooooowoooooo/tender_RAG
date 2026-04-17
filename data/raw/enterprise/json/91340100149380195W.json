@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100149380195W",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100149380195W",
+    "enterprise_name": "中建七局第二建筑有限公司",
+    "legal_representative": "尚恺喆",
+    "entity_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "established_date": "28/2/1984 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "551000000",
+    "business_status": "开业",
+    "registered_address": "昆山开发区珠江中路199号金鹰国际19F",
+    "business_scope": "房屋建筑工程施工总承包、市政公用工程施工总承包、钢结构工程专业承包、机电设备安装工程专业承包、地基与基础工程专业承包、建筑装修装饰工程专业承包、消防设施工程专业承包；施工机械料具租赁、咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023BFLGZ02442"
+    ],
+    "all_linked_project_ids": [
+      "2023BFFGZ00827",
+      "2023BFLGZ02442"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "中建七局第二建筑有限公司",
+    "business_status": "开业",
+    "legal_representative": "尚恺喆",
+    "registered_capital": "551000000",
+    "paid_in_capital": "551000000",
+    "establishment_date": "28/2/1984 00:00:00",
+    "approval_date": "17/7/2022 00:00:00",
+    "business_term": "-",
+    "province": "江苏省",
+    "city": "苏州市",
+    "district": "昆山市",
+    "phone": "0551-64695200",
+    "additional_phones": "15605161318,0553-4815678,15250949561,0551-64690969,0551-64690939",
+    "email": "cscec7b2@cscec.com",
+    "additional_emails": "702-bgs@cscec7b.com,amy0704@163.com,852648227@qq.com",
+    "unified_social_credit_code": "91340100149380195W",
+    "taxpayer_identification_number": "91340100149380195W",
+    "business_registration_number": "340200000012992",
+    "organization_code": "14938019-5",
+    "insured_personnel_count": "1660",
+    "company_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "industry": "房屋建筑业",
+    "former_name": "中国建筑第七工程局第二建筑公司",
+    "registered_address": "昆山开发区珠江中路199号金鹰国际19F",
+    "latest_annual_report_address": "昆山开发区珠江中路199号金鹰国际19F",
+    "website": "www.cscec7bhd.com",
+    "business_scope": "房屋建筑工程施工总承包、市政公用工程施工总承包、钢结构工程专业承包、机电设备安装工程专业承包、地基与基础工程专业承包、建筑装修装饰工程专业承包、消防设施工程专业承包；施工机械料具租赁、咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

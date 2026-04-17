@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "91340100698995977N",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "徽达环境产业有限公司",
+  "raw_profile": {
+    "record_id": "1227",
+    "title": "徽达环境产业有限公司",
+    "corporation": "姜勇",
+    "amount_raw": "5100万人民币",
+    "event_time": "2010-01-12",
+    "manage_date": "2010-01-12 至 2040-01-11",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐阳区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "其他服务业",
+    "USCC": "91340100698995977N",
+    "TIN": "91340100698995977N",
+    "registed_num": "340100000381206",
+    "insured_persons": "36",
+    "location": "安徽省合肥市庐阳经济开发区凌湖路富邦产业园Y-5栋",
+    "source_url": "-",
+    "content": "环卫设备、清洁用品的销售及租赁；道路、楼宇保洁服务；垃圾清运；垃圾分类服务；固体废弃物处理；水污染治理；垃圾无害化、资源化处理；大气环境治理；水面、河道保洁；除四害；公厕管养；道路护栏清洗维护；道路管理、养护；园林绿化工程；物业管理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "51000000"
+  }
+}

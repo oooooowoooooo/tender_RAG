@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100746754861N",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100746754861N",
+    "enterprise_name": "合肥高新股份有限公司",
+    "legal_representative": "敬正伟",
+    "entity_type": "其他股份有限公司(非上市)",
+    "established_date": "28/12/2002 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "3858000000",
+    "business_status": "开业",
+    "registered_address": "合肥市高新区创新大道2800号创新产业园二期H2楼",
+    "business_scope": "土地开发经营，基础设施建设及维护；房地产开发、经营；房产销售代理；物业管理；工程设计；建筑产业化、建筑智能化技术及产品研发、工程施工；新型建筑材料及安全、节能、环保新材料的研发、生产、销售；园林绿化工程；高新技术及产业投资、开发、产品经营；仓储物流；互联网及计算机软件的技术研发、转让及咨询服务；生物医药、养生保健技术及产品研发、转让、服务；医养居住、保健护理、康复医疗一体化项目咨询策划、开发运营、管理服务；集成电路技术研发、转让、咨询服务；公共安全技术研发、转让及咨询服务；智能语音技术及产品研发、转让、咨询服务；机械加工及制造，模具制造，机械技术咨询及服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 321,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023AFGGZ02364",
+      "2023AGGGZ00104",
+      "2023AGGWZ00101",
+      "2023AGGWZ00111",
+      "2023BFGGZ01869"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥高新股份有限公司",
+    "business_status": "开业",
+    "legal_representative": "敬正伟",
+    "registered_capital": "3858000000",
+    "paid_in_capital": "3658000000",
+    "establishment_date": "28/12/2002 00:00:00",
+    "approval_date": "25/3/2024 00:00:00",
+    "business_term": "2002-12-28 至 2050-12-28",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "0551-65326516",
+    "additional_phones": "0551-65326506,0551-65326517,0551-65326558,13856918875,13865926530",
+    "email": "ryd@hfgx.com",
+    "additional_emails": "hfg@hfgx.com,hfgx@hfgx.com",
+    "unified_social_credit_code": "91340100746754861N",
+    "taxpayer_identification_number": "91340100746754861N",
+    "business_registration_number": "340100000163024",
+    "organization_code": "74675486-1",
+    "insured_personnel_count": "74",
+    "company_type": "其他股份有限公司(非上市)",
+    "industry": "批发业",
+    "former_name": "-",
+    "registered_address": "合肥市高新区创新大道2800号创新产业园二期H2楼",
+    "latest_annual_report_address": "合肥市高新区创新大道2800号创新产业园二期H2楼",
+    "website": "www.hfgx.com",
+    "business_scope": "土地开发经营，基础设施建设及维护；房地产开发、经营；房产销售代理；物业管理；工程设计；建筑产业化、建筑智能化技术及产品研发、工程施工；新型建筑材料及安全、节能、环保新材料的研发、生产、销售；园林绿化工程；高新技术及产业投资、开发、产品经营；仓储物流；互联网及计算机软件的技术研发、转让及咨询服务；生物医药、养生保健技术及产品研发、转让、服务；医养居住、保健护理、康复医疗一体化项目咨询策划、开发运营、管理服务；集成电路技术研发、转让、咨询服务；公共安全技术研发、转让及咨询服务；智能语音技术及产品研发、转让、咨询服务；机械加工及制造，模具制造，机械技术咨询及服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

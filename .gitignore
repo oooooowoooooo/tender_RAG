@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+Thumbs.db
+data/staging/
+*.log
+.env
+.vscode/
+acceptance_assets/
+data_core/
+data_new/
+chrome_dump_test.html
+chrome_history_detail_test.html

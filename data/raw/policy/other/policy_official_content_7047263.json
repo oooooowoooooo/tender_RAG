@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7047263",
+  "normalized_projection": {
+    "title": "国家药监局关于发布医疗器械生产质量管理规范的公告",
+    "issuer": "国家药监局",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "2025年第107号",
+    "publish_date": "2025-11-06",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047263.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251106423729351781.doc"
+    ],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2025-11-04",
+    "abolish_date": "",
+    "summary": "为加强医疗器械生产质量管理，规范医疗器械生产行为，促进行业规范发展，保障公众用械安全有效，根据《医疗器械监督管理条例》《医疗器械生产监督管理办法》等有关法规规章规定，国家药监局修订了《医疗器械生产质量管理规范》，现予发布，自2026年11月1日起施行，原国家食品药品监督管理总局《关于发布医疗器械生产质量管理规范的公告》（2014年64号）同时废止。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7047263",
+    "title": "国家药监局关于发布医疗器械生产质量管理规范的公告",
+    "content": "国家药监局关于发布医疗器械生产质量管理规范的公告\n2025年第107号\n为加强医疗器械生产质量管理，规范医疗器械生产行为，促进行业规范发展，保障公众用械安全有效，根据《医疗器械监督管理条例》《医疗器械生产监督管理办法》等有关法规规章规定，国家药监局修订了《医疗器械生产质量管理规范》，现予发布，自2026年11月1日起施行，原国家食品药品监督管理总局《关于发布医疗器械生产质量管理规范的公告》（2014年64号）同时废止。\n特此公告。\n附件：医疗器械生产质量管理规范     \n国家药监局\n2025年11月4日\n国家药品监督管理局2025年第107号公告附件.doc",
+    "source": "国家药监局网站",
+    "publish_time": "2025-11-06",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047263.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "283"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7047263",
+    "title": "国家药监局关于发布医疗器械生产质量管理规范的公告",
+    "source_name": "国家药监局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-11-06",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047263.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047263.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家药监局关于发布医疗器械生产质量管理规范的公告",
+      "发文机关": "国家药监局",
+      "发文字号": "2025年第107号",
+      "来源": "国家药监局网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "公告",
+      "成文日期": "2025年11月04日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251106423729351781.doc"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7047263.html"
+  },
+  "raw_legal_doc": {}
+}

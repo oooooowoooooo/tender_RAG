@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7051830",
+  "normalized_projection": {
+    "title": "国家发展改革委关于印发铁路专项中央预算内投资管理办法的通知",
+    "issuer": "国家发展改革委",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\铁路",
+    "doc_no": "发改基础规〔2025〕1516号",
+    "publish_date": "2025-12-16",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7051830.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251216463556744107.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "铁路"
+    ],
+    "effective_date": "2025-11-27",
+    "abolish_date": "",
+    "summary": "为贯彻落实党中央、国务院决策部署，统筹当前及“十五五”铁路建设需要，更好发挥中央预算内投资引导带动作用，进一步加强投资计划管理和资金监管，现将《铁路专项中央预算内投资管理办法》印发给你们，请按照执行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7051830",
+    "title": "国家发展改革委关于印发铁路专项中央预算内投资管理办法的通知",
+    "content": "国家发展改革委关于印发铁路专项中央预算内投资管理办法的通知\n发改基础规〔2025〕1516号\n中国国家铁路集团有限公司，各省、自治区、直辖市、新疆生产建设兵团发展改革委：\n为贯彻落实党中央、国务院决策部署，统筹当前及“十五五”铁路建设需要，更好发挥中央预算内投资引导带动作用，进一步加强投资计划管理和资金监管，现将《铁路专项中央预算内投资管理办法》印发给你们，请按照执行。\n特此通知。\n国家发展改革委\n2025年11月27日\n附件：铁路专项中央预算内投资管理办法",
+    "source": "国家发展改革委网站",
+    "publish_time": "2025-12-16",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7051830.htm",
+    "category": "工业、交通\\铁路",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "231"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7051830",
+    "title": "国家发展改革委关于印发铁路专项中央预算内投资管理办法的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-12-16",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7051830.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7051830.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家发展改革委关于印发铁路专项中央预算内投资管理办法的通知",
+      "发文机关": "国家发展改革委",
+      "发文字号": "发改基础规〔2025〕1516号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "工业、交通\\铁路",
+      "公文种类": "通知",
+      "成文日期": "2025年11月27日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251216463556744107.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7051830.html"
+  },
+  "raw_legal_doc": {}
+}

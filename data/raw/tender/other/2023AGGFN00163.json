@@ -1,0 +1,83 @@
+{
+  "dataset": "tender",
+  "count_unit": "project",
+  "project_id": "2023AGGFN00163",
+  "project_title": "",
+  "lifecycle_summary": {
+    "row_count": 1,
+    "unique_link_count": 1,
+    "stages": [
+      "中标"
+    ],
+    "has_procurement_content": false,
+    "has_bid_content": true,
+    "has_attachment_hint": true
+  },
+  "normalized_projection": {
+    "project_code": "2023AGGFN00163",
+    "project_name": "",
+    "business_type": [
+      "政府采购"
+    ],
+    "info_type": [
+      "中标"
+    ],
+    "publish_time": "2023-11-14 00:00:00",
+    "region": [
+      "安徽 / 合肥 / 高新"
+    ],
+    "tenderer_or_purchaser": [
+      "合肥高新技术产业开发区建设发展局"
+    ],
+    "agency": [
+      "合肥高新公共资源交易有限公司"
+    ],
+    "budget_or_bid_amount": [
+      "1280000.0",
+      "1270000.0"
+    ],
+    "opening_time": "",
+    "source_platform": "安徽合肥公共资源交易电子服务系统",
+    "source_url": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231114/95bb51dd-4c51-48ca-b14e-e60d1527ff4c.html?ztbtab=002002004&biaoduanguid=ac2e5d66-1caa-4444-8999-9ca50175a07c",
+    "attachment_paths": [],
+    "candidate_company_names": [
+      "安徽省地质测绘技术院"
+    ],
+    "winner_company_name": [
+      "安徽省地质测绘技术院"
+    ],
+    "contact_phone": "",
+    "qualification_requirements": "",
+    "procurement_method": [
+      "政府采购"
+    ]
+  },
+  "raw_rows": [
+    {
+      "doc_id": "ahzb:12393",
+      "project_id": "2023AGGFN00163",
+      "link": "https://ggzy.hefei.gov.cn/jyxx/002002/002002001/20231114/95bb51dd-4c51-48ca-b14e-e60d1527ff4c.html?ztbtab=002002004&biaoduanguid=ac2e5d66-1caa-4444-8999-9ca50175a07c",
+      "type": "政府采购",
+      "stage": "中标",
+      "event_time": "2023-11-14",
+      "province": "安徽",
+      "city": "合肥",
+      "town": "高新",
+      "category": "政府",
+      "sub_category": "服务",
+      "budget_amount": "1280000.0",
+      "purchaser": "合肥高新技术产业开发区建设发展局",
+      "agency": "合肥高新公共资源交易有限公司",
+      "project_name": "",
+      "procurement_title": "None",
+      "bid_company": "安徽省地质测绘技术院",
+      "bid_amount": "1270000.0",
+      "bid_date": "2023-11-27",
+      "procurement_content": "",
+      "bid_content": "{\"data\": [{\"title\": \"合肥高新区2023年度国土变更调查项目成交结果公告\", \"content\": \"\n\n合肥高新区2023年度国土变更调查项目成交结果公告\n\n一、项目编号:\n2023AGGFN00163\n\n二、项目名称:\n合肥高新区2023年度国土变更调查\n\n三、中标（成交）信息\n\n供应商名称：安徽省地质测绘技术院\n\n供应商地址：合肥市包河区九华山路18号\n\n成交金额：壹佰贰拾柒万元整(￥1270000.00元)\n\n四、主要标的信息\n{\"table_style\": 1}\n\n名\n称\n\n合肥高新区\n2023年度国土变更调查\n\n服务范围\n\n响应磋商文件要求\n\n服务要求\n\n响应磋商文件要求\n\n服务时间\n\n响应磋商文件要求\n\n服务标准\n\n响应磋商文件要求\n\n注：如与本公告附件内容不一致的，以附件主要成交标的承诺函为准。\n\n五、评审专家（单一来源采购人员）名单\n\n张瑞玖,徐从灵,徐峰\n\n六、代理服务收费标准及金额\n\n1.代理服务收费标准：详见磋商文件成交服务费。2.金额：1.3728万元\n\n七、公告期限\n\n自本公告发布之日起1个工作日。\n\n八、其他补充事宜\n\n若供应商对上述结果有异议，可在成交结果公告发布之日起七个工作日内通过电子交易系统或以书面形式在工作时间（上午\n8:30-12:00，下午14:00-17:30）向合肥高新公共资源交易有限公司提出质疑（异议），质疑材料递交地址：合肥市高新区望江西路860号高新区管委会一楼公共资源交易大厅D103室，联系电话：0551-65311079。\n\n若供应商对质疑处理意见有异议，可在规定时间内通过网上投诉系统或以书面形式向合肥高新技术产业开发区财政局提出投诉，联系人：张工，联系电话：0551-65311802。\n\n质疑提起的条件及不予受理的情形\n\n根据《中华人民共和国政府采购法》、《中华人民共和国政府采购法实施条例》、《安徽省政府采购供应商质疑处理办法》等法律法规，现将质疑提起的条件及不予受理的情形告知如下：\n\n（一）质疑应通过电子交易系统或以书面形式实名提出，电子交易系统或书面质疑材料应当包括以下内容：\n\n1.质疑人的名称、地址、邮编、联系人及联系电话；\n\n2.采购人名称、项目名称、项目编号、包别号（如有）；\n\n3.被质疑人名称；\n\n4.具体的质疑事项、基本事实及必要的证明材料；\n\n5.明确的请求及主张；\n\n6.必要的法律依据；\n\n7.提起质疑的日期。\n\n质疑人为自然人的，应当由本人签字；质疑人为法人或者其他组织的，应当由法定代表人、主要负责人，或者其授权代表签字或者盖章，并加盖公章。\n\n（二）有下列情形之一的，不予受理：\n\n1.提起质疑的主体不是参与该政府采购项目活动的供应商；\n\n2.提起质疑的时间超过规定时限的；\n\n3.质疑材料不完整的；\n\n4.质疑事项含有主观猜测等内容且未提供有效线索、难以查证的；\n\n5.对其他供应商的投标文件详细内容质疑，无法提供合法来源渠道的；\n\n6.质疑事项已进入投诉处理、行政复议或行政诉讼程序的。\n\n合肥高新区2023年度国土变更调查项目成交通知书已发出，请成交供应商登录电子交易系统自行下载领取电子成交通知书。\n\n九、凡对本次公告内容提出询问，请按以下方式联系\n\n1.采购人信息\n\n名称：合肥高新技术产业开发区建设发展局\n\n地址：合肥市高新区望江西路860号\n\n联系方式：0551-65334663\n\n2.采购代理机构信息\n\n名称：合肥高新公共资源交易有限公司\n\n地址：合肥市高新区望江西路860号\n\n联系方式：0551-65311079\n\n3.项目联系方式\n\n项目联系人：周工\n\n电话：0551-65311079\n\n\", \"attachments\": [{\"file_name\": \"主要成交标的承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=26d7a504-5e71-43dd-a79d-e6a276948209&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"招标文件正文.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=78839f20-3167-40be-bad1-b795fa5c7b7c&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"无重大违法记录声明函、无不良信用记录声明函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=b423fb72-e313-48c0-a112-314e4c68f0ee&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"安徽合肥公共资源交易中心网上投诉操作手册-投标人.docx\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=bdfa90aa-b0b0-4813-bfcf-3f06c9b82cc9&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}, {\"file_name\": \"磋商业绩承诺函.pdf\", \"file_link\": \"https://ggzy.hefei.gov.cn/EpointWebBuilder/WebbuilderMIS/attach/downloadZtbAttach.jspx?attachGuid=e37b8133-a829-4a39-80d1-fc30ddfca2a7&appUrlFlag=ztbAttach&siteGuid=7eb5f7f1-9041-43ad-8e13-8fcb82ea831a\"}]}]}",
+      "procurement_content_length": "0",
+      "bid_content_length": "2820",
+      "created_at": "2026-04-14 14:43:16"
+    }
+  ]
+}

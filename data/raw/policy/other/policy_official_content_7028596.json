@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7028596",
+  "normalized_projection": {
+    "title": "关于合格境外机构投资者和人民币合格境外机构投资者参与股票期权交易的公告",
+    "issuer": "中国证监会",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\证券",
+    "doc_no": "证监会公告〔2025〕13号",
+    "publish_date": "2025-06-18",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7028596.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "证券"
+    ],
+    "effective_date": "2025-06-17",
+    "abolish_date": "",
+    "summary": "根据《合格境外机构投资者和人民币合格境外机构投资者境内证券期货投资管理办法》等有关规定，经商中国人民银行、国家外汇局，中国证监会现就合格境外机构投资者和人民币合格境外机构投资者参与股票期权交易有关事项公告如下。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7028596",
+    "title": "关于合格境外机构投资者和人民币合格境外机构投资者参与股票期权交易的公告",
+    "content": "关于合格境外机构投资者和人民币合格境外机构投资者参与股票期权交易的公告\n中国证券监督管理委员会公告〔2025〕13号\n根据《合格境外机构投资者和人民币合格境外机构投资者境内证券期货投资管理办法》等有关规定，经商中国人民银行、国家外汇局，中国证监会现就合格境外机构投资者和人民币合格境外机构投资者（以下合称合格境外投资者）参与股票期权交易有关事项公告如下：\n允许合格境外投资者参与在国务院或中国证监会批准设立的交易场所上市交易的交易型开放式指数基金期权（ETF期权）交易。合格境外投资者参与ETF期权交易应当遵守中国证监会以及有关交易场所的交易规则，交易目的限于套期保值交易。自2025年10月9日起施行。\n中国证监会\n2025年6月17日",
+    "source": "中国证监会网站",
+    "publish_time": "2025-06-18",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7028596.htm",
+    "category": "财政、金融、审计\\证券",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "319"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7028596",
+    "title": "关于合格境外机构投资者和人民币合格境外机构投资者参与股票期权交易的公告",
+    "source_name": "中国证监会网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-06-18",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7028596.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7028596.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于合格境外机构投资者和人民币合格境外机构投资者参与股票期权交易的公告",
+      "发文机关": "中国证监会",
+      "发文字号": "证监会公告〔2025〕13号",
+      "来源": "中国证监会网站",
+      "主题分类": "财政、金融、审计\\证券",
+      "公文种类": "公告",
+      "成文日期": "2025年06月17日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7028596.html"
+  },
+  "raw_legal_doc": {}
+}

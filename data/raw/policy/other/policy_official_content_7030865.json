@@ -1,0 +1,69 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7030865",
+  "normalized_projection": {
+    "title": "自然资源部 市场监管总局关于发布《国有建设用地使用权出让合同 （示范文本）》的通知",
+    "issuer": "自然资源部 市场监管总局",
+    "index_no": "未标注",
+    "subject_category": "国土资源、能源\\土地",
+    "doc_no": "自然资发〔2025〕102号",
+    "publish_date": "2025-07-07",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7030865.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250707586711348794.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250707586711600053.doc"
+    ],
+    "keywords": [
+      "国土资源",
+      "能源",
+      "土地"
+    ],
+    "effective_date": "2025-06-16",
+    "abolish_date": "",
+    "summary": "为贯彻落实《中华人民共和国民法典》《中华人民共和国土地管理法》《中华人民共和国城市房地产管理法》《中华人民共和国城乡规划法》，规范国有建设用地使用权出让合同管理，自然资源部、市场监管总局组织制定了《国有建设用地使用权出让合同》示范文本（GF-2025-2601），现予印发，自2025年9月1日起执行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7030865",
+    "title": "自然资源部 市场监管总局关于发布《国有建设用地使用权出让合同 （示范文本）》的通知",
+    "content": "自然资源部 市场监管总局关于发布《国有建设用地使用权出让合同（示范文本）》的通知\n自然资发〔2025〕102号\n各省、自治区、直辖市及计划单列市自然资源主管部门、市场监管局（厅、委），新疆生产建设兵团自然资源局、市场监管局：\n为贯彻落实《中华人民共和国民法典》《中华人民共和国土地管理法》《中华人民共和国城市房地产管理法》《中华人民共和国城乡规划法》，规范国有建设用地使用权出让合同管理，自然资源部、市场监管总局组织制定了《国有建设用地使用权出让合同》示范文本（GF-2025-2601），现予印发，自2025年9月1日起执行。原国土资源部、国家工商行政管理总局2008年发布的《国有建设用地使用权出让合同》示范文本（GF-2008-2601）同时废止。\n各市、县自然资源主管部门要按照《国有建设用地使用权出让合同》示范文本（GF-2025-2601）的要求，规范签订国有建设用地使用权出让合同，督促用地者严格履行合同。要把全生命周期管理理念贯穿土地出让管理全过程各环节，土地用途、规划条件、开竣工时间、节约集约要求、自持或转让（含分割转让）条件等可依法载入出让合同，由市、县自然资源主管部门加强履约监管。涉及产业准入、投资限额、税收就业、节能环保、配建义务等监管事项，由相应行政主管部门通过监管协议形式依法另行约定，履行监管义务。省、自治区、直辖市自然资源主管部门要加强对出让合同执行情况的监管。\n自然资源部 市场监管总局\n2025年6月16日\n附件：\n  《国有建设用地使用权出让合同（示范文本）》（GF-2025-2601）.pdf\n  《国有建设用地使用权出让合同（示范文本）》（GF-2025-2601）.doc",
+    "source": "自然资源部网站",
+    "publish_time": "2025-07-07",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7030865.htm",
+    "category": "国土资源、能源\\土地",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "711"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7030865",
+    "title": "自然资源部 市场监管总局关于发布《国有建设用地使用权出让合同 （示范文本）》的通知",
+    "source_name": "自然资源部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-07-07",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7030865.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7030865.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "自然资源部 市场监管总局关于发布《国有建设用地使用权出让合同 （示范文本）》的通知",
+      "发文机关": "自然资源部 市场监管总局",
+      "发文字号": "自然资发〔2025〕102号",
+      "来源": "自然资源部网站",
+      "主题分类": "国土资源、能源\\土地",
+      "公文种类": "通知",
+      "成文日期": "2025年06月16日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250707586711348794.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250707586711600053.doc"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7030865.html"
+  },
+  "raw_legal_doc": {}
+}

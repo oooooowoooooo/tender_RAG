@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7053823",
+  "normalized_projection": {
+    "title": "关于印发第四批鼓励仿制药品目录的通知",
+    "issuer": "国家卫生健康委办公厅 工业和信息化部办公厅 国家知识产权局办公室 国家药监局综合司",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "国卫办药政函〔2025〕483号",
+    "publish_date": "2026-01-04",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7053823.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260104631798232716.docx"
+    ],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2025-12-08",
+    "abolish_date": "",
+    "summary": "为落实国务院办公厅《关于改革完善仿制药供应保障及使用政策的意见》有关制定鼓励仿制药品目录的部署和要求，国家卫生健康委联合工业和信息化部、国家知识产权局、国家医保局、国家药监局等部门组织专家对国内专利即将到期及临床供应短缺（竞争不充分）的药品进行遴选论证，制定了《第四批鼓励仿制药品目录》。现印发给你们，请推动相关工作开展。各相关部门要按照有关规定，在临床试验、关键共性技术研究、优先审评审批、生产供应保障等方面予以支持。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7053823",
+    "title": "关于印发第四批鼓励仿制药品目录的通知",
+    "content": "关于印发第四批鼓励仿制药品目录的通知\n国卫办药政函〔2025〕483号\n各省、自治区、直辖市及新疆生产建设兵团卫生健康委、工业和信息化主管部门、知识产权局、药监局：\n为落实国务院办公厅《关于改革完善仿制药供应保障及使用政策的意见》有关制定鼓励仿制药品目录的部署和要求，国家卫生健康委联合工业和信息化部、国家知识产权局、国家医保局、国家药监局等部门组织专家对国内专利即将到期及临床供应短缺（竞争不充分）的药品进行遴选论证，制定了《第四批鼓励仿制药品目录》。现印发给你们，请推动相关工作开展。各相关部门要按照有关规定，在临床试验、关键共性技术研究、优先审评审批、生产供应保障等方面予以支持。\n附件：第四批鼓励仿制药品目录.docx\n国家卫生健康委办公厅\n工业和信息化部办公厅\n国家知识产权局办公室\n国家药监局综合司\n2025年12月8日",
+    "source": "国家卫生健康委网站",
+    "publish_time": "2026-01-04",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7053823.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "366"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7053823",
+    "title": "关于印发第四批鼓励仿制药品目录的通知",
+    "source_name": "国家卫生健康委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-01-04",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7053823.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7053823.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发第四批鼓励仿制药品目录的通知",
+      "发文机关": "国家卫生健康委办公厅 工业和信息化部办公厅 国家知识产权局办公室 国家药监局综合司",
+      "发文字号": "国卫办药政函〔2025〕483号",
+      "来源": "国家卫生健康委网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "通知",
+      "成文日期": "2025年12月08日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260104631798232716.docx"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7053823.html"
+  },
+  "raw_legal_doc": {}
+}

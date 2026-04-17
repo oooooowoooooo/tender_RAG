@@ -1,0 +1,74 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100731679029X",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100731679029X",
+    "enterprise_name": "合肥市紫蓬园林工程有限公司",
+    "legal_representative": "束庆然",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "24/9/2001 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "50000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市东流路398号B8幢2号",
+    "business_scope": "园林绿化工程；市政公用工程、城市及道路照明工程、园林古建筑工程、房屋建筑工程、环保工程、建筑装修装饰工程、水利水电工程施工、公路工程、电力工程、机电工程、消防工程、钢结构工程；生态保护工程、水污染治理工程；物业管理服务；绿化养护管理；清扫保洁服务；风景园林设计；林业有害生物防治；绿化苗木、花卉、盆景、草坪的培育、种植和经营；园林绿化技术咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 7,
+    "selected_project_ids": [
+      "2023AEEGZ00356"
+    ],
+    "all_linked_project_ids": [
+      "2022AYYZJ00163",
+      "2023ACCFN00004",
+      "2023ADDFN00248",
+      "2023AEEGZ00356",
+      "2023AMMFN00022",
+      "2023ANNGZ00358",
+      "2023BFFGZ01218"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥市紫蓬园林工程有限公司",
+    "business_status": "开业",
+    "legal_representative": "束庆然",
+    "registered_capital": "50000000",
+    "paid_in_capital": "27380000",
+    "establishment_date": "24/9/2001 00:00:00",
+    "approval_date": "13/10/2020 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "0551-3527311",
+    "additional_phones": "0551-63431846,0536-5251776,13980460931,17780706510,028-85726535",
+    "email": "923863459@qq.com",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91340100731679029X",
+    "taxpayer_identification_number": "91340100731679029X",
+    "business_registration_number": "340100000216920",
+    "organization_code": "73167902-9",
+    "insured_personnel_count": "50",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "建筑装饰、装修和其他建筑业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市东流路398号B8幢2号",
+    "latest_annual_report_address": "合肥石金寨南路大华国际港0座1508",
+    "website": "www.hfszpyl.com",
+    "business_scope": "园林绿化工程；市政公用工程、城市及道路照明工程、园林古建筑工程、房屋建筑工程、环保工程、建筑装修装饰工程、水利水电工程施工、公路工程、电力工程、机电工程、消防工程、钢结构工程；生态保护工程、水污染治理工程；物业管理服务；绿化养护管理；清扫保洁服务；风景园林设计；林业有害生物防治；绿化苗木、花卉、盆景、草坪的培育、种植和经营；园林绿化技术咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

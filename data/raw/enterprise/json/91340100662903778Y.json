@@ -1,0 +1,63 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100662903778Y",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100662903778Y",
+    "enterprise_name": "安徽鸿鹤城市运营管理集团有限公司",
+    "legal_representative": "马杨",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "2007-05-28",
+    "registration_authority": "",
+    "registered_capital": "2666万人民币",
+    "business_status": "存续",
+    "registered_address": "合肥市庐阳区临泉路与肥西路交汇处东南角广大商务中心办1204室",
+    "business_scope": "物业管理；水电安装；园林绿化工程及养护；楼宇安全防范工程；展台设计与制作；会展服务；品牌策划及活动推广；外墙清洗、保洁服务、道路清扫保洁、水域清理、市场管理、家政服务、秩序维护、仓储服务（除危险品）、商品包装、搬运装卸；农产品、建材、装饰材料、涂料、五金交电、通信器材、电线电缆、电力设备、通风设备、办公用品、家具、服装、预包装食品销售；家用电器安装、销售；装饰工程、照明工程；实验室仪器设备、教育设备、机电设备、防火门、人防门安装销售；工程机械销售、租赁；房屋租赁；停车场管理；市政工程养护；小广告清理；农贸（集贸）市场管理；物业服务评估监理及咨询服务；市容环境第三方测评与咨询；改革第三方评估；绩效第三方评估；公共服务第三方评估；公共厕所维护管理保洁；垃圾清运、转运；生活垃圾及固体废弃物的收集和运营服务；劳务派遣；餐饮服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 5,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2022BFFFN02750",
+      "2023AEEFZ00094",
+      "2023AYYFN00111",
+      "2023BFFFN01607",
+      "2023BFFFZ01265"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "1484",
+    "title": "安徽鸿鹤城市运营管理集团有限公司",
+    "corporation": "马杨",
+    "amount_raw": "2666万人民币",
+    "event_time": "2007-05-28",
+    "manage_date": "2007-05-28 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐阳区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "房地产业",
+    "USCC": "91340100662903778Y",
+    "TIN": "91340100662903778Y",
+    "registed_num": "340108000052544",
+    "insured_persons": "80",
+    "location": "合肥市庐阳区临泉路与肥西路交汇处东南角广大商务中心办1204室",
+    "source_url": "-",
+    "content": "物业管理；水电安装；园林绿化工程及养护；楼宇安全防范工程；展台设计与制作；会展服务；品牌策划及活动推广；外墙清洗、保洁服务、道路清扫保洁、水域清理、市场管理、家政服务、秩序维护、仓储服务（除危险品）、商品包装、搬运装卸；农产品、建材、装饰材料、涂料、五金交电、通信器材、电线电缆、电力设备、通风设备、办公用品、家具、服装、预包装食品销售；家用电器安装、销售；装饰工程、照明工程；实验室仪器设备、教育设备、机电设备、防火门、人防门安装销售；工程机械销售、租赁；房屋租赁；停车场管理；市政工程养护；小广告清理；农贸（集贸）市场管理；物业服务评估监理及咨询服务；市容环境第三方测评与咨询；改革第三方评估；绩效第三方评估；公共服务第三方评估；公共厕所维护管理保洁；垃圾清运、转运；生活垃圾及固体废弃物的收集和运营服务；劳务派遣；餐饮服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "26660000"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91110000100000825Q",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91110000100000825Q",
+    "enterprise_name": "中国国际工程咨询有限公司",
+    "legal_representative": "苟护生",
+    "entity_type": "有限责任公司(国有独资)",
+    "established_date": "1982-05-31",
+    "registration_authority": "",
+    "registered_capital": "120000万人民币",
+    "business_status": "存续",
+    "registered_address": "北京市海淀区车公庄西路32号",
+    "business_scope": "对外派遣与其实力、规模、业绩相适应的国外工程项目所需的劳务人员；接受委托，承担基本建设项目、技术改造项目、地区经济发展和技术改造规划、工程项目的评估咨询服务和工程建设监理以及技术服务；国外各类工程项目的咨询、勘察和设计；承揽国外工程项目；承包工程所需的设备、材料出口；在海外举办非贸易性企业；各类土木工程、建筑工程及设备、材料采购的招标代理；工程造价咨询及与工程造价业务有关的其他业务。（市场主体依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "source_url": "http://www.ciecc.com.cn",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 7,
+    "selected_project_ids": [
+      "2023BFAFN02714"
+    ],
+    "all_linked_project_ids": [
+      "2022BFAFN02413",
+      "2023AGGFN00153",
+      "2023BFAFN02005",
+      "2023BFAFN02714",
+      "2023BFAFZ01442",
+      "2023BFAFZ02151"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "1180",
+    "title": "中国国际工程咨询有限公司",
+    "corporation": "苟护生",
+    "amount_raw": "120000万人民币",
+    "event_time": "1982-05-31",
+    "manage_date": "2017-12-29 至 无固定期限",
+    "status": "存续",
+    "province": "北京市",
+    "city": "-",
+    "district": "海淀区",
+    "type": "有限责任公司(国有独资)",
+    "industry": "专业技术服务业",
+    "USCC": "91110000100000825Q",
+    "TIN": "91110000100000825Q",
+    "registed_num": "100000000000820",
+    "insured_persons": "525",
+    "location": "北京市海淀区车公庄西路32号",
+    "source_url": "http://www.ciecc.com.cn",
+    "content": "对外派遣与其实力、规模、业绩相适应的国外工程项目所需的劳务人员；接受委托，承担基本建设项目、技术改造项目、地区经济发展和技术改造规划、工程项目的评估咨询服务和工程建设监理以及技术服务；国外各类工程项目的咨询、勘察和设计；承揽国外工程项目；承包工程所需的设备、材料出口；在海外举办非贸易性企业；各类土木工程、建筑工程及设备、材料采购的招标代理；工程造价咨询及与工程造价业务有关的其他业务。（市场主体依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "search_text": "",
+    "capital_value": "1200000000"
+  }
+}

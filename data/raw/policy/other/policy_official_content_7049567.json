@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7049567",
+  "normalized_projection": {
+    "title": "工业和信息化部 国家发展改革委 商务部 文化和旅游部 中国人民银行 市场监管总局印发《关于增强消费品供需适配性进一步促进消费的实施方案》的通知",
+    "issuer": "工业和信息化部 国家发展改革委 商务部 文化和旅游部 中国人民银行 市场监管总局",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\其他",
+    "doc_no": "工信部联消费〔2025〕252号",
+    "publish_date": "2025-11-26",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7049567.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251126542659829211.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "其他"
+    ],
+    "effective_date": "2025-11-25",
+    "abolish_date": "",
+    "summary": "为贯彻落实党中央、国务院关于大力提振消费的决策部署，增强供给与需求的适配性，进一步释放消费潜力，经国务院同意，制定本实施方案。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7049567",
+    "title": "工业和信息化部 国家发展改革委 商务部 文化和旅游部 中国人民银行 市场监管总局印发《关于增强消费品供需适配性进一步促进消费的实施方案》的通知",
+    "content": "工业和信息化部 国家发展改革委 商务部 文化和旅游部 中国人民银行 市场监管总局印发《关于增强消费品供需适配性进一步促进消费的实施方案》的通知\n工信部联消费〔2025〕252号\n各省、自治区、直辖市人民政府，国务院各部委：\n为贯彻落实党中央、国务院关于大力提振消费的决策部署，工业和信息化部等六部门制定了《关于增强消费品供需适配性进一步促进消费的实施方案》，经国务院同意，现予印发，请认真组织实施。\n工业和信息化部\n国家发展改革委\n商务部\n文化和旅游部\n中国人民银行\n市场监管总局\n2025年11月25日\n关于增强消费品供需适配性进一步促进消费的实施方案",
+    "source": "工业和信息化部网站",
+    "publish_time": "2025-11-26",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7049567.htm",
+    "category": "工业、交通\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "277"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7049567",
+    "title": "工业和信息化部 国家发展改革委 商务部 文化和旅游部 中国人民银行 市场监管总局印发《关于增强消费品供需适配性进一步促进消费的实施方案》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-11-26",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7049567.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7049567.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "工业和信息化部 国家发展改革委 商务部 文化和旅游部 中国人民银行 市场监管总局印发《关于增强消费品供需适配性进一步促进消费的实施方案》的通知",
+      "发文机关": "工业和信息化部 国家发展改革委 商务部 文化和旅游部 中国人民银行 市场监管总局",
+      "发文字号": "工信部联消费〔2025〕252号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年11月25日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202511/P020251126542659829211.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7049567.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7035413",
+  "normalized_projection": {
+    "title": "住房城乡建设部办公厅关于优化部政务服务门户用户体系的通知",
+    "issuer": "住房城乡建设部办公厅",
+    "index_no": "未标注",
+    "subject_category": "城乡建设、环境保护\\其他",
+    "doc_no": "建办厅函〔2025〕213号",
+    "publish_date": "2025-08-06",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7035413.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "城乡建设",
+      "环境保护",
+      "其他"
+    ],
+    "effective_date": "2025-07-31",
+    "abolish_date": "",
+    "summary": "为方便企业在住房城乡建设部政务服务门户办理涉企政务服务事项，决定调整优化部政务服务门户用户体系。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7035413",
+    "title": "住房城乡建设部办公厅关于优化部政务服务门户用户体系的通知",
+    "content": "住房城乡建设部办公厅关于优化部政务服务门户用户体系的通知\n建办厅函〔2025〕213号\n各省、自治区住房城乡建设厅，直辖市住房城乡建设（管）委，北京市规划和自然资源委，新疆生产建设兵团住房城乡建设局：\n为方便企业在住房城乡建设部政务服务门户（以下简称部政务服务门户）办理涉企政务服务事项，决定调整优化部政务服务门户用户体系。现将有关事项通知如下：\n一、自2025年8月5日起，在部政务服务门户办理涉企政务服务事项的企业需注册新的法人用户账号。原法人用户账号在1年过渡期内仍可使用，过渡期结束后停用。\n二、部政务服务门户用户体系调整优化后，企业法人用户细分为法定代表人用户、管理员用户、经办人用户。企业注册法定代表人用户后，可在线授权设立本企业管理员用户或相关事项的经办人用户，管理员用户也可在线授权设立相关事项的经办人用户。管理员用户、经办人用户在授权范围内办理相关政务服务事项。管理员用户、经办人用户需调整的，通过部政务服务门户线上办理。\n三、法定代表人为外籍人士的企业，暂不设法定代表人用户，由企业通过线下申请注册管理员用户，用于办理涉企政务服务事项。企业应将管理员用户授权信息及相关材料以书面形式报企业登记机关所在地的省级住房城乡建设主管部门，经主管部门审核通过后开通管理员用户账号。具体办理流程详见《住房城乡建设部政务服务门户操作指南》（可在部政务服务门户查看）。\n各省级住房城乡建设主管部门要认真审核企业申报材料,并及时办理管理员用户事宜。鼓励有条件的地区开展线上办理。\n住房城乡建设部办公厅\n2025年7月31日\n（此件主动公开）",
+    "source": "住房城乡建设部网站",
+    "publish_time": "2025-08-06",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7035413.htm",
+    "category": "城乡建设、环境保护\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "671"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7035413",
+    "title": "住房城乡建设部办公厅关于优化部政务服务门户用户体系的通知",
+    "source_name": "住房城乡建设部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-08-06",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7035413.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7035413.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "住房城乡建设部办公厅关于优化部政务服务门户用户体系的通知",
+      "发文机关": "住房城乡建设部办公厅",
+      "发文字号": "建办厅函〔2025〕213号",
+      "来源": "住房城乡建设部网站",
+      "主题分类": "城乡建设、环境保护\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年07月31日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7035413.html"
+  },
+  "raw_legal_doc": {}
+}

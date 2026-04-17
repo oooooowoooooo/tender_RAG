@@ -1,0 +1,62 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7064400",
+  "normalized_projection": {
+    "title": "国务院办公厅关于指定悬挂用国徽制作企业的通知",
+    "issuer": "国务院办公厅",
+    "index_no": "000014349/2026-00016",
+    "subject_category": "综合政务\\其他",
+    "doc_no": "国办函〔2026〕37号",
+    "publish_date": "2026-04-01",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202604/content_7064400.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "综合政务",
+      "其他"
+    ],
+    "effective_date": "2026-03-29",
+    "abolish_date": "",
+    "summary": "为进一步贯彻国徽法，严格落实国家标准《国徽》（GB15093—2025），加强国徽制作和管理，经国务院同意，现就重新指定悬挂用国徽制作企业有关事宜通知如下。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7064400",
+    "title": "国务院办公厅关于指定悬挂用国徽制作企业的通知",
+    "content": "国务院办公厅关于指定\n悬挂用国徽制作企业的通知\n国办函〔2026〕37号\n\n各省、自治区、直辖市人民政府，国务院各部委、各直属机构：\n根据《中华人民共和国国徽法》，国务院办公厅于2006年指定了天津三五二二工厂等6家企业为悬挂用国徽制作企业，对维护国徽尊严、保证悬挂用国徽制作质量起到了重要作用。为进一步贯彻国徽法，严格落实国家标准《国徽》（GB 15093—2025），加强国徽制作和管理，经国务院同意，现就重新指定悬挂用国徽制作企业有关事宜通知如下：\n一、根据国徽法第十六条关于“悬挂的国徽由国家指定的企业统一制作”的规定，经过考查和评审，指定安徽兴皖玻璃钢制品有限公司、天宝物华（合肥）金属工程有限公司、北京工美集团有限责任公司、浙江苍南县金乡徽章厂有限公司、沈阳亚东徽标制造有限责任公司、廊坊天平国徽厂、北京建院科技发展有限公司、浙江华徽铝业有限公司等8家企业为悬挂用国徽制作企业。\n二、指定企业要严格按照国徽法和国家标准《国徽》（GB 15093—2025）制作悬挂用国徽。市场监管总局及企业所在地市场监管部门要加强对悬挂用国徽制作和销售的常态化监督管理，督促指定企业压实质量安全主体责任，切实维护国徽尊严。\n三、未经指定的企业不得制作悬挂用国徽。原指定企业本次未获得指定的，不得再制作悬挂用国徽。\n国务院办公厅           \n2026年3月29日          \n（此件公开发布）",
+    "source": "中国政府网-国务院文件",
+    "publish_time": "2026-04-01",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202604/content_7064400.htm",
+    "category": "综合政务\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_gwywj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "602"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7064400",
+    "title": "国务院办公厅关于指定悬挂用国徽制作企业的通知",
+    "source_name": "中国政府网-国务院文件",
+    "source_type": "gov_cn_gwywj",
+    "region_level": "national",
+    "publish_date": "2026-04-01",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202604/content_7064400.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202604/content_7064400.htm",
+    "source_feed": "gov_cn_gwywj",
+    "metadata_pairs": {
+      "索引号": "000014349/2026-00016",
+      "主题分类": "综合政务\\其他",
+      "发文机关": "国务院办公厅",
+      "成文日期": "2026年03月29日",
+      "标题": "国务院办公厅关于指定悬挂用国徽制作企业的通知",
+      "发文字号": "国办函〔2026〕37号",
+      "发布日期": "2026年04月01日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7064400.html"
+  },
+  "raw_legal_doc": {}
+}

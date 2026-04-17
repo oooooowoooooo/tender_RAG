@@ -1,0 +1,67 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100562187970C",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100562187970C",
+    "enterprise_name": "安徽明珠建设项目管理股份有限公司",
+    "legal_representative": "方俊文",
+    "entity_type": "股份有限公司(非上市、自然人投资或控股)",
+    "established_date": "26/9/2010 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "10000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥经济技术开发区繁华路南繁华世家A区商办楼",
+    "business_scope": "工程监理、代建、招标代理、造价鉴定、咨询服务；建设工程项目管理；建筑信息模型技术及咨询服务；工程概算预算决算编制审核；工程造价、信息、科技咨询服务；建筑工程设计；装饰装修工程施工；工程总承包；工程软件开发、销售及转让服务；建筑技术领域内的技术开发、转让、服务；企业管理咨询。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 10,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023AFWGZ00935",
+      "2023AFWGZ01159"
+    ],
+    "roles": [
+      "agency"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽明珠建设项目管理股份有限公司",
+    "business_status": "开业",
+    "legal_representative": "方俊文",
+    "registered_capital": "10000000",
+    "paid_in_capital": "5290000",
+    "establishment_date": "26/9/2010 00:00:00",
+    "approval_date": "10/7/2019 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "0551-63824408",
+    "additional_phones": "18805514666,15905691877,0559-2321331,13965023889,0551-65591210",
+    "email": "214722254@qq.com",
+    "additional_emails": "242586950@qq.com,166128528@qq.com,916910641@qq.com,885245632@qq.com,2797316437@qq.com,260961000@qq.com",
+    "unified_social_credit_code": "91340100562187970C",
+    "taxpayer_identification_number": "91340100562187970C",
+    "business_registration_number": "340000000050030",
+    "organization_code": "56218797-0",
+    "insured_personnel_count": "34",
+    "company_type": "股份有限公司(非上市、自然人投资或控股)",
+    "industry": "商务服务业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥经济技术开发区繁华路南繁华世家A区商办楼",
+    "latest_annual_report_address": "安徽省合肥经济技术开发区繁华路南繁华世家A区商办楼",
+    "website": "www.ahmingzhu.com",
+    "business_scope": "工程监理、代建、招标代理、造价鉴定、咨询服务；建设工程项目管理；建筑信息模型技术及咨询服务；工程概算预算决算编制审核；工程造价、信息、科技咨询服务；建筑工程设计；装饰装修工程施工；工程总承包；工程软件开发、销售及转让服务；建筑技术领域内的技术开发、转让、服务；企业管理咨询。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "113401227467763581",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "113401227467763581",
+    "enterprise_name": "肥东经济开发区管理委员会",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "肥东县机构编制委员会",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 49,
+    "selected_project_ids": [
+      "2023ADDFN00342"
+    ],
+    "all_linked_project_ids": [
+      "2022ADDFY00393",
+      "2023ADDFN00255",
+      "2023ADDFN00342",
+      "2023ADDZN00059",
+      "2023ADDZN00288"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "肥东经济开发区管理委员会",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥东县",
+    "phone": "18256906990",
+    "additional_phones": "15375471983,0551-67730516,0551-67707237,0551-67707550,19810957662",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "113401227467763581",
+    "taxpayer_identification_number": "113401227467763581",
+    "business_registration_number": "-",
+    "organization_code": "74677635-8",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "肥东县机构编制委员会",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

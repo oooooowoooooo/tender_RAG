@@ -1,0 +1,68 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7054152",
+  "normalized_projection": {
+    "title": "国家发展改革委关于印发《长株潭生态绿心加快绿色转型发展实施方案》的通知",
+    "issuer": "国家发展改革委",
+    "index_no": "未标注",
+    "subject_category": "城乡建设、环境保护\\环境监测、保护与治理",
+    "doc_no": "发改环资〔2025〕1751号",
+    "publish_date": "2026-01-07",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054152.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260107407256371677.pdf"
+    ],
+    "keywords": [
+      "城乡建设",
+      "环境保护",
+      "环境监测",
+      "保护与治理"
+    ],
+    "effective_date": "2025-12-30",
+    "abolish_date": "",
+    "summary": "《长株潭生态绿心加快绿色转型发展实施方案》已经国务院同意，现印发给你们。湖南省要认真抓好落实，确保如期完成各项目标任务。国务院有关部门要按照职责分工，对长株潭生态绿心探索绿色转型发展新模式做好指导支持。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7054152",
+    "title": "国家发展改革委关于印发《长株潭生态绿心加快绿色转型发展实施方案》的通知",
+    "content": "国家发展改革委关于印发《长株潭生态绿心加快绿色转型发展实施方案》的通知\n发改环资〔2025〕1751号\n湖南省人民政府，教育部、科技部、工业和信息化部、司法部、财政部、人力资源社会保障部、自然资源部、生态环境部、住房城乡建设部、交通运输部、水利部、农业农村部、商务部、文化和旅游部、国家卫生健康委、应急管理部、中国人民银行、金融监管总局、中国证监会、体育总局、国家统计局、国家能源局、国家数据局、国家林草局、国家铁路局、中国民航局：\n《长株潭生态绿心加快绿色转型发展实施方案》已经国务院同意，现印发给你们。湖南省要认真抓好落实，确保如期完成各项目标任务。国务院有关部门要按照职责分工，对长株潭生态绿心探索绿色转型发展新模式做好指导支持。\n国家发展改革委\n2025年12月30日\n附件：《长株潭生态绿心加快绿色转型发展实施方案》.pdf",
+    "source": "国家发展改革委网站",
+    "publish_time": "2026-01-07",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054152.htm",
+    "category": "城乡建设、环境保护\\环境监测、保护与治理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "367"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7054152",
+    "title": "国家发展改革委关于印发《长株潭生态绿心加快绿色转型发展实施方案》的通知",
+    "source_name": "国家发展改革委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-01-07",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054152.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054152.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家发展改革委关于印发《长株潭生态绿心加快绿色转型发展实施方案》的通知",
+      "发文机关": "国家发展改革委",
+      "发文字号": "发改环资〔2025〕1751号",
+      "来源": "国家发展改革委网站",
+      "主题分类": "城乡建设、环境保护\\环境监测、保护与治理",
+      "公文种类": "通知",
+      "成文日期": "2025年12月30日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260107407256371677.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7054152.html"
+  },
+  "raw_legal_doc": {}
+}

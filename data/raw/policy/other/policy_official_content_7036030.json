@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7036030",
+  "normalized_projection": {
+    "title": "关于印发《支持学前教育发展资金管理办法》的通知",
+    "issuer": "财政部 教育部",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\财政",
+    "doc_no": "财教〔2025〕180号",
+    "publish_date": "2025-08-11",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7036030.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202508/P020250811610635284135.doc"
+    ],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计"
+    ],
+    "effective_date": "2025-08-01",
+    "abolish_date": "",
+    "summary": "为规范和加强支持学前教育发展资金管理，提高资金使用效益，我们对《支持学前教育发展资金管理办法》进行了修订，现印发给你们，请遵照执行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7036030",
+    "title": "关于印发《支持学前教育发展资金管理办法》的通知",
+    "content": "关于印发《支持学前教育发展资金管理办法》的通知\n财教〔2025〕180号\n各省、自治区、直辖市、计划单列市财政厅（局）、教育厅（教委、教育局），新疆生产建设兵团财政局、教育局：\n为规范和加强支持学前教育发展资金管理，提高资金使用效益，我们对《支持学前教育发展资金管理办法》进行了修订，现印发给你们，请遵照执行。 \n附件：《支持学前教育发展资金管理办法》\n财政部 教育部\n2025年8月1日",
+    "source": "财政部网站",
+    "publish_time": "2025-08-11",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7036030.htm",
+    "category": "财政、金融、审计\\财政",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "194"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7036030",
+    "title": "关于印发《支持学前教育发展资金管理办法》的通知",
+    "source_name": "财政部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-08-11",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7036030.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202508/content_7036030.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《支持学前教育发展资金管理办法》的通知",
+      "发文机关": "财政部 教育部",
+      "发文字号": "财教〔2025〕180号",
+      "来源": "财政部网站",
+      "主题分类": "财政、金融、审计\\财政",
+      "公文种类": "通知",
+      "成文日期": "2025年08月01日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202508/P020250811610635284135.doc"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7036030.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "913401007548541415",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "913401007548541415",
+    "enterprise_name": "安徽港湾生态园林有限公司",
+    "legal_representative": "缪奇志",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "17/9/2003 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "100680000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市包河区望湖城美圣路223号桂香居紫桂苑商业西段三层",
+    "business_scope": "生态园林景观工程设计、施工；市政公用工程施工总承包；园林古建筑工程专业承包；种植、培育及销售生态苗木、花卉、草皮（除种子）；生态园林病虫防治科技咨询；防水防腐保温工程专业承包施工；古建筑工程专业承包施工；环保工程专业承包施工；城市及道路照明工程专业承包施工；建筑工程施工总承包；水利水电工程施工总承包；公路工程施工总承包；建筑劳务分包。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023ANNGZ00568"
+    ],
+    "all_linked_project_ids": [
+      "2023AGGGZ00046",
+      "2023ANNGZ00568"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽港湾生态园林有限公司",
+    "business_status": "开业",
+    "legal_representative": "缪奇志",
+    "registered_capital": "100680000",
+    "paid_in_capital": "20030000",
+    "establishment_date": "17/9/2003 00:00:00",
+    "approval_date": "28/6/2021 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "包河区",
+    "phone": "0551-63773930",
+    "additional_phones": "15255135252,0551-64683215,0551-2860899,0551-64683217,0551-64676383",
+    "email": "450038680@qq.com",
+    "additional_emails": "1101019589@qq.com,gangwanyuanlin@163.com,gwgroup@163.com",
+    "unified_social_credit_code": "913401007548541415",
+    "taxpayer_identification_number": "913401007548541415",
+    "business_registration_number": "340100000234511",
+    "organization_code": "75485414-1",
+    "insured_personnel_count": "21",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "林业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市包河区望湖城美圣路223号桂香居紫桂苑商业西段三层",
+    "latest_annual_report_address": "安徽省合肥市徽州大道628号省人防设计院东二楼",
+    "website": "www.ahgwjt.net",
+    "business_scope": "生态园林景观工程设计、施工；市政公用工程施工总承包；园林古建筑工程专业承包；种植、培育及销售生态苗木、花卉、草皮（除种子）；生态园林病虫防治科技咨询；防水防腐保温工程专业承包施工；古建筑工程专业承包施工；环保工程专业承包施工；城市及道路照明工程专业承包施工；建筑工程施工总承包；水利水电工程施工总承包；公路工程施工总承包；建筑劳务分包。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

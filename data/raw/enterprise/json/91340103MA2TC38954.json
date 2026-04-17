@@ -1,0 +1,66 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340103MA2TC38954",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340103MA2TC38954",
+    "enterprise_name": "合肥庐阳金融城投资发展有限公司",
+    "legal_representative": "汪连闯",
+    "entity_type": "其他有限责任公司",
+    "established_date": "24/12/2018 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "500000000",
+    "business_status": "开业",
+    "registered_address": "合肥市庐阳区冬青街与黄桂路交口合肥金融广场商101",
+    "business_scope": "项目投资；项目管理咨询；财务顾问；物业管理；房屋租赁；商品房销售；房地产开发、建设、运营。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 14,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023BFFAZ01864"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥庐阳金融城投资发展有限公司",
+    "business_status": "开业",
+    "legal_representative": "汪连闯",
+    "registered_capital": "500000000",
+    "paid_in_capital": "500000000",
+    "establishment_date": "24/12/2018 00:00:00",
+    "approval_date": "2/11/2022 00:00:00",
+    "business_term": "2018-12-24 至 2048-12-23",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐阳区",
+    "phone": "0551-62875555",
+    "additional_phones": "0551-62875071,0551-65679205,18605517487,18605650822",
+    "email": "599305324@qq.com",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91340103MA2TC38954",
+    "taxpayer_identification_number": "91340103MA2TC38954",
+    "business_registration_number": "340103000125546",
+    "organization_code": "MA2TC389-5",
+    "insured_personnel_count": "15",
+    "company_type": "其他有限责任公司",
+    "industry": "房地产业",
+    "former_name": "-",
+    "registered_address": "合肥市庐阳区冬青街与黄桂路交口合肥金融广场商101",
+    "latest_annual_report_address": "合肥市庐阳区冬青街与黄桂路交口",
+    "website": "-",
+    "business_scope": "项目投资；项目管理咨询；财务顾问；物业管理；房屋租赁；商品房销售；房地产开发、建设、运营。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7025943",
+  "normalized_projection": {
+    "title": "国家邮政局关于加快邮政业科技发展的意见",
+    "issuer": "国家邮政局",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\邮政",
+    "doc_no": "国邮发〔2025〕3号",
+    "publish_date": "2025-03-21",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7025943.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250530796986065938.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "邮政"
+    ],
+    "effective_date": "2025-02-12",
+    "abolish_date": "",
+    "summary": "为加快邮政业科技发展，充分发挥科技创新对加快建设交通强国邮政篇的引领和支撑作用，提出如下意见。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7025943",
+    "title": "国家邮政局关于加快邮政业科技发展的意见",
+    "content": "国家邮政局关于加快邮政业科技发展的意见\n国邮发〔2025〕3号\n附件：国家邮政局关于加快邮政业科技发展的意见",
+    "source": "国家邮政局网站",
+    "publish_time": "2025-03-21",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7025943.htm",
+    "category": "工业、交通\\邮政",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "54"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7025943",
+    "title": "国家邮政局关于加快邮政业科技发展的意见",
+    "source_name": "国家邮政局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-21",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7025943.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7025943.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家邮政局关于加快邮政业科技发展的意见",
+      "发文机关": "国家邮政局",
+      "发文字号": "国邮发〔2025〕3号",
+      "来源": "国家邮政局网站",
+      "主题分类": "工业、交通\\邮政",
+      "公文种类": "意见",
+      "成文日期": "2025年02月12日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250530796986065938.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7025943.html"
+  },
+  "raw_legal_doc": {}
+}

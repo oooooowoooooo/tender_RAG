@@ -1,0 +1,73 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9131000063114641XT",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9131000063114641XT",
+    "enterprise_name": "中建东方装饰有限公司",
+    "legal_representative": "郭景",
+    "entity_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "established_date": "6/10/1998 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "405820100",
+    "business_status": "开业",
+    "registered_address": "上海市静安区场中路1988弄2-5、8-11号1301室",
+    "business_scope": "承接建筑专业建设工程设计，装饰、幕墙工程设计，装饰工程，建筑幕墙工程，园林古建筑工程，金属门窗工程，建筑智能化工程，机电设备安装工程，房屋建设工程施工，市政公用建设工程施工，钢结构建设工程专业施工，环保建设工程专业施工，城市及道路照明建设工程专业施工，特种专业建设工程专业施工，建筑防水建设环保专业施工，防腐保温建设工程专业施工，河湖整治建设工程专业施工，消防设施建设工程设计施工一体化，园林绿化，展览展示服务，建筑材料、装饰材料的加工及销售，广告的设计、制作、代理，利用自有媒体发布广告，住房租赁经营，物业管理，房地产经纪，计算机软件开发，从事信息技术领域内的技术开发、技术转让、技术咨询、技术服务，日用百货的销售，商务信息咨询，品牌管理，餐饮企业管理，停车场（库）经营。【依法须经批准的项目，经相关部门批准后方可开展经营活动】",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 6,
+    "selected_project_ids": [
+      "2023BFWGZ02590"
+    ],
+    "all_linked_project_ids": [
+      "2023AFWGZ00671",
+      "2023BFFGZ00235",
+      "2023BFFGZ01547",
+      "2023BFWGZ02124",
+      "2023BFWGZ02590",
+      "2023GFWGZ00474"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "中建东方装饰有限公司",
+    "business_status": "开业",
+    "legal_representative": "郭景",
+    "registered_capital": "405820100",
+    "paid_in_capital": "0",
+    "establishment_date": "6/10/1998 00:00:00",
+    "approval_date": "4/1/2024 00:00:00",
+    "business_term": "1998-10-06 至 2048-02-01",
+    "province": "上海市",
+    "city": "市辖区",
+    "district": "静安区",
+    "phone": "18685118012",
+    "additional_phones": "13305195630,15618385167,025-57936018,027-87322664,021-50811302",
+    "email": "dfzs@cscec.com",
+    "additional_emails": "dongfang@zjsjdf.com",
+    "unified_social_credit_code": "9131000063114641XT",
+    "taxpayer_identification_number": "9131000063114641XT",
+    "business_registration_number": "310115000484137",
+    "organization_code": "63114641-X",
+    "insured_personnel_count": "1031",
+    "company_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "industry": "建筑装饰、装修和其他建筑业",
+    "former_name": "中建三局东方装饰设计工程有限公司",
+    "registered_address": "上海市静安区场中路1988弄2-5、8-11号1301室",
+    "latest_annual_report_address": "上海市静安区场中路2028号中建幸福大厦13楼",
+    "website": "www.zj-dfzs.com",
+    "business_scope": "承接建筑专业建设工程设计，装饰、幕墙工程设计，装饰工程，建筑幕墙工程，园林古建筑工程，金属门窗工程，建筑智能化工程，机电设备安装工程，房屋建设工程施工，市政公用建设工程施工，钢结构建设工程专业施工，环保建设工程专业施工，城市及道路照明建设工程专业施工，特种专业建设工程专业施工，建筑防水建设环保专业施工，防腐保温建设工程专业施工，河湖整治建设工程专业施工，消防设施建设工程设计施工一体化，园林绿化，展览展示服务，建筑材料、装饰材料的加工及销售，广告的设计、制作、代理，利用自有媒体发布广告，住房租赁经营，物业管理，房地产经纪，计算机软件开发，从事信息技术领域内的技术开发、技术转让、技术咨询、技术服务，日用百货的销售，商务信息咨询，品牌管理，餐饮企业管理，停车场（库）经营。【依法须经批准的项目，经相关部门批准后方可开展经营活动】",
+    "match_status": "成功"
+  }
+}

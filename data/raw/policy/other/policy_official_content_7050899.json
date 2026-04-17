@@ -1,0 +1,66 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7050899",
+  "normalized_projection": {
+    "title": "教育部关于发布《卓越工程师教育认证标准》教育行业标准的通知",
+    "issuer": "教育部",
+    "index_no": "未标注",
+    "subject_category": "科技、教育\\教育",
+    "doc_no": "教研函〔2025〕2号",
+    "publish_date": "2025-12-11",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7050899.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251211331441313543.pdf"
+    ],
+    "keywords": [
+      "科技",
+      "教育"
+    ],
+    "effective_date": "2025-11-24",
+    "abolish_date": "",
+    "summary": "为深入贯彻党的二十大和二十届历次全会精神，贯彻落实习近平总书记重要讲话精神和中央人才工作会议、全国教育大会精神，落实《教育强国建设规划纲要（2024—2035年）》，加快构建中国特色、世界水平的卓越工程师培养体系，教育部研究制定了《卓越工程师教育认证标准》，现作为教育行业标准予以发布，并自发布之日起施行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7050899",
+    "title": "教育部关于发布《卓越工程师教育认证标准》教育行业标准的通知",
+    "content": "教育部关于发布《卓越工程师教育认证标准》教育行业标准的通知\n教研函〔2025〕2号\n各省、自治区、直辖市教育厅（教委），新疆生产建设兵团教育局，有关部门（单位）教育司（局），部属各高等学校、部省合建各高等学校：\n为深入贯彻党的二十大和二十届历次全会精神，贯彻落实习近平总书记重要讲话精神和中央人才工作会议、全国教育大会精神，落实《教育强国建设规划纲要（2024—2035年）》，加快构建中国特色、世界水平的卓越工程师培养体系，我部研究制定了《卓越工程师教育认证标准》，现作为教育行业标准予以发布，并自发布之日起施行。\n特此通知。\n附件：卓越工程师教育认证标准\n教育部\n2025年11月24日",
+    "source": "教育部网站",
+    "publish_time": "2025-12-11",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7050899.htm",
+    "category": "科技、教育\\教育",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "295"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7050899",
+    "title": "教育部关于发布《卓越工程师教育认证标准》教育行业标准的通知",
+    "source_name": "教育部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-12-11",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7050899.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7050899.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "教育部关于发布《卓越工程师教育认证标准》教育行业标准的通知",
+      "发文机关": "教育部",
+      "发文字号": "教研函〔2025〕2号",
+      "来源": "教育部网站",
+      "主题分类": "科技、教育\\教育",
+      "公文种类": "通知",
+      "成文日期": "2025年11月24日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202512/P020251211331441313543.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7050899.html"
+  },
+  "raw_legal_doc": {}
+}

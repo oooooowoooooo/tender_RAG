@@ -1,0 +1,61 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100MA2MY0DM9N",
+  "selection_source": "national_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100MA2MY0DM9N",
+    "enterprise_name": "合肥智安拓工程技术有限公司",
+    "legal_representative": "杨贤明",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "2010-08-02",
+    "registration_authority": "",
+    "registered_capital": "100万人民币",
+    "business_status": "存续",
+    "registered_address": "合肥市庐阳区北二环与阜阳路交口西北角宜丰商厦701室",
+    "business_scope": "安全设备检验、检测；安全评价与咨询；室内环境检测；室内环境治理；中央空调系统及其配件、计算机软硬件销售、安装与维护；安全防护、劳动保护设施设备销售与安装；城乡生活垃圾的清扫、收集、运输、处理服务；垃圾分类管理服务；环保和市政工程的技术咨询、勘察设计及施工；再生物资的回收与批发；职业健康咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023ANNFN00503"
+    ],
+    "all_linked_project_ids": [
+      "2023ANNFN00503"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "record_id": "3191",
+    "title": "合肥智安拓工程技术有限公司",
+    "corporation": "杨贤明",
+    "amount_raw": "100万人民币",
+    "event_time": "2010-08-02",
+    "manage_date": "2010-08-02 至 2030-08-02",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐阳区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "研究和试验发展",
+    "USCC": "91340100MA2MY0DM9N",
+    "TIN": "91340100MA2MY0DM9N",
+    "registed_num": "340100000435554",
+    "insured_persons": "25",
+    "location": "合肥市庐阳区北二环与阜阳路交口西北角宜丰商厦701室",
+    "source_url": "-",
+    "content": "安全设备检验、检测；安全评价与咨询；室内环境检测；室内环境治理；中央空调系统及其配件、计算机软硬件销售、安装与维护；安全防护、劳动保护设施设备销售与安装；城乡生活垃圾的清扫、收集、运输、处理服务；垃圾分类管理服务；环保和市政工程的技术咨询、勘察设计及施工；再生物资的回收与批发；职业健康咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "1000000"
+  }
+}

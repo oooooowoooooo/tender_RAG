@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7063751",
+  "normalized_projection": {
+    "title": "国家药监局关于印发药品现代物流规范化建设指导意见的通知",
+    "issuer": "国家药监局",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\医药管理",
+    "doc_no": "国药监药管〔2026〕7号",
+    "publish_date": "2026-03-25",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202603/content_7063751.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202603/P020260325691922658947.doc"
+    ],
+    "keywords": [
+      "卫生",
+      "体育",
+      "医药管理"
+    ],
+    "effective_date": "2026-03-20",
+    "abolish_date": "",
+    "summary": "为贯彻落实《国务院办公厅关于全面深化药品医疗器械监管改革促进医药产业高质量发展的意见》、《药品经营和使用质量监督管理办法》，推动药品批发企业和药品第三方物流企业有序高效开展药品现代物流规范化建设，进一步规范药品批发企业准入，持续提升药品流通环节质量管理水平，国家药监局组织制定《药品现代物流规范化建设指导意见》，现予以印发。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7063751",
+    "title": "国家药监局关于印发药品现代物流规范化建设指导意见的通知",
+    "content": "国家药监局关于印发药品现代物流规范化建设指导意见的通知\n国药监药管〔2026〕7号\n各省、自治区、直辖市和新疆生产建设兵团药品监督管理局：\n为贯彻落实《国务院办公厅关于全面深化药品医疗器械监管改革促进医药产业高质量发展的意见》（国办发〔2024〕53号）、《药品经营和使用质量监督管理办法》，推动药品批发企业和药品第三方物流企业有序高效开展药品现代物流规范化建设，进一步规范药品批发企业准入，持续提升药品流通环节质量管理水平，国家药监局组织制定《药品现代物流规范化建设指导意见》，现予以印发。请对照完善本行政区域药品批发企业和药品第三方物流企业标准，在经营许可准入、经营许可证换发、日常监管检查等工作中结合实际贯彻落实。\n国家药监局\n2026年3月20日\n药品现代物流规范化建设指导意见",
+    "source": "国家药监局网站",
+    "publish_time": "2026-03-25",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202603/content_7063751.htm",
+    "category": "卫生、体育\\医药管理",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "343"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7063751",
+    "title": "国家药监局关于印发药品现代物流规范化建设指导意见的通知",
+    "source_name": "国家药监局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-03-25",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202603/content_7063751.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202603/content_7063751.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家药监局关于印发药品现代物流规范化建设指导意见的通知",
+      "发文机关": "国家药监局",
+      "发文字号": "国药监药管〔2026〕7号",
+      "来源": "国家药监局网站",
+      "主题分类": "卫生、体育\\医药管理",
+      "公文种类": "通知",
+      "成文日期": "2026年03月20日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202603/P020260325691922658947.doc"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7063751.html"
+  },
+  "raw_legal_doc": {}
+}

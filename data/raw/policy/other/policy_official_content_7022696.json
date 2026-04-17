@@ -1,0 +1,69 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7022696",
+  "normalized_projection": {
+    "title": "七部门印发《关于加快提升农业科技创新体系整体效能的实施意见》的通知",
+    "issuer": "农业农村部 科技部 教育部 工业和信息化部 财政部 水利部 中国科学院",
+    "index_no": "未标注",
+    "subject_category": "农业、林业、水利\\农业、畜牧业、渔业",
+    "doc_no": "农科技发〔2025〕3号",
+    "publish_date": "2025-05-07",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7022696.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250507392088313407.pdf"
+    ],
+    "keywords": [
+      "农业",
+      "林业",
+      "水利",
+      "畜牧业",
+      "渔业"
+    ],
+    "effective_date": "2025-04-17",
+    "abolish_date": "",
+    "summary": "为深入贯彻落实党中央、国务院关于科技创新的重大决策部署，进一步全面深化农业科技体制改革，发挥新型举国体制优势，加快实现高水平农业科技自立自强，为农业强国建设提供强有力的支撑，现将《关于加快提升农业科技创新体系整体效能的实施意见》印发给你们，请结合实际认真落实。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7022696",
+    "title": "七部门印发《关于加快提升农业科技创新体系整体效能的实施意见》的通知",
+    "content": "农业农村部 科技部 教育部 工业和信息化部 财政部 水利部 中国科学院印发《关于加快提升农业科技创新体系整体效能的实施意见》的通知\n农科技发〔2025〕3号\n各省、自治区、直辖市及计划单列市农业农村（农牧）、畜牧兽医、渔业厅（局、委）、科技厅（委、局）、教育厅（教委）、工业和信息化主管部门、财政厅（局）、水利（水务）厅（局），新疆生产建设兵团农业农村局、科技局、教育局、工业和信息化局、财政局、水利局，中国科学院有关单位：\n为深入贯彻落实党中央、国务院关于科技创新的重大决策部署，进一步全面深化农业科技体制改革，发挥新型举国体制优势，加快实现高水平农业科技自立自强，为农业强国建设提供强有力的支撑，现将《关于加快提升农业科技创新体系整体效能的实施意见》印发给你们，请结合实际认真落实。\n农业农村部\n科技部\n教育部\n工业和信息化部\n财政部\n水利部\n中国科学院\n2025年4月17日\n附件：\n关于加快提升农业科技创新体系整体效能的实施意见.pdf",
+    "source": "农业农村部网站",
+    "publish_time": "2025-05-07",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7022696.htm",
+    "category": "农业、林业、水利\\农业、畜牧业、渔业",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "422"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7022696",
+    "title": "七部门印发《关于加快提升农业科技创新体系整体效能的实施意见》的通知",
+    "source_name": "农业农村部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-05-07",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7022696.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7022696.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "七部门印发《关于加快提升农业科技创新体系整体效能的实施意见》的通知",
+      "发文机关": "农业农村部 科技部 教育部 工业和信息化部 财政部 水利部 中国科学院",
+      "发文字号": "农科技发〔2025〕3号",
+      "来源": "农业农村部网站",
+      "主题分类": "农业、林业、水利\\农业、畜牧业、渔业",
+      "公文种类": "通知",
+      "成文日期": "2025年04月17日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250507392088313407.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7022696.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7025901",
+  "normalized_projection": {
+    "title": "关于印发《国家应对气候变化标准体系建设方案》的通知",
+    "issuer": "生态环境部等",
+    "index_no": "未标注",
+    "subject_category": "城乡建设、环境保护\\其他",
+    "doc_no": "环气候〔2025〕40号",
+    "publish_date": "2025-05-30",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7025901.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250530762013615135.pdf"
+    ],
+    "keywords": [
+      "城乡建设",
+      "环境保护",
+      "其他"
+    ],
+    "effective_date": "2025-05-22",
+    "abolish_date": "",
+    "summary": "围绕应对气候变化基础能力支撑、减缓和适应气候变化工作需求，构建符合国情、基本完善的国家应对气候变化标准体系。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7025901",
+    "title": "关于印发《国家应对气候变化标准体系建设方案》的通知",
+    "content": "关于印发《国家应对气候变化标准体系建设方案》的通知\n环气候〔2025〕40号\n各省、自治区、直辖市及新疆生产建设兵团生态环境厅（局）、发展改革委、工业和信息化主管部门、自然资源主管部门、住房城乡建设厅（委、管委、局）、交通运输厅（局、委）、水利（水务）厅（局）、商务主管部门、中国人民银行上海总部、各省、自治区、直辖市及计划单列市分行、市场监管局（厅、委）、气象局、能源局、林草局、各地区铁路监督管理局、民航各地区管理局：\n为深入贯彻党的二十大和二十届二中、三中全会精神，落实积极应对气候变化国家战略，深入实施《国家标准化发展纲要》，加快构建科学实用、系统规范的国家应对气候变化标准体系，生态环境部会同国家发展改革委、工业和信息化部、自然资源部、住房城乡建设部、交通运输部、水利部、商务部、中国人民银行、国家市场监督管理总局、中国气象局、国家能源局、国家林草局、国家铁路局、中国民航局制定了《国家应对气候变化标准体系建设方案》。现印发给你们，请结合实际抓好落实。\n生态环境部\n国家发展改革委\n工业和信息化部\n自然资源部\n住房城乡建设部\n交通运输部\n水利部\n商务部\n中国人民银行\n市场监管总局\n中国气象局\n国家能源局\n国家林草局\n国家铁路局\n中国民航局\n2025年5月22日",
+    "source": "生态环境部网站",
+    "publish_time": "2025-05-30",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7025901.htm",
+    "category": "城乡建设、环境保护\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "536"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7025901",
+    "title": "关于印发《国家应对气候变化标准体系建设方案》的通知",
+    "source_name": "生态环境部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-05-30",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7025901.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7025901.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发《国家应对气候变化标准体系建设方案》的通知",
+      "发文机关": "生态环境部等",
+      "发文字号": "环气候〔2025〕40号",
+      "来源": "生态环境部网站",
+      "主题分类": "城乡建设、环境保护\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年05月22日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202505/P020250530762013615135.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7025901.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,71 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7062838",
+  "normalized_projection": {
+    "title": "关于优化原油炼制产品加工贸易单耗管理的公告",
+    "issuer": "海关总署",
+    "index_no": "未标注",
+    "subject_category": "商贸、海关、旅游\\海关",
+    "doc_no": "海关总署公告2025年第64号",
+    "publish_date": "2025-04-28",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7062838.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020260316699246832511.doc",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020260317138826886648.doc",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020260317138826976936.pdf"
+    ],
+    "keywords": [
+      "商贸",
+      "海关",
+      "旅游"
+    ],
+    "effective_date": "2025-04-18",
+    "abolish_date": "",
+    "summary": "为顺应原油加工贸易企业生产经营需求，促进原油加工贸易健康发展，海关总署决定对原油加工贸易单耗管理措施进行优化，由按“复出口收率”计算调整为按“综合商品率”计算，实施参数化管理。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7062838",
+    "title": "关于优化原油炼制产品加工贸易单耗管理的公告",
+    "content": "关于优化原油炼制产品加工贸易单耗管理的公告\n海关总署公告2025年第64号\n为顺应原油加工贸易企业生产经营需求，促进原油加工贸易健康发展，海关总署决定对原油加工贸易单耗管理措施进行优化，由按“复出口收率”计算调整为按“综合商品率”计算，实施参数化管理。现将有关事项公告如下：\n一、即日起，海关以《原油炼制产品加工贸易单耗参数》（见附件）为参考，以企业申报的实际“综合商品率”进行管理和核销。\n二、企业应将加工贸易原油炼制环节产出的产品列入手（账）册成品项备案，并应按手册有效期或账册核销周期内原油炼制产品的实际“综合商品率”向海关申报单耗。\n三、在加工贸易原油炼制环节产出的产品，除按有关规定禁止出口外，企业可以加工贸易方式复出口。\n四、《原油炼制产品加工贸易单耗参数》以全国主要原油加工贸易企业炼油板块实际“综合商品率”为基础确定单耗参数数值，中国石油和化学工业联合会参与制定。\n五、“综合商品率”是指原油加工贸易企业在正常加工条件下，在炼油环节实际加工生产的汽油、煤油、柴油以及其他产品的数量（千克）与耗用原油数量（千克）的比率，以百分数（%）表示。\n六、本公告自发布之日起施行。《原油炼制产品加工贸易单耗标准》（署加发〔2003〕18号印发）等有关规定与本公告不一致的，以本公告为准。\n本公告实施之日前已设立的加工贸易手册及未到核销期的加工贸易账册，在手册有效期及账册核销周期内，仍按原规定执行。\n特此公告。\n附件：原油炼制产品加工贸易单耗参数\n海关总署\n2025年4月18日\n\n  公告正文下载链接：\n  海关总署关于优化原油炼制产品加工贸易单耗管理的公告.doc\n  海关总署关于优化原油炼制产品加工贸易单耗管理的公告.pdf",
+    "source": "海关总署网站",
+    "publish_time": "2025-04-28",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7062838.htm",
+    "category": "商贸、海关、旅游\\海关",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "718"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7062838",
+    "title": "关于优化原油炼制产品加工贸易单耗管理的公告",
+    "source_name": "海关总署网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-04-28",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7062838.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7062838.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于优化原油炼制产品加工贸易单耗管理的公告",
+      "发文机关": "海关总署",
+      "发文字号": "海关总署公告2025年第64号",
+      "来源": "海关总署网站",
+      "主题分类": "商贸、海关、旅游\\海关",
+      "公文种类": "公告",
+      "成文日期": "2025年04月18日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020260316699246832511.doc",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020260317138826886648.doc",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020260317138826976936.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7062838.html"
+  },
+  "raw_legal_doc": {}
+}

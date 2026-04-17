@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340000683645130T",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340000683645130T",
+    "enterprise_name": "安徽省铁路投资有限责任公司",
+    "legal_representative": "汪世杰",
+    "entity_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "established_date": "15/1/2009 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "2150000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市经济技术开发区清华路312号清华启迪科技城创新广场1幢",
+    "business_scope": "接受安徽省投资集团控股有限公司委托筹集、管理、经营铁路建设资金；铁路项目投资及资产管理；与铁路发展相关的投资及咨询服务；交通基础设施投资、管理、经营。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 32,
+    "selected_project_ids": [
+      "2023BFABZ02769"
+    ],
+    "all_linked_project_ids": [
+      "2023BFABZ02769"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽省铁路投资有限责任公司",
+    "business_status": "开业",
+    "legal_representative": "汪世杰",
+    "registered_capital": "2150000000",
+    "paid_in_capital": "2150000000",
+    "establishment_date": "15/1/2009 00:00:00",
+    "approval_date": "12/7/2024 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "phone": "0551-62775779",
+    "additional_phones": "0551-62775742,0551-62775752,0551-62775754,0551-63677152,0551-62775783",
+    "email": "ahtt@ahinv.com",
+    "additional_emails": "wangw@ahinv.com",
+    "unified_social_credit_code": "91340000683645130T",
+    "taxpayer_identification_number": "91340000683645130T",
+    "business_registration_number": "340000000045071",
+    "organization_code": "68364513-0",
+    "insured_personnel_count": "79",
+    "company_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "industry": "商务服务业",
+    "former_name": "安徽省皖投铁路投资管理有限公司",
+    "registered_address": "安徽省合肥市经济技术开发区清华路312号清华启迪科技城创新广场1幢",
+    "latest_annual_report_address": "安徽省合肥市经济技术开发区清华路312号清华启迪 科技城创新广场1幢",
+    "website": "www.ahrinv.com",
+    "business_scope": "接受安徽省投资集团控股有限公司委托筹集、管理、经营铁路建设资金；铁路项目投资及资产管理；与铁路发展相关的投资及咨询服务；交通基础设施投资、管理、经营。",
+    "match_status": "成功"
+  }
+}

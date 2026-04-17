@@ -1,0 +1,70 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7021027",
+  "normalized_projection": {
+    "title": "中国证券监督管理委员会公告〔2025〕8号",
+    "issuer": "中国证监会",
+    "index_no": "未标注",
+    "subject_category": "财政、金融、审计\\证券",
+    "doc_no": "〔2025〕8号",
+    "publish_date": "2025-04-25",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7021027.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250425779773471523.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250425779773572604.pdf"
+    ],
+    "keywords": [
+      "财政",
+      "金融",
+      "审计",
+      "证券"
+    ],
+    "effective_date": "2025-04-07",
+    "abolish_date": "",
+    "summary": "现公布《上市公司信息披露暂缓与豁免管理规定》，自2025年7月1日起施行。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7021027",
+    "title": "中国证券监督管理委员会公告〔2025〕8号",
+    "content": "中国证券监督管理委员会公告\n〔2025〕8号\n现公布《上市公司信息披露暂缓与豁免管理规定》，自2025年7月1日起施行。\n中国证监会\n2025年4月7日\n附件1：上市公司信息披露暂缓与豁免管理规定.pdf\n附件2：《上市公司信息披露暂缓与豁免管理规定》立法说明.pdf",
+    "source": "中国证监会网站",
+    "publish_time": "2025-04-25",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7021027.htm",
+    "category": "财政、金融、审计\\证券",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "134"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7021027",
+    "title": "中国证券监督管理委员会公告〔2025〕8号",
+    "source_name": "中国证监会网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-04-25",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7021027.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202504/content_7021027.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "中国证券监督管理委员会公告〔2025〕8号",
+      "发文机关": "中国证监会",
+      "发文字号": "〔2025〕8号",
+      "来源": "中国证监会网站",
+      "主题分类": "财政、金融、审计\\证券",
+      "公文种类": "公告",
+      "成文日期": "2025年04月07日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250425779773471523.pdf",
+      "https://www.gov.cn/zhengce/zhengceku/202504/P020250425779773572604.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7021027.html"
+  },
+  "raw_legal_doc": {}
+}

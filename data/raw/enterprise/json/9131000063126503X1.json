@@ -1,0 +1,71 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "9131000063126503X1",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "9131000063126503X1",
+    "enterprise_name": "中国建筑第八工程局有限公司",
+    "legal_representative": "周可璋",
+    "entity_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "established_date": "29/9/1998 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "15218000000",
+    "business_status": "开业",
+    "registered_address": "中国（上海）自由贸易试验区世纪大道1568号27层",
+    "business_scope": "房屋建筑、公路、铁路、市政公用、港口与航道、水利水电各类别工程的咨询、设计、施工、总承包和项目管理，化工石油工程，电力工程，基础工程，装饰工程，工业筑炉，城市轨道交通工程，园林绿化工程，线路、管道、设备的安装，混凝土预制构件及制品，非标制作，建筑材料生产、销售，建筑设备销售，建筑机械租赁，房地产开发，自有房屋租赁，物业管理，从事建筑领域内的技术转让、技术咨询、技术服务，企业管理咨询，商务信息咨询，经营各类商品和技术的进出口，但国家限定公司经营或禁止进出口的商品及技术除外。\n【依法须经批准的项目，经相关部门批准后方可开展经营活动】",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 2,
+    "all_tender_frequency": 3,
+    "selected_project_ids": [
+      "2023AFXGZ02604",
+      "2023BFNGZ02606"
+    ],
+    "all_linked_project_ids": [
+      "2022DFAGZ02647",
+      "2023AFXGZ02604",
+      "2023BFNGZ02606"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "中国建筑第八工程局有限公司",
+    "business_status": "开业",
+    "legal_representative": "周可璋",
+    "registered_capital": "15218000000",
+    "paid_in_capital": "15218000000",
+    "establishment_date": "29/9/1998 00:00:00",
+    "approval_date": "14/6/2023 00:00:00",
+    "business_term": "-",
+    "province": "上海市",
+    "city": "市辖区",
+    "district": "浦东新区",
+    "phone": "15530258798",
+    "additional_phones": "022-8359093,0371-65803280,18609825340,010-68501111,0951-6022265",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "9131000063126503X1",
+    "taxpayer_identification_number": "9131000063126503X1",
+    "business_registration_number": "310000000065107",
+    "organization_code": "63126503-X",
+    "insured_personnel_count": "4271",
+    "company_type": "有限责任公司(非自然人投资或控股的法人独资)",
+    "industry": "房屋建筑业",
+    "former_name": "中国建筑第八工程局",
+    "registered_address": "中国（上海）自由贸易试验区世纪大道1568号27层",
+    "latest_annual_report_address": "中国（上海）自由贸易试验区世纪大道1568号27层",
+    "website": "8bur.cscec.com",
+    "business_scope": "房屋建筑、公路、铁路、市政公用、港口与航道、水利水电各类别工程的咨询、设计、施工、总承包和项目管理，化工石油工程，电力工程，基础工程，装饰工程，工业筑炉，城市轨道交通工程，园林绿化工程，线路、管道、设备的安装，混凝土预制构件及制品，非标制作，建筑材料生产、销售，建筑设备销售，建筑机械租赁，房地产开发，自有房屋租赁，物业管理，从事建筑领域内的技术转让、技术咨询、技术服务，企业管理咨询，商务信息咨询，经营各类商品和技术的进出口，但国家限定公司经营或禁止进出口的商品及技术除外。\n【依法须经批准的项目，经相关部门批准后方可开展经营活动】",
+    "match_status": "成功"
+  }
+}

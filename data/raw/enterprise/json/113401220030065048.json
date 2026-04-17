@@ -1,0 +1,75 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "113401220030065048",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "113401220030065048",
+    "enterprise_name": "肥东县梁园镇人民政府",
+    "legal_representative": "未公示",
+    "entity_type": "-",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "0",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市肥东县梁园镇人民路",
+    "business_scope": "未公示",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 53,
+    "selected_project_ids": [
+      "2023ADDZN00320"
+    ],
+    "all_linked_project_ids": [
+      "2022ADDZJ00359",
+      "2022ADDZJ00390",
+      "2023ADDFZ00242",
+      "2023ADDGZ00239",
+      "2023ADDZN00005",
+      "2023ADDZN00060",
+      "2023ADDZN00292",
+      "2023ADDZN00320"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "肥东县梁园镇人民政府",
+    "business_status": "开业",
+    "legal_representative": "未公示",
+    "registered_capital": "0",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "肥东县",
+    "phone": "13856033025",
+    "additional_phones": "0551-67280750,0551-67280020,0551-67282667,0551-7286203,18856310533",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "113401220030065048",
+    "taxpayer_identification_number": "113401220030065048",
+    "business_registration_number": "-",
+    "organization_code": "00300650-4",
+    "insured_personnel_count": "-",
+    "company_type": "-",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市肥东县梁园镇人民路",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "未公示",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340121092485868J",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340121092485868J",
+    "enterprise_name": "合肥国瑞集成建筑科技有限公司",
+    "legal_representative": "程佳",
+    "entity_type": "其他有限责任公司",
+    "established_date": "17/12/2013 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "75000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市长丰县吴山镇青年路与牌碑路交口",
+    "business_scope": "工业与民用建筑工程施工；装饰装修工程施工；绿色集成钢结构建筑的科技研发、设计、生产、施工、销售及技术咨询服务；环保节能技术服务咨询；建筑节能保温材料生产、销售；工业副产石膏的研发及产品的生产、销售；水泥基水泥制品的研发、生产、销售；钢结构产品及其部件的生产、销售；轻钢结构生态厕所、环卫设施、岗亭系列产品的生产、销售；水环境的科技研发、设计、处理工程施工。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 2,
+    "selected_project_ids": [
+      "2023ACCGZ00275"
+    ],
+    "all_linked_project_ids": [
+      "2023ACCGZ00275",
+      "2023ACCZN00348"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥国瑞集成建筑科技有限公司",
+    "business_status": "开业",
+    "legal_representative": "程佳",
+    "registered_capital": "75000000",
+    "paid_in_capital": "60000000",
+    "establishment_date": "17/12/2013 00:00:00",
+    "approval_date": "20/2/2024 00:00:00",
+    "business_term": "2013-12-17 至 2033-12-16",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "长丰县",
+    "phone": "0551-68998808",
+    "additional_phones": "18297930199,0551-62722755,15375346665,0311-87705908,0551-64232249",
+    "email": "375952558@qq.com",
+    "additional_emails": "517955930@qq.com,admin@grjcjz.com,yaows@grjcjz.com,ahgljt@sina.com",
+    "unified_social_credit_code": "91340121092485868J",
+    "taxpayer_identification_number": "91340121092485868J",
+    "business_registration_number": "340121000059783",
+    "organization_code": "09248586-8",
+    "insured_personnel_count": "46",
+    "company_type": "其他有限责任公司",
+    "industry": "公共设施管理业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥市长丰县吴山镇青年路与牌碑路交口",
+    "latest_annual_report_address": "安徽省合肥市长丰县吴山镇青年路与牌碑路交口",
+    "website": "www.被动式建筑.中国",
+    "business_scope": "工业与民用建筑工程施工；装饰装修工程施工；绿色集成钢结构建筑的科技研发、设计、生产、施工、销售及技术咨询服务；环保节能技术服务咨询；建筑节能保温材料生产、销售；工业副产石膏的研发及产品的生产、销售；水泥基水泥制品的研发、生产、销售；钢结构产品及其部件的生产、销售；轻钢结构生态厕所、环卫设施、岗亭系列产品的生产、销售；水环境的科技研发、设计、处理工程施工。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

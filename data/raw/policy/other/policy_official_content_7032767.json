@@ -1,0 +1,73 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7032767",
+  "normalized_projection": {
+    "title": "海关总署公告2025年第148号（关于发布《2025年第八届中国国际进口博览会海关通关须知》和《海关支持2025年第八届中国国际进口博览会便利措施》的公告）",
+    "issuer": "海关总署",
+    "index_no": "未标注",
+    "subject_category": "商贸、海关、旅游\\海关",
+    "doc_no": "2025年第148号",
+    "publish_date": "2025-07-19",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7032767.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250719454337504524.docx",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250719454337637865.docx",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250719454337712960.doc",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250719454337812494.pdf"
+    ],
+    "keywords": [
+      "商贸",
+      "海关",
+      "旅游"
+    ],
+    "effective_date": "2025-07-16",
+    "abolish_date": "",
+    "summary": "为保障中国国际进口博览会“越办越好”，海关总署在总结前七届中国国际进口博览会通关便利化措施的基础上，制定了《2025年第八届中国国际进口博览会海关通关须知》和《海关支持2025年第八届中国国际进口博览会便利措施》，现予以公布。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7032767",
+    "title": "海关总署公告2025年第148号（关于发布《2025年第八届中国国际进口博览会海关通关须知》和《海关支持2025年第八届中国国际进口博览会便利措施》的公告）",
+    "content": "海关总署公告\n2025年第148号\n为保障中国国际进口博览会“越办越好”，海关总署在总结前七届中国国际进口博览会通关便利化措施的基础上，制定了《2025年第八届中国国际进口博览会海关通关须知》和《海关支持2025年第八届中国国际进口博览会便利措施》（详见附件1、2），现予以公布。\n特此公告。\n附件：\n1.2025年第八届中国国际进口博览会海关通关须知.docx\n2.海关支持2025年第八届中国国际进口博览会便利措施.docx\n海关总署\n2025年7月16日\n公告正文下载链接：\n海关总署关于发布《2025年第八届中国国际进口博览会海关通关须知》和《海关支持2025年第八届中国国际进口博览会便利措施》的公告.doc\n海关总署关于发布《2025年第八届中国国际进口博览会海关通关须知》和《海关支持2025年第八届中国国际进口博览会便利措施》的公告.pdf",
+    "source": "海关总署网站",
+    "publish_time": "2025-07-19",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7032767.htm",
+    "category": "商贸、海关、旅游\\海关",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "378"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7032767",
+    "title": "海关总署公告2025年第148号（关于发布《2025年第八届中国国际进口博览会海关通关须知》和《海关支持2025年第八届中国国际进口博览会便利措施》的公告）",
+    "source_name": "海关总署网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-07-19",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7032767.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202507/content_7032767.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "海关总署公告2025年第148号（关于发布《2025年第八届中国国际进口博览会海关通关须知》和《海关支持2025年第八届中国国际进口博览会便利措施》的公告）",
+      "发文机关": "海关总署",
+      "发文字号": "2025年第148号",
+      "来源": "海关总署网站",
+      "主题分类": "商贸、海关、旅游\\海关",
+      "公文种类": "公告",
+      "成文日期": "2025年07月16日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250719454337504524.docx",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250719454337637865.docx",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250719454337712960.doc",
+      "https://www.gov.cn/zhengce/zhengceku/202507/P020250719454337812494.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7032767.html"
+  },
+  "raw_legal_doc": {}
+}

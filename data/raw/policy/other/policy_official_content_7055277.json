@@ -1,0 +1,67 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7055277",
+  "normalized_projection": {
+    "title": "五部门印发《关于开展零碳工厂建设工作的指导意见》的通知",
+    "issuer": "工业和信息化部 国家发展改革委 生态环境部 国务院国资委 国家能源局",
+    "index_no": "未标注",
+    "subject_category": "工业、交通\\其他",
+    "doc_no": "工信部联节〔2026〕13号",
+    "publish_date": "2026-01-19",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7055277.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260119645494521007.pdf"
+    ],
+    "keywords": [
+      "工业",
+      "交通",
+      "其他"
+    ],
+    "effective_date": "2026-01-14",
+    "abolish_date": "",
+    "summary": "为坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻习近平生态文明思想，全面贯彻党的二十大和二十届历次全会精神，落实国务院办公厅《制造业绿色低碳发展行动方案（2025—2027年）》，深挖工业和信息化领域节能降碳潜力，带动重点行业领域减碳增效和绿色低碳转型，培育发展新质生产力，工业和信息化部、国家发展改革委、生态环境部、国务院国资委、国家能源局共同研究制定了《关于开展零碳工厂建设工作的指导意见》。现印发给你们，请结合实际，认真贯彻落实。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7055277",
+    "title": "五部门印发《关于开展零碳工厂建设工作的指导意见》的通知",
+    "content": "工业和信息化部 国家发展改革委 生态环境部 国务院国资委 国家能源局印发《关于开展零碳工厂建设工作的指导意见》的通知\n工信部联节〔2026〕13号\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化主管部门、发展改革委、生态环境主管部门、国资委、能源主管部门，有关中央企业：\n为坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻习近平生态文明思想，全面贯彻党的二十大和二十届历次全会精神，落实国务院办公厅《制造业绿色低碳发展行动方案（2025—2027年）》，深挖工业和信息化领域节能降碳潜力，带动重点行业领域减碳增效和绿色低碳转型，培育发展新质生产力，工业和信息化部、国家发展改革委、生态环境部、国务院国资委、国家能源局共同研究制定了《关于开展零碳工厂建设工作的指导意见》。现印发给你们，请结合实际，认真贯彻落实。\n工业和信息化部\n国家发展改革委\n生态环境部\n国务院国资委\n国家能源局\n2026年1月14日\n附件：关于开展零碳工厂建设工作的指导意见",
+    "source": "工业和信息化部网站",
+    "publish_time": "2026-01-19",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7055277.htm",
+    "category": "工业、交通\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "433"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7055277",
+    "title": "五部门印发《关于开展零碳工厂建设工作的指导意见》的通知",
+    "source_name": "工业和信息化部网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-01-19",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7055277.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7055277.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "五部门印发《关于开展零碳工厂建设工作的指导意见》的通知",
+      "发文机关": "工业和信息化部 国家发展改革委 生态环境部 国务院国资委 国家能源局",
+      "发文字号": "工信部联节〔2026〕13号",
+      "来源": "工业和信息化部网站",
+      "主题分类": "工业、交通\\其他",
+      "公文种类": "通知",
+      "成文日期": "2026年01月14日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202601/P020260119645494521007.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7055277.html"
+  },
+  "raw_legal_doc": {}
+}

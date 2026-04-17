@@ -1,0 +1,68 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340100796447165U",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340100796447165U",
+    "enterprise_name": "安徽兴宏建筑有限公司",
+    "legal_representative": "胡斌斌",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "4/1/2007 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "50000000",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥市瑶海区站西路1号君临大厦2107室",
+    "business_scope": "园林绿化工程施工、设计与养护；园林景观设计；房屋建筑工程施工；市政公用工程施工；公路工程；桥梁工程；隧道工程；交通安全设施工程；钢结构工程；水利工程；建筑装饰装修工程设计与施工；建筑幕墙设计与施工、建筑智能化设计与施工；消防设施工程设计与施工；建筑防水工程；环保、节能、与防腐工程；体育场地设施工程；地基工程；机电及电气设备安装工程；通风空调管道设备安装；城市及道路照明工程；安全技术防范工程设计与施工；广告设计、制作与安装；门窗安装；不锈钢门窗安装与设计、扶栏安装，窗帘设计与安装；园林古建筑工程；雕塑、浮雕设计与施工；轻质隔墙安装与销售；结构补强工程；房屋修缮；建筑装饰材料销售与安装。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 1,
+    "selected_project_ids": [
+      "2023ACCGZ00284"
+    ],
+    "all_linked_project_ids": [
+      "2023ACCGZ00284"
+    ],
+    "roles": [
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "安徽兴宏建筑有限公司",
+    "business_status": "开业",
+    "legal_representative": "胡斌斌",
+    "registered_capital": "50000000",
+    "paid_in_capital": "11180000",
+    "establishment_date": "4/1/2007 00:00:00",
+    "approval_date": "18/9/2021 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "瑶海区",
+    "phone": "0551-64239202",
+    "additional_phones": "13866689092,18355118339,15212774822,0551-62843460,15855054440",
+    "email": "943487940@qq.com",
+    "additional_emails": "2847285744@qq.com,1449859032@qq.com,www943487940@qq.com,www.943487940@qq.com",
+    "unified_social_credit_code": "91340100796447165U",
+    "taxpayer_identification_number": "91340100796447165U",
+    "business_registration_number": "340100000208432",
+    "organization_code": "79644716-5",
+    "insured_personnel_count": "29",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "土木工程建筑业",
+    "former_name": "安徽兴宏建筑装饰工程有限公司",
+    "registered_address": "安徽省合肥市瑶海区站西路1号君临大厦2107室",
+    "latest_annual_report_address": "安徽省合肥市瑶海区君临大厦2017",
+    "website": "-",
+    "business_scope": "园林绿化工程施工、设计与养护；园林景观设计；房屋建筑工程施工；市政公用工程施工；公路工程；桥梁工程；隧道工程；交通安全设施工程；钢结构工程；水利工程；建筑装饰装修工程设计与施工；建筑幕墙设计与施工、建筑智能化设计与施工；消防设施工程设计与施工；建筑防水工程；环保、节能、与防腐工程；体育场地设施工程；地基工程；机电及电气设备安装工程；通风空调管道设备安装；城市及道路照明工程；安全技术防范工程设计与施工；广告设计、制作与安装；门窗安装；不锈钢门窗安装与设计、扶栏安装，窗帘设计与安装；园林古建筑工程；雕塑、浮雕设计与施工；轻质隔墙安装与销售；结构补强工程；房屋修缮；建筑装饰材料销售与安装。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

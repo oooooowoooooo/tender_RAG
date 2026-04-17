@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7053152",
+  "normalized_projection": {
+    "title": "国务院办公厅关于同意《长株潭生态绿心加快绿色转型发展实施方案》的函",
+    "issuer": "国务院办公厅",
+    "index_no": "000014349/2025-00100",
+    "subject_category": "国土资源、能源\\其他",
+    "doc_no": "国办函〔2025〕124号",
+    "publish_date": "2025-12-30",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053152.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "国土资源",
+      "能源",
+      "其他"
+    ],
+    "effective_date": "2025-12-26",
+    "abolish_date": "",
+    "summary": "国务院原则同意《长株潭生态绿心加快绿色转型发展实施方案》，请认真组织实施。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7053152",
+    "title": "国务院办公厅关于同意《长株潭生态绿心加快绿色转型发展实施方案》的函",
+    "content": "国务院办公厅关于同意《长株潭生态绿心\n加快绿色转型发展实施方案》的函\n国办函〔2025〕124号\n\n湖南省人民政府、国家发展改革委：\n你们关于《长株潭生态绿心加快绿色转型发展实施方案》的请示收悉。经国务院批准，现函复如下：\n一、国务院原则同意《长株潭生态绿心加快绿色转型发展实施方案》（以下简称《方案》），请认真组织实施。\n二、《方案》实施要以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，完整准确全面贯彻新发展理念，加快构建新发展格局，着力推动高质量发展，坚持生态优先、绿色筑底，有序发展、创新提质，一体联动、区域融合，深化改革、制度创新，严守国土空间规划底线管控要求，建设高度城市化地区的生态安全屏障、因地制宜发展新质生产力的研发创新基地、城乡融合宜居宜游的美丽幸福花园，推动长株潭生态绿心加快绿色转型发展。\n三、湖南省人民政府要切实承担主体责任，加强对长株潭生态绿心加快绿色转型发展的组织领导，细化政策措施，压实工作责任，确保《方案》各项任务落实落地，高标准、高质量推进长株潭生态绿心保护发展。\n四、国家发展改革委要牵头加强统筹协调，会同国务院有关部门按照职责分工抓好任务落实，根据国家有关规定，加大对长株潭生态绿心加快绿色转型发展的指导支持力度，跟踪调度《方案》实施进展情况，帮助地方协调解决遇到的困难和问题，注意总结提炼好的经验做法。重大事项及时按程序请示报告。\n国务院办公厅       \n2025年12月26日      \n（此件公开发布）",
+    "source": "中国政府网-国务院文件",
+    "publish_time": "2025-12-30",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053152.htm",
+    "category": "国土资源、能源\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_gwywj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "644"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7053152",
+    "title": "国务院办公厅关于同意《长株潭生态绿心加快绿色转型发展实施方案》的函",
+    "source_name": "中国政府网-国务院文件",
+    "source_type": "gov_cn_gwywj",
+    "region_level": "national",
+    "publish_date": "2025-12-30",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053152.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202512/content_7053152.htm",
+    "source_feed": "gov_cn_gwywj",
+    "metadata_pairs": {
+      "索引号": "000014349/2025-00100",
+      "主题分类": "国土资源、能源\\其他",
+      "发文机关": "国务院办公厅",
+      "成文日期": "2025年12月26日",
+      "标题": "国务院办公厅关于同意《长株潭生态绿心加快绿色转型发展实施方案》的函",
+      "发文字号": "国办函〔2025〕124号",
+      "发布日期": "2025年12月30日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7053152.html"
+  },
+  "raw_legal_doc": {}
+}

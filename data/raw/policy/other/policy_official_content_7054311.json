@@ -1,0 +1,64 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7054311",
+  "normalized_projection": {
+    "title": "国家医保局 财政部关于做好职工基本医疗保险个人账户跨省共济工作的通知",
+    "issuer": "国家医保局 财政部",
+    "index_no": "未标注",
+    "subject_category": "劳动、人事、监察\\社会保障",
+    "doc_no": "医保发〔2025〕35号",
+    "publish_date": "2026-01-09",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054311.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "劳动",
+      "人事",
+      "监察",
+      "社会保障"
+    ],
+    "effective_date": "2025-12-24",
+    "abolish_date": "",
+    "summary": "文件下载链接：国家医疗保障局 财政部关于做好职工基本医疗保险个人账户跨省共济工作的通知"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7054311",
+    "title": "国家医保局 财政部关于做好职工基本医疗保险个人账户跨省共济工作的通知",
+    "content": "文件下载链接：国家医疗保障局 财政部关于做好职工基本医疗保险个人账户跨省共济工作的通知",
+    "source": "国家医保局网站",
+    "publish_time": "2026-01-09",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054311.htm",
+    "category": "劳动、人事、监察\\社会保障",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "43"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7054311",
+    "title": "国家医保局 财政部关于做好职工基本医疗保险个人账户跨省共济工作的通知",
+    "source_name": "国家医保局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2026-01-09",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054311.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202601/content_7054311.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "国家医保局 财政部关于做好职工基本医疗保险个人账户跨省共济工作的通知",
+      "发文机关": "国家医保局 财政部",
+      "发文字号": "医保发〔2025〕35号",
+      "来源": "国家医保局网站",
+      "主题分类": "劳动、人事、监察\\社会保障",
+      "公文种类": "通知",
+      "成文日期": "2025年12月24日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7054311.html"
+  },
+  "raw_legal_doc": {}
+}

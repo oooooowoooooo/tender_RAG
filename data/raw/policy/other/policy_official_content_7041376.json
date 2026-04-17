@@ -1,0 +1,63 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7041376",
+  "normalized_projection": {
+    "title": "关于发布核安全导则《核动力厂构筑物、系统和部件的安全分级》的通知",
+    "issuer": "国家核安全局",
+    "index_no": "未标注",
+    "subject_category": "国土资源、能源\\其他",
+    "doc_no": "国核安发〔2025〕153号",
+    "publish_date": "2025-09-19",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7041376.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "国土资源",
+      "能源",
+      "其他"
+    ],
+    "effective_date": "2025-09-18",
+    "abolish_date": "",
+    "summary": "为进一步完善我国核与辐射安全法规体系，指导核动力厂安全重要的构筑物、系统和部件的安全功能和安全等级划分，我局组织制定了核安全导则《核动力厂构筑物、系统和部件的安全分级》（HAD102/03-2025），现予公布，自公布之日起实施。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7041376",
+    "title": "关于发布核安全导则《核动力厂构筑物、系统和部件的安全分级》的通知",
+    "content": "关于发布核安全导则《核动力厂构筑物、系统和部件的安全分级》的通知\n国核安发〔2025〕153号\n为进一步完善我国核与辐射安全法规体系，指导核动力厂安全重要的构筑物、系统和部件的安全功能和安全等级划分，我局组织制定了核安全导则《核动力厂构筑物、系统和部件的安全分级》（HAD102/03-2025），现予公布，自公布之日起实施。\n自实施之日起，《用于沸水堆、压水堆和压力管式反应堆的安全功能和部件分级》（HAD102/03-1986）废止。\n国家核安全局\n2025年9月18日\n（此件社会公开）",
+    "source": "国家核安全局网站",
+    "publish_time": "2025-09-19",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7041376.htm",
+    "category": "国土资源、能源\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "246"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7041376",
+    "title": "关于发布核安全导则《核动力厂构筑物、系统和部件的安全分级》的通知",
+    "source_name": "国家核安全局网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-09-19",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7041376.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202509/content_7041376.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于发布核安全导则《核动力厂构筑物、系统和部件的安全分级》的通知",
+      "发文机关": "国家核安全局",
+      "发文字号": "国核安发〔2025〕153号",
+      "来源": "国家核安全局网站",
+      "主题分类": "国土资源、能源\\其他",
+      "公文种类": "通知",
+      "成文日期": "2025年09月18日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7041376.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,69 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "123401215704353213",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "123401215704353213",
+    "enterprise_name": "长丰县重点工程建设管理中心",
+    "legal_representative": "宋庆",
+    "entity_type": "事业单位营业",
+    "established_date": "1/1/1970 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "330000",
+    "business_status": "开业",
+    "registered_address": "长丰县水湖镇南一环",
+    "business_scope": "负责全县财政性投资工程项目的建设、监督和管理。",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 0,
+    "all_tender_frequency": 63,
+    "selected_project_ids": [],
+    "all_linked_project_ids": [
+      "2023ACCFN00072",
+      "2023ACCFZ00386",
+      "2023ACCGZ00247",
+      "2023ACCZN00293"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "长丰县重点工程建设管理中心",
+    "business_status": "开业",
+    "legal_representative": "宋庆",
+    "registered_capital": "330000",
+    "paid_in_capital": "0",
+    "establishment_date": "1/1/1970 00:00:00",
+    "approval_date": "1/1/1970 00:00:00",
+    "business_term": "2022-07-22 至 2027-07-22",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "长丰县",
+    "phone": "18355102923",
+    "additional_phones": "0551-6398226,0551-66398131,0551-66671805,0551-66392937,0551-66398266",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "123401215704353213",
+    "taxpayer_identification_number": "123401215704353213",
+    "business_registration_number": "长编201233号",
+    "organization_code": "57043532-1",
+    "insured_personnel_count": "-",
+    "company_type": "事业单位营业",
+    "industry": "-",
+    "former_name": "-",
+    "registered_address": "长丰县水湖镇南一环",
+    "latest_annual_report_address": "-",
+    "website": "-",
+    "business_scope": "负责全县财政性投资工程项目的建设、监督和管理。",
+    "match_status": "成功"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91330106727595797C",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91330106727595797C",
+    "enterprise_name": "浙江求是工程咨询监理有限公司",
+    "legal_representative": "晏珏",
+    "entity_type": "有限责任公司(自然人投资或控股)",
+    "established_date": "25/9/1997 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "20080000",
+    "business_status": "开业",
+    "registered_address": "浙江省杭州市余杭区良渚街道平高创业城5幢1630室",
+    "business_scope": "服务：全过程工程咨询、项目代建、项目管理、建设工程监理、人民防空工程监理、工程招标代理、政府采购代理、工程造价咨询、工程咨询服务、BIM咨询及相关管理服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 24,
+    "selected_project_ids": [
+      "2023ANNFZ00483"
+    ],
+    "all_linked_project_ids": [
+      "2023ANNBZ00457",
+      "2023ANNFZ00483"
+    ],
+    "roles": [
+      "agency",
+      "winner_or_supplier"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "浙江求是工程咨询监理有限公司",
+    "business_status": "开业",
+    "legal_representative": "晏珏",
+    "registered_capital": "20080000",
+    "paid_in_capital": "20080000",
+    "establishment_date": "25/9/1997 00:00:00",
+    "approval_date": "7/5/2024 00:00:00",
+    "business_term": "-",
+    "province": "浙江省",
+    "city": "杭州市",
+    "district": "余杭区",
+    "phone": "18963797661",
+    "additional_phones": "0575-88036689,15700006261,0574-89294320,0556-4967880,0574-63224105",
+    "email": "-",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91330106727595797C",
+    "taxpayer_identification_number": "91330106727595797C",
+    "business_registration_number": "330825000003432",
+    "organization_code": "72759579-7",
+    "insured_personnel_count": "1022",
+    "company_type": "有限责任公司(自然人投资或控股)",
+    "industry": "专业技术服务业",
+    "former_name": "衢州市求是工程建设监理有限公司",
+    "registered_address": "浙江省杭州市余杭区良渚街道平高创业城5幢1630室",
+    "latest_annual_report_address": "浙江省杭州市西湖区蒋村街道西溪世纪中心3号楼13层",
+    "website": "www.zjqiushi.cn",
+    "business_scope": "服务：全过程工程咨询、项目代建、项目管理、建设工程监理、人民防空工程监理、工程招标代理、政府采购代理、工程造价咨询、工程咨询服务、BIM咨询及相关管理服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

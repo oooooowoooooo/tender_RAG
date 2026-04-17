@@ -1,0 +1,66 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7013125",
+  "normalized_projection": {
+    "title": "关于印发紧密型县域医共体信息化功能指引的通知",
+    "issuer": "国家卫生健康委办公厅 国家中医药局综合司 国家疾控局综合司",
+    "index_no": "未标注",
+    "subject_category": "卫生、体育\\卫生",
+    "doc_no": "国卫办规划函〔2025〕63号",
+    "publish_date": "2025-03-12",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7013125.htm",
+    "attachment_paths": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250312438612907072.pdf"
+    ],
+    "keywords": [
+      "卫生",
+      "体育"
+    ],
+    "effective_date": "2025-02-20",
+    "abolish_date": "",
+    "summary": "国家卫生健康委、国家中医药局、国家疾控局研究制定了《紧密型县域医共体信息化功能指引》，现印发给你们，请参照执行，积极推进紧密型县域医共体信息化的标准化、规范化建设。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7013125",
+    "title": "关于印发紧密型县域医共体信息化功能指引的通知",
+    "content": "关于印发紧密型县域医共体信息化功能指引的通知\n国卫办规划函〔2025〕63号\n各省、自治区、直辖市及新疆生产建设兵团卫生健康委、中医药局、疾控局，委（局）机关各司局：\n为贯彻落实国务院办公厅《关于推进医疗联合体建设和发展的指导意见》（国办发〔2017〕32号）、国家卫生健康委等10部门印发的《关于全面推进紧密型县域医疗卫生共同体建设的指导意见》（国卫基层发〔2023〕41号）等文件精神，国家卫生健康委、国家中医药局、国家疾控局研究制定了《紧密型县域医共体信息化功能指引》，现印发给你们，请参照执行，积极推进紧密型县域医共体信息化的标准化、规范化建设。\n附件：紧密型县域医共体信息化功能指引.pdf\n国家卫生健康委办公厅 国家中医药局综合司\n国家疾控局综合司\n2025年2月20日\n（信息公开形式：主动公开）",
+    "source": "国家卫生健康委网站",
+    "publish_time": "2025-03-12",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7013125.htm",
+    "category": "卫生、体育\\卫生",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_bmwj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "355"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7013125",
+    "title": "关于印发紧密型县域医共体信息化功能指引的通知",
+    "source_name": "国家卫生健康委网站",
+    "source_type": "gov_cn_bmwj",
+    "region_level": "national",
+    "publish_date": "2025-03-12",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7013125.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202503/content_7013125.htm",
+    "source_feed": "gov_cn_bmwj",
+    "metadata_pairs": {
+      "标题": "关于印发紧密型县域医共体信息化功能指引的通知",
+      "发文机关": "国家卫生健康委办公厅 国家中医药局综合司 国家疾控局综合司",
+      "发文字号": "国卫办规划函〔2025〕63号",
+      "来源": "国家卫生健康委网站",
+      "主题分类": "卫生、体育\\卫生",
+      "公文种类": "通知",
+      "成文日期": "2025年02月20日"
+    },
+    "attachment_urls": [
+      "https://www.gov.cn/zhengce/zhengceku/202503/P020250312438612907072.pdf"
+    ],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7013125.html"
+  },
+  "raw_legal_doc": {}
+}

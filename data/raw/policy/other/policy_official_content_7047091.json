@@ -1,0 +1,62 @@
+{
+  "dataset": "policy",
+  "count_unit": "document",
+  "doc_id": "policy_official_content_7047091",
+  "normalized_projection": {
+    "title": "国务院办公厅关于2026年部分节假日安排的通知",
+    "issuer": "国务院办公厅",
+    "index_no": "000014349/2025-00087",
+    "subject_category": "综合政务\\其他",
+    "doc_no": "国办发明电〔2025〕7号",
+    "publish_date": "2025-11-04",
+    "validity_status": "未标注",
+    "policy_level": "national",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm",
+    "attachment_paths": [],
+    "keywords": [
+      "综合政务",
+      "其他"
+    ],
+    "effective_date": "2025-11-04",
+    "abolish_date": "",
+    "summary": "经国务院批准，现将2026年元旦、春节、清明节、劳动节、端午节、中秋节和国庆节放假调休日期的具体安排通知如下。"
+  },
+  "raw_doc": {
+    "id": "policy_official_content_7047091",
+    "title": "国务院办公厅关于2026年部分节假日安排的通知",
+    "content": "国务院办公厅关于2026年\n部分节假日安排的通知\n国办发明电〔2025〕7号\n\n各省、自治区、直辖市人民政府，国务院各部委、各直属机构：\n经国务院批准，现将2026年元旦、春节、清明节、劳动节、端午节、中秋节和国庆节放假调休日期的具体安排通知如下。\n一、元旦：1月1日（周四）至3日（周六）放假调休，共3天。1月4日（周日）上班。\n二、春节：2月15日（农历腊月二十八、周日）至23日（农历正月初七、周一）放假调休，共9天。2月14日（周六）、2月28日（周六）上班。\n三、清明节：4月4日（周六）至6日（周一）放假，共3天。\n四、劳动节：5月1日（周五）至5日（周二）放假调休，共5天。5月9日（周六）上班。\n五、端午节：6月19日（周五）至21日（周日）放假，共3天。\n六、中秋节：9月25日（周五）至27日（周日）放假，共3天。\n七、国庆节：10月1日（周四）至7日（周三）放假调休，共7天。9月20日（周日）、10月10日（周六）上班。\n鼓励单位和个人结合落实带薪年休假等制度，实际形成较长假期，推动错峰出行。节假日期间，各地区、各部门要妥善安排好值班和安全、保卫、疫情防控等工作，遇有重大突发事件，要按规定及时报告并妥善处置，确保人民群众祥和平安度过节日假期。\n国务院办公厅       \n2025年11月4日",
+    "source": "中国政府网-国务院文件",
+    "publish_time": "2025-11-04",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm",
+    "category": "综合政务\\其他",
+    "project_type": "",
+    "region": "national",
+    "region_level": "national",
+    "source_type": "gov_cn_gwywj",
+    "corpus_tag": "official_policy_html",
+    "word_count": "560"
+  },
+  "raw_meta": {
+    "id": "policy_official_content_7047091",
+    "title": "国务院办公厅关于2026年部分节假日安排的通知",
+    "source_name": "中国政府网-国务院文件",
+    "source_type": "gov_cn_gwywj",
+    "region_level": "national",
+    "publish_date": "2025-11-04",
+    "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm",
+    "document_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm",
+    "source_feed": "gov_cn_gwywj",
+    "metadata_pairs": {
+      "索引号": "000014349/2025-00087",
+      "主题分类": "综合政务\\其他",
+      "发文机关": "国务院办公厅",
+      "成文日期": "2025年11月04日",
+      "标题": "国务院办公厅关于2026年部分节假日安排的通知",
+      "发文字号": "国办发明电〔2025〕7号",
+      "发布日期": "2025年11月04日"
+    },
+    "attachment_urls": [],
+    "html_local_path": "data/raw/policy/html/policy_official_content_7047091.html"
+  },
+  "raw_legal_doc": {}
+}

@@ -1,0 +1,70 @@
+{
+  "dataset": "enterprise",
+  "count_unit": "entity",
+  "entity_key": "91340103MA2UPG6M6X",
+  "selection_source": "local_exact_match",
+  "normalized_projection": {
+    "unified_social_credit_code": "91340103MA2UPG6M6X",
+    "enterprise_name": "合肥新桥国际机场有限公司",
+    "legal_representative": "束红波",
+    "entity_type": "有限责任公司(国有控股)",
+    "established_date": "27/4/2020 00:00:00",
+    "registration_authority": "",
+    "registered_capital": "9538647200",
+    "business_status": "开业",
+    "registered_address": "安徽省合肥新桥国际机场",
+    "business_scope": "机场经营管理，航空业务保障，航空信息咨询及航空运输业务延伸服务，停车服务，物业管理，仓储服务（不含危险化学品），保洁服务，饮食及食品加工，园林绿化，日用百货、日用杂品、针纺织品、服装、五金交电、装饰材料、旅游工艺品、干鲜果品、酒类销售，设计、制作、发布各类广告业务，住宿、餐饮服务，入境旅游业务，国内旅游业务，出境旅游业务，保险业务代理业务（意外伤害保险），电子商务，网上贸易代理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "source_url": "",
+    "administrative_licenses": [],
+    "administrative_penalties": [],
+    "annual_reports": [],
+    "spot_checks": [],
+    "abnormal_operations": [],
+    "serious_illegal_list": []
+  },
+  "tender_linkage": {
+    "selected_project_frequency": 1,
+    "all_tender_frequency": 13,
+    "selected_project_ids": [
+      "2023DFFBZ02780"
+    ],
+    "all_linked_project_ids": [
+      "2023DFFBZ02780",
+      "2023DFFGZ02348",
+      "2023DFWBZ02224"
+    ],
+    "roles": [
+      "purchaser"
+    ]
+  },
+  "raw_profile": {
+    "company_name": "合肥新桥国际机场有限公司",
+    "business_status": "开业",
+    "legal_representative": "束红波",
+    "registered_capital": "9538647200",
+    "paid_in_capital": "5818490000",
+    "establishment_date": "27/4/2020 00:00:00",
+    "approval_date": "1/7/2022 00:00:00",
+    "business_term": "-",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "庐阳区",
+    "phone": "0551-63777569",
+    "additional_phones": "0551-63777338,0551-63777913,13855171171,0551-63777954,15395191265",
+    "email": "caacwj@126.com",
+    "additional_emails": "-",
+    "unified_social_credit_code": "91340103MA2UPG6M6X",
+    "taxpayer_identification_number": "91340103MA2UPG6M6X",
+    "business_registration_number": "340113000011283",
+    "organization_code": "MA2UPG6M-6",
+    "insured_personnel_count": "1397",
+    "company_type": "有限责任公司(国有控股)",
+    "industry": "航空运输业",
+    "former_name": "-",
+    "registered_address": "安徽省合肥新桥国际机场",
+    "latest_annual_report_address": "安徽省合肥市新桥国际机场",
+    "website": "-",
+    "business_scope": "机场经营管理，航空业务保障，航空信息咨询及航空运输业务延伸服务，停车服务，物业管理，仓储服务（不含危险化学品），保洁服务，饮食及食品加工，园林绿化，日用百货、日用杂品、针纺织品、服装、五金交电、装饰材料、旅游工艺品、干鲜果品、酒类销售，设计、制作、发布各类广告业务，住宿、餐饮服务，入境旅游业务，国内旅游业务，出境旅游业务，保险业务代理业务（意外伤害保险），电子商务，网上贸易代理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "match_status": "成功"
+  }
+}

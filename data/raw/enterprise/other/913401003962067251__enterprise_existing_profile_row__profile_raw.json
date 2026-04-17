@@ -1,0 +1,30 @@
+{
+  "dataset": "enterprise",
+  "entity_id": "913401003962067251",
+  "source_id": "enterprise_existing_profile_row",
+  "record_role": "raw_original",
+  "title": "安徽艾利尔医疗科技有限公司",
+  "raw_profile": {
+    "record_id": "2128",
+    "title": "安徽艾利尔医疗科技有限公司",
+    "corporation": "沈玉龙",
+    "amount_raw": "2088万人民币",
+    "event_time": "2014-07-03",
+    "manage_date": "2014-07-03 至 无固定期限",
+    "status": "存续",
+    "province": "安徽省",
+    "city": "合肥市",
+    "district": "蜀山区",
+    "type": "有限责任公司(自然人投资或控股)",
+    "industry": "批发业",
+    "USCC": "913401003962067251",
+    "TIN": "913401003962067251",
+    "registed_num": "340100001028861",
+    "insured_persons": "30",
+    "location": "合肥市蜀山区经济开发区湖光路自主创新产业基地三期（南区）C座9层906",
+    "source_url": "-",
+    "content": "医疗产品研发；中医诊断、治疗仪器设备、临床检验分析仪器、医用化验和基础设备器具租赁；医疗器械销售、维修及技术咨询服务；计算机软硬件、日用百货、办公用品的销售；生物制品（限体外诊断试剂）批发；消毒用品、一次性卫生用品的研发及销售；工业设计服务；会议会展服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "search_text": "",
+    "capital_value": "20880000"
+  }
+}
